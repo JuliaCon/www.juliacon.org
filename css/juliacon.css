@@ -368,7 +368,7 @@ Structural elements
   bottom: 0; }
   .middle-container .flag-container {
     top: auto;
-    bottom: -10%; }
+    bottom: -5%; }
   .middle-container .waving-flag {
     -webkit-transform: scaleX(-1);
     -moz-transform: scaleX(-1);
