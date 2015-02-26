@@ -508,6 +508,16 @@ Structural elements
   background: #ddd;
   display: block; }
 
+td {
+    padding-right: 10px;
+}
+
+td.time {
+    width: 100px;
+}
+
+/* table { table-layout: fixed; } */
+
 /*------------------------------------
 Grid
 -------------------------------------*/
