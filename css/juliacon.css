@@ -516,6 +516,15 @@ td.time {
     width: 100px;
 }
 
+.schedule table {
+    white-space: nowrap;
+    margin-bottom: 20px;
+}
+
+.schedule .track-title {
+  font-weight: bold;
+}
+
 /* table { table-layout: fixed; } */
 
 /*------------------------------------
