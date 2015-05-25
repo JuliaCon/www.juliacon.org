@@ -221,6 +221,14 @@ Global styles
 body {
   font: normal 1rem/1.5rem georgia, serif; }
 
+a {
+  color: #444;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
 /*------------------------------------
 Typography
 -------------------------------------*/
