@@ -297,6 +297,24 @@ p {
     -o-transform: translateY(2px);
     transform: translateY(2px); }
 
+.register-button {
+    display: block;
+    width: 20em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 10px solid #ddd;
+    box-shadow: none;
+}
+
+.register-button span {
+    font-size: 2em;
+    height: 2em;
+    line-height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /*------------------------------------
 Structural elements
 -------------------------------------*/
