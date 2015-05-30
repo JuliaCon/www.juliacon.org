@@ -12,7 +12,9 @@ title: Talks
     <p><h2>{{ member.Title }}</h2></p> 
     <p><em>{{ member.Name }}</em></p>
     <p>{{ member.Abstract | markdownify }}</p>
+    {% if member.Biography != nil %} 
     <p><b>Bio:</b> {{ member.Biography }}</p>
+    {% endif %}
   </div>
 {% endfor %}
 
@@ -22,7 +24,9 @@ title: Talks
     <p><h2>{{ member.Title }}</h2></p> 
     <p><em>{{ member.Name }}</em></p>
     <p>{{ member.Abstract | markdownify }}</p>
+    {% if member.Biography != nil %} 
     <p><b>Bio:</b> {{ member.Biography }}</p>
+    {% endif %}
   </div>
 {% endfor %}
 
