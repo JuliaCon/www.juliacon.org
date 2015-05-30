@@ -221,11 +221,6 @@ Global styles
 body {
   font: normal 1rem/1.5rem georgia, serif; }
 
-a {
-  color: #444;
-  text-decoration: none;
-}
-
 a:hover {
   text-decoration: underline;
 }
@@ -313,6 +308,10 @@ p {
     line-height: 100px;
     margin-left: auto;
     margin-right: auto;
+}
+
+.register-button a {
+  text-decoration: none;
 }
 
 /*------------------------------------
