@@ -1,2 +1,4 @@
 name: JuliaCoq
 pygments: true
+kramdown:
+  input: GFM
