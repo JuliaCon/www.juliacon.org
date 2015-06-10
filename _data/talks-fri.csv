@@ -13,6 +13,25 @@ I will present the following: a simple example on how Traits.jl works and can be
 Jacob Quinn,"Currently a technical consultant at Domo in Utah. Just graduated from Carnegie Mellon in Pittsburgh. Developing Julia for about 3 years now, and own/maintain the ODBC, SQLite, SuffixArrays, TimeZones, Dates, and Yelp packages, as well as the Sublime-IJulia package for Sublime Text. Also been involved in several significant projects involve Base Julia functionality.",What Happens When: From Parse-Time to Compile-Time,"Anyone who has poked around the Julia manual has come across a variety of terms and quick descriptions of what happens when code gets compiled. Quips of 'macro this', and 'staged function that', parse-time, compile-time, code lowering, type inference, aggressive specialization, and the list goes on.
 
 Finally, the entire process is all brought together and made sensible; fear the JIT no more."
+Douglas Bates,"U. of Wisconsin - Madison","Mixing it up: Adventures with statistical models and sparse matrices","
+Estimating the parameters in a 'mixed-effects' model (also called
+'variance components' or 'hierarchical' or 'multilevel') requires
+optimizing a log-likelihood.  Until recently it was not possible to
+fit models with multiple non-nested sources of variability such as
+'subject' and 'item' or longitudinal data on 'student', 'classroom',
+'school', 'district', etc.  The introduction of sparse matrix
+representations and some clever re-arrangement of terms in the
+log-likelihood made it possible to evaluate the log-likelihood by
+solving a large, sparse penalized least square problem.  But current
+implementations can still take days to optimize this criterion for
+complicated models fit to large data sets, because the sparse matrix
+methods can't take advantage of the special structure in the problem.
+Because Julia combines the flexibility of a high-level language with
+the capability of achieving high performance, it is possible to
+exploit these special structures, in many cases reducing the time to
+fit a model by one or two orders of magnitude.  User-defined types,
+multiple dispatch, in-place evaluation, and devectorization are key
+characteristics of Julia for this application."
 Jack Poulson,"Jack Poulson is the lead developer of Elemental, a distributed-memory library for direct linear algebra and optimization, and an Assistant Professor of Mathematics and Member of the Institute for Computational and Mathematical Engineering at Stanford University. He has contributed a native Julia multifrontal Cholesky (MultiFrontalCholesky.jl) and is a contributor to Elemental.jl, which will provide distributed-memory dense linear algebra, sparse-direct solvers, and Interior Point Methods to Julia.","Distributed-memory ""direct"" linear algebra and optimization","This talk will give a broad overview of recent algorithmic developments within the C++11/MPI library [Elemental](http://libelemental.org) and ongoing efforts to expose interfaces to external languages (i.e., C, Python, and Julia). In particular, the talk will discuss recent advancements in Elemental's distributed a priori regularized quasi-semidefinite sparse-direct solvers, their application to sparse Interior Point Methods and sparse generalized least squares problems, and progress towards interactive interfaces on large-scale machines."
 Zhang Xianyi,,Introduction to OpenBLAS and BLIS,"The BLAS (Basic Linear Algebra Subprograms) is a fundamental interface in scientific computing. In this talk, I will introduce the [OpenBLAS](http://www.openblas.net/) and [BLIS](https://github.com/flame/blis) projects. OpenBLAS is an optimized open source BLAS implementation based on GotoBLAS2, and the default BLAS library used in Julia. OpenBLAS supports modern Intel, AMD, and ARM processors. By hand-written or automatically generated (via the AUGEM) assembly kernels, we can achieve competitive performance with vendor BLAS libraries. 
 
