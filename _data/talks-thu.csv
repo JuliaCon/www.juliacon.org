@@ -60,7 +60,16 @@ Tony Kelman,"Helped get Julia 0.3 to pass its unit tests on Windows, and keep th
 
 Will specifically discuss and show examples of how to cross-compile common libraries, and how to use the openSUSE build service, the WinRPM.jl and BinDeps.jl Julia packages, and AppVeyor continuous integration testing."
 Isaiah Norton,"I wrote the Clang.jl package, used to generate Julia bindings for several large (C) libraries, and have contributed to a number of other packages. I am also an active contributor to base Julia.",Automatic ccall wrapper generation with Clang.jl,"Clang.jl is a Julia binding to the C interface to the Clang compiler (libclang), providing access to C, C++, and Objective-C parse trees and associated information. Clang.jl provides a framework for automatic generation of Julia bindings from library headers and has been used to build packages including VideoIO.jl, and Gtk.jl. I will give a brief overview of the wrapped libclang API, the wrapper-generation system, and a wrapper generation example for a new library."
-Iain Dunning,"I've been working with Julia for over two years, and have contributed mostly packages: JuliaOpt, Coverage.jl, FactCheck.jl, Humanize.jl, GraphLayout.jl, as well as countless patches to other packages and to Julia itself. My other main contribution is the development of pkg.julialang.org and the PackageEvaluator.jl package ecosystem testing service.","Julia's Package Ecosystem: Past, Present, and Future","A language can live or die depending on the strength of its package ecosystem. I'll present a brief history of how Julia's package ecosystem has grown over the past 3 years. I'll then describe the current situation, including the PackageEvaluator system and pkg.julialang.org. Finally I'll share some thoughts on future work in the area.
+Iain Dunning,"I've been working with Julia for over two years, and have contributed mostly packages: JuliaOpt, Coverage.jl, FactCheck.jl, Humanize.jl, GraphLayout.jl, as well as countless patches to other packages and to Julia itself. My other main contribution is the development of pkg.julialang.org and the PackageEvaluator.jl package ecosystem testing service.","Julia's Package Ecosystem: Past, Present, and Future","A language can live or die depending on the strength of its package ecosystem. I'll present a brief history of how Julia's package ecosystem has grown over the past 3 years. I'll then describe the current situation, including the PackageEvaluator system and pkg.julialang.org. Finally I'll share some thoughts on future work in the area."
+Sorami Hisamoto,"Sorami Hisamoto is yet another Julia enthusiast in Tokyo, Japan. He
+works as a data analyst, mainly in the marketing area. Prior to that
+he was doing researches in the field of Natural Language Processing.","What’s going on at JuliaTokyo?","JuliaTokyo is a community / meetup for Julia enthusiasts in Japan.
 
-(NB: could be extended into a regular talk slot depending on scheduling constraints, possibly with a conversational feel, i.e. 20 mins me, 15 minutes questions/discussion)."
+From basic tutorial to macros & parallel computing, Deep Learning to
+AI Japanese chess, and even an unofficial anime character, we are
+having a variety of activities at JuliaTokyo.
+
+In this presentation I would like to introduce how Julia is gaining
+its popularity in Japan, what we’ve been doing at JuliaTokyo, and how
+we want to interact with the rest of the world in the future."
 Leah Hanson,,Contributing to Julia, 
