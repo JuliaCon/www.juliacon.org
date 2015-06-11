@@ -84,6 +84,21 @@ Avik Sengupta,"Avik Sengupta has built risk and trading systems in Java for inve
 Tanmay Mohapatra,https://www.linkedin.com/in/tanmaykm,ProtoBuf.jl - Interfacing Julia with Complex systems using Protocol Buffers,"Protocol buffers are a language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols, data storage, and more. 
 
 ProtoBuf.jl is a Julia implementation for protocol buffers which makes it possible for Julia applications communicate with other applications in a distributed, heterogeneous environment. For example, the Elly.jl package uses ProtoBuf extensively to integrate with HDFS and Yarn. However the use cases are many more."
+Bob Carpenter,"Bob Carpenter is a research scientist in computational statistics
+(Columbia University).  He designed the Stan probabilistic programming
+language and is one of the Stan core developers.
+
+Bob has a Ph.D. in cognitive and computer science (University of
+Edinburgh), worked as a professor of computational linguistics
+(Carnegie Mellon University), an industrial researcher and programmer
+in speech recognition and natural language processing (Bell Labs,
+SpeechWorks, LingPipe).  In addition to working on Stan, he's written
+two books on computational linguistics, many papers, and the widely
+used LingPipe natural language processing toolkit.","Stan.jl: Statistical Modeling and Inference Made Easy","Stan.jl is the Julia interface to Stan, an open-source, imperative
+probabilistic programming language.  Stan allows you to express a
+customized statistical model and conditioned on data, perform optimization
+for classical penalized maximum likelihood estimation or sampling for
+full Bayesian inference."
 Eric Davies,"Eric works in R&D at Invenia Technical Computing: a small, cutting-edge startup targeting inefficiencies in electrical grids. His interests lie in machine learning but his contributions to the Julia community have been database-related: Eric wrote and maintains PostgreSQL.jl and DBAPI.jl, and contributed to DBI.jl. ",Towards A Consistent Database Interface,This talk will compare and demonstrate the two proposed Julia database interfaces DBI.jl and DBAPI.jl and solicit feedback on the community's desired direction.
 Amit Murthy,,Cluster Managers and Parallel Julia,"This presentation will cover 
 - a short introduction to parallel julia internals
