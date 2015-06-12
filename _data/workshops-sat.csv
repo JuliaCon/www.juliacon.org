@@ -3,7 +3,7 @@ Name,Biography,Title,Abstract
 Madeleine Udell, a developer of Convex.jl, is a postdoctoral fellow at the Center for the Mathematics of Information at Caltech. She recently received a PhD in Computational and Mathematical Engineering at Stanford, and will be joining Cornell as an assistant professor in Operations Research and Information Engineering in 2016. All four are members of the JuliaOpt organization, which curates high quality optimization software in Julia.",Solving Optimization Problems with JuliaOpt,"Optimization provides a powerful framework for decision making: from path planning, to resource allocation, to data fitting, and everything in between. There are a variety of powerful open-source and commercial packages for solving structured mathematical optimization problems, but identifying the right framework for a given problem can be tricky. This workshop will introduce JuMP and Convex.jl, two modeling languages under the JuliaOpt organization that allow users to easily express linear, mixed-integer, conic, semidefinite, and nonlinear optimization problems in Julia. So easily, in fact, that the user may not even need to know what these problem types are. These models can then be solved using any package in the JuliaOpt ecosystem that supports the problem type. We will introduce basic syntax, provide an overview of the complementary capabilities of both JuMP and Convex.jl, and walk through a number of hands-on examples using Jupyter notebooks."
 Avik Sengupta,"Avik Sengupta has built risk and trading systems in Java for investment banks for over a decade. Three years ago he discovered Julia, and hasn't looked back since. He is a Julia contributor and the maintainer of a few Julia packages.
 
-",Julia and the World: How to Work with C / C++ / Java / Python / Ruby from Julia.,"From the very beginning, Julia has had first class support for calling native C code. On top of this functionality, language interop with other languages such as Python, Java and Ruby have been developed. 
+",Julia and the World: How to Work with C / C++ / Java / Python / Ruby from Julia.,"From the very beginning, Julia has had first class support for calling native C code. On top of this functionality, language interop with other languages such as Python, Java and Ruby have been developed.
 
 This workshop will offer a hands on tutorial on using external libraries written in C, C++, Java, Python and Ruby from within Julia
 
@@ -22,24 +22,14 @@ Randy will demonstrate an end-to-end example of a data analysis workflow, from d
 Jacob Quinn,"Currently a technical consultant at Domo in Utah. Just graduated from Carnegie Mellon in Pittsburgh. Developing Julia for about 3 years now, and own/maintain the ODBC, SQLite, SuffixArrays, TimeZones, Dates, and Yelp packages, as well as the Sublime-IJulia package for Sublime Text. Also been involved in several significant projects involve Base Julia functionality.","Managing Data in Julia: Old Tricks, New Tricks","Managing data in any language can be a hassle. Varying file formats, data layouts, character sets, compression techniques, not to mention the actual code for manipulating data.
 
 In this talk, some old standards (ODBC, SQLite) are revisited for their on-going usefulness and stability in managing data, while some new methods are also explored that leverage the power of Julia and novel user interfaces."
-Viral,https://in.linkedin.com/in/viralbshah,Parallel Computing with Julia,"This is a joint workshop with contributions from everyone at the Julia MIT group. I expect we will conduct it jointly, but just submitting something in case nobody else has.
+Viral,Viral is one of the co-creators of Julia. Please see the LinkedIn page for more details: https://in.linkedin.com/in/viralbshah,Parallel Computing with Julia,"This is a workshop conducted by the folks who have been working on various aspects of parallel computing in Julia - Andreas Noack Jensen, Amit Murthy, Tanmay Mohapatra, Jiahao Chen, Jake Bolewski, Alan Edelman.
 
-Topics for coverage:
-
-1. remotecall/fetch/spawn
-2. sync / async (not really parallel)
-3. DArrays
-4. pmap
-5. @parallel
-6. Parallel Linear Algebra (Elemental, ScaLapack)
-7. Hadoop
+This workshop will provide an overview of parallel computing in Julia. It will start with an introduction to using built-in [Julia primitives for parallel processing](http://julia.readthedocs.org/en/latest/manual/parallel-computing/), such as pmap, @parallel, remotecall, spawn, fetch, etc. Based on this low-level primitives, shared arrays and [distributed arrays](https://github.com/JuliaParallel/DistributedArrays.jl) have been built. Finally we will try some Parallel Linear Algebra using packages such as [ScaLapack](https://github.com/JuliaParallel/ScaLAPACK.jl) along with some [MPI](https://github.com/JuliaParallel/MPI.jl) programming. We will also look at the possibilities of data processing with data loaded from the [Hadoop file system (HDFS)](https://github.com/JuliaParallel/Elly.jl) and/or [S3](https://github.com/amitmurthy/AWS.jl). We will also preview the upcoming multi-threading capabilities in Julia. For some of the examples, the workshop will use additional compute resources through AWS or MIT.
 "
-Shashi,I make UI tools for Julia and JuliaBox users. I brought @manipulate to your IJulia notebooks. :),Making GUIs with Canvas.jl,"While in the talk I want to focus on the implementation details and value proposition of Canvas, I would love for a workshop to allow me to introduce Canvas's end-user API to Julians.
-
-In this workshop I plan to do a hands-on session where we build some cool apps, probably:
+Shashi,I make UI tools for Julia and JuliaBox users. I brought @manipulate to your IJulia notebooks. :),Making GUIs with Escher.jl,"In this workshop, I will introduce [Escher's](https://github.com/shashi/Escher.jl) end-user API to Julians. Participants will install Escher and build some cool web apps in a hands-on session. These will include:
 
 - a minesweeper clone
 - a pivot table accompanied by Gadfly plots
-- a simple IPython notebooks clone
-
-or something fun"
+- a simple Jupyter notebook clone
+- a recommendation system
+- anything you want to build"
