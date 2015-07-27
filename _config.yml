@@ -1,4 +1,4 @@
 name: JuliaCoq
-pygments: true
+highlighter: pygments
 kramdown:
   input: GFM
