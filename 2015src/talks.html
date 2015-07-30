@@ -1,0 +1,36 @@
+---
+layout: abstracts
+title: Talks
+---
+<div class="container">
+    See <a href="index.html#sched">main page</a> for schedule details.
+</div>
+
+<a name="thursday"><center><h1>Thursday</h1></center></a>
+{% for member in site.data.talks-thu %}
+  <div class="container abstract">
+    <p><h2>{{ member.Title }}</h2></p> 
+    <p><em>{{ member.Name }}</em></p>
+    <p>{{ member.Abstract | markdownify }}</p>
+    {% if member.Biography != nil %} 
+    <p><b>Bio:</b> {{ member.Biography }}</p>
+    {% endif %}
+  </div>
+{% endfor %}
+
+<a name="friday"><center><h1>Friday</h1></center></a>
+{% for member in site.data.talks-fri %}
+  <div class="container abstract">
+    <p><h2>{{ member.Title }}</h2></p> 
+    <p><em>{{ member.Name }}</em></p>
+    <p>{{ member.Abstract | markdownify }}</p>
+    {% if member.Biography != nil %} 
+    <p><b>Bio:</b> {{ member.Biography }}</p>
+    {% endif %}
+  </div>
+{% endfor %}
+
+<div class="container">
+  <a href="/index.html">Return to main page</a>.
+</div>
+

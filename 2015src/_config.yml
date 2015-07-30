@@ -1,0 +1,4 @@
+name: JuliaCoq
+highlighter: pygments
+kramdown:
+  input: GFM
