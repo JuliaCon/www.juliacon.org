@@ -266,7 +266,7 @@ p {
 
 .border-header {
   border-bottom: 1px solid #ddd;
-  margin-bottom: 3rem; }
+  margin-bottom: 4rem; }
   .border-header span {
     position: relative;
     top: 1rem;
@@ -315,7 +315,7 @@ Structural elements
 -------------------------------------*/
 .container {
   width: 40rem;
-  margin: 2rem auto 4rem; }
+  margin: 2rem auto 0rem; }
   @media only screen and (max-width: 42rem) {
     .container {
       width: 90%; } }
