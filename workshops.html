@@ -1,0 +1,119 @@
+---
+layout: default
+title: JuliaCon Workshops
+---
+
+<style>
+  .border-header a {
+    text-decoration: none;
+  }
+</style>
+
+<center><h1>Workshops</h1></center>
+
+<a name="tuesday">
+    l<h2 class="text-center border-header"><span>Tuesday, June 21</span></h2>
+</a>
+
+<div class="container abstract">
+  <h2>Invitation to Julia</h2>
+  <p><em>David P. Sanders</em></p>
+  <p>A 3-hour revised and updated version of my
+     <a href="http://juliacon.org/2015/workshops.html#wednesday">tutorial</a> from last year's JuliaCon,
+     with an emphasis on slightly more advanced topics that I didn't get to talk about then,
+     including defining types and metaprogramming.</p>
+</div>
+
+<div class="container abstract">
+  <h2>Introduction to Writing High Performance Julia</h2>
+  <p><em>Arch D. Robison</em></p>
+  <p>This workshop is an introduction to writing high performance code in Julia.
+     We'll start with a high level view of the hardware and Julia,
+     and how Julia semantics differ from languages such as C/C++/Fortran.
+     Next we'll cover how Julia compiles your program, from your source text down to the machine instructions.
+     The key is to make Julia's type-inference work for you instead of against you, and cater to the hardware.
+     We'll also look at "deals with the devil" annotations (<tt>@inbounds</tt>, <tt>@fastmath</tt>, <tt>@simd</tt>)
+     so that you understand the trade you make with those annotations.
+     Finally, we'll look the art of writing vectorizable code, which brings many of the topics together.
+     Overall, the goal is to understand what you need to do, and what to leave to the compiler, to get high preforming code.
+
+     Attendees are encouraged to bring a computer with Julia to try exercises that involve speeding up slow examples.</p>
+</div>
+
+<div class="container abstract">
+  <h2>Plots with Plots</h2>
+  <p><em>Tom Breloff</em></p>
+  <p>A hands-on workshop of how to hack visualizations with <tt>Plots.jl</tt> and the various backends it supports. </p>
+</div>
+
+<div class="container abstract">
+  <h2>Optimization in Julia using Optim.jl</h2>
+  <p><em>Patrick Kofod Mogensen</em></p>
+  <p>A new API for optimizing functions, and retrieving the optimization results has been added
+     to <tt>Optim.jl</tt> during the past year. I'll go over the general syntax of the package,
+     provide examples, and talk about what is not yet in <tt>Optim.jl</tt>.
+
+     The workshop will include problems to work on,
+     discussions of different methods, and really just a variety of
+     examples showcasing <tt>Optim.jl</tt> and its applications.</p>
+</div>
+
+<div class="container abstract">
+  <h2>Creating, Distributing, and Testing Julia Packages with Binary Dependencies</h2>
+  <p><em>Tony Kelman</em></p>
+  <p>I will cover the process and tools for creating Julia packages that wrap C (or Fortran) libraries.
+     Working through a small example I will cover how to initially get basic functionality working
+     interactively from the REPL, then structure the code as a Julia package.
+     We will begin working from a single development platform,
+     then proceed to show how to build, distribute, and leverage automated
+     testing tools to get the C library and wrapper Julia package working
+     across common Linux distributions, Mac OS X, and Windows.
+     Time permitting I might work through a Python-wrapper example,
+     and even Java if we want to get really ambitious.</p>
+</div>
+
+<div class="container abstract">
+  <h2>Parallel computing with Julia</h2>
+  <p><em>Viral Shah, Shashi Gowda, Andreas Noack, Ranjan Anantharaman</em></p>
+  <p>This workshop will give an overview of tools in Julia for dealing with large amounts of data.<p>
+  <p>Building Blocks for parallel computing in Julia:
+    <ul>
+      <li>RemoteChannels</li>
+      <li>Futures</li>
+      <li><tt>@parallel</tt> and <tt>pmap</tt></li>
+    </ul>
+  </p>
+  <p>Multi-Threading Julia:
+    <ul>
+      <li>What kinds of programs can benefit from Julia's multi-threading 
+    </ul>
+  </p>
+  <p>GPUs
+    <ul>
+      <li>Capabilities of Julia on GPUs</li>
+    </ul>
+  </p>
+  <p>MPI and Elemental
+    <ul>
+      <li><tt>MPI.jl</tt> overview</li>
+      <li><tt>Elemental.jl</tt> overview</li>
+      <li>Linear algebra with <tt>Elemental.jl</tt></li>
+      <li>Parallel SVD</li>
+    </ul>
+  </p>
+  <p>ComputeFramework - out of core parallel computations
+    <ul>
+      <li>Playing with random data</li>
+      <li>Saving data to disk</li>
+      <li>API overview</li>
+      <li>Some matrix and/or vector operations</li>
+      <li>Example application (logistic regression)</li>
+      <li>What works and what doesn't with limited RAM</li>
+      <li>Working at the lower level with Blobs</li>
+    </ul>
+  </p>
+</div>
+
+<hr>
+
+<a href="index.html">JuliaCon 2016 Home Page</a>
