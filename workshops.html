@@ -12,21 +12,102 @@ title: JuliaCon Workshops
 <center><h1>Workshops</h1></center>
 
 <a name="tuesday">
-    l<h2 class="text-center border-header"><span>Tuesday, June 21</span></h2>
+    <h2 class="text-center border-header"><span>Tuesday, June 21</span></h2>
 </a>
 
 <div class="container abstract">
-  <h2>Invitation to Julia</h2>
-  <p><em>David P. Sanders</em></p>
-  <p>A 3-hour revised and updated version of my
-     <a href="http://juliacon.org/2015/workshops.html#wednesday">tutorial</a> from last year's JuliaCon,
-     with an emphasis on slightly more advanced topics that I didn't get to talk about then,
-     including defining types and metaprogramming.</p>
+  <center>
+  <table>
+    <tr><td><a href="#invitation">Invitation to Intermediate-Level Julia</a></td></tr>
+    <tr><td><a href="#performance">Introduction to Writing High Performance Julia</a></td></tr>
+    <tr><td><a href="#plots">Plots with Plots</a></td></tr>
+    <tr><td><a href="#binary_dependencies">Creating, Distributing, and Testing Julia Packages with Binary Dependencies</a></td></tr>
+    <tr><td><a href="#parallel">Parallel computing with Julia</a></td></tr>
+  </table>
+  </center>
+  <br>
+</div>
+
+<hr>
+
+<div class="container abstract">
+  <a name="invitation"><h2>Invitation to Intermediate-Level Julia</h2></a>
+  <em>David P. Sanders</em> (
+     Department of Physics, <a href="http://www.fciencias.unam.mx">Faculty of Sciences</a>,
+     National Autonomous University of Mexico [UNAM] &amp; Julia group, MIT)
+  </p>
+  <p>This is a tutorial workshop on intermediate-level Julia, suitable for
+     anybody who has some programming experience and knows basic Julia syntax.
+  </p>
+  <p>
+     It follows on from the basic <em>Invitation to Julia</em> tutorial from JuliaCon 2015.
+     It is recommended that you browse through that material before attending this tutorial,
+     available at:
+  <table style="padding-left: 2em;"><tr><td><a href="https://www.youtube.com/watch?v=gQ1y5NUD_RI">https://www.youtube.com/watch?v=gQ1y5NUD_RI</a>       </td><td>(video)</td></tr>
+         <tr><td><a href="https://github.com/dpsanders/invitation_to_julia">https://github.com/dpsanders/invitation_to_julia</td><td>(IJulia notebooks)</td></tr>
+  </table>
+  </p>
+  <p>
+    We will cover material from the following topics:
+    <ul style="padding-left: 2em;">
+
+    <li><b>Composite types</b>
+      <p>
+        Composite types are the data part of "objects" in other languages.
+        Julia is not object-oriented in the traditional sense: methods live
+        <em>outside</em> objects, enabling one of the key features of Julia, multiple dispatch.
+
+        <ul style="padding-left: 2em;">
+          <li>Using built-in composite types</li>
+          <li>Build your own composite type</li>
+          <li>Parametrisation: a powerful tool</li>
+          <li>Conversion and promotion</li>
+          <li>Multiple dispatch and composability: examples</li>
+        </ul>
+      </p>
+    </li>
+    <li><b>Metaprogramming</b>
+      <p>
+        Metaprogramming is a powerful technique, and hence frightening and to be respected:
+        it allows you to write Julia code that creates other Julia code. We will build up some
+        examples to simplify this as much as possible.
+        <ul style="padding-left: 2em;">
+          <li>What is metaprogramming?</li>
+          <li>Simple example: generating a complicated function</li>
+          <li>What do macros do?</li>
+          <li>A full example</li>
+        </ul>
+      </p>
+    </li>
+    <li><b>Wrapping your code into a package</b>
+      <p>
+        Open source is about sharing your code.
+        Julia provides a simple way to make a package for your own use that you can easily share with other people to get feedback and contributors.
+        You can convert it into a registered package once it's really ready for distribution.
+        <ul style="padding-left: 2em;">
+          <li> Make your own package
+          <li>Registering your package (once it's really ready)
+        </ul>
+      </p>
+    </li>
+    </ul>
+  </p>
+
+  <p><b>Bio:</b> <A href="http://sistemas.fciencias.unam.mx/~dsanders/">David P. Sanders</a>
+    is an associate professor of computational physics in the Department of Physics,
+    Faculty of Sciences, National University of Mexico (UNAM),
+    and is on sabbatical in the Julia group at MIT during 2016.
+    David discovered Julia at the start of 2014 and now uses it exclusively in both
+    teaching and research. He is an author of the <tt>ValidatedNumerics.jl</tt> package for
+    rigorous numerics, and has given tutorials on Julia at SciPy 2014 and JuliaCon 2015
+    (see <A href="http://julialang.org/learning/">here</a>),
+    with collectively nearly 50,000 views on YouTube.
+  </p>
 </div>
 
 <div class="container abstract">
-  <h2>Introduction to Writing High Performance Julia</h2>
-  <p><em>Arch D. Robison</em></p>
+  <a name="performance"><h2>Introduction to Writing High Performance Julia</h2></a>
+  <p><em>Arch D. Robison</em>, Intel Corporation</p>
   <p>This workshop is an introduction to writing high performance code in Julia.
      We'll start with a high level view of the hardware and Julia,
      and how Julia semantics differ from languages such as C/C++/Fortran.
@@ -38,17 +119,32 @@ title: JuliaCon Workshops
      Overall, the goal is to understand what you need to do, and what to leave to the compiler, to get high preforming code.
 
      Attendees are encouraged to bring a computer with Julia to try exercises that involve speeding up slow examples.</p>
+  </p>
+  <p><b>Bio:</b> Arch D. Robison was the lead developer for KAI C++,
+    the original architect of Intel Threading Building Blocks,
+    and one of the authors of *Structured Parallel Programming: Patterns for Efficient Computation*.
+    He contributed type-based alias analysis and vectorization support to Julia.
+    Arch took 2nd place in Al Zimmerman’s "Delacorte Numbers" programming contest using Julia exclusively.
+    His Erdös number is 3.
+  </p>
 </div>
 
 <div class="container abstract">
-  <h2>Plots with Plots</h2>
+  <a name="plots"><h2>Plots with Plots</h2></a>
   <p><em>Tom Breloff</em></p>
   <p>A hands-on workshop of how to hack visualizations with <tt>Plots.jl</tt> and the various backends it supports. </p>
+
+  <p><b>Bio:</b> Tom Breloff has spent a decade in finance building and running algorithmic trading operations.
+    A self-proclaimed mad scientist, studying different subjects related to AGI (neuroscience, deep learning, etc),
+    he has a heavy background in high throughput systems and data visualization in finance.
+    Tom has a B.A. in Mathematics and B.S. in Economics from the Unversity of Rochester,
+    and a M.S. from NYU Courant Institute.
+  </p>
 </div>
 
 <div class="container abstract">
-  <h2>Creating, Distributing, and Testing Julia Packages with Binary Dependencies</h2>
-  <p><em>Tony Kelman</em></p>
+  <a name="binary_dependencies"><h2>Creating, Distributing, and Testing Julia Packages with Binary Dependencies</h2></a>
+  <p><em>Tony Kelman</em>, Julia Computing</p>
   <p>I will cover the process and tools for creating Julia packages that wrap C (or Fortran) libraries.
      Working through a small example I will cover how to initially get basic functionality working
      interactively from the REPL, then structure the code as a Julia package.
@@ -57,12 +153,20 @@ title: JuliaCon Workshops
      testing tools to get the C library and wrapper Julia package working
      across common Linux distributions, Mac OS X, and Windows.
      Time permitting I might work through a Python-wrapper example,
-     and even Java if we want to get really ambitious.</p>
+     and even Java if we want to get really ambitious.
+  </p>
+  <p><b>Bio:</b>
+    Tony Kelman recently completed a Ph.D. in Mechanical Engineering at Berkeley,
+    doing research in optimization based control.
+    He began contributing to open source in 2012 with build system improvements
+    to the COIN-OR set of optimization solver libraries.
+    He started using and contributing to Julia in early 2014, and joined Julia Computing in late 2015.
+  </p>
 </div>
 
 <div class="container abstract">
-  <h2>Parallel computing with Julia</h2>
-  <p><em>Viral Shah, Shashi Gowda, Andreas Noack, Ranjan Anantharaman</em></p>
+  <a name="parallel"><h2>Parallel Computing with Julia</h2></a>
+  <p><em>Viral Shah, Shashi Gowda, Andreas Noack, Ranjan Anantharaman, Amit Murthy</em></p>
   <p>This workshop will give an overview of tools in Julia for dealing with large amounts of data.<p>
   <p>Building Blocks for parallel computing in Julia:
     <ul style="padding-left: 2em;">
@@ -99,6 +203,9 @@ title: JuliaCon Workshops
       <li>What works and what doesn't with limited RAM</li>
       <li>Working at the lower level with Blobs</li>
     </ul>
+  </p>
+  <p><b>Bio:</b>
+  Prolific contributors to the Julia ecosystem.
   </p>
 </div>
 
