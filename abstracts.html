@@ -9,7 +9,9 @@ title: JuliaCon Talks
   }
 </style>
 
-<center><h1>Talks (Regular and Lightning)</h1></center>
+<div class="container">
+    <h2 class="text-center border-header"><span>Talks (Regular and Lightning)</span></h2>
+</div>
 
 <!-- DO NOT EDIT ENTRIES. EDIT .csv FILES and REGENERATE TABLE WITH gen.jl -->
 <div class="container abstrac">
@@ -79,7 +81,7 @@ I will make the case that Julia can provide an alternative to MATLAB, both when 
 <div class="container abstrac">
   <a name="DataTables"><h3>DataTables: Type-safe data containers</h3></a>
   <em>Andy Ferris</em> (Fugro Roames)
-  <p>Julia's dynamic-yet-statically-compilable type system is extremely powerful, but presents some challenges to creating generic storage containers, like tables of data where each column of the table might have different types. This package attempts to present a fully-typed `Table` container, where elements (rows, columns, cells, etc) can be extracted with their correct type annotation at zero additional run-time overhead. The resulting data can then be manipulated without any unboxing penalty, or the need to introduce unseemly function barriers, unlike existing approaches like the popular DataFrames.jl package. 
+  <p>Julia's dynamic-yet-statically-compilable type system is extremely powerful, but presents some challenges to creating generic storage containers, like tables of data where each column of the table might have different types. This package attempts to present a fully-typed `Table` container, where elements (rows, columns, cells, etc) can be extracted with their correct type annotation at zero additional run-time overhead. The resulting data can then be manipulated without any unboxing penalty, or the need to introduce unseemly function barriers, unlike existing approaches like the popular DataFrames.jl package.
 
 The main caveat of this approach is the extra layer of complexity for the compiler and programmer introduced by including this information in the type parameters of objects. This talk will explore how additional Julia 0.5 features such as pure functions will significantly simplify both the interface and the implementation of DataTables.</p>
 </div>
@@ -229,9 +231,9 @@ Possible subtopics include: type-inference, high-level optimizations, call devir
 <div class="container abstrac">
   <a name="QuantumDynamics"><h3>QuDynamics - Framework for solving Dynamical Quantum Equations.</h3></a>
   <em>Amit Jamadagni</em>
-  <p>QuDynamics is a Julia package which provides a framework for solving dynamical equations arising in Quantum Mechanics. The current version includes support for solving Schrodinger equations, Liouville von Neumann equations and Lindblad master equations with methods which have been integrated from various other Julia packages like ODE.jl, ExpmV.jl, Expokit.jl. The aim of the talk is to introduce QuDynamics with some examples, and focus on ongoing work to equip QuDynamics with additional features such as Monte-Carlo parallelization, addition of new solvers among many others. 
+  <p>QuDynamics is a Julia package which provides a framework for solving dynamical equations arising in Quantum Mechanics. The current version includes support for solving Schrodinger equations, Liouville von Neumann equations and Lindblad master equations with methods which have been integrated from various other Julia packages like ODE.jl, ExpmV.jl, Expokit.jl. The aim of the talk is to introduce QuDynamics with some examples, and focus on ongoing work to equip QuDynamics with additional features such as Monte-Carlo parallelization, addition of new solvers among many others.
 
-The repo is being maintained at 
+The repo is being maintained at
 
 https://github.com/JuliaQuantum/QuDynamics.jl.</p>
 </div>
@@ -272,7 +274,7 @@ In this talk I will present the Astrodynamics.jl library and explore how Julia�
   <p>This talk would discuss various statistical models that require to solve sparse least square problems. I'll explain why these models are useful in social sciences, why they are hard to solve, and how to solve them in Julia.
 
 I'll go through 2 examples:
-The first example is the class of linear regression models with high dimensional categorical variables. When there is a lot of groups, we simply cannot form the design matrix of all group dummies. I'll go though the best solution methods to solve these models, in term of speed, numerical stability, memory, &amp; standard errors. 
+The first example is the class of linear regression models with high dimensional categorical variables. When there is a lot of groups, we simply cannot form the design matrix of all group dummies. I'll go though the best solution methods to solve these models, in term of speed, numerical stability, memory, &amp; standard errors.
 The solution method is available in the package: https://github.com/matthieugomez/FixedEffectModels.jl
 The package is an order of magnitude faster than similar packages in R or Stata. (The package is also the first Julia package that allows to estimate models with instrumental variables)
 
@@ -404,7 +406,7 @@ The original motivation arose in digital hardware system modeling, but the conce
 <div class="container abstrac">
   <a name="DSGE"><h3>DSGE.jl – Using Julia for Economic Modeling at the Federal Reserve Bank of New York </h3></a>
   <em>Erica Moszkowski</em> (Federal Reserve Bank of New York)
-  <p>This talk will describe how researchers in the Federal Reserve Bank of New York’s DSGE Team use Julia for macroeconomic modeling.  In collaboration with the QuantEcon team, we ported our code for solving dynamic stochastic general equilibrium (DSGE) models to Julia, releasing the source code in the DSGE.jl package in December. DSGE models describe how economic agents behave, given some assumptions about the underlying environment, including fiscal and monetary policy regimes, price rigidities, credit frictions, and various economic shocks.  The FRBNY model is a relatively large model of the U.S. economy, has been used for research on the dynamics of inflation during the great recession, the effects of forward guidance, and much more. 
+  <p>This talk will describe how researchers in the Federal Reserve Bank of New York’s DSGE Team use Julia for macroeconomic modeling.  In collaboration with the QuantEcon team, we ported our code for solving dynamic stochastic general equilibrium (DSGE) models to Julia, releasing the source code in the DSGE.jl package in December. DSGE models describe how economic agents behave, given some assumptions about the underlying environment, including fiscal and monetary policy regimes, price rigidities, credit frictions, and various economic shocks.  The FRBNY model is a relatively large model of the U.S. economy, has been used for research on the dynamics of inflation during the great recession, the effects of forward guidance, and much more.
 
 The DSGE.jl package facilitates the solution and Bayesian estimation of DSGE models. We provide the FRBNY model as one example, but give details on how users can define completely different models.  In this talk, I will give a brief overview of the model and our experience porting the code from MATLAB to Julia (including perspective on using Julia in a "production" setting at a public policy institution). Finally, I will touch on the Julia features our team has found most useful for economic modeling</p>
 </div>
@@ -440,6 +442,4 @@ The DSGE.jl package facilitates the solution and Bayesian estimation of DSGE mod
 </div>
 
 <!-- OKAY TO EDIT PAST HERE -->
-<hr>
-
-<a href="index.html">JuliaCon 2016 Home Page</a>
+<div class="abstrac"><a href="index.html"><center>JuliaCon 2016 Home Page</center></a></div>

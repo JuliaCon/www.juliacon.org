@@ -499,6 +499,26 @@ Structural elements
     display: block;
 }
 
+.abstrac {
+    width: 40rem;
+    margin: 1rem auto 2rem;
+    border-top: 1px solid #ddd;
+    padding-top: 2rem;
+
+    @include breakpoint(narrow) {
+        width: 90%;
+    }
+}
+
+.workshop-toc-container {
+    width: 40rem;
+    margin: 2rem auto 2.5rem;
+
+    @include breakpoint(narrow) {
+        width: 90%;
+    }
+}
+
 /*------------------------------------
 Grid
 -------------------------------------*/
