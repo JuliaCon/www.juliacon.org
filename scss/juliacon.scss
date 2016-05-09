@@ -300,7 +300,7 @@ Structural elements
 
 .container {
     width: 40rem;
-    margin: 2rem auto 4rem;
+    margin: 1rem auto 1rem;
 
     @include breakpoint(narrow) {
         width: 90%;
