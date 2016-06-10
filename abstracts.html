@@ -28,10 +28,9 @@ Juno is an effort by the Julia community to provide tooling for the language and
 </div>
 
 <div class="container abstrac">
-  <a name="RataJulia"><h3>  Rata Julia: video tracking for behavioural neuroscience with Julia</h3></a>
+  <a name="RataJulia"><h3>Rata Julia: video tracking for behavioural neuroscience with Julia</h3></a>
   <em>Carolina Brum Medeiros, kellyn costa, mariana araujo</em> (fliprl - brazil)
-  <p>
-On behavioral neuroscience, video analysis helps characterizing several domains of their activity, such as displacement, exploration, and stereotypy. Available commercial solutions, however, present several limitations, such as misidentification of target and displacement vector noise. We introduce a toolbox that performs the video tracking of rats by analyzing its frames separately. The target’s location is defined by several steps avoiding determining a hard contrast threshold. The soft threshold is defined by a self-compared scale using customized analysis. By doing this, the tracking solution does not suffer from variable lighting conditions, variable animal size (animal’s growth, various postures), and variable background (urine, etc). The absence of a hard threshold requires heavier processing, which is taken care of by using Julia’s parallel computing capabilities. Additionally, we determine the animal’s centroid in a manner that neglects the movement of trunk, head, and tail, resulting in a fair metric for displacement. Finally, we use classifier techniques to determine whether the animal is in vertical or horizontal displacement.</p>
+  <p>On behavioral neuroscience, video analysis helps characterizing several domains of their activity, such as displacement, exploration, and stereotypy. Available commercial solutions, however, present several limitations, such as misidentification of target and displacement vector noise. We introduce a toolbox that performs the video tracking of rats by analyzing its frames separately. The target’s location is defined by several steps avoiding determining a hard contrast threshold. The soft threshold is defined by a self-compared scale using customized analysis. By doing this, the tracking solution does not suffer from variable lighting conditions, variable animal size (animal’s growth, various postures), and variable background (urine, etc). The absence of a hard threshold requires heavier processing, which is taken care of by using Julia’s parallel computing capabilities. Additionally, we determine the animal’s centroid in a manner that neglects the movement of trunk, head, and tail, resulting in a fair metric for displacement. Finally, we use classifier techniques to determine whether the animal is in vertical or horizontal displacement.</p>
 </div>
 
 <div class="container abstrac">
@@ -45,7 +44,7 @@ This work is supported by a grant from the Moore Foundation.</p>
 <div class="container abstrac">
   <a name="DataTables"><h3>DataTables: Type-safe data containers</h3></a>
   <em>Andy Ferris</em> (Fugro Roames)
-  <p>Julia's dynamic-yet-statically-compilable type system is extremely powerful, but presents some challenges to creating generic storage containers, like tables of data where each column of the table might have different types. This package attempts to present a fully-typed `Table` container, where elements (rows, columns, cells, etc) can be extracted with their correct type annotation at zero additional run-time overhead. The resulting data can then be manipulated without any unboxing penalty, or the need to introduce unseemly function barriers, unlike existing approaches like the popular DataFrames.jl package.
+  <p>Julia's dynamic-yet-statically-compilable type system is extremely powerful, but presents some challenges to creating generic storage containers, like tables of data where each column of the table might have different types. This package attempts to present a fully-typed `Table` container, where elements (rows, columns, cells, etc) can be extracted with their correct type annotation at zero additional run-time overhead. The resulting data can then be manipulated without any unboxing penalty, or the need to introduce unseemly function barriers, unlike existing approaches like the popular DataFrames.jl package. 
 
 The main caveat of this approach is the extra layer of complexity for the compiler and programmer introduced by including this information in the type parameters of objects. This talk will explore how additional Julia 0.5 features such as pure functions will significantly simplify both the interface and the implementation of DataTables.</p>
 </div>
@@ -57,7 +56,7 @@ The main caveat of this approach is the extra layer of complexity for the compil
 </div>
 
 <div class="container abstrac">
-  <a name="GLVisualize"><h3>Current state of GLVisualize </h3></a>
+  <a name="GLVisualize"><h3>Current state of GLVisualize</h3></a>
   <em>Simon Danisch</em>
   <p>GLVisualize is a 2D/3D graphics library entirely written in Julia. It uses OpenGL to offer state of the art rendering speeds even for animated data. This Talk will show you what the strength and weaknesses of GLVisualize are, and what you can expect from it in the future.</p>
 </div>
@@ -160,7 +159,7 @@ see this gist for a demo https://gist.github.com/shashi/9ad9de91d1aa12f006c4</p>
 <div class="container abstrac">
   <a name="India"><h3>Building the Julia community in India</h3></a>
   <em>Zainab Bawa</em> (Director, HasGeek Learning Pvt Ltd)
-  <p>This talk presents a picture of the data science landscape in India, tools and technologies that data scientists use widely, and how Julia language is positioned in this landscape. From here, I explain how and why JuliaCon India edition has to stay relevant and ahead of its time, and why this approach is necessary for building and sustaining the community. </p>
+  <p>This talk presents a picture of the data science landscape in India, tools and technologies that data scientists use widely, and how Julia language is positioned in this landscape. From here, I explain how and why JuliaCon India edition has to stay relevant and ahead of its time, and why this approach is necessary for building and sustaining the community.</p>
 </div>
 
 <div class="container abstrac">
@@ -170,7 +169,7 @@ see this gist for a demo https://gist.github.com/shashi/9ad9de91d1aa12f006c4</p>
 </div>
 
 <div class="container abstrac">
-  <a name="BoundedIntegers"><h3>Bounded Integers with Type-Level Constants </h3></a>
+  <a name="BoundedIntegers"><h3>Bounded Integers with Type-Level Constants</h3></a>
   <em>David Hossack</em> (Analog Devices)
   <p>I will describe the implementation of a bounded integer type in Julia, where the bounds are encoded as type level constants.  All the usual arithmetic operations on integers are implemented with the result bounds being determined once at (JIT) compile time.  For example adding bounded integers with types BInt{-10,8} and BInt{-100, 20} will yield a bounded integer with type BInt {-110, 28}.
 
@@ -178,8 +177,7 @@ The bounds can be any constant integer, and large bounds are automatically conve
 
 The implementation exploits @generated functions to make the type level decisions.
 
-The original motivation arose in digital hardware system modeling, but the concept is very general.  The bounded integer “BInt” numeric type behaves like BigInt in that arithmetic on BInt values will never overflow, but without the runtime and storage overhead of BigInt when it can be determined that a fixed width type is sufficient.
-</p>
+The original motivation arose in digital hardware system modeling, but the concept is very general.  The bounded integer “BInt” numeric type behaves like BigInt in that arithmetic on BInt values will never overflow, but without the runtime and storage overhead of BigInt when it can be determined that a fixed width type is sufficient.</p>
 </div>
 
 <div class="container abstrac">
@@ -191,13 +189,13 @@ The original motivation arose in digital hardware system modeling, but the conce
 <div class="container abstrac">
   <a name="RaceCars"><h3>Autonomous driving for RC cars with ROS and Julia</h3></a>
   <em>Jon Gonzales</em> (University of California Berkeley)
-  <p>Our research focuses on control algorithms for automotive applications. We use model predictive control (MPC) as a mathematical tool to design these algorithms, and then use Julia and Python to implement these algorithms. For experimentation, we have launched an open-source platform called Berkeley Autonomous Race Car (BARC), which is a 1/10th scale RC car equipped with hardware for autonomous driving. [ http://www.barc-project.com/ ].  </p>
+  <p>Our research focuses on control algorithms for automotive applications. We use model predictive control (MPC) as a mathematical tool to design these algorithms, and then use Julia and Python to implement these algorithms. For experimentation, we have launched an open-source platform called Berkeley Autonomous Race Car (BARC), which is a 1/10th scale RC car equipped with hardware for autonomous driving. [ http://www.barc-project.com/ ].</p>
 </div>
 
 <div class="container abstrac">
   <a name="RaspberryPi"><h3>Minecraft and LEDs : Julia on the Raspberry Pi</h3></a>
   <em>Avik Sengupta</em> (Algocircle Ltd)
-  <p>The Raspberry Pi is a $35 computer designed to help teach computing to kids. It has also turned out to be very popular among hobbyists and digital makers. Powered by a  ARM processor, it now runs Julia well enough to enable some fun educational projects. This talk will demonstrate the most common activities that kids can do with a Raspberry Pi -- control Minecraft via its API, and perform physical computing via its GPIO pins to control external components. It will showcase the Julia packages used for this purpose, and discuss ways in which these can be used to teach maths, science and programming. </p>
+  <p>The Raspberry Pi is a $35 computer designed to help teach computing to kids. It has also turned out to be very popular among hobbyists and digital makers. Powered by a  ARM processor, it now runs Julia well enough to enable some fun educational projects. This talk will demonstrate the most common activities that kids can do with a Raspberry Pi -- control Minecraft via its API, and perform physical computing via its GPIO pins to control external components. It will showcase the Julia packages used for this purpose, and discuss ways in which these can be used to teach maths, science and programming.</p>
 </div>
 
 <div class="container abstrac">
@@ -209,8 +207,7 @@ The original motivation arose in digital hardware system modeling, but the conce
 <div class="container abstrac">
   <a name="TeachingJulia"><h3>Teaching first-year college students with Julia</h3></a>
   <em>John Verzani</em> (CUNY/College of Staten Island)
-  <p>I will describe experiences from trying to use Julia as a replacement for MATLAB to add a computer component to freshman-level calculus at a comprehensive institution. For most students, Julia is their first language, making this class a good test of the ease of adoption of the language. In addition to a list of pros and cons, I'll discuss some of the packages being developed in support of this work.
-</p>
+  <p>I will describe experiences from trying to use Julia as a replacement for MATLAB to add a computer component to freshman-level calculus at a comprehensive institution. For most students, Julia is their first language, making this class a good test of the ease of adoption of the language. In addition to a list of pros and cons, I'll discuss some of the packages being developed in support of this work.</p>
 </div>
 
 <div class="container abstrac">
@@ -278,7 +275,7 @@ In this talk I will present the Astrodynamics.jl library and explore how Julia�
   <p>This talk would discuss various statistical models that require to solve sparse least square problems. I'll explain why these models are useful in social sciences, why they are hard to solve, and how to solve them in Julia.
 
 I'll go through 2 examples:
-The first example is the class of linear regression models with high dimensional categorical variables. When there is a lot of groups, we simply cannot form the design matrix of all group dummies. I'll go though the best solution methods to solve these models, in term of speed, numerical stability, memory, &amp; standard errors.
+The first example is the class of linear regression models with high dimensional categorical variables. When there is a lot of groups, we simply cannot form the design matrix of all group dummies. I'll go though the best solution methods to solve these models, in term of speed, numerical stability, memory, &amp; standard errors. 
 The solution method is available in the package: https://github.com/matthieugomez/FixedEffectModels.jl
 The package is an order of magnitude faster than similar packages in R or Stata. (The package is also the first Julia package that allows to estimate models with instrumental variables)
 
@@ -293,9 +290,11 @@ This backend solves general sparse least square problems in Julia.</p>
 </div>
 
 <div class="container abstrac">
-  <a name="GWAS"><h3>A novel algorithm for model selection in genome-wide association studies</h3></a>
-  <em>Kevin L. Keys</em> (University of California, Los Angeles)
-  <p>Genome-wide association studies (GWASes) examines phenotypic variation in a sample of patients genotyped at several places on the genome. Since GWASes were introduced in 2005, researchers have performed GWASes for hundreds of traits on thousands of individuals. GWASes produce massive quantities of data that present computational and model selection challenges to their analysis. Prevalent among GWAS analyses is a noticeable failure to explain substantial portions of the observed phenotypic variance. We exploit iterative hard thresholding (IHT) to effectively select genetic markers informative for continuous traits. Preliminary tests suggest that our implementation effectively controls type I errors better than both LASSO- and MCP-penalized linear regression. Our scalable implementation enables GWAS analysis on both desktop machines and computing clusters.</p>
+  <a name="BaseTestAuto"><h3>Finding Julia Bugs Automatically</h3></a>
+  <em>Robert Feldt</em> (Blekinge Inst of Technology)
+  <p>The ability to thoroughly, but easily, test Julia code and packages is vital if they are to maintain their high quality. The Base.Test framework provides a great set of constructs to help automatically execute test cases and avoid bugs. Recently we have extended this framework with award-winning techniques from our software testing research. Together, these packages enable not only the automated execution but also the automated creation of test cases. This can help you explore the actual behavior of your Julia code to find bugs earlier and increase coverage. In this talk we give an overview of the techniques our extensions provide, and show, with examples, how they have helped us find bugs in Julia code.
+
+Our extensions combine the novel capabilities of a number of different testing frameworks, programming languages and research studies. The BaseTestAuto package provides the basis by extending the Base.Test implementation in Julia 0.5-dev to support repeated execution of test sets and to allow predicates that ensure not only a single but that a whole set of values have a certain property. Another package allows generators for values of any type and structure to be described; this allows for both random and targetted creation of test data. On top of this we can then build a library of generators and combinators to create data that exercises a large part of the Julia type hierarchy. Together these packages extend the type of testing that can now be done in Julia, and in our presentation we will demonstrate random testing, property-based testing, parameterized unit testing, adaptive test execution, and search-based testing for increased coverage and test diversity. Our talk is hands-on and shows the use of these techniques on real Julia code but also outlines future additions that we are working on. Our mission is to make testing in Julia as fun and powerful as possible and we hope to get support from the community in achieving this.</p>
 </div>
 
 <div class="container abstrac">
@@ -316,21 +315,9 @@ We will show how these ideas can be used to obtain precise and rigorous results 
 </div>
 
 <div class="container abstrac">
-  <a name="OpenMendel"><h3>OpenMendel Project</h3></a>
-  <em>Hua Zhou</em> (UCLA)
-  <p>Mendel (https://www.genetics.ucla.edu/software/mendel) is a comprehensive statistical genetic analysis program, developed by biomathematician Kenneth Lange (http://people.healthsciences.ucla.edu/institution/personnel?personnel_id=45702) and his colleagues at UCLA. The current version of Mendel consists of more than 75,000 lines of dense Fortran 2008 code. Documentation exceeds 300 pages. Software development in statistical genetics is currently chaotic, and some consolidation is inevitable. The challenge is to accomplish this in a manner that enhances rather than stifles creativity. OpenMendel is an open source project that rewrites Mendel using the elegant and efficient language Julia. Its code base will serve as a platform for the truly large genetics studies now being launched and enables researchers to quickly tailor it to their specific needs. This talk outlines the vision and status of the OpenMendel project.</p>
-</div>
-
-<div class="container abstrac">
-  <a name="MusicIR"><h3>Music Information Retrieval in Julia</h3></a>
-  <em>Jong Wook Kim</em> (New York University)
-  <p>Music Information Retrieval (MIR) is an exciting field of research with many successful real-world applications, such as automatic audio source separation, instrument recognition, chord recognition, automatic transcription and music recommender systems. In this lightning talk, I will briefly introduce MIR as a research topic, and show how Julia can be used to perform various music analysis and processing required in MIR research. The presentation will also include a demo of audio visualization and instrument classification, based on a music analysis library written in Julia that is planned to be open sourced by JuliaCon 2016.</p>
-</div>
-
-<div class="container abstrac">
-  <a name="WordEmbeddings"><h3>Fun with Word Embeddings in Julia</h3></a>
-  <em>Sisir Koppaka</em> (Data Scientist, x.ai)
-  <p>Word embeddings allow us to represent words, phrases, and even sentences as vectors in a hyperspace. This helps us in better capturing syntactic and semantic similarities between natural language entities based on distributional properties of various corpora. I'll briefly introduce the idea, and step visually into the process with a pure-Julia implementation. The backdrop of the discussion will be a year of practical learnings on shortening the feedback loop in ML at a fast-pace ML/NLP-driven startup.</p>
+  <a name="GWAS"><h3>A novel algorithm for model selection in genome-wide association studies</h3></a>
+  <em>Kevin L. Keys</em> (University of California, Los Angeles)
+  <p>Genome-wide association studies (GWASes) examines phenotypic variation in a sample of patients genotyped at several places on the genome. Since GWASes were introduced in 2005, researchers have performed GWASes for hundreds of traits on thousands of individuals. GWASes produce massive quantities of data that present computational and model selection challenges to their analysis. Prevalent among GWAS analyses is a noticeable failure to explain substantial portions of the observed phenotypic variance. We exploit iterative hard thresholding (IHT) to effectively select genetic markers informative for continuous traits. Preliminary tests suggest that our implementation effectively controls type I errors better than both LASSO- and MCP-penalized linear regression. Our scalable implementation enables GWAS analysis on both desktop machines and computing clusters.</p>
 </div>
 
 <div class="container abstrac">
@@ -340,9 +327,15 @@ We will show how these ideas can be used to obtain precise and rigorous results 
 </div>
 
 <div class="container abstrac">
-  <a name="DSGE"><h3>DSGE.jl – Using Julia for Economic Modeling at the Federal Reserve Bank of New York </h3></a>
+  <a name="OpenMendel"><h3>OpenMendel Project</h3></a>
+  <em>Hua Zhou</em> (UCLA)
+  <p>Mendel (https://www.genetics.ucla.edu/software/mendel) is a comprehensive statistical genetic analysis program, developed by biomathematician Kenneth Lange (http://people.healthsciences.ucla.edu/institution/personnel?personnel_id=45702) and his colleagues at UCLA. The current version of Mendel consists of more than 75,000 lines of dense Fortran 2008 code. Documentation exceeds 300 pages. Software development in statistical genetics is currently chaotic, and some consolidation is inevitable. The challenge is to accomplish this in a manner that enhances rather than stifles creativity. OpenMendel is an open source project that rewrites Mendel using the elegant and efficient language Julia. Its code base will serve as a platform for the truly large genetics studies now being launched and enables researchers to quickly tailor it to their specific needs. This talk outlines the vision and status of the OpenMendel project.</p>
+</div>
+
+<div class="container abstrac">
+  <a name="DSGE"><h3>DSGE.jl – Using Julia for Economic Modeling at the Federal Reserve Bank of New York</h3></a>
   <em>Erica Moszkowski</em> (Federal Reserve Bank of New York)
-  <p>This talk will describe how researchers in the Federal Reserve Bank of New York’s DSGE Team use Julia for macroeconomic modeling.  In collaboration with the QuantEcon team, we ported our code for solving dynamic stochastic general equilibrium (DSGE) models to Julia, releasing the source code in the DSGE.jl package in December. DSGE models describe how economic agents behave, given some assumptions about the underlying environment, including fiscal and monetary policy regimes, price rigidities, credit frictions, and various economic shocks.  The FRBNY model is a relatively large model of the U.S. economy, has been used for research on the dynamics of inflation during the great recession, the effects of forward guidance, and much more.
+  <p>This talk will describe how researchers in the Federal Reserve Bank of New York’s DSGE Team use Julia for macroeconomic modeling.  In collaboration with the QuantEcon team, we ported our code for solving dynamic stochastic general equilibrium (DSGE) models to Julia, releasing the source code in the DSGE.jl package in December. DSGE models describe how economic agents behave, given some assumptions about the underlying environment, including fiscal and monetary policy regimes, price rigidities, credit frictions, and various economic shocks.  The FRBNY model is a relatively large model of the U.S. economy, has been used for research on the dynamics of inflation during the great recession, the effects of forward guidance, and much more. 
 
 The DSGE.jl package facilitates the solution and Bayesian estimation of DSGE models. We provide the FRBNY model as one example, but give details on how users can define completely different models.  In this talk, I will give a brief overview of the model and our experience porting the code from MATLAB to Julia (including perspective on using Julia in a "production" setting at a public policy institution). Finally, I will touch on the Julia features our team has found most useful for economic modeling</p>
 </div>
@@ -366,14 +359,6 @@ The DSGE.jl package facilitates the solution and Bayesian estimation of DSGE mod
 </div>
 
 <div class="container abstrac">
-  <a name="MachineCode"><h3>Machine Code</h3></a>
-  <em>Jameson Nash</em> (Julia Computing)
-  <p>An algorithmic sampling of getting Julia to run fast
-
-Possible subtopics include: type-inference, high-level optimizations, call devirtualization, caching, static compilation, llvm translation, "exotic" hardware runtime, future development plans</p>
-</div>
-
-<div class="container abstrac">
   <a name="ParallelGraph"><h3>Parallelized graph processing in Julia</h3></a>
   <em>Pranav Thulasiram Bhat</em> (GSOC student)
   <p>I hope to develop a package, ParallelGraphs, that enables the analysis and manipulation of massive graphs in a distributed environment. The package will support vertex and edge properties through N-Dimensional sparse arrays. The package will be integrated with LighGraphs.jl and ComputeFramework for the serial and parallel execution of graph algorithms. I hope to also incorporate a query model that will let data scientists issue SQL like queries on the graph structure.</p>
@@ -382,7 +367,7 @@ Possible subtopics include: type-inference, high-level optimizations, call devir
 <div class="container abstrac">
   <a name="Vectorize"><h3>Cross-platform vectorization using Accelerate, Yeppp! and VML</h3></a>
   <em>Remy Prechelt</em> (GSOC student)
-  <p>Apple's Accelerate, Yeppp!, and Intel's VML provide high-performance implementations of many common vector functions and operations. Traditionally, use of these libraries required specific intervention by the programmer, and familiarity with Julia's C interface. By taking advantage of Julia's LLVM backend, and detailed benchmarking on package install, I aim to dynamically map Julia functions to the fastest vectorized equivalents available on a specific Julia installation. By building a common interface to these libraries, the same code that was written on OS X linking against Accelerate, can automatically be run without change on Windows linking against VML, and can automatically be run without change on Linux linking against Yeppp!. </p>
+  <p>Apple's Accelerate, Yeppp!, and Intel's VML provide high-performance implementations of many common vector functions and operations. Traditionally, use of these libraries required specific intervention by the programmer, and familiarity with Julia's C interface. By taking advantage of Julia's LLVM backend, and detailed benchmarking on package install, I aim to dynamically map Julia functions to the fastest vectorized equivalents available on a specific Julia installation. By building a common interface to these libraries, the same code that was written on OS X linking against Accelerate, can automatically be run without change on Windows linking against VML, and can automatically be run without change on Linux linking against Yeppp!.</p>
 </div>
 
 <div class="container abstrac">
@@ -404,6 +389,14 @@ Possible subtopics include: type-inference, high-level optimizations, call devir
 </div>
 
 <div class="container abstrac">
+  <a name="MachineCode"><h3>Machine Code</h3></a>
+  <em>Jameson Nash</em> (Julia Computing, Inc.)
+  <p>An algorithmic sampling of getting Julia to run fast
+
+Possible subtopics include: type-inference, high-level optimizations, call devirtualization, caching, static compilation, llvm translation, "exotic" hardware runtime, future development plans</p>
+</div>
+
+<div class="container abstrac">
   <a name="Convex"><h3>Support for complex-domain optimization problems in Convex.jl</h3></a>
   <em>Ayush Pandey</em> (GSOC student)
   <p>Many problems in applied sciences are posed as optimization problems over the complex field such as phase retrieval from sparse signals, designing an FIR filter given desired frequency response, optimization problems in AC power systems, frequency domain analysis in signal processing and control theory.
@@ -422,8 +415,7 @@ also higher accuracy in solutions. Since smaller problems are fed to the solver 
   <em>Joseph Obiajulu</em> (GSOC student)
   <p>ODE.jl is an ever increasing store house of numerical solvers of ordinary differential equations available to Julia users. While many solvers are in ODE.jl, there are still well-known and well-performing solvers which are awaiting a native Julia implementation (especially implicit solvers for stiff ODEs). Here we review an implicit and adaptive step-size solver based on the Adam-Bashforth-Multon method which we have implemented in the Julia Language. Although development is still ongoing and final revisions are necessary before merging into ODE.jl, we present preliminary performance results of the solver using the ever expanding IVPTestSuite.jl package.
 
-EDIT
-</p>
+EDIT</p>
 </div>
 
 <div class="container abstrac">
@@ -442,6 +434,16 @@ Nevertheless, there isn’t yet a clear common API for these packages in Julia. 
 There is one last case not present in most linear algebra packages, the ability to query information out of a running method, this would prove most useful when the calculation takes a long time, if it is bound to end at all. This could make the user to feel confused about what is going on and tempting him to end the execution.
 
 Here I show the current work and ideas aimed improve the usability of the IterativeSolvers.jl.</p>
+</div>
+
+<div class="container abstrac">
+  <a name="Pkg3"><h3>Pkg3: Julia Environments</h3></a>
+  <em>Art Diky</em> (GSOC student)
+  <p>A Julia environment that introduces a new approach to configuration of a Julia project structure and dependency management.
+
+The Julia language comes with a global language dependency management functionality. We introduce an environment structure which will allow organizing dependencies on a local level (i.e. directory). The environment will provide developers with a project-level dependency management which guarantees a precisely reproducible self-contained project source tree.
+
+This work is the part of the larger effort to redesign the package dependency management for the Julia language.</p>
 </div>
 
 <div class="container abstrac">
@@ -473,7 +475,7 @@ This talk will be of interest to people interested in compilers, macros, paralle
 <div class="container abstrac">
   <a name="SimJulia"><h3>How to combine efficiently discrete-event and continuous-time simulations in Julia?</h3></a>
   <em>Ben Lauwens</em> (Royal Military Academy (Belgium))
-  <p>Combined simulations, i.e. solving a mixture of discrete-events (implemented as processes or agents) and continuous-time models (systems of differential equations), is a challenging topic. The two paradigms are almost orthogonal and most simulation software is written with one specific purpose in mind. In this talk, I will show how both can fit naturally in the SimJulia.jl package. The differential equations are efficiently integrated with a quantized state system solver. The pitfall of the mainstream ODE solvers, the time discretization, is replaced by a state discretization. The resulting discrete state-machine can easily be implemented as an event-driven model. This allows to make and solve sophisticated models, eg. a pilot ejection system, which are otherwise very hard to do. Julia has some unique features that ease the coding of both the discrete-event kernel and the state quantizer. </p>
+  <p>Combined simulations, i.e. solving a mixture of discrete-events (implemented as processes or agents) and continuous-time models (systems of differential equations), is a challenging topic. The two paradigms are almost orthogonal and most simulation software is written with one specific purpose in mind. In this talk, I will show how both can fit naturally in the SimJulia.jl package. The differential equations are efficiently integrated with a quantized state system solver. The pitfall of the mainstream ODE solvers, the time discretization, is replaced by a state discretization. The resulting discrete state-machine can easily be implemented as an event-driven model. This allows to make and solve sophisticated models, eg. a pilot ejection system, which are otherwise very hard to do. Julia has some unique features that ease the coding of both the discrete-event kernel and the state quantizer.</p>
 </div>
 
 <div class="container abstrac">
@@ -489,9 +491,9 @@ FunHPC targets PDE discretization methods with irregular, hierarchical data stru
 <div class="container abstrac">
   <a name="QuantumDynamics"><h3>QuDynamics - Framework for solving Dynamical Quantum Equations.</h3></a>
   <em>Amit Jamadagni</em>
-  <p>QuDynamics is a Julia package which provides a framework for solving dynamical equations arising in Quantum Mechanics. The current version includes support for solving Schrodinger equations, Liouville von Neumann equations and Lindblad master equations with methods which have been integrated from various other Julia packages like ODE.jl, ExpmV.jl, Expokit.jl. The aim of the talk is to introduce QuDynamics with some examples, and focus on ongoing work to equip QuDynamics with additional features such as Monte-Carlo parallelization, addition of new solvers among many others.
+  <p>QuDynamics is a Julia package which provides a framework for solving dynamical equations arising in Quantum Mechanics. The current version includes support for solving Schrodinger equations, Liouville von Neumann equations and Lindblad master equations with methods which have been integrated from various other Julia packages like ODE.jl, ExpmV.jl, Expokit.jl. The aim of the talk is to introduce QuDynamics with some examples, and focus on ongoing work to equip QuDynamics with additional features such as Monte-Carlo parallelization, addition of new solvers among many others. 
 
-The repo is being maintained at
+The repo is being maintained at 
 
 https://github.com/JuliaQuantum/QuDynamics.jl.</p>
 </div>
@@ -505,27 +507,25 @@ https://github.com/JuliaQuantum/QuDynamics.jl.</p>
 <div class="container abstrac">
   <a name="MatrixNetworks"><h3>Network Algorithms Research in Julia</h3></a>
   <em>Huda Nassar</em> (Purdue University)
-  <p>Datasets in many research disciplines involve large networks; examples include biological datasets, transportation networks, and social media networks. In this talk, we will describe how we are using Julia in our research into new network algorithms and why we created the MatrixNetworks.jl package to bridge between the linear algebra routines in Julia and the network algorithms. We will discuss algorithms that we have recently created for graph diffusions and network alignment methods where having methods that interface between these representations is essential. </p>
+  <p>Datasets in many research disciplines involve large networks; examples include biological datasets, transportation networks, and social media networks. In this talk, we will describe how we are using Julia in our research into new network algorithms and why we created the MatrixNetworks.jl package to bridge between the linear algebra routines in Julia and the network algorithms. We will discuss algorithms that we have recently created for graph diffusions and network alignment methods where having methods that interface between these representations is essential.</p>
 </div>
 
 <div class="container abstrac">
   <a name="Yeppp"><h3>High Performance Vectorized Computations with Yeppp!</h3></a>
   <em>Robert Guthrie</em> (Georgia Institute of Technology)
-  <p>In this talk, we present Yeppp!, a high-performance mathematical library providing vectorized elementary operations and transcendental functions.  We compare the performance of Yeppp! with libraries such as Intel MKL and code generated by the optimizing compilers LLVM and GCC.  We demonstrate that the SIMD-vectorization and software pipelining techniques used in Yeppp! permit higher throughput compared to similar offerings, and we directly compare implementations of element-wise floating point addition in unoptimized assembly, code generated by LLVM and GCC, and Yeppp!.  The experiments reveal that Yeppp!’s implementation outperforms alternative implementations.  </p>
+  <p>In this talk, we present Yeppp!, a high-performance mathematical library providing vectorized elementary operations and transcendental functions.  We compare the performance of Yeppp! with libraries such as Intel MKL and code generated by the optimizing compilers LLVM and GCC.  We demonstrate that the SIMD-vectorization and software pipelining techniques used in Yeppp! permit higher throughput compared to similar offerings, and we directly compare implementations of element-wise floating point addition in unoptimized assembly, code generated by LLVM and GCC, and Yeppp!.  The experiments reveal that Yeppp!’s implementation outperforms alternative implementations.</p>
 </div>
 
 <div class="container abstrac">
-  <a name="BaseTestAuto"><h3>Finding Julia Bugs Automatically</h3></a>
-  <em>Robert Feldt</em> (Blekinge Inst of Technology)
-  <p>The ability to thoroughly, but easily, test Julia code and packages is vital if they are to maintain their high quality. The Base.Test framework provides a great set of constructs to help automatically execute test cases and avoid bugs. Recently we have extended this framework with award-winning techniques from our software testing research. Together, these packages enable not only the automated execution but also the automated creation of test cases. This can help you explore the actual behavior of your Julia code to find bugs earlier and increase coverage. In this talk we give an overview of the techniques our extensions provide, and show, with examples, how they have helped us find bugs in Julia code.
-
-Our extensions combine the novel capabilities of a number of different testing frameworks, programming languages and research studies. The BaseTestAuto package provides the basis by extending the Base.Test implementation in Julia 0.5-dev to support repeated execution of test sets and to allow predicates that ensure not only a single but that a whole set of values have a certain property. Another package allows generators for values of any type and structure to be described; this allows for both random and targetted creation of test data. On top of this we can then build a library of generators and combinators to create data that exercises a large part of the Julia type hierarchy. Together these packages extend the type of testing that can now be done in Julia, and in our presentation we will demonstrate random testing, property-based testing, parameterized unit testing, adaptive test execution, and search-based testing for increased coverage and test diversity. Our talk is hands-on and shows the use of these techniques on real Julia code but also outlines future additions that we are working on. Our mission is to make testing in Julia as fun and powerful as possible and we hope to get support from the community in achieving this.</p>
+  <a name="MusicIR"><h3>Music Information Retrieval in Julia</h3></a>
+  <em>Jong Wook Kim</em> (New York University)
+  <p>Music Information Retrieval (MIR) is an exciting field of research with many successful real-world applications, such as automatic audio source separation, instrument recognition, chord recognition, automatic transcription and music recommender systems. In this lightning talk, I will briefly introduce MIR as a research topic, and show how Julia can be used to perform various music analysis and processing required in MIR research. The presentation will also include a demo of audio visualization and instrument classification, based on a music analysis library written in Julia that is planned to be open sourced by JuliaCon 2016.</p>
 </div>
 
 <div class="container abstrac">
-  <a name="ArrayFire"><h3>Accelerating Julia Kernels with ArrayFire</h3></a>
-  <em>Ranjan Anantharaman</em> (Julia Computing, Inc.)
-  <p>Accelerated computing has become increasingly popular in the scientific community over the past few years. However, a common challenge is the dearth of easy high-level APIs. This talk is about using the package ArrayFire.jl to write accelerated kernels in Julia with easy Julian APIs. It is designed to mimic Base Julia in its versatility and ease of use, and allows you to switch between three backends: CPU, OpenCL and CUDA, without changing any code. This talk would demonstrate those capabilities and interesting applications using ArrayFire.</p>
+  <a name="WordEmbeddings"><h3>Fun with Word Embeddings in Julia</h3></a>
+  <em>Sisir Koppaka</em> (Data Scientist, x.ai)
+  <p>Word embeddings allow us to represent words, phrases, and even sentences as vectors in a hyperspace. This helps us in better capturing syntactic and semantic similarities between natural language entities based on distributional properties of various corpora. I'll briefly introduce the idea, and step visually into the process with a pure-Julia implementation. The backdrop of the discussion will be a year of practical learnings on shortening the feedback loop in ML at a fast-pace ML/NLP-driven startup.</p>
 </div>
 
 <div class="container abstrac">
@@ -533,6 +533,12 @@ Our extensions combine the novel capabilities of a number of different testing f
   <em>WooKyoung Noh</em>
   <p>Julia has the beautiful REPL, and adapting it easily to all kinds of system.
 Demonstrate how can interactive debugging, scripting with Julia for iOS App development.</p>
+</div>
+
+<div class="container abstrac">
+  <a name="ArrayFire"><h3>Accelerating Julia Kernels with ArrayFire</h3></a>
+  <em>Ranjan Anantharaman</em>
+  <p>Accelerated computing has become increasingly popular in the scientific community over the past few years. However, a common challenge is the dearth of easy high-level APIs. This talk is about using the package ArrayFire.jl to write accelerated kernels in Julia with easy Julian APIs. It is designed to mimic Base Julia in its versatility and ease of use, and allows you to switch between three backends: CPU, OpenCL and CUDA, without changing any code. This talk would demonstrate those capabilities and interesting applications using ArrayFire.</p>
 </div>
 
 <div class="container abstrac">
