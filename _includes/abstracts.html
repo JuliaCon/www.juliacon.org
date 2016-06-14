@@ -258,28 +258,11 @@ In this talk I will present the Astrodynamics.jl library and explore how Juliaâ€
 
 <div class="container abstrac">
   <a name="LeastSquares"><h3>Least Squares with high dimensional variables</h3></a>
-  <em>Matthieu Gome</em>
-  <p>This talk would discuss various statistical models that require to solve sparse least square problems. I'll explain why these models are useful in social sciences, why they are hard to solve, and how to solve them in Julia.
-
-I'll go through 2 examples:
-The first example is the class of linear regression models with high dimensional categorical variables. When there is a lot of groups, we simply cannot form the design matrix of all group dummies. I'll go though the best solution methods to solve these models, in term of speed, numerical stability, memory, &amp; standard errors. 
-The solution method is available in the package: https://github.com/matthieugomez/FixedEffectModels.jl
-The package is an order of magnitude faster than similar packages in R or Stata. (The package is also the first Julia package that allows to estimate models with instrumental variables)
-
-The second example is a PCA on a sparse panel. Think of the Netflix dataset: a user typically rates only a few movies so we have only a few non missing observations in the space user x movie. Estimating a PCA in this case requires to solve a sparse non linear least squares
-Relevant package:
-https://github.com/matthieugomez/SparseFactorModels.jl
-I don't know of a similar package in another language.
-
-Both of these packages use a general backend:
-https://github.com/matthieugomez/LeastSquaresOptim.jl
-This backend solves general sparse least square problems in Julia.</p>
-</div>
-
-<div class="container abstrac">
-  <a name="VinDsl"><h3>VinDsl.jl: Fast and furious statistical modeling</h3></a>
-  <em>John Pearson</em> (Duke Institute for Brain Sciences)
-  <p>Variational inference is a fast, scalable method for fitting complex statistical models to large and high-dimensional datasets. The repertoire of available algorithms and techniques is expanding rapidly, but most models are still coded by hand. The few automated implementations (e.g., in Stan) face a dual-language problem, and so are less suited to rapid development of new ideas. VinDsl.jl aims to provide a variational inference domain-specific language -- a set of data structures and macros for defining models -- in pure Julia. As a result, existing methods can be mixed and matched and new ones prototyped quickly, creating a thoroughly hackable toolbox for machine learning researchers. In this talk, I'll give an introduction to variational inference and sketch the philosophy and features of VinDsl, ending with applications to some problems in neuroscience.</p>
+  <em>Matthieu Gomez</em> (Princeton University)
+  <p>I will show how to estimate least squares models with high dimensional categorical variables. These models are useful in social sciences because they allow to control for unobserved heterogeneity at a granular level. However, these models are hard to estimate because they typically include a large number of variables.
+I will start with linear models with fixed effects. These models require to solve least squares problems on sparse matrices. I will present a new package to estimate such models in Julia, FixedEffectModels.jl. 
+I will then discuss linear models with *interacted* fixed effects.These models require to estimate PCAs on sparse matrices. I will present a new package to estimate such models in Julia, SparseFactorModels.jl. 
+Finally, I will present a package to solve general high-dimensional least squares problem, LeastSquaresOptim.jl. This package, inspired by the Ceres-solver, is the backend for the two previous packages.</p>
 </div>
 
 <div class="container abstrac">
@@ -297,6 +280,12 @@ floating-point arithmetic, with a guarantee of correctness, by calculating with
 *sets* instead of numbers, in particular with intervals, and boxes that are Cartesian products of intervals in higher dimensions, that contain the correct result. We can also enclose sets that solve systems of equations and inequalities.
 
 We will show how these ideas can be used to obtain precise and rigorous results for dynamical systems, including iterated maps and ODEs.</p>
+</div>
+
+<div class="container abstrac">
+  <a name="VinDsl"><h3>VinDsl.jl: Fast and furious statistical modeling</h3></a>
+  <em>John Pearson</em> (Duke Institute for Brain Sciences)
+  <p>Variational inference is a fast, scalable method for fitting complex statistical models to large and high-dimensional datasets. The repertoire of available algorithms and techniques is expanding rapidly, but most models are still coded by hand. The few automated implementations (e.g., in Stan) face a dual-language problem, and so are less suited to rapid development of new ideas. VinDsl.jl aims to provide a variational inference domain-specific language -- a set of data structures and macros for defining models -- in pure Julia. As a result, existing methods can be mixed and matched and new ones prototyped quickly, creating a thoroughly hackable toolbox for machine learning researchers. In this talk, I'll give an introduction to variational inference and sketch the philosophy and features of VinDsl, ending with applications to some problems in neuroscience.</p>
 </div>
 
 <div class="container abstrac">
