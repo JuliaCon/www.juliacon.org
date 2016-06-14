@@ -27,7 +27,7 @@ This work is supported by a grant from the Moore Foundation.</p>
 </div>
 
 <div class="container abstrac">
-  <a name="DataTables"><h3>DataTables: Type-safe data containers</h3></a>
+  <a name="DataTables"><h3>TypedTables: type-safe data containers</h3></a>
   <em>Andy Ferris</em> (Fugro Roames)
   <p>Julia's dynamic-yet-statically-compilable type system is extremely powerful, but presents some challenges to creating generic storage containers, like tables of data where each column of the table might have different types. This package attempts to present a fully-typed `Table` container, where elements (rows, columns, cells, etc) can be extracted with their correct type annotation at zero additional run-time overhead. The resulting data can then be manipulated without any unboxing penalty, or the need to introduce unseemly function barriers, unlike existing approaches like the popular DataFrames.jl package. 
 
@@ -95,9 +95,11 @@ The main caveat of this approach is the extra layer of complexity for the compil
 </div>
 
 <div class="container abstrac">
-  <a name="VinDsl"><h3>VinDsl.jl: Fast and furious statistical modeling</h3></a>
-  <em>John Pearson</em> (Duke Institute for Brain Sciences)
-  <p>Variational inference is a fast, scalable method for fitting complex statistical models to large and high-dimensional datasets. The repertoire of available algorithms and techniques is expanding rapidly, but most models are still coded by hand. The few automated implementations (e.g., in Stan) face a dual-language problem, and so are less suited to rapid development of new ideas. VinDsl.jl aims to provide a variational inference domain-specific language -- a set of data structures and macros for defining models -- in pure Julia. As a result, existing methods can be mixed and matched and new ones prototyped quickly, creating a thoroughly hackable toolbox for machine learning researchers. In this talk, I'll give an introduction to variational inference and sketch the philosophy and features of VinDsl, ending with applications to some problems in neuroscience.</p>
+  <a name="BaseTestAuto"><h3>Finding Julia Bugs Automatically</h3></a>
+  <em>Robert Feldt</em> (Blekinge Inst of Technology)
+  <p>The ability to thoroughly, but easily, test Julia code and packages is vital if they are to maintain their high quality. The Base.Test framework provides a great set of constructs to help automatically execute test cases and avoid bugs. Recently we have extended this framework with award-winning techniques from our software testing research. Together, these packages enable not only the automated execution but also the automated creation of test cases. This can help you explore the actual behavior of your Julia code to find bugs earlier and increase coverage. In this talk we give an overview of the techniques our extensions provide, and show, with examples, how they have helped us find bugs in Julia code.
+
+Our extensions combine the novel capabilities of a number of different testing frameworks, programming languages and research studies. The BaseTestAuto package provides the basis by extending the Base.Test implementation in Julia 0.5-dev to support repeated execution of test sets and to allow predicates that ensure not only a single but that a whole set of values have a certain property. Another package allows generators for values of any type and structure to be described; this allows for both random and targetted creation of test data. On top of this we can then build a library of generators and combinators to create data that exercises a large part of the Julia type hierarchy. Together these packages extend the type of testing that can now be done in Julia, and in our presentation we will demonstrate random testing, property-based testing, parameterized unit testing, adaptive test execution, and search-based testing for increased coverage and test diversity. Our talk is hands-on and shows the use of these techniques on real Julia code but also outlines future additions that we are working on. Our mission is to make testing in Julia as fun and powerful as possible and we hope to get support from the community in achieving this.</p>
 </div>
 
 <div class="container abstrac">
@@ -275,11 +277,9 @@ This backend solves general sparse least square problems in Julia.</p>
 </div>
 
 <div class="container abstrac">
-  <a name="BaseTestAuto"><h3>Finding Julia Bugs Automatically</h3></a>
-  <em>Robert Feldt</em> (Blekinge Inst of Technology)
-  <p>The ability to thoroughly, but easily, test Julia code and packages is vital if they are to maintain their high quality. The Base.Test framework provides a great set of constructs to help automatically execute test cases and avoid bugs. Recently we have extended this framework with award-winning techniques from our software testing research. Together, these packages enable not only the automated execution but also the automated creation of test cases. This can help you explore the actual behavior of your Julia code to find bugs earlier and increase coverage. In this talk we give an overview of the techniques our extensions provide, and show, with examples, how they have helped us find bugs in Julia code.
-
-Our extensions combine the novel capabilities of a number of different testing frameworks, programming languages and research studies. The BaseTestAuto package provides the basis by extending the Base.Test implementation in Julia 0.5-dev to support repeated execution of test sets and to allow predicates that ensure not only a single but that a whole set of values have a certain property. Another package allows generators for values of any type and structure to be described; this allows for both random and targetted creation of test data. On top of this we can then build a library of generators and combinators to create data that exercises a large part of the Julia type hierarchy. Together these packages extend the type of testing that can now be done in Julia, and in our presentation we will demonstrate random testing, property-based testing, parameterized unit testing, adaptive test execution, and search-based testing for increased coverage and test diversity. Our talk is hands-on and shows the use of these techniques on real Julia code but also outlines future additions that we are working on. Our mission is to make testing in Julia as fun and powerful as possible and we hope to get support from the community in achieving this.</p>
+  <a name="VinDsl"><h3>VinDsl.jl: Fast and furious statistical modeling</h3></a>
+  <em>John Pearson</em> (Duke Institute for Brain Sciences)
+  <p>Variational inference is a fast, scalable method for fitting complex statistical models to large and high-dimensional datasets. The repertoire of available algorithms and techniques is expanding rapidly, but most models are still coded by hand. The few automated implementations (e.g., in Stan) face a dual-language problem, and so are less suited to rapid development of new ideas. VinDsl.jl aims to provide a variational inference domain-specific language -- a set of data structures and macros for defining models -- in pure Julia. As a result, existing methods can be mixed and matched and new ones prototyped quickly, creating a thoroughly hackable toolbox for machine learning researchers. In this talk, I'll give an introduction to variational inference and sketch the philosophy and features of VinDsl, ending with applications to some problems in neuroscience.</p>
 </div>
 
 <div class="container abstrac">
