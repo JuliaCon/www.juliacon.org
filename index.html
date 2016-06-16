@@ -9,6 +9,20 @@ title: JuliaCon
   }
 </style>
 
+<ul class="topnav">
+  <li><a href="#" onclick="closeMenu()">JuliaCon 2016</a></li>
+  <li><a href="#schedule" onclick="closeMenu()">Schedule</a></li>
+  <li><a href="#keynotes" onclick="closeMenu()">Keynote Speakers</a></li>
+  <li><a href="#location" onclick="closeMenu()">Location</a></li>
+  <li><a href="#committee" onclick="closeMenu()">Committee</a></li>
+  <li><a href="#accommodations" onclick="closeMenu()">Accommodations</a></li>
+  <li><a href="#sponsorship" onclick="closeMenu()">Sponsorship</a></li>
+  <li><a href="#past" onclick="closeMenu()">Past JuliaCons</a></li>
+  <li class="icon">
+     <a href="javascript:void(0);" onclick="toggleMenu()">&#9776;</a>
+  </li>
+</ul>
+
 <div class="container">
   <p>The third Julia conference will take place <b>June 21st-25th, 2016</b> at the
   Massachusetts Institute of Technology in Cambridge, Massachusetts.
@@ -28,6 +42,8 @@ title: JuliaCon
   </div>
 </div>
 
+<div id="schedule"></div>
+<br>
 <div class="container">
   <center>
   <h2 class="text-center border-header"><span>Schedule</span></h2>
@@ -39,8 +55,10 @@ title: JuliaCon
     </center>
 </div>
 
+<div id="keynotes"></div>
+<br>
 <div class="container">
-  <h2 class="text-center border-header"><span>Keynote Talks</span></h2>
+  <h2 class="text-center border-header"><span>Keynote Speakers</span></h2>
 
   <p>The JuliaCon 2016 committee is happy to announce the following keynote speakers:</p>
 
@@ -55,6 +73,16 @@ title: JuliaCon
   </div>
 </div>
 
+<div id="location"></div>
+<br>
+<div class="container">
+    <h2 class="text-center border-header"><span>Location</span></h2>
+    <p>The conference will be held in the Stata Center in rooms 123, 141, and 144.</p>
+    <iframe style="display:block; margin: 0 auto;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3693.0318297938784!2d-71.09180685382002!3d42.36082496761507!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0xa9dc1ab3c8bedd1e!2sMIT+Stata+Center!5e0!3m2!1sen!2sus!4v1466091331772" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+
+<div id="committee"></div>
+<br>
 <div class="container">
   <h2 class="text-center border-header"><span>Committee</span></h2>
   <ul>
@@ -82,6 +110,8 @@ title: JuliaCon
     or comments.</p>
 </div>
 
+<div id="accommodations"></div>
+<br>
 <div class="container">
   <h2 class="text-center border-header"><span>Accommodations</span></h2>
   <p>Accommodations for the conference can be found on MIT's
@@ -101,6 +131,8 @@ title: JuliaCon
   </ul>
 </div>
 
+<div id="sponsorship"></div>
+<br>
 <div class="container">
   <h2 class="text-center border-header"><span>Sponsorship</span></h2>
   <p>Want to be a JuliaCon 2016 sponsor? Three different sponsorship tiers are available:
@@ -154,6 +186,8 @@ title: JuliaCon
   <p style="padding-top: 1em;">...along with a generous personal donation from Jeffrey Sarnoff.</p>
 </div>
 
+<div id="past"></div>
+<br>
 <div class="container">
   <h2 class="text-center border-header"><span>Past JuliaCons</span></h2>
   <p>With 100+ attendees for JuliaCon 2014 and JuliaCon India, and 200+ attendees for last
@@ -175,6 +209,13 @@ title: JuliaCon
     var playlistUrl = 'https://www.youtube.com/embed/videoseries?list=' + playlistId + '&index=' + index;
     var videoFrame = document.getElementById('juliacon-player');
     if (videoFrame) { videoFrame.src = playlistUrl; }
+    /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+    function toggleMenu() {
+        document.getElementsByClassName("topnav")[0].classList.toggle("responsive");
+    }
+    function closeMenu() {
+        document.getElementsByClassName("topnav")[0].classList.remove("responsive");
+    }
 </script>
 
 <!-- <div class="container"> -->
