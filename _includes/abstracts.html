@@ -13,12 +13,6 @@ Juno is an effort by the Julia community to provide tooling for the language and
 </div>
 
 <div class="container abstrac">
-  <a name="RataJulia"><h3>Rata Julia: video tracking for behavioural neuroscience with Julia</h3></a>
-  <em>Carolina Brum Medeiros, Kellyn Costa, Mariana Araujo</em> (fliprl - brazil)
-  <p>On behavioral neuroscience, video analysis helps characterizing several domains of their activity, such as displacement, exploration, and stereotypy. Available commercial solutions, however, present several limitations, such as misidentification of target and displacement vector noise. We introduce a toolbox that performs the video tracking of rats by analyzing its frames separately. The target’s location is defined by several steps avoiding determining a hard contrast threshold. The soft threshold is defined by a self-compared scale using customized analysis. By doing this, the tracking solution does not suffer from variable lighting conditions, variable animal size (animal’s growth, various postures), and variable background (urine, etc). The absence of a hard threshold requires heavier processing, which is taken care of by using Julia’s parallel computing capabilities. Additionally, we determine the animal’s centroid in a manner that neglects the movement of trunk, head, and tail, resulting in a fair metric for displacement. Finally, we use classifier techniques to determine whether the animal is in vertical or horizontal displacement.</p>
-</div>
-
-<div class="container abstrac">
   <a name="DataScience"><h3>Julia for data science: current progress and future plans</h3></a>
   <em>Simon Byrne</em> (Julia Computing, Inc.)
   <p>This talk will give an overview of the current Julia data manipulation and modelling ecosystem, highlight the areas that still need work, and sketch out our future plans.
@@ -32,6 +26,18 @@ This work is supported by a grant from the Moore Foundation.</p>
   <p>Julia's dynamic-yet-statically-compilable type system is extremely powerful, but presents some challenges to creating generic storage containers, like tables of data where each column of the table might have different types. This package attempts to present a fully-typed `Table` container, where elements (rows, columns, cells, etc) can be extracted with their correct type annotation at zero additional run-time overhead. The resulting data can then be manipulated without any unboxing penalty, or the need to introduce unseemly function barriers, unlike existing approaches like the popular DataFrames.jl package. 
 
 The main caveat of this approach is the extra layer of complexity for the compiler and programmer introduced by including this information in the type parameters of objects. This talk will explore how additional Julia 0.5 features such as pure functions will significantly simplify both the interface and the implementation of DataTables.</p>
+</div>
+
+<div class="container abstrac">
+  <a name="MusicIR"><h3>Music Information Retrieval in Julia</h3></a>
+  <em>Jong Wook Kim</em> (New York University)
+  <p>Music Information Retrieval (MIR) is an exciting field of research with many successful real-world applications, such as automatic audio source separation, instrument recognition, chord recognition, automatic transcription and music recommender systems. In this lightning talk, I will briefly introduce MIR as a research topic, and show how Julia can be used to perform various music analysis and processing required in MIR research. The presentation will also include a demo of audio visualization and instrument classification, based on a music analysis library written in Julia that is planned to be open sourced by JuliaCon 2016.</p>
+</div>
+
+<div class="container abstrac">
+  <a name="FrequonInvaders"><h3>Using Julia as a Quick and Dirty Code Generator</h3></a>
+  <em>Arch D. Robison</em> (Intel Corporation)
+  <p>For a rewrite of Frequon Invaders, I needed a high performance SIMD kernel for a program written in Go, which lacks SIMD support, but does have a bare-bones assembler. Julia to the rescue! Julia turns out to be a nice language for writing a quick and dirty assembly-code generator.  Subtyping and multiple dispatch enabled concisely describing instruction selection.  Julia being a full programming language enabled some automatic register allocation. The exercise shows the power of Julia to quickly hack a limited “one off” program to generate code.</p>
 </div>
 
 <div class="container abstrac">
@@ -144,9 +150,9 @@ see this gist for a demo https://gist.github.com/shashi/9ad9de91d1aa12f006c4</p>
 </div>
 
 <div class="container abstrac">
-  <a name="FrequonInvaders"><h3>Using Julia as a Quick and Dirty Code Generator</h3></a>
-  <em>Arch D. Robison</em> (Intel Corporation)
-  <p>For a rewrite of Frequon Invaders, I needed a high performance SIMD kernel for a program written in Go, which lacks SIMD support, but does have a bare-bones assembler. Julia to the rescue! Julia turns out to be a nice language for writing a quick and dirty assembly-code generator.  Subtyping and multiple dispatch enabled concisely describing instruction selection.  Julia being a full programming language enabled some automatic register allocation. The exercise shows the power of Julia to quickly hack a limited “one off” program to generate code.</p>
+  <a name="India"><h3>Building the Julia community in India</h3></a>
+  <em>Zainab Bawa</em> (Director, HasGeek Learning Pvt Ltd)
+  <p>This talk presents a picture of the data science landscape in India, tools and technologies that data scientists use widely, and how Julia language is positioned in this landscape. From here, I explain how and why JuliaCon India edition has to stay relevant and ahead of its time, and why this approach is necessary for building and sustaining the community.</p>
 </div>
 
 <div class="container abstrac">
@@ -159,12 +165,6 @@ The bounds can be any constant integer, and large bounds are automatically conve
 The implementation exploits @generated functions to make the type level decisions.
 
 The original motivation arose in digital hardware system modeling, but the concept is very general.  The bounded integer “BInt” numeric type behaves like BigInt in that arithmetic on BInt values will never overflow, but without the runtime and storage overhead of BigInt when it can be determined that a fixed width type is sufficient.</p>
-</div>
-
-<div class="container abstrac">
-  <a name="India"><h3>Building the Julia community in India</h3></a>
-  <em>Zainab Bawa</em> (Director, HasGeek Learning Pvt Ltd)
-  <p>This talk presents a picture of the data science landscape in India, tools and technologies that data scientists use widely, and how Julia language is positioned in this landscape. From here, I explain how and why JuliaCon India edition has to stay relevant and ahead of its time, and why this approach is necessary for building and sustaining the community.</p>
 </div>
 
 <div class="container abstrac">
@@ -491,12 +491,6 @@ https://github.com/JuliaQuantum/QuDynamics.jl.</p>
 </div>
 
 <div class="container abstrac">
-  <a name="MusicIR"><h3>Music Information Retrieval in Julia</h3></a>
-  <em>Jong Wook Kim</em> (New York University)
-  <p>Music Information Retrieval (MIR) is an exciting field of research with many successful real-world applications, such as automatic audio source separation, instrument recognition, chord recognition, automatic transcription and music recommender systems. In this lightning talk, I will briefly introduce MIR as a research topic, and show how Julia can be used to perform various music analysis and processing required in MIR research. The presentation will also include a demo of audio visualization and instrument classification, based on a music analysis library written in Julia that is planned to be open sourced by JuliaCon 2016.</p>
-</div>
-
-<div class="container abstrac">
   <a name="WordEmbeddings"><h3>Fun with Word Embeddings in Julia</h3></a>
   <em>Sisir Koppaka</em> (Data Scientist, x.ai)
   <p>Word embeddings allow us to represent words, phrases, and even sentences as vectors in a hyperspace. This helps us in better capturing syntactic and semantic similarities between natural language entities based on distributional properties of various corpora. I'll briefly introduce the idea, and step visually into the process with a pure-Julia implementation. The backdrop of the discussion will be a year of practical learnings on shortening the feedback loop in ML at a fast-pace ML/NLP-driven startup.</p>
@@ -510,15 +504,15 @@ Demonstrate how can interactive debugging, scripting with Julia for iOS App deve
 </div>
 
 <div class="container abstrac">
-  <a name="ArrayFire"><h3>Accelerating Julia Kernels with ArrayFire</h3></a>
-  <em>Ranjan Anantharaman</em>
-  <p>Accelerated computing has become increasingly popular in the scientific community over the past few years. However, a common challenge is the dearth of easy high-level APIs. This talk is about using the package ArrayFire.jl to write accelerated kernels in Julia with easy Julian APIs. It is designed to mimic Base Julia in its versatility and ease of use, and allows you to switch between three backends: CPU, OpenCL and CUDA, without changing any code. This talk would demonstrate those capabilities and interesting applications using ArrayFire.</p>
-</div>
-
-<div class="container abstrac">
   <a name="PETSc"><h3>PETSc.jl: Interfacing an enormous C sparse-matrix library</h3></a>
   <em>Jared Crean</em> (Rensselaer Polytechnic Institute)
   <p>There exist many well-establish scientific libraries written C and Fortran which, taken together, form a software stack that supports high performance applications. This talk describes the wrapping of the Portable Extensible Toolkit for Scientific Computation (PETSc), a library for solving sparse linear and non-linear problems, such as those that arise from discretizing partial differential equations, on distributed memory systems. With 3,674 functions defined in its header files, wrapping the library is a significant challenge. The Clang.jl package is used to generate Julia Exprs for the C functions, which are then modified by a re-writer function to a more Julian form. In order to support matrices containing real and complex data, the package builds and links to 3 versions of PETSc simultaneously. To present the user with a unified interface, new Vector and Matrix types are defined that present the AbstractArray interface and contain additional functionality such as control over assembly of distributed-memory data structures and mapping local indices to global indices. Similarly, the iterative solver interface supports default usage as an A \ b solver, but also contains a wide variety of options for pre-conditioning and the choice of Krylov method. An overview of the present state of the wrappers and future work will be given.</p>
+</div>
+
+<div class="container abstrac">
+  <a name="ArrayFire"><h3>Accelerating Julia Kernels with ArrayFire</h3></a>
+  <em>Ranjan Anantharaman</em>
+  <p>Accelerated computing has become increasingly popular in the scientific community over the past few years. However, a common challenge is the dearth of easy high-level APIs. This talk is about using the package ArrayFire.jl to write accelerated kernels in Julia with easy Julian APIs. It is designed to mimic Base Julia in its versatility and ease of use, and allows you to switch between three backends: CPU, OpenCL and CUDA, without changing any code. This talk would demonstrate those capabilities and interesting applications using ArrayFire.</p>
 </div>
 
 <div class="container abstrac">
