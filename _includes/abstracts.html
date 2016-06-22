@@ -7,7 +7,7 @@
 
 <div class="container abstrac">
   <a name="Juno"><h3>Juno, a Julia IDE</h3></a>
-  <em></em>
+  <em>Mike Innes</em>
   <p>Juno is an effort by the Julia community to provide tooling for the language and build a state of the art programming environment. As well as the various necessities, like evaluation, debugging and plotting, we aim to raise the bar for dynamic tooling in areas like interactivity, visualisation and dynamic analysis.
 Juno is an effort by the Julia community to provide tooling for the language and build a state of the art programming environment. As well as the various necessities, like evaluation, debugging and plotting, we aim to raise the bar for dynamic tooling in areas like interactivity, visualisation and dynamic analysis.</p>
 </div>
@@ -23,7 +23,7 @@ This work is supported by a grant from the Moore Foundation.</p>
 <div class="container abstrac">
   <a name="DataTables"><h3>TypedTables: type-safe data containers</h3></a>
   <em>Andy Ferris</em> (Fugro Roames)
-  <p>Julia's dynamic-yet-statically-compilable type system is extremely powerful, but presents some challenges to creating generic storage containers, like tables of data where each column of the table might have different types. This package attempts to present a fully-typed `Table` container, where elements (rows, columns, cells, etc) can be extracted with their correct type annotation at zero additional run-time overhead. The resulting data can then be manipulated without any unboxing penalty, or the need to introduce unseemly function barriers, unlike existing approaches like the popular DataFrames.jl package.
+  <p>Julia's dynamic-yet-statically-compilable type system is extremely powerful, but presents some challenges to creating generic storage containers, like tables of data where each column of the table might have different types. This package attempts to present a fully-typed `Table` container, where elements (rows, columns, cells, etc) can be extracted with their correct type annotation at zero additional run-time overhead. The resulting data can then be manipulated without any unboxing penalty, or the need to introduce unseemly function barriers, unlike existing approaches like the popular DataFrames.jl package. 
 
 The main caveat of this approach is the extra layer of complexity for the compiler and programmer introduced by including this information in the type parameters of objects. This talk will explore how additional Julia 0.5 features such as pure functions will significantly simplify both the interface and the implementation of DataTables.</p>
 </div>
@@ -192,12 +192,6 @@ The original motivation arose in digital hardware system modeling, but the conce
 </div>
 
 <div class="container abstrac">
-  <a name="TeachingJulia"><h3>Teaching first-year college students with Julia</h3></a>
-  <em>John Verzani</em> (CUNY/College of Staten Island)
-  <p>I will describe experiences from trying to use Julia as a replacement for MATLAB to add a computer component to freshman-level calculus at a comprehensive institution. For most students, Julia is their first language, making this class a good test of the ease of adoption of the language. In addition to a list of pros and cons, I'll discuss some of the packages being developed in support of this work.</p>
-</div>
-
-<div class="container abstrac">
   <a name="HPAT"><h3>HPAT.jl - Easy and Fast Big Data Analytics</h3></a>
   <em>Ehsan Totoni</em> (Intel Labs)
   <p>High Performance Analytics Toolkit (HPAT.jl) is a framework for big data analytics on clusters that automatically parallelizes Julia-based analytics programs, and generates efficient MPI/C++ code. HPAT is orders of magnitude faster than systems like Apache Spark. For example, HPAT is 53x faster for Spark’s front-page logistic regression example (200 iterations, 2 billion 10-feature samples) on a 64 nodes (2048 core) system. HPAT is compiler based; it uses Julia’s metaprogramming and ParallelAccelerator under the hoods to apply many optimizations.
@@ -260,8 +254,8 @@ In this talk I will present the Astrodynamics.jl library and explore how Julia�
   <a name="LeastSquares"><h3>Least Squares with high dimensional variables</h3></a>
   <em>Matthieu Gomez</em> (Princeton University)
   <p>I will show how to estimate least squares models with high dimensional categorical variables. These models are useful in social sciences because they allow to control for unobserved heterogeneity at a granular level. However, these models are hard to estimate because they typically include a large number of variables.
-I will start with linear models with fixed effects. These models require to solve least squares problems on sparse matrices. I will present a new package to estimate such models in Julia, FixedEffectModels.jl.
-I will then discuss linear models with *interacted* fixed effects.These models require to estimate PCAs on sparse matrices. I will present a new package to estimate such models in Julia, SparseFactorModels.jl.
+I will start with linear models with fixed effects. These models require to solve least squares problems on sparse matrices. I will present a new package to estimate such models in Julia, FixedEffectModels.jl. 
+I will then discuss linear models with *interacted* fixed effects.These models require to estimate PCAs on sparse matrices. I will present a new package to estimate such models in Julia, SparseFactorModels.jl. 
 Finally, I will present a package to solve general high-dimensional least squares problem, LeastSquaresOptim.jl. This package, inspired by the Ceres-solver, is the backend for the two previous packages.</p>
 </div>
 
@@ -309,7 +303,7 @@ We will show how these ideas can be used to obtain precise and rigorous results 
 <div class="container abstrac">
   <a name="DSGE"><h3>DSGE.jl – Using Julia for Economic Modeling at the Federal Reserve Bank of New York</h3></a>
   <em>Erica Moszkowski</em> (Federal Reserve Bank of New York)
-  <p>This talk will describe how researchers in the Federal Reserve Bank of New York’s DSGE Team use Julia for macroeconomic modeling.  In collaboration with the QuantEcon team, we ported our code for solving dynamic stochastic general equilibrium (DSGE) models to Julia, releasing the source code in the DSGE.jl package in December. DSGE models describe how economic agents behave, given some assumptions about the underlying environment, including fiscal and monetary policy regimes, price rigidities, credit frictions, and various economic shocks.  The FRBNY model is a relatively large model of the U.S. economy, has been used for research on the dynamics of inflation during the great recession, the effects of forward guidance, and much more.
+  <p>This talk will describe how researchers in the Federal Reserve Bank of New York’s DSGE Team use Julia for macroeconomic modeling.  In collaboration with the QuantEcon team, we ported our code for solving dynamic stochastic general equilibrium (DSGE) models to Julia, releasing the source code in the DSGE.jl package in December. DSGE models describe how economic agents behave, given some assumptions about the underlying environment, including fiscal and monetary policy regimes, price rigidities, credit frictions, and various economic shocks.  The FRBNY model is a relatively large model of the U.S. economy, has been used for research on the dynamics of inflation during the great recession, the effects of forward guidance, and much more. 
 
 The DSGE.jl package facilitates the solution and Bayesian estimation of DSGE models. We provide the FRBNY model as one example, but give details on how users can define completely different models.  In this talk, I will give a brief overview of the model and our experience porting the code from MATLAB to Julia (including perspective on using Julia in a "production" setting at a public policy institution). Finally, I will touch on the Julia features our team has found most useful for economic modeling</p>
 </div>
@@ -465,9 +459,9 @@ FunHPC targets PDE discretization methods with irregular, hierarchical data stru
 <div class="container abstrac">
   <a name="QuantumDynamics"><h3>QuDynamics - Framework for solving Dynamical Quantum Equations.</h3></a>
   <em>Amit Jamadagni</em>
-  <p>QuDynamics is a Julia package which provides a framework for solving dynamical equations arising in Quantum Mechanics. The current version includes support for solving Schrodinger equations, Liouville von Neumann equations and Lindblad master equations with methods which have been integrated from various other Julia packages like ODE.jl, ExpmV.jl, Expokit.jl. The aim of the talk is to introduce QuDynamics with some examples, and focus on ongoing work to equip QuDynamics with additional features such as Monte-Carlo parallelization, addition of new solvers among many others.
+  <p>QuDynamics is a Julia package which provides a framework for solving dynamical equations arising in Quantum Mechanics. The current version includes support for solving Schrodinger equations, Liouville von Neumann equations and Lindblad master equations with methods which have been integrated from various other Julia packages like ODE.jl, ExpmV.jl, Expokit.jl. The aim of the talk is to introduce QuDynamics with some examples, and focus on ongoing work to equip QuDynamics with additional features such as Monte-Carlo parallelization, addition of new solvers among many others. 
 
-The repo is being maintained at
+The repo is being maintained at 
 
 https://github.com/JuliaQuantum/QuDynamics.jl.</p>
 </div>
@@ -522,3 +516,4 @@ The roadmap of Lora includes adding documentation for existing functionality, ca
   <em>Lars Ruthotto</em> (Emory University)
   <p>jInv is a Julia framework for the solution of large-scale PDE constrained optimization problems. It supports linear and nonlinear PDE constraints and provides many commonly used tools in inverse problems such as different misfit functions, regularizers, and efficient methods for numerical optimization. Also, it provides easy access to both iterative and direct linear solvers for solving linear PDEs. A main feature of jInv is the provided easy access to parallel and distributed computation supporting a variety of computational architectures: from a single laptop to large clusters of cloud computing engines. Being written in the high-level dynamic language Julia, it is easily extendable and yet fast. I will outline jInv's potential using examples from geophysical imaging with both linear and nonlinear PDE forward models.</p>
 </div>
+
