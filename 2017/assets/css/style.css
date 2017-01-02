@@ -8,6 +8,7 @@ a {
 
 h1 {
     font-size: 32px;
+    margin-bottom: 12px;
     line-height: 48px;
     font-weight: bold;
     font-family: "futura-pt";
@@ -16,6 +17,7 @@ h1 {
 h2 {
     font-size: 32px;
     line-height: 48px;
+    margin-bottom: 12px;
     font-family: "futura-pt";
 }
 
