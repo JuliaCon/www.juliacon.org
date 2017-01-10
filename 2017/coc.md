@@ -64,9 +64,9 @@ a recurrence.
 ### Personal Report
 
 You can make a personal report by calling or messaging this phone
-number: [Phone number for reporting] or this email address [email
-address for reporting]. This phone number will be continuously
-monitored for the duration of the event.
+number: [Phone number for reporting] or this email address
+juliacon@googlegroups.com (private group of the committee).
+This phone number will be continuously monitored for the duration of the event.
 
 When taking a personal report, our staff will ensure you are safe and
 cannot be overheard. They may involve other event staff to ensure your
