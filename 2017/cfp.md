@@ -44,21 +44,19 @@ please let us know and we will see what we can do.
 
 ## Proposal Advice
 
-* Submit proposals early as it allows us to contact you and give feedback to improve
-  your proposal if there are any issues with it. 
-* When thinking about what makes a good topic, ask yourself what kind of presentation
-  would make you or people you know excited. 
-* Great talks are generally about your own experience. How do you use Julia in your work?
-  What makes a specific package good and how does it work? How does Julia affect you and your code?
-  What's holding you back from going all the way? What needs improving? What's your roadmap? 
-* It may be a good idea to review previous presentations for inspiration
-  and ideas on how to write your title and abstract. 
-* If you are presenting about a certain project, package, or company,
+* Submit proposals early as it allows us to contact you and give feedback if necessary.
+* When thinking about what makes a good topic, ask yourself what kind of presentation  
+  would make you or your friends excited. 
+* Great talks are generally about your own experience. How do you use Julia in your work?  
+  How does Julia affect you and your code? What's holding you back from going all the way?   
+  What makes a specific package good and how does it work? What needs improving?
+* It may be a good idea to review previous presentations for inspiration and ideas.
+* If you are presenting about a certain project, package, or company,  
   include links to guide the reader to more information. 
-* Try not to assume familiarity with your subject when writing the abstract,
+* Try not to assume familiarity with your subject when writing the abstract,  
   the average reader is most likely not an expert in your area of expertise. 
 * Avoid opaque titles; while witty titles are good, an informative title is essential. 
-* Avoid infomercials, while we love to hear how you use Julia in your company,
+* Avoid infomercials, while we love to hear how you use Julia in your company,  
   note that JuliaCon is not the place to sell your product. 
 * If you want feedback before submitting a proposal, contact us at juliacon@googlegroups.com
   well ahead of the deadline. We are more than happy to help you improve your proposal. 
