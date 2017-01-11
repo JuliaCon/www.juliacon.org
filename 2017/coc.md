@@ -52,6 +52,7 @@ violations reduce the value of our event for everyone. We want you to
 be happy at our event. People like you make our event a better
 place. You can make a report either personally or anonymously.
 
+<!--
 ### Anonymous Report
 
 You can make an anonymous report here [Wufoo form or similar that DOES
@@ -60,11 +61,11 @@ NOT require an email address to submit.]
 We can't follow up an anonymous report with you directly, but we will
 fully investigate it and take whatever action is necessary to prevent
 a recurrence.
-
+-->
 ### Personal Report
 
 You can make a personal report by calling or messaging this phone
-number: [Phone number for reporting] or this email address
+number: (TBD) or this email address
 juliacon@googlegroups.com (private group of the committee).
 This phone number will be continuously monitored for the duration of the event.
 
@@ -84,6 +85,7 @@ attendance.
 Diversity Coordinator: Erica Moszkowski <erica.moszkowski@gmail.com>
 
 <!--
+[Phone number for during the conference]
 [Phone number for conference security or organizers]
 [Phone number for hotel/venue security]
 [Local law enforcement]
