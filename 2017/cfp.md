@@ -66,11 +66,13 @@ If you have doubts about becoming a speaker, check out the website
 We look forward to your proposals and to seeing you at JuliaCon 2017.  
 
 ## The fine print
+
 ### Submission process
 
 We are using an anonymized submissions process, to avoid selection bias related to the speaker.
 
 ### Recordings and Slides
+
 We plan to record all talks and will make them available after the conference.
 We do this for those who can’t attend. If you are uncomfortable with having your talk recorded,
 please let any member of the committee know. Being recorded is not a requirement to attend
@@ -79,4 +81,5 @@ materials and recording available under a [creative commons](https://creativecom
 (default: no commercial reuse) or other [open source](https://opensource.org/licenses) license.
 
 # Submisson Form 
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelPUNkSwDXIErdK6Gm2Xzv4G47liAbn8LDylCbOBoKGf2l8Q/viewform?embedded=true" width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
