@@ -6,11 +6,11 @@ layout: page2017
 
 We are inviting the Julia community to submit talks and workshop proposals for
 the upcoming JuliaCon (June 20th-24th, Berkeley, CA, USA).
-This Call forProposals closes on **March 25th, 11:59pm SST**.
+This Call for Proposals closes on **March 25th, 11:59pm SST**.
 
-JuliaCon is the fourth annual Julia community meeting and we encourage everyone
+JuliaCon is the fourth annual Julia community meetining. We encourage everyone
 to consider submitting a proposal, regardless of your level of experience with
-Julia or as a speaker. 
+Julia or as a speaker. If you work with Julia in any form we want to hear from you!
 
 ## Topics
 
@@ -57,16 +57,15 @@ please let us know and we will see what we can do.
   include links to guide the reader to more information. 
 * Try not to assume familiarity with your subject when writing the abstract,
   the average reader is most likely not an expert in your area of expertise. 
-* Avoid opaque titles, while witty is good, an informative title is essential. 
-* Avoid infomercials, while we love to hear how you use Julia in your company
-  JuliaCon is not the place to sell your product. 
+* Avoid opaque titles; while witty titles are good, an informative title is essential. 
+* Avoid infomercials, while we love to hear how you use Julia in your company,
+  note that JuliaCon is not the place to sell your product. 
 * If you want feedback before submitting a proposal, contact us at juliacon@googlegroups.com
   well ahead of the deadline. We are more than happy to help you improve your proposal. 
 
 If you have doubts about becoming a speaker, check out the website
-[We are all awesome](http://weareallaweso.me/). If you work with Julia in any form we want to hear from you!
-
-We look forward to your proposals and to seeing you at JuliaCon 2017. 
+[We are all awesome](http://weareallaweso.me/).  
+We look forward to your proposals and to seeing you at JuliaCon 2017.  
 
 ## The fine print
 ### Submission process
@@ -74,12 +73,12 @@ We look forward to your proposals and to seeing you at JuliaCon 2017.
 We are using an anonymized submissions process, to avoid selection bias related to the speaker.
 
 ### Recordings and Slides
-We plan to record all talks and will make them available after conference.
-We do this for those who can’t attend, but If you are uncomfortable please let
-any member of the committee know. Being recorded is not a requirement to attend
+We plan to record all talks and will make them available after the conference.
+We do this for those who can’t attend. If you are uncomfortable with having your talk recorded,
+please let any member of the committee know. Being recorded is not a requirement to attend
 JuliaCon or to give a presentation. Finally, we would also ask you to make your
-materials and recording available under a creative commons (default: no commercial reuse)
-or other open source license.
+materials and recording available under a [creative commons](https://creativecommons.org/choose/)
+(default: no commercial reuse) or other [open source](https://opensource.org/licenses) license.
 
 # Submisson Form 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelPUNkSwDXIErdK6Gm2Xzv4G47liAbn8LDylCbOBoKGf2l8Q/viewform?embedded=true" width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
