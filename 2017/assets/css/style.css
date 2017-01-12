@@ -1,3 +1,7 @@
+html {
+    background: #fff4f3;
+    color: #393333;
+}
 a {
     text-decoration: none;
 }
@@ -25,6 +29,10 @@ h3 {
     font-size: 24px;
     line-height: 48px;
     font-family: "futura-pt";
+}
+
+h1,h2,h3,h4 {
+    color: #b07950;
 }
 .link-color-inherit a, a.link-color-inherit {
     color: inherit;
@@ -72,7 +80,7 @@ h3 {
     background-color: #ededed;
 }
 .bg-purple {
-    background: #933548;
+    background: #934845;
 }
 .text-gray {
     color: #575757;
