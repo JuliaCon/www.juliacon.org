@@ -7,7 +7,7 @@ a {
 }
 
 a {
-    color: #416e93;
+    color: #9d253d;
 }
 
 h1 {
@@ -269,4 +269,13 @@ ul, ol {
 .text-shadow {
     text-shadow: 2px 2px 2px #7d253d;
 
+}
+.bg-yellow {
+    background-color: #f0b980
+}
+.text-maroon {
+    color: #9d253d;
+}
+.bg-maroon {
+    background-color: #9d253d;
 }
