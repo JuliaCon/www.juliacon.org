@@ -71,7 +71,13 @@ We look forward to your proposals and to seeing you at JuliaCon 2017.
 
 ### Submission process
 
-We are using an anonymized submissions process, to avoid selection bias related to the speaker.
+We are using an anonymized submissions process, to avoid selection bias related to the speaker. 
+
+### Financial support
+
+Travel and/or conference ticket reimbursement is also available for a limited number of speakers and attendees, particularly those who bring new perspectives and diverse backgrounds to JuliaCon. See
+[here](https://docs.google.com/forms/d/e/1FAIpQLSeIeTSamuqOEH2T_-S81aBZ9OrjSqKwkaIfFT0v3ttyhU5qlw/viewform?c=0&w=1) to
+apply for financial support.
 
 ### Recordings and materials
 
