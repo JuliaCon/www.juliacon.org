@@ -6,7 +6,7 @@ layout: page2017
 
 We are inviting the Julia community to submit talks and workshop proposals for
 the upcoming JuliaCon (June 20th-24th 2017, Berkeley, California, USA).  
-This Call for Proposals closes on **March 25th, 11:59pm AOE (UTC-12)**.
+This Call for Proposals closes on **March 31th, 11:59pm AOE (UTC-12)**.
 
 JuliaCon is the fourth annual Julia community meeting. We encourage everyone
 to consider submitting a proposal, regardless of your level of experience with
