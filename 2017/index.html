@@ -20,7 +20,7 @@ layout: default2017
           <a href="/2017/cfp" class="u-button text-yellow bg-maroon">Propose a Talk</a>
       </div>
       <div class="u-vskip"></div>
-      <div class="u-highlight-small"><a href="/2017/cfp" class="link-color-inherit">Call for Proposals</a> closes on March 31</div>
+      <!--<div class="u-highlight-small">Call for Proposals closed on March 31</div>-->
       <div class="u-highlight-small u-bold"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeIeTSamuqOEH2T_-S81aBZ9OrjSqKwkaIfFT0v3ttyhU5qlw/viewform?c=0&w=1" class="link-color-inherit">Some financial support for speakers is available!</a></div>
       <div class="u-vskip"></div>
     </div>
@@ -33,16 +33,55 @@ layout: default2017
 
 <div class="u-vskip-3"></div>
 <div class="u-container u-center u-hbox">
-  <div class="u-max-cols-6">
+  <div class="u-vbox u-max-cols-6">
       <div class="u-vskip"></div>
       <h2>Call for Proposals</h2>
-      <a href="/2017/cfp"><strong>Now open!</strong></a><br>
-      All speakers welcome! <br> We have a diversity scholarship. See below.
-      Call for Participation closes: March 31, 11:59pm AOE (UTC-12) <br>
+      Call for proposals closed on 31st March 2017. Estimated notification of accepted proposals: April 7th.
+      <!--
+      <a href="/2017/cfp"><strong>Now open!</strong></a><br> All speakers welcome! <br> We have a diversity scholarship. See below.  Call for Participation closes: March 31, 11:59pm AOE (UTC-12) <br>
       Estimated notification: April 7th <br>
       <a href="/2017/cfp">juliacon.org/2017/cfp</a>
+      -->
       <div class="u-vskip"></div>
 
+      {% comment %}
+      <h2>Keynotes</h2>
+      {% include keynote-speaker.html
+            name="Mykel J. Kochenderfer"
+            affiliation="Stanford University"
+            blurb="
+Mykel Kochenderfer is Assistant Professor of Aeronautics and Astronautics and Assistant Professor, by courtesy, of Computer Science at Stanford University.  Prof. Kochenderfer is the director of the Stanford Intelligent Systems Laboratory (SISL), conducting research on advanced algorithms and analytical methods for the design of robust decision making systems. Of particular interest are systems for air traffic control, unmanned aircraft, and other aerospace applications where decisions must be made in uncertain, dynamic environments while maintaining safety and efficiency. Research at SISL focuses on efficient computational methods for deriving optimal decision strategies from high-dimensional, probabilistic problem representations. Prof. Kochenderfer is also affiliated with the Stanford Artificial Intelligence Laboratory (SAIL), the Army High Performance Computing Research Center (AHPCRC), the SAIL-Toyota Center for AI Research, and the Center for Automotive Research at Stanford (CARS).
+      "
+            %}
+
+      {% include keynote-speaker.html
+            name="Fernando Pérez"
+            affiliation="Lawrence Berkeley Laboratory"
+            blurb="
+Fernando Pérez is a staff scientist at Lawrence Berkeley National Laboratory and a founding investigator of Berkeley Institute of Data Science. His research focuses on creating tools for modern computational research and data science across domain disciplines, with an emphasis on high-level languages, literate computing, and reproducible research. He created IPython when he was graduate student in 2001 and continues to lead it as it evolves into the Jupyter Project, now as an open, collaborative effort with a talented team that does all the hard work. He regularly lectures about scientific computing and data science and is a member of the Python Software Foundation as well as a founding member of the Numfocus Foundation. He is the recipient of the 2012 Award for the Advancement of Free Software from the Free Software Foundation.
+      "
+            %}
+
+
+
+      {% include keynote-speaker.html
+            name="Katherine A. Yelick"
+            affiliation="University of California Berkeley and Lawrence Berkeley Laboratory"
+            blurb="
+Katherine (Kathy) Yelick is a Professor of Electrical Engineering and Computer Sciences at UC Berkeley and the Associate Laboratory Director (ALD) for Computing Sciences at Lawrence Berkeley National Laboratory. Her research is in high performance computing, programming languages, compilers, parallel algorithms, and automatic performance tuning. She currently leads the Berkeley UPC project and co-lead the Berkeley Benchmarking and Optimization (Bebop) group. As ALD for Computing Sciences at LBNL, she oversees the National Energy Research Scientific Computing Center (NERSC), the Energy Sciences Network (ESnet) and the Computational Research Division (CRD), which covers applied math, computer science, data science and computational science.
+      "
+            %}
+
+      {% include keynote-speaker.html
+            name="The Celeste project"
+            affiliation=""
+            blurb="
+Celeste is a procedure for inferring astronomical catalogs that attains state-of-the-art scientific results. The implementation is written entirely in Julia and utilizes high-level constructs for shared and distributed memory parallelism. In the fall, the project demonstrated effective load balancing and efficient scaling on up to 8192 Xeon cores on the NERSC Cori supercomputer. This spring, the project aims for running at full scale on the Knights Landing based NERSC Cori Phase II supercomputer – the fifth most powerful machine in the world.
+      "
+            %}
+            {% endcomment %}
+  </div>
+  <div class="u-max-cols-6">
       <h2>Diversity scholarships</h2>
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIeTSamuqOEH2T_-S81aBZ9OrjSqKwkaIfFT0v3ttyhU5qlw/viewform?c=0&w=1"><strong>Apply now!</strong></a><br>
       Our goal is to create an inclusive, respectful conference environment that invites participation from people of all races, ethnicities, genders, ages, abilities, religions, and sexual orientations. This year we are offering ticket and travel reimbursements for underrepresented JuliaCon speakers and attendees!
@@ -71,8 +110,6 @@ layout: default2017
       and can be reached at <a href="mailto:juliacon@googlegroups.com">juliacon@googlegroups.com</a>
       with any questions or comments.
       </div>
-  </div>
-  <div class="u-max-cols-6">
       <div class="u-vskip"></div>
       <h2>Videos</h2>
       Below is a random talk from JuliaCon 2016. Click on the playlist icon
