@@ -1,5 +1,8 @@
 <h3>{{include.name}}</h3>
 <div class="u-uppercase text-gray" style="font-size:0.90em">{{include.affiliation}}</div>
 <div class="u-vskip"></div>
-{{include.blurb | markdownify}}
+<div>
+<img src="{{include.image}}" style="width: 200px; float: left; margin-right: 1em; margin-bottom: 1em;">
+    {{include.blurb | markdownify}}
+</div>
 <div class="u-vskip"></div>
