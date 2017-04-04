@@ -1,10 +1,12 @@
-<h3>{{include.name}}</h3>
+<h3><a href="{{include.url}}">{{include.name}}</a></h3>
 <div class="u-uppercase text-gray" style="font-size:0.90em">{{include.affiliation}}</div>
 <div class="u-vskip"></div>
 <div>
   {% if include.image %}
     <img src="{{include.image}}" style="max-height: 185px; float: left; margin-right: 1em;">
   {% endif %}
-  {{include.blurb | markdownify}}
+  <div>
+      {{include.blurb | markdownify}}
+  </div>
 </div>
 <div class="u-vskip"></div>
