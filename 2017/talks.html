@@ -128,7 +128,7 @@ accepted_workshops:
       Jump to description:
       <ul>
     {% for workshop in page.accepted_workshops %}
-    <li><a href="#workshop-{{forloop.index}}">{{workshop.title}} &ndash; {{workshop.speaker}}</a></li>
+    <li><a href="#workshop-{{forloop.index}}">{{workshop.title}}</a> <br> <span class="u-italic"> &ndash; {{workshop.speaker}}</span></li>
     {% endfor %}
       </ul>
 
