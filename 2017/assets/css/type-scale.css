@@ -1,6 +1,6 @@
 
 
-p, blockquote, pre {
+p, blockquote, pre, ul, ol {
     line-height: 1.75;
     margin-bottom: 24px;
 }
