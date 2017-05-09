@@ -48,24 +48,8 @@ layout: default2017
   <div class="u-hbox">
     <!-- 1st column -->
     <div class="u-cols-6">
-        <h2>Talks</h2>
-{% for talk in site.data.jc2017.talks %}
-    <h3 id="talk-{{forloop.index}}">{{ talk.title }}</h3>
-    <div class="u-uppercase text-gray" style="font-size:0.90em">
-        {{talk.speaker}}, {{talk.affiliation}}
-    </div>
-
-    {{talk.abstract |markdownify}}
-
-    <div>
-        <em class="u-italic">About {{talk.speaker}}</em>
-        {{talk.bio | markdownify }}
-    </div>
-{% endfor %}
 
         <h2>Workshops</h2>
-
-
 {% for workshop in site.data.jc2017.workshops %}
     <h3 id="workshop-{{forloop.index}}">{{ workshop.title }}</h3>
     <div class="u-uppercase text-gray" style="font-size:0.90em">
@@ -80,6 +64,20 @@ layout: default2017
     </div>
 {% endfor %}
 
+        <h2>Talks</h2>
+{% for talk in site.data.jc2017.talks %}
+    <h3 id="talk-{{forloop.index}}">{{ talk.title }}</h3>
+    <div class="u-uppercase text-gray" style="font-size:0.90em">
+        {{talk.speaker}}, {{talk.affiliation}}
+    </div>
+
+    {{talk.abstract |markdownify}}
+
+    <div>
+        <em class="u-italic">About {{talk.speaker}}</em>
+        {{talk.bio | markdownify }}
+    </div>
+{% endfor %}
 
     </div>
 
