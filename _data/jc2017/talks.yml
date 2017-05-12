@@ -182,18 +182,18 @@
 
     Systems Biologists in the COnstraint-Based Reconstruction and Analysis (COBRA) [7] community are gearing up to develop computational models of large and huge-scale biochemical networks with more than one million biochemical reactions. The growing model size puts a strain on efficient simulation and network exploration times to the point that accelerating existing COBRA methods became a priority. Flux balance analysis and its variants are widely used methods for predicting steady-state reaction rates in biochemical reaction networks. The exploration of high dimensional networks has long been hampered by performance limitations of current implementations in Matlab/C (The COBRA Toolbox [8] and fastFVA [3]) or Python (cobrapy [2]). Julia [1] is the language that fills the gap between complexity, performance, and development time. DistributedFBA.jl [4], part of the novel COBRA.jl package, is a high-level, high-performance, open-source Julia implementation of flux balance analysis, which is a linear optimization problem. It is tailored to solve multiple flux balance analyses on a subset or all the reactions of large and huge-scale networks, on any number of threads or nodes using optimization solver interfaces implemented in MathProgBase.jl [5]. Julia's parallelization capabilities led to a speedup in latency that follows Amdahl's law. For the first time, a flux variability analysis (two flux balance analyses on each biochemical reaction) on a model with more than 200k biochemical reactions [6] has been performed. With Julia and COBRA.jl, the reconstruction and analysis capabilities of large and huge-scale models in the COBRA community are lifted to another level.
 
-    -> Code and benchmark data are freely available on github.com/opencobra/COBRA.jl
+    Code and benchmark data are freely available on github.com/opencobra/COBRA.jl
 
-    References
+    References:
 
-    [1] Bezanson, Jeff and Edelman, Alan and Karpinski, Stefan and Shah, Viral B., "Julia: A Fresh Approach to Numerical Computing", arXiv:1411.1607 [cs]  (2014). arXiv: 1411.1607
-    [2] Ebrahim, Ali and Lerman, Joshua A. and Palsson, Bernhard O. and Hyduke, Daniel R., "COBRApy: COnstraints-Based Reconstruction and Analysis for Python", BMC Systems Biology  7 (2013), pp. 74.
-    [3] Gudmundsson, Steinn and Thiele, Ines, "Computationally efficient flux variability analysis", BMC Bioinformatics  11, 1 (2010), pp. 489.
-    [4] Heirendt, Laurent and Thiele, Ines and Fleming, Ronan M. T., "DistributedFBA.jl: high-level, high-performance flux balance analysis in Julia", Bioinformatics  btw838 (2017).
-    [5] Lubin, Miles and Dunning, Iain, "Computing in Operations Research using Julia", INFORMS Journal on Computing  27, 2 (2015), pp. 238--248. arXiv: 1312.1431
-    [6] Magnúsdóttir, Stefanía and Heinken, Almut and Kutt, Laura and Ravcheev, Dmitry A. and Bauer, Eugen and Noronha, Alb…, "Generation of genome-scale metabolic reconstructions for 773 members of the human gut microbiota", Nat Biotech  35, 1 (2017), pp. 81--89.
-    [7] Palsson, Bernhard Ø, Systems Biology: Constraint-based Reconstruction and Analysis (Cambridge, England: Cambridge University Press, 2015).
-    [8] Schellenberger, Jan and Que, Richard and Fleming, Ronan M. T. and Thiele, Ines and Orth, Jeffrey D. and Feist, Adam M. and Ziel…, "Quantitative prediction of cellular metabolism with constraint-based models: the COBRA Toolbox v2.0", Nat. Protocols  6, 9 (2011), pp. 1290--1307. 00182
+      - [1] Bezanson, Jeff and Edelman, Alan and Karpinski, Stefan and Shah, Viral B., "Julia: A Fresh Approach to Numerical Computing", arXiv:1411.1607 [cs]  (2014). arXiv: 1411.1607
+      - [2] Ebrahim, Ali and Lerman, Joshua A. and Palsson, Bernhard O. and Hyduke, Daniel R., "COBRApy: COnstraints-Based Reconstruction and Analysis for Python", BMC Systems Biology  7 (2013), pp. 74.
+      - [3] Gudmundsson, Steinn and Thiele, Ines, "Computationally efficient flux variability analysis", BMC Bioinformatics  11, 1 (2010), pp. 489.
+      - [4] Heirendt, Laurent and Thiele, Ines and Fleming, Ronan M. T., "DistributedFBA.jl: high-level, high-performance flux balance analysis in Julia", Bioinformatics  btw838 (2017).
+      - [5] Lubin, Miles and Dunning, Iain, "Computing in Operations Research using Julia", INFORMS Journal on Computing  27, 2 (2015), pp. 238--248. arXiv: 1312.1431
+      - [6] Magnúsdóttir, Stefanía and Heinken, Almut and Kutt, Laura and Ravcheev, Dmitry A. and Bauer, Eugen and Noronha, Alb…, "Generation of genome-scale metabolic reconstructions for 773 members of the human gut microbiota", Nat Biotech  35, 1 (2017), pp. 81--89.
+      - [7] Palsson, Bernhard Ø, Systems Biology: Constraint-based Reconstruction and Analysis (Cambridge, England: Cambridge University Press, 2015).
+      - [8] Schellenberger, Jan and Que, Richard and Fleming, Ronan M. T. and Thiele, Ines and Orth, Jeffrey D. and Feist, Adam M. and Ziel…, "Quantitative prediction of cellular metabolism with constraint-based models: the COBRA Toolbox v2.0", Nat. Protocols  6, 9 (2011), pp. 1290--1307. 00182
   bio: >
     Laurent Heirendt was born in 1987 in Luxembourg City, Luxembourg (Europe). He received his BSc in Mechanical Engineering from the Ecole Polytechnique Fédérale de Lausanne, Switzerland in 2009. A year later, he received his MSc in Advanced Mechanical Engineering from Imperial College London in the UK, where his research and thesis focused on developing a general dynamic model for shimmy analysis of aircraft landing gear that is still in use today. He received his PhD in 2014 in Aerospace Science from the University of Toronto, Canada. He developed a thermo-tribomechnical model of an aircraft landing gear, which led to a patent pending design of a critical aircraft landing gear component.
     He then worked in industry and oversaw the structural analysis of large aircraft docking structures.
@@ -254,9 +254,13 @@
     Specifically, we'd like to share some of our work on:
 
     * Robot dynamics and simulation in Julia: https://github.com/tkoolen/RigidBodyDynamics.jl
+
     * 3D visualization and manipulation of robot models from Julia: https://github.com/rdeits/RigidBodyTreeInspector.jl https://github.com/rdeits/DrakeVisualizer.jl
+
     * Optimization in Julia: https://github.com/rdeits/NNLS.jl
+
     * Collision algorithms in Julia: https://github.com/rdeits/EnhancedGJK.jl https://github.com/rdeits/AdaptiveDistanceFields.jl
+
 
     We would also like to talk about how some of the best parts of the Julia ecosystem have made our work possible, like JuMP.jl, ForwardDiff.jl, and StaticArrays.jl.
 
@@ -348,7 +352,9 @@
     Here, we introduce a novel efficient method for numerically exact simulations of sparse neural networks that bring to bear Julia’s different data structures and high performance. The new algorithm reduces the computational cost from O(N) to O(log(N)) operations per network spike. This is achieved by mapping the neural dynamics to pulse-coupled phase oscillators and using mutable binary heaps for efficient state updates.
     Thereby numerically exact simulations of large spiking networks and the characterization of their chaotic phase space structure become possible. For example, calculating the largest Lyapunov exponent of a spiking neural network with one million neurons is sped up by more than four orders of magnitude compared to previous implementations in other programming languages (C++, Python, Matlab).
   bio: >
-    2017: Ph.D., Max Planck Institute for Dynamics and Self-Organization
+    - 2017: Ph.D., Max Planck Institute for Dynamics and Self-Organization
     "Chaotic neural circuit dynamics" (summa cum laude)
-    2011: Diploma in Physics, University of Tuebingen
-    2009: Certificate of Advanced Study in Mathematics (Part III), University of Cambridge (UK)
+
+    - 2011: Diploma in Physics, University of Tuebingen
+
+    - 2009: Certificate of Advanced Study in Mathematics (Part III), University of Cambridge (UK)
