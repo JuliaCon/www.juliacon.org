@@ -2,18 +2,17 @@
   affiliation: "None"
   title: "Full Stack Web Development with Genie.jl"
   abstract: >
-    Julia is a fast, friendly and powerful programming language. It's got a wealth of packages to graciously and efficiently handle scientific computing. Maybe you're still learning about its edge cases, or maybe you're already productive with it and it's your go to language for day to day tasks. Maybe you're already using Julia at work or are seriously considering adopting it. Either way, you love it!
+    The web is eating the world, but building modern web applications can be an intimidating task. Successful online products must be fast, beautiful and usable. Responsive, maintainable and extendable. Provide simple and flexible web APIs. Be secure. Reach virtually 100% uptime while being easy to debug, extend and update, requiring powerful logging, intelligent caching and rapid scaling strategies.
 
-    But what if you want to monetize the unique features of your Julia software through a web app? What if you want to provide to a global customer base and still be in control of all the elements of your software, from UI to access rights? What if you want to build a competitive web product -- fast, beautiful, usable, responsive, maintainable, extendable? Build and expose flexible APIs? Reactive web UIs? Authentication? Authorization? Caching? Deployment? Localization? Logging?  Scalability? Security? Serving? Versioning? Oh my! 😱
+    Julia as a language has an enormous potential in the web space thanks to its concise and friendly syntax, the powerful REPL, Unicode support, cross-platform availability, the efficiently compiled code and its parallel and distributed computing capabilities. And Julia's ecosystem already provides low level libraries like HttpServer and WebSockets. But they leave the developers having to spend large amounts of time writing glue and boilerplate code: a tedious, expensive and error prone task. 
 
-    This talk will walk you through building a Julia web app using Genie.jl: from creating a new app, interacting with the database using the SearchLight ORM, using routes and the MVC stack to expose resources over the internet, to setting up a dedicated admin area behind authentication.
+    Genie is a new web framework that leverages Julia's unique combination of features and its extensive collection of packages to empower developers to create high-performance web apps in less time and with less code. It glues low level libraries and contributes its own middlewares to expose a coherent and efficient workflow and a rich API for building web applications. 
 
-    Using Genie's toolset in tandem with Julia's modules system makes hooking up and securely exposing your library's features a breeze - allowing you to focus on building your software's value proposition instead of wasting time dealing with the low level details of transporting bytes over the wire.
+    This talk will give you the guided tour of Genie, introducing the MVC stack and its main components and showing you how to quickly bootstrap a new Genie app and how to easily implement CRUD operations to expose resources over the internet, in an efficient and secure manner. You will see how easy it is to use Genie's API in tandem with Julia's modules system to hook up your code - allowing you to focus on your software's value proposition instead of wasting precious time dealing with the low level details of transporting bytes over the wire. 
   bio: >
-    Web developer since 2000. PHP, Ruby, JavaScript, F#, Elixir. Now Julia (+1y).
-    CTO at OLBG (https://www.olbg.com). Previously founder at Aprefis (http://aprefis.com), CTO at Advidi (http://advidi.com). IronHack mentor and Barcelona on Rails Meetup organizer. Creator of Genie (https://github.com/essenciary/Genie.jl)
+    Web developer since 2000. Architecting and building multi-tier, performance critical web apps handling large amounts of real time data since 2008. PHP, Ruby, JavaScript, F#, Elixir. Now using Julia and Genie to tackle web development's own two-language problem (productive-slow-interpreted vs unproductive-fast-compiled).
 
-    Developing multi-tier, performance critical web apps handling large amounts of real time data since 2008. Struggling to cope with the high productivity but poor performance of scripting languages on the web. Looking for a cure for the last few years - betting on Julia and Genie.
+    CTO at OLBG. Startup devotee and serial tech founder. IronHack mentor, organizer of Barcelona Julia and Barcelona on Rails. Creator of Genie.jl. 
 - speaker: "James Fairbanks"
   affiliation: "Georgia Tech Research Institute"
   title: "LightGraphs: our network, our story"
@@ -98,22 +97,9 @@
   affiliation: "Technical University of Berlin (TUB)"
   title: "Fast Multidimensional Signal Processing with Shearlab.jl"
   abstract: >
-    The Shearlet Transform was proposed by the Professor Gitta Kutyniok (http://www.tu-berlin.de/?108957) and her colleagues as a multidimensional generalization of the Wavelet Transform, and since then it has been adopted by a lot of Companies and Institutes by its stable and optimal representation of multidimensional signals.
+    The Shearlet Transform was proposed in 2005 by the Professor Gitta Kutyniok (http://www3.math.tu-berlin.de/numerik/mt/mt/www.shearlet.org/papers/SMRuADaSO.pdf) and her colleagues as a multidimensional generalization of the Wavelet Transform, and since then it has been adopted by a lot of Companies and Institutes by its stable and optimal representation of multidimensional signals. Shearlab.jl is a already registered Julia package (https://github.com/arsenal9971/Shearlab.jl) based in the most used implementation of Shearlet Transform programmed in Matlab by the Research Group of Prof. Kutyniok (http://www.shearlab.org/software); improving it by at least double the speed on different experiments.
 
-    Shearlab.jl is a already registered Julia package (https://github.com/arsenal9971/Shearlab.jl) based in the most used implementation of Shearlet Transform programmed in Matlab by the Research Group of Prof. Kutyniok (http://www.shearlab.org/software), it was developed as a project apart of my PhD studies but ended up being the main computational tool of them, used mainly to reconstruct the Light Field of a 3D Scene from Sparse Photographic Samples of Different Perspectives with Stereo Vision purposes.
-
-    Why I think this will be an interesting thing to present at JuliaCon 2017?
-
-    - A lot of research institutes and companies have already adopted the Shearlet Transform in their work (e.g. Fraunhofer Institute in Berlin and Charité Hospital in Berlin, Mathematical Institute of TU Berlin) by its directional sensitivity, reconstruction stability and sparse representation; with applications that goes from MRI Imaging in Hospitals to Video Compression Decoding.
-
-    - I am convinced Shearlab.jl is the best implementation so far of Shearlet Transform, basing my arguments on the benchmarks already runned against the last Matlab version which is the most used at the moment. [Here are the benchmarks](https://github.com/arsenal9971/Shearlab.jl/blob/master/benchmarks/README.md) beating it by at least double the speed on different experiments.
-
-    - Not everything is about performance and technical mathematics,  so I also have cool usage examples to show with some algorithms that have been implemented lately, like:
-         [Image Decomposition and Recovery](https://github.com/arsenal9971/Shearlab.jl/blob/master/examples/Shearlets/Examples%20of%20Image%20Decoding%20and%20Recovery.ipynb),
-         [Image Denosing](https://github.com/arsenal9971/Shearlab.jl/blob/master/examples/Shearlets/Image%20Denoising.ipynb)
-         [Image Inpainting (the coolest so far)](https://github.com/arsenal9971/Shearlab.jl/blob/master/examples/Shearlets/Image%20Inpainting.ipynb) which I am using at the moment for the Light Field Recovery of a sparsely sampled 3D scene.
-
-    - The Package was also already presented in the Berlin Julia Users MeetUp with a very good response and interest from the community [(link)](https://www.meetup.com/es-ES/Julia-Users-Group/events/236791753/).
+    As examples of applications of Shearlet Transform one has Image Denoising, Image Inpaiting and Video Compression; for instance I used it mainly to reconstruct the Light Field of a 3D Scene from Sparse Photographic Samples of Different Perspectives with Stereo Vision purposes. A lot of research institutes and companies have already adopted the Shearlet Transform in their work (e.g. Fraunhofer Institute in Berlin and Charité Hospital in Berlin, Mathematical Institute of TU Berlin) by its directional sensitivity, reconstruction stability and sparse representation.
   bio: >
     PhD student in Mathematics at the Technical University of Berlin (TUB) with Professor Gitta Kutyniok  as advisor;  major in Mathematics and Physics from National University of México (UNAM); ex Data Scientist of a mexican Open Governance Start Up (OPI); with experience in Data Mining, Machine Learning, Computational Harmonic Analysis and Computer Vision. Currently developing Light Field Reconstruction algorithms using Digital Signal Processing tools for 3D Imaging and Stereo Vision. Is known by his colleagues for using Julia on everything. It was introduced to Julia by Professor David Philip Sanders and after both gave a course on Computational Statistical Physics using Julia at the National University of México  (UNAM) which convinced him to adopt Julia as his main programming language.
 - speaker: "Ajay Mendez"
