@@ -9,20 +9,20 @@
     and how Julia has made this possible. We will start with a tutorial of the
     ordinary differential equation solvers. Users will be shown how to use the
     common solver interface to solve and analyze equations using the solvers from
-    OrdinaryDiffEq.jl, Sundials.jl, ODE.jl, LSODA.jl, and ODEInterface.jl. (maybe just
-    OrdinaryDiffEq.jl and Sundials.jl?) Next, the capabilities will be explored in further depth, and users will walk through solving hybrid differential equations  continuous + discrete components), using arbitrary precision and unitful arithmetic, and solving equations with discontinuous events. After that, the tutorial will show users how to branch out to other forms of differential equations, showing how the same interface allows them to use the
+    OrdinaryDiffEq.jl, Sundials.jl, ODE.jl, LSODA.jl, and ODEInterface.jl.
+    Next, the capabilities will be explored in further depth, and users will walk through solving hybrid differential equations  continuous + discrete components), using arbitrary precision and unitful arithmetic, and solving equations with discontinuous events. After that, the tutorial will show users how to branch out to other forms of differential equations, showing how the same interface allows them to use the
     unique high-order adaptive Runge-Kutta methods for stochastic differential equations  and the fast high-order methods for delay differential equations. Lastly,  participants will be walked through the analysis add-on tools, using Optim.jl to perform parameter estimation of ordinary differential equation models, identify sensitive parameters, and quantify numerical uncertainties of solutions. Users will leave the workshop with an expanded view of what kinds of problems can be solved with DifferentialEquations.jl and with the knowledge of how to solve them.
   bio: >
-    Chris Rackauckas is a 4th year Ph.D student in Mathematics at the University of California, Irvine. He is the principal author of many Julia packages, including the JuliaDiffEq packages (DifferentialEquations.jl) and ParallelDataTransfer.jl, and has contributed to numerous other packages related to scientific computing. Chris is also actively engaged in the Julia community as the author of the StochasticLifestyle blog and the tutorial "A Deep Introduction to Julia for Data Science and Scientific Computing".
+    Chris Rackauckas is a 4th year Ph.D. student in Mathematics at the University of California, Irvine. He is the principal author of many Julia packages, including the JuliaDiffEq packages (DifferentialEquations.jl) and ParallelDataTransfer.jl, and has contributed to numerous other packages related to scientific computing. Chris is also actively engaged in the Julia community as the author of the StochasticLifestyle blog and the tutorial "A Deep Introduction to Julia for Data Science and Scientific Computing".
 - speaker: "Daniel Whitenack"
   affiliation: "Pachyderm"
   title: "Integrating Julia in real-world, distributed pipelines"
   abstract: >
-    After attending this workshop, you will be have the skills needed to integrate Julia in real-world environments.  Not only that, you will understand at least one strategy for distributing Julia data analysis at production scale on large data sets and streaming data.
+    After attending this workshop, you will have the skills needed to integrate Julia in real-world environments.  Not only that, you will understand at least one strategy for distributing Julia data analysis at production scale on large data sets and streaming data.
 
     The Roadmap of the workshop will include:
 
-    1. Intro - This section will explore any barriers to pushing Julia into production. What do real-world environments and what are the challenges of integrating Julia at production scale?
+    1. Intro - This section will explore any barriers to pushing Julia into production. What to do in real-world environments and what are the challenges of integrating Julia at production scale?
 
     2. Making your Julia analysis portable - Here, we will learn how to containerize Julia analyses, which goes a long way to making them deployable within organizations. We will also explore the trade offs with containerization and common gotchas.  In this case, we will use [Docker](https://www.docker.com/) to containerize an example data analysis written in Julia.
 
@@ -70,7 +70,7 @@
             * Perhaps a simple version of their own
 
   bio: >
-    Mechanical Engineering PhD 4th year student
+    Mechanical Engineering Ph.D. 4th year student
 - speaker: "David P. Sanders"
   affiliation: "Department of Physics, Faculty of Sciences, National University of Mexico"
   title: "An Invitation to Julia &ndash; toward version 1.0"
@@ -88,7 +88,7 @@
   abstract: >
     In this workshop we will introduce the two main packages organized under the JuliaNLSolvers umbrella: Optim.jl for optimization and NLsolve.jl for solving systems of equations. We will look at the types of problems the packages solve, what the interfaces are like, and work on practical examples. A strong mathematical background is not needed, but some understanding of calculus is required to follow the discussion of the different methods.
   bio: >
-    PhD student in economics, JuliaNLSolvers owner and developer, Julia nerd.
+    Ph.D. student in economics, JuliaNLSolvers owner and developer, Julia nerd.
 - speaker: "Tim Besard, Simon Danisch, Valentin Churavy"
   affiliation: "Various"
   title: "GPU programming with Julia"

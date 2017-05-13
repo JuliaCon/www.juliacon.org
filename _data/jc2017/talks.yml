@@ -48,21 +48,21 @@
     It also contains some non-visual features, like allowing text that has been copied from a REPL session to be directly pasted back into a REPL and quickly opening the location of stack frames from a stacktrace in an editor.
     The talk will give an overview of the different features, discuss which features managed to get upstreamed to Julia v0.6 and, if time allows, outline the internals of the package.
   bio: >
-    Ph.D student in computational mechanics at Chalmers University of Technology. Using Julia both for studies and as a hobby.
+    Ph.D. student in computational mechanics at Chalmers University of Technology. Using Julia both for studies and as a hobby.
 - speaker: "Deniz Yuret"
   affiliation: "Koç University, Istanbul"
   title: "Knet.jl: beginning deep learning with 100 lines of Julia"
   abstract: >
     Knet (pronounced "kay-net") is the Koç University deep learning framework implemented in Julia by Deniz Yuret and collaborators. Knet uses dynamic computational graphs generated at runtime for automatic differentiation of (almost) any Julia code. This allows machine learning models to be implemented by only describing the forward calculation (i.e. the computation from parameters and data to loss) using the full power and expressivity of Julia. The implementation can use helper functions, loops, conditionals, recursion, closures, tuples and dictionaries, array indexing, concatenation and other high level language features, some of which are often missing in the restricted modeling languages of static computational graph systems like Theano, Torch, Caffe and Tensorflow. GPU operation is supported by simply using the KnetArray type instead of regular Array for parameters and data. High performance is achieved using custom memory management and efficient GPU kernels.
   bio: >
-    Deniz Yuret received his BS, MS, and PhD at MIT working at the AI Lab on machine learning and natural language processing during 1988-1999. He co-founded Inquira, Inc., a startup commercializing question answering technology which was later acquired by Oracle.  He is currently an associate professor of Computer Engineering at Koç University, Istanbul and founder of its Artificial Intelligence Laboratory. In his spare time he develops Knet.jl, a Julia deep learning framework that uses dynamic computational graphs generated at runtime for automatic differentiation of (almost) any Julia code.
+    Deniz Yuret received his BS, MS, and Ph.D. at MIT working at the AI Lab on machine learning and natural language processing during 1988-1999. He co-founded Inquira, Inc., a startup commercializing question answering technology which was later acquired by Oracle.  He is currently an associate professor of Computer Engineering at Koç University, Istanbul and founder of its Artificial Intelligence Laboratory. In his spare time he develops Knet.jl, a Julia deep learning framework that uses dynamic computational graphs generated at runtime for automatic differentiation of (almost) any Julia code.
 - speaker: "Spencer Lyon"
   affiliation: "NYU Stern"
   title: "The Dolo Modeling Framework"
   abstract: >
     We present a family of three Julia packages that together constitute a complete framework to describe and solve rational expectation models in economics. Dolang.jl is an equation parser and compiler that understands how to compile latex-like strings describing systems of equations into efficient Julia functions for evaluating the levels or derivatives of the equations. Dolo.jl leverages Dolang and implements a variety of frontier algorithms for solving a wide class of discrete time, continuous control rational expectations models. Finally, Dyno.jl builds upon Dolang to implement a Julia prototype of the Matlab-based dynare software library used extensively throughout academia and the public sector to approximate the solution to and estimate rational expectations models.
   bio: >
-    Economics PhD student at NYU Stern. Active Julia member since 0.2
+    Economics Ph.D. student at NYU Stern. Active Julia member since 0.2
 - speaker: "Bart Janssens"
   affiliation: "Royal Military Academy"
   title: "QML.jl: Cross-platform GUIs for Julia"
@@ -71,7 +71,7 @@
 
     The target audience for this talk is anyone interested in developing GUIs for their Julia application with a consistent look on OS X, Linux and Windows. All user-facing code is pure Julia and QML, no C++ knowledge is required to use the package.
   bio: >
-    I am an associate professor at the mechanics department of the Royal Military Academy. For my PhD, I worked on Coolfluid, a C++ framework for computational fluid dynamics with a domain specific language. My interest in Julia is sparked by its powerful metaprogramming functionality coupled with C++-like performance, together with much better accessibility for students. To ease the transition to Julia, we are working on making some C++ libraries available in Julia. The QML.jl package is part of this effort. We also use Julia in our daily teaching activities, to provide students with interactive solutions to exercises.
+    I am an associate professor at the mechanics department of the Royal Military Academy. For my Ph.D., I worked on Coolfluid, a C++ framework for computational fluid dynamics with a domain specific language. My interest in Julia is sparked by its powerful metaprogramming functionality coupled with C++-like performance, together with much better accessibility for students. To ease the transition to Julia, we are working on making some C++ libraries available in Julia. The QML.jl package is part of this effort. We also use Julia in our daily teaching activities, to provide students with interactive solutions to exercises.
 - speaker: "Jorge Perez and Luis Benet"
   affiliation: "UNAM (Mexico)"
   title: "TaylorIntegration.jl: Taylor's integration method in Julia"
@@ -80,7 +80,7 @@
     The accuracy of Taylor's method permits to have round-off errors per integration step. Traditionally, it has been difficult to
     make a generic Taylor integration package, but Julia permits this beautifully. We shall present some examples of the application of this method to ODE integration, including the whole computation of the Lyapunov spectrum, use of jet transport techniques, and parameter sensitivity. Open issues related to improving performance will be described.
   bio: >
-    Jorge Perez is a Physics PhD student at UNAM, Mexico, under supervision of Luis Benet and David P. Sanders, authors of TaylorSeries.jl and ValidatedNumerics.jl. His PhD research project is related to understanding the dynamics of minor Solar System objects: comets, asteroids, etc. He is coauthor of TaylorIntegration.jl and a contributor to TaylorSeries.jl.
+    Jorge Perez is a Physics Ph.D. student at UNAM, Mexico, under supervision of Luis Benet and David P. Sanders, authors of TaylorSeries.jl and ValidatedNumerics.jl. His Ph.D. research project is related to understanding the dynamics of minor Solar System objects: comets, asteroids, etc. He is coauthor of TaylorIntegration.jl and a contributor to TaylorSeries.jl.
 
     Luis Benet is Associate Professor at the Instituto de Ciencias Físicas of the National University of Mexico (UNAM). He is mainly interested in classical and quantum chaos, including the dynamics of Solar System objects. He is
     coauthor of ValidatedNumerics.jl, TaylorSeries.jl and TaylorIntegration.jl, and has contributed to other Julia packages.
@@ -101,7 +101,7 @@
 
     As examples of applications of Shearlet Transform one has Image Denoising, Image Inpaiting and Video Compression; for instance I used it mainly to reconstruct the Light Field of a 3D Scene from Sparse Photographic Samples of Different Perspectives with Stereo Vision purposes. A lot of research institutes and companies have already adopted the Shearlet Transform in their work (e.g. Fraunhofer Institute in Berlin and Charité Hospital in Berlin, Mathematical Institute of TU Berlin) by its directional sensitivity, reconstruction stability and sparse representation.
   bio: >
-    PhD student in Mathematics at the Technical University of Berlin (TUB) with Professor Gitta Kutyniok  as advisor;  major in Mathematics and Physics from National University of México (UNAM); ex Data Scientist of a mexican Open Governance Start Up (OPI); with experience in Data Mining, Machine Learning, Computational Harmonic Analysis and Computer Vision. Currently developing Light Field Reconstruction algorithms using Digital Signal Processing tools for 3D Imaging and Stereo Vision. Is known by his colleagues for using Julia on everything. It was introduced to Julia by Professor David Philip Sanders and after both gave a course on Computational Statistical Physics using Julia at the National University of México  (UNAM) which convinced him to adopt Julia as his main programming language.
+    Ph.D. student in Mathematics at the Technical University of Berlin (TUB) with Professor Gitta Kutyniok  as advisor;  major in Mathematics and Physics from National University of México (UNAM); ex Data Scientist of a mexican Open Governance Start Up (OPI); with experience in Data Mining, Machine Learning, Computational Harmonic Analysis and Computer Vision. Currently developing Light Field Reconstruction algorithms using Digital Signal Processing tools for 3D Imaging and Stereo Vision. Is known by his colleagues for using Julia on everything. It was introduced to Julia by Professor David Philip Sanders and after both gave a course on Computational Statistical Physics using Julia at the National University of México  (UNAM) which convinced him to adopt Julia as his main programming language.
 - speaker: "Ajay Mendez"
   affiliation: "Founder, Kinant.com"
   title: "Julia for Infrastructure: Experiences in Developing a Distributed Storage Service"
@@ -116,7 +116,7 @@
     Miletus is a financial software suite in Julia, with a financial contract specification language and extensive modelling features. In this talk, we’ll discuss the design principles involved in how to model a contract from primitive components, and how Julia’s language features lend themselves intuitively to this task. We’ll then talk about the various features of the software suite such as closed form models, binomial trees and computation of price sensitivities (aka “the Greeks”), providing several examples and code snippets, along with comparisons with other popular frameworks in this space.
 
   bio: >
-    Dr Simon Byrne is a quantitative software developer at Julia Computing, where he implements cutting edge numerical routines for statistical and financial models. Simon has a PhD in statistics from the University of Cambridge, and has extensive experience in computational statistics and machine learning in both academia and industry. He has been contributing to the Julia project since 2012. Ranjan Anantharaman is a data scientist at Julia Computing where he works on numerical software in a variety of domains. His interests include scientific computing and machine learning. He has been contributing to the Julia project and ecosystem since 2015.
+    Dr Simon Byrne is a quantitative software developer at Julia Computing, where he implements cutting edge numerical routines for statistical and financial models. Simon has a Ph.D. in statistics from the University of Cambridge, and has extensive experience in computational statistics and machine learning in both academia and industry. He has been contributing to the Julia project since 2012. Ranjan Anantharaman is a data scientist at Julia Computing where he works on numerical software in a variety of domains. His interests include scientific computing and machine learning. He has been contributing to the Julia project and ecosystem since 2015.
 - speaker: "Júlio Hoffimann"
   affiliation: "Stanford University"
   title: "Image Quilting: Building 3D Geological Models One Tile at a Time"
@@ -140,7 +140,7 @@
     some of the challenges we have run into, and how we hope to work with
     the Julia community to continue our efforts.
   bio: >
-    José Manuel Calderón Trilla is a Research Scientist at Galois, Inc. working on Compilers, Static Analysis, and Formal Methods. He received his PhD from the University of York in the UK for his work on Implicit Parallelism in lazy functional languages.
+    José Manuel Calderón Trilla is a Research Scientist at Galois, Inc. working on Compilers, Static Analysis, and Formal Methods. He received his Ph.D. from the University of York in the UK for his work on Implicit Parallelism in lazy functional languages.
 - speaker: "David Anthoff"
   affiliation: "UC Berkeley"
   title: "Query.jl: Query almost anything in julia"
@@ -151,7 +151,7 @@
 
     He is an assistant professor in the Energy and Resources Group at the University of California, Berkeley. Previously he was an assistant professor in the School of Natural Resources and the Environment of the University of Michigan, a postdoc at the University of California, Berkeley and a postdoc at the Economic and Social Research Institute in Ireland. He also was a visiting research fellow at the Smith School of Enterprise and the Environment, University of Oxford.
 
-    He holds a PhD (Dr. rer. pol.) in economics from the University of Hamburg (Germany) and the International Max Planck Research School on Earth System Modelling, a MSc in Environmental Change and Management from the University of Oxford (UK) and a M.Phil. in philosophy, logic and philosophy of science from Ludwig-Maximilians-Universität München (Munich, Germany).
+    He holds a Ph.D. (Dr. rer. pol.) in economics from the University of Hamburg (Germany) and the International Max Planck Research School on Earth System Modelling, a MSc in Environmental Change and Management from the University of Oxford (UK) and a M.Phil. in philosophy, logic and philosophy of science from Ludwig-Maximilians-Universität München (Munich, Germany).
 - speaker: "Hilding Elmqvist"
   affiliation: "Mogram AB, Lund, Sweden"
   title: "Modia - A Domain Specific Extension of Julia for Modeling and Simulation"
@@ -195,7 +195,7 @@
       - [7] Palsson, Bernhard Ø, Systems Biology: Constraint-based Reconstruction and Analysis (Cambridge, England: Cambridge University Press, 2015).
       - [8] Schellenberger, Jan and Que, Richard and Fleming, Ronan M. T. and Thiele, Ines and Orth, Jeffrey D. and Feist, Adam M. and Ziel…, "Quantitative prediction of cellular metabolism with constraint-based models: the COBRA Toolbox v2.0", Nat. Protocols  6, 9 (2011), pp. 1290--1307. 00182
   bio: >
-    Laurent Heirendt was born in 1987 in Luxembourg City, Luxembourg (Europe). He received his BSc in Mechanical Engineering from the Ecole Polytechnique Fédérale de Lausanne, Switzerland in 2009. A year later, he received his MSc in Advanced Mechanical Engineering from Imperial College London in the UK, where his research and thesis focused on developing a general dynamic model for shimmy analysis of aircraft landing gear that is still in use today. He received his PhD in 2014 in Aerospace Science from the University of Toronto, Canada. He developed a thermo-tribomechnical model of an aircraft landing gear, which led to a patent pending design of a critical aircraft landing gear component.
+    Laurent Heirendt was born in 1987 in Luxembourg City, Luxembourg (Europe). He received his BSc in Mechanical Engineering from the Ecole Polytechnique Fédérale de Lausanne, Switzerland in 2009. A year later, he received his MSc in Advanced Mechanical Engineering from Imperial College London in the UK, where his research and thesis focused on developing a general dynamic model for shimmy analysis of aircraft landing gear that is still in use today. He received his Ph.D. in 2014 in Aerospace Science from the University of Toronto, Canada. He developed a thermo-tribomechnical model of an aircraft landing gear, which led to a patent pending design of a critical aircraft landing gear component.
     He then worked in industry and oversaw the structural analysis of large aircraft docking structures.
 
     Recently, Laurent started as a Research Associate at the Luxembourg Centre for Systems Biomedicine, where he works in the numerical optimization of large biochemical networks using Julia. Besides his mother tongue Luxembourgish, he is fluent in English, French and German, and he is currently learning Brazilian Portuguese. 
@@ -222,7 +222,7 @@
   bio: >
     Madeleine Udell is Assistant Professor of Operations Research and Information Engineering and Richard and Sybil Smith Sesquicentennial Fellow at Cornell University. She studies optimization and machine learning for large scale data analysis and control, with applications in marketing, demographic modeling, medical informatics, and engineering system design. Her recent work on generalized low rank models (GLRMs) extends principal components analysis (PCA) to embed tabular data sets with heterogeneous (numerical, Boolean, categorical, and ordinal) types into a low dimensional space, providing a coherent framework for compressing, denoising, and imputing missing entries. She has developed of a number of open source libraries for modeling and solving optimization problems, including Convex.jl, one of the top ten tools in the new Julia language for technical computing, and is a member of the JuliaOpt organization, which curates high quality optimization software.
 
-    Madeleine completed her PhD at Stanford University in Computational & Mathematical Engineering in 2015 under the supervision of Stephen Boyd, and a one year postdoctoral fellowship at Caltech in the Center for the Mathematics of Information hosted by Professor Joel Tropp. At Stanford, she was awarded a NSF Graduate Fellowship, a Gabilan Graduate Fellowship, and a Gerald J. Lieberman Fellowship, and was selected as the doctoral student member of Stanford's School of Engineering Future Committee to develop a road-map for the future of engineering at Stanford over the next 10–20 years. She received a B.S. degree in Mathematics and Physics, summa cum laude, with honors in mathematics and in physics, from Yale University.
+    Madeleine completed her Ph.D. at Stanford University in Computational & Mathematical Engineering in 2015 under the supervision of Stephen Boyd, and a one year postdoctoral fellowship at Caltech in the Center for the Mathematics of Information hosted by Professor Joel Tropp. At Stanford, she was awarded a NSF Graduate Fellowship, a Gabilan Graduate Fellowship, and a Gerald J. Lieberman Fellowship, and was selected as the doctoral student member of Stanford's School of Engineering Future Committee to develop a road-map for the future of engineering at Stanford over the next 10–20 years. She received a B.S. degree in Mathematics and Physics, summa cum laude, with honors in mathematics and in physics, from Yale University.
 - speaker: "Jonathan Malmaud"
   affiliation: "MIT"
   title: "Modern machine learning in Julia with TensorFlow.jl"
@@ -230,7 +230,7 @@
     By many measures, TensorFlow has grown over the last year to become the most popular library for training machine-learning models. TensorFlow.jl provides Julia with a simple yet feature-rich interface to TensorFlow that takes advantage of Julia's multiple dispatch, just-in-time compilation, and metaprogramming capabilities to provide unique capabilities exceeding TensorFlow's own native Python API.
     This talk will demonstrate TensorFlow.jl by guiding listeners through training a realistic model of image captioning , showing how to 1) construct the model with native Julia control flow and indexing, 2) visualize the model structure and parameters in a web browser during training,  and 3) seamlessly save and share the trained model with Python. No prior experience with TensorFlow is assumed.
   bio: >
-    PhD candidate at MIT studying artificial intelligence
+    Ph.D. candidate at MIT studying artificial intelligence
 - speaker: "Mike Innes"
   affiliation: "Julia Computing"
   title: "Flux: Machine Learning with Julia"
@@ -281,14 +281,14 @@
   abstract: >
     Julia 0.6 includes a long-needed overhaul of the type system. While the effects of this change are not always visible, the new system eliminates classes of bugs and increases the expressiveness of types and method signatures. I plan to briefly explain how the new system works and what you can do with it. But more importantly, I want to ask: where do we go from here? Will we ever need another overhaul? I'll present some possible future features and other related speculations. Topics may include record types, more powerful tuple types, protocols, ugly corner cases, and method specificity and ambiguity.
   bio: >
-    Jeff is one of the creators of Julia, co-founding the project at MIT in 2009 and eventually receiving a PhD related to the language in 2015. He continues to work on the compiler and system internals, while also working to expand Julia's commercial reach as a co-founder of Julia Computing, Inc.
+    Jeff is one of the creators of Julia, co-founding the project at MIT in 2009 and eventually receiving a Ph.D. related to the language in 2015. He continues to work on the compiler and system internals, while also working to expand Julia's commercial reach as a co-founder of Julia Computing, Inc.
 - speaker: "Tim Besard"
   affiliation: "Ghent University"
   title: "Programming NVIDIA GPUs in Julia with CUDAnative.jl"
   abstract: >
     GPUs have typically been programmed using low-level languages like CUDA and OpenCL, providing full control over the hardware at the expense of developer efficiency. CUDAnative.jl makes it possible to program GPUs directly from Julia, in the case you need the flexibility to write your own kernel functions, without having to fall back to CUDA C or binary libraries. In this talk, I will give an overview of CUDAnative.jl with its features and restrictions, explain the technology behind it, and sketch our future plans.
   bio: >
-    PhD student at Ghent University
+    Ph.D. student at Ghent University
 - speaker: "Simon Danisch"
   affiliation: "JuliaLang"
   title: "GLVisualize 1.0"
