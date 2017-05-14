@@ -3,6 +3,11 @@ layout: default2017
 ---
 {% include header.html %}
 
+{% assign talks = site.data.jc2017.talks | sort: "title" %}
+{% assign lts = site.data.jc2017.lts | sort: "title" %}
+{% assign workshops = site.data.jc2017.lts | sort: "title" %}
+
+
 <div class="u-container u-center">
 
   <h1 class="u-cols-12">Accepted Talks &amp; Workshops</h1>
@@ -16,7 +21,7 @@ layout: default2017
 
       Jump to description:
       <ul>
-    {% for workshop in site.data.jc2017.workshops %}
+    {% for workshop in workshops %}
     <li><a href="#workshop-{{forloop.index}}">{{workshop.title}}</a> <br> <span class="u-italic"> &ndash; {{workshop.speaker}}</span></li>
     {% endfor %}
       </ul>
@@ -25,7 +30,7 @@ layout: default2017
 
       Jump to description:
       <ul>
-    {% for talk in site.data.jc2017.talks %}
+    {% for talk in talks %}
     <li><a href="#talk-{{forloop.index}}">{{talk.title}}</a> <br> <span class="u-italic"> &ndash; {{talk.speaker}}</span></li>
     {% endfor %}
       </ul>
@@ -38,7 +43,7 @@ layout: default2017
 
       Jump to description:
       <ul>
-    {% for talk in site.data.jc2017.lts %}
+    {% for talk in lts %}
     <li><a href="#lightning-{{forloop.index}}">{{talk.title}}</a> <br> <span class="u-italic"> &ndash; {{talk.speaker}}</span></li>
     {% endfor %}
       </ul>
@@ -50,7 +55,7 @@ layout: default2017
     <div class="u-cols-6">
 
         <h2>Workshops</h2>
-{% for workshop in site.data.jc2017.workshops %}
+{% for workshop in workshops %}
     <h3 id="workshop-{{forloop.index}}">{{ workshop.title }}</h3>
     <div class="u-uppercase text-gray" style="font-size:0.90em">
         {{workshop.speaker}}, {{workshop.affiliation}}
@@ -65,7 +70,7 @@ layout: default2017
 {% endfor %}
 
         <h2>Talks</h2>
-{% for talk in site.data.jc2017.talks %}
+{% for talk in talks %}
     <h3 id="talk-{{forloop.index}}">{{ talk.title }}</h3>
     <div class="u-uppercase text-gray" style="font-size:0.90em">
         {{talk.speaker}}, {{talk.affiliation}}
@@ -84,7 +89,7 @@ layout: default2017
 
     <div class="u-cols-6">
         <h2>Lightning Talks</h2>
-{% for talk in site.data.jc2017.lts %}
+{% for talk in lts %}
     <h3 id="lightning-{{forloop.index}}">{{ talk.title }}</h3>
     <div class="u-uppercase text-gray" style="font-size:0.90em">
         {{talk.speaker}}, {{talk.affiliation}}
