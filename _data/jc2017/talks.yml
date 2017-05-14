@@ -36,6 +36,20 @@
     Disclaimer: This talk reflects the experience of the author and does not represent an endorsement by the Federal Reserve Bank of New York or the Federal Reserve System of any particular product or service. The views expressed in this talk are those of the authors and do not necessarily reflect the position of the Federal Reserve Bank of New York or the Federal Reserve System. Any errors or omissions are the responsibility of the authors.
   bio: >
     I'm a Research Analyst at the New York Fed using Julia to estimate and forecast macroeconomic models. I'm interested in applying the frontier of scientific computing to economic research, so that we can solve more realistic and complex models.
+- speaker: "David P. Sanders"
+  affiliation: "Department of Physics, Faculty of Sciences, National University of Mexico"
+  title: "Constraint propagation with Julia: `IntervalConstraintProgramming.jl`"
+  abstract: >
+    Continuous constraint propagation is a technique that allows us to calculate the "feasible set" satisfied by a collection of (in)equalities. We will explain the basic ideas of the method, in particular the "forward-backward contractor", and describe the implementation in the `IntervalConstraintProgramming.jl` package.
+
+    This package generates forward and backward code automatically from a Julia expression, using metaprogramming techniques. It then uses interval arithmetic provided by the `ValidatedNumerics.jl` package to build contractors, that in turn give a rigorous answer to the question whether a given box lies inside the feasible set or not. In this way, a paving (collection of boxes) is built up that approximates the set.
+
+    The package works, in principle, in any dimension, but solving problems in higher dimensions is much harder.
+  bio: >
+    David P. Sanders is associate professor of computational physics in the Department of Physics of the Faculty of Sciences at the National University of Mexico in Mexico City.
+
+    His video tutorials on Julia have a total of 75,000 views on YouTube.
+    He is a principal author of the [`ValidatedNumerics.jl`](https://github.com/dpsanders/ValidatedNumerics.jl) package for interval arithmetic, and [`IntervalConstraintProgramming.jl`](https://github.com/dpsanders/IntervalConstraintProgramming.jl) for constraint propagation.
 - speaker: "Kristoffer Carlsson"
   affiliation: "Chalmers University of Technology"
   title: "OhMyREPL.jl - This is my REPL. There are many like it, but this one is mine."
