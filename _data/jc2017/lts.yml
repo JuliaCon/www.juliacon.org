@@ -341,11 +341,14 @@
   bio: >
     Gergo focused on math and physics in high school, but completed an engineering degree in Molecular Bionics as an undergrad in his home city, Budapest. After being the image processing guy in a cancer research lab in London as well as learning about AI in Leuven, Belgium, Gergo settled as a Ph.D. student in the Gatbsy Computational Neuroscience Unit, working on developing machine learning algorithms to process and understand various types of neural data.
 
-- speaker: "NA"
-  affiliation: "NA"
+- speaker: "Jeff Bezanson"
+  affiliation: "Julia Computing"
   title: "JuliaDB"
-  abstract: "TBD"
-  bio: "TBD"
+  abstract: >
+     JuliaDB.jl is an end-to-end all-Julia data analysis platform incorporating storage, parallelism and compute into a single model. One can load a pile of CSV files into JuliaDB as a distributed table. JuliaDB will index the files and save the index for efficient lookup of subsets of the data later. You can also convert the data from the CSV files into an efficient memory mappable binary format ("ingest").
+
+     This talk will be a breif introduction to the basic primitives of JuliaDB and how to use them."
+  bio: "Jeff Bezanson is a Julia programmer"
 - speaker: "NA"
   affiliation: "NA"
   title: "Julia roadmap"
