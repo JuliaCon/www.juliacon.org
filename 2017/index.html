@@ -33,22 +33,18 @@ layout: default2017
 <div class="u-container u-center u-hbox">
   <div class="u-vbox u-max-cols-6">
       <div class="u-vskip"></div>
-      <h2>Lodging and dining</h2>
-      <div>
-          Read <a href="http://visit.berkeley.edu/lodging-and-dining/">this guide</a> about visiting Berkeley.
-      </div>
-      <div class="u-vskip-2"></div>
-      <h2>Call for Proposals</h2>
-      Call for proposals closed on 31st March 2017.<br> Estimated notification of accepted proposals: April 7th.
-      <a class="u-highlight-small u-bold" href="/2017/talks.html">Accepted workshops announced!</a>
-      <!--
-      <a href="/2017/cfp"><strong>Now open!</strong></a><br> All speakers welcome! <br> We have a diversity scholarship. See below.  Call for Participation closes: March 31, 11:59pm AOE (UTC-12) <br>
-      Estimated notification: April 7th <br>
-      <a href="/2017/cfp">juliacon.org/2017/cfp</a>
-      -->
-      <div class="u-vskip-2"></div>
 
       <h2>Keynote Speakers</h2>
+
+      {% include keynote-speaker.html
+            name="The Celeste Project"
+            url="https://github.com/jeff-regier/Celeste.jl"
+            image="/2017/assets/img/celeste.jpeg"
+            affiliation=""
+            blurb="
+Celeste is a procedure for inferring astronomical catalogs that attains state-of-the-art scientific results. The implementation is written entirely in Julia and utilizes high-level constructs for shared and distributed memory parallelism. The project utilizes on the Knights Landing based NERSC Cori Phase II supercomputer – the fifth most powerful machine in the world – making it one of the largest generative models ever developed.
+      "
+            %}
 
       {% include keynote-speaker.html
             name="Katherine A. Yelick"
@@ -80,19 +76,24 @@ Mykel Kochenderfer is Assistant Professor of Aeronautics and Astronautics and As
       "
             %}
 
-{% comment %}
-      {% include keynote-speaker.html
-            name="The Celeste project"
-            url="https://github.com/jeff-regier/Celeste.jl"
-            affiliation=""
-            blurb="
-Celeste is a procedure for inferring astronomical catalogs that attains state-of-the-art scientific results. The implementation is written entirely in Julia and utilizes high-level constructs for shared and distributed memory parallelism. In the fall, the project demonstrated effective load balancing and efficient scaling on up to 8192 Xeon cores on the NERSC Cori supercomputer. This spring, the project aims for running at full scale on the Knights Landing based NERSC Cori Phase II supercomputer – the fifth most powerful machine in the world.
-      "
-            %}
-            {% endcomment %}
   </div>
   <div class="u-max-cols-6">
       <div class="u-vskip"></div>
+
+      <h2>Accepted talks and workshops</h2>
+      <a class="u-highlight-small u-bold" href="/2017/talks.html">The complete list of accepted talks and workshops is now available</a>
+      <!--
+      <a href="/2017/cfp"><strong>Now open!</strong></a><br> All speakers welcome! <br> We have a diversity scholarship. See below.  Call for Participation closes: March 31, 11:59pm AOE (UTC-12) <br>
+      Estimated notification: April 7th <br>
+      <a href="/2017/cfp">juliacon.org/2017/cfp</a>
+      -->
+      <div class="u-vskip-2"></div>
+
+      <h2>Lodging and dining</h2>
+      <div>
+          Read <a href="http://visit.berkeley.edu/lodging-and-dining/">this guide</a> about visiting Berkeley.
+      </div>
+      <div class="u-vskip-2"></div>
 
       <h2>Committee</h2>
 
@@ -155,9 +156,9 @@ Celeste is a procedure for inferring astronomical catalogs that attains state-of
           <a href="https://www.invenia.ca/"><img style="height: auto; width: 166px" src="https://www.invenia.ca/wp-content/themes/relish_theme/img/logo.png"></a>
           <div class="u-hskip-2"></div>
           <a href="https://juliacomputing.com/"><img style="height: auto; margin-top: 1em; width: 166px" src="https://juliacomputing.com/assets/img/new/julia-computing.svg"></a>
+          <div class="u-hskip-2"></div>
+          <div style="font-size: 2em;" class="u-futura u-italic">Jeffrey Sarnoff</div>
       </div>
-      <h3>Silver Sponsors</h3>
-      <div style="font-size: 2em;" class="u-futura u-italic">Jeffrey Sarnoff</div>
     </div>
   </div>
   <div class="u-cols-6">
