@@ -124,7 +124,7 @@
   bio: >
     Ajay works on systems and infrastructure software for fun and profit. He has dabbled in operating systems, memory allocators, file systems and distributed systems. He founded kinant.com in 2017 to simplify the deployment and usage of storage infrastructure.
 - speaker: "Simon Byrne, Ranjan Anantharaman"
-  affiliation: "Julia Computing"
+  affiliation: "Julia Computing, Inc."
   title: "Miletus: A Financial Modelling Suite in Julia"
   abstract: >
     Miletus is a financial software suite in Julia, with a financial contract specification language and extensive modelling features. In this talk, we’ll discuss the design principles involved in how to model a contract from primitive components, and how Julia’s language features lend themselves intuitively to this task. We’ll then talk about the various features of the software suite such as closed form models, binomial trees and computation of price sensitivities (aka “the Greeks”), providing several examples and code snippets, along with comparisons with other popular frameworks in this space.
@@ -246,7 +246,7 @@
   bio: >
     Ph.D. candidate at MIT studying artificial intelligence
 - speaker: "Mike Innes"
-  affiliation: "Julia Computing"
+  affiliation: "Julia Computing, Inc."
   title: "Flux: Machine Learning with Julia"
   abstract: >
     Flux.jl is a new Julia package for machine learning. It aims to provide strong tooling and support for debugging, high-level features for working with very complex networks, and state of the art performance via backends like TensorFlow or MXNet, while also providing a very high level of interoperability so that approaches can easily be mixed and matched. This talk will introduce Flux from the ground up and demonstrate some of its more advanced features.
@@ -318,14 +318,14 @@
   bio: >
     Entwickler von GLVisualize & GPUArrays
 - speaker: "Stefan Karpinski"
-  affiliation: "Julia Computing / NYU"
+  affiliation: "Julia Computing, Inc. / NYU"
   title: "Pkg3: Julia's new package manager"
   abstract: >
     This talk covers the design and implementation of Pkg3, the third (and hopefully final!) major iteration of Julia's built-in package manager. We'll begin with some history: what worked and didn't work in the two previous iterations of the package manager. Pkg3 tries to marry the better parts of systems like Python's virtualenv and Rust's cargo, while supporting federated and layered package registries, and supporting interactive usage as well as reproducible environments and reliable deployment of code in production. We'll nerd out a bit with some graph theory and how difficult it is to select compatible sets of package versions, and how much harder still it is to make version resolution understandable and predictable. But it won't be all theory – we'll also cover imminently practical subjects like "how do I install packages?"
   bio: >
     co-creator of Julia, co-founder of Julia Computing
 - speaker: "Jameson Nash"
-  affiliation: "Julia Computing"
+  affiliation: "Julia Computing, Inc."
   title: "AoT or JIT : How does Julia work?"
   abstract: >
     Julia uses a unique mix of techniques adopted from conventional static and dynamic to provide a special blend of high-performance and flexible compute kernels. This allows it to simultaneously have a fully ahead-of-time-compiled code model – while permitting (even encouraging) code updates at runtime – and a fully runtime-interpreted interface – while permitting extensive compile-time optimization. In this talk, I will examine some of the trade-offs and limitations this requires of user code, especially on common first-class code evaluation features – such as `eval` and incremental pre-compilation – as well as advanced features – such as `@generated` functions and `@pure`. We will also try to take a look at the internal layout and implementation of some of these data structures, and how the compiler works to maintain their correctness over time, despite other changes to the system.
