@@ -38,7 +38,7 @@
     I'm a Research Analyst at the New York Fed using Julia to estimate and forecast macroeconomic models. I'm interested in applying the frontier of scientific computing to economic research, so that we can solve more realistic and complex models.
 - speaker: "David P. Sanders"
   affiliation: "Department of Physics, Faculty of Sciences, National University of Mexico"
-  title: "Constraint propagation with Julia: `IntervalConstraintProgramming.jl`"
+  title: "Solving equations and inequalities using constraint propagation"
   abstract: >
     Continuous constraint propagation is a technique that allows us to calculate the "feasible set" satisfied by a collection of (in)equalities. We will explain the basic ideas of the method, in particular the "forward-backward contractor", and describe the implementation in the `IntervalConstraintProgramming.jl` package.
 
