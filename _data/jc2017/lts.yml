@@ -7,7 +7,7 @@
     Josh is a statistics Ph.D. student at NC State University, where he researches on-line optimization algorithms for performing statistical analysis on big and streaming data.
 - speaker: "Isaac Yonemoto"
   affiliation: "Interplanetary Robot"
-  title: "Verilog.jl - a verilog DSL for Julia"
+  title: "Verilog.jl: a verilog DSL for Julia"
   abstract: >
     In order to test out some numerical formats I developed, and profile their hardware performance, I developed Verilog.jl - which is a Julia library that aggressively takes advantage of Julia's type system and access to the AST as a 1st-class process.  The result is a julia-based DSL for hardware design.  This library allows for rapid iteration of potential hardware design, and automated testing, and elimination of errors in putting together a full hardware module package.
   bio: >
@@ -33,9 +33,9 @@
     Many projects in research and development require analysis of tabular data. For example, medical records can be viewed as a collection of variables like height, weight, and age for different patients. The values may be boolean (yes or no), numerical (100.3), categorical (A, B, O), or ordinal (early, middle, late). Some values may also be missing. However, analysis and feature extraction is made easier by knowing relationships between variables, for example, that weight increases with height. GraphGLRM is a framework that leverages structure in data to de-noise, compress, and estimate missing values. Using Julia’s flexibility and speed, we developed this package quickly and with sufficient performance for real-world data processing needs. GraphGLRMs are now robust and versatile enough to work with sparse, heterogeneous data. We will also discuss updates to Julia data structures and tooling that would ease package development and further empower the GraphGLRM framework.
     	GraphGLRMs work by representing a data table (matrix, dataframe, or sparse matrix) as the product of two low-rank factors. One of the factors is ‘skinny’ with as many rows as the original data and a (relatively) small number of columns. The other factor is ‘wide’ with as many columns as the original data, but with few rows. In relational-database terms, the ‘skinny’ factor embeds the records, while the ‘wide’ factor embeds the fields. A model is fit to minimize the error (loss function) between the reconstructed matrix (product of the factors) and the original data observations (excluding missing or NULL values) with added penalties or constraints (regularization) on the factors. The GraphGLRM gains its modeling power by carefully choosing and tuning this error computation and the penalties/constraints. Examples of these error metrics include squared error and logistic loss, which work best on numeric and boolean data, respectively. Constraints and penalties include non-negativity, sum of squares (Frobenius Norm) to encourage small values, and sum of absolute values (L1 norm) to encourage sparsity.
     	GraphGLRM builds on LowRankModels and provides a special regularization method that uses a network or graph structure. These graphs are constructed so that the column (or row) representations are treated as vertices, and edges specify which vertices should be close in value. This package leverages the properties of a graph’s Laplacian matrix to ensure that connected fields or records have similar representations.
-    	Using Julia, I could develop and tune this package in a matter of months. I could rely on its dynamism to handle sparse matrices, DataFrames, and ordinary arrays with a unified interface, without worrying about the underlying types or the intricacies of their implementation. Furthermore, multiple dispatch makes it easier to extend the types and functions from LowRankModels to suit my needs without duplicating code or sacrificing speed. For example, I could effortlessly subtype Regularizers to use different input types. Julia is also very tune-able: unlike in Python or R, carefully written loops perform identically to builtins, since builtins are nothing but carefully written loops. The clear time and memory information from the profiling macro @time is also an excellent way to compare user-written code to functions from Base. Julia is also the only dynamically-typed interpreted language with native thread support (as far as I’ve seen). Even though this threading support is only experimental, it is already very useful for common use-cases (like the parallel for loop). Additionally, PyCall allows me to call mature python libraries to bring more of the data analyst’s workflow into Julia itself. Thanks to Julia, I never faced the two-language problem.
+    	Using Julia, I could develop and tune this package in a matter of months. I could rely on its dynamism to handle sparse matrices, DataFrames, and ordinary arrays with a unified interface, without worrying about the underlying types or the intricacies of their implementation. Furthermore, multiple dispatch makes it easier to extend the types and functions from LowRankModels to suit my needs without duplicating code or sacrificing speed. For example, I could effortlessly subtype Regularizers to use different input types. Julia is also very tunable - unlike in Python or R, carefully written loops perform identically to builtins, since builtins are nothing but carefully written loops. The clear time and memory information from the profiling macro @time is also an excellent way to compare user-written code to functions from Base. Julia is also the only dynamically-typed interpreted language with native thread support (as far as I’ve seen). Even though this threading support is only experimental, it is already very useful for common use-cases (like the parallel for loop). Additionally, PyCall allows me to call mature Python libraries to bring more of the data analyst’s workflow into Julia itself. Thanks to Julia, I never faced the two-language problem.
     	Julia also has fantastic syntactic flexibility and extensibility. Macros enable an incredible user experience for a variety of libraries, from the interface with PyCall to an SQL-inspired syntax for DataFramesMeta. Meta-programming empowers me to write code the way I think about a problem, instead of forcing me to struggle with clunky syntax.
-    	Of course, a language that’s been around only a fifth as long as Python and R still has plenty of room for growth. While Tim Holy’s ProfileView was critical to help make performance improvements, I did miss python’s built-in profiler and its detailed numerical information about number of function calls and time spent in each. With regards to writing Julia code, I love the interactivity and simplicity of the Juno IDE, but I longed for an IDE-integrated linter to spot the little type errors and syntax mistakes that are inevitable in any non-trivial code. 
+    	Of course, a language that’s been around only a fifth as long as Python and R still has plenty of room for growth. While Tim Holy’s ProfileView was critical to help make performance improvements, I did miss Python’s built-in profiler and its detailed numerical information about number of function calls and time spent in each. With regards to writing Julia code, I love the interactivity and simplicity of the Juno IDE, but I longed for an IDE-integrated linter to spot the little type errors and syntax mistakes that are inevitable in any non-trivial code.
     	In addition to improvements in tooling, a few key improvements in the library ecosystem would go a long way towards putting Julia at the pinnacle of data analysis. The support for missing and heterogeneous data afforded by DataArrays and DataFrames is crucial to many packages, including my own. Making these libraries as performant as corresponding packages in Python (pandas) and R (native dataframes) is possible and would confer huge benefits to the multitude of downstream packages.
     	Julia helped us tackle the problem of big messy data at its core, and it has fantastic potential for performance and extensibility. I know firsthand that it’s a breeze to prototype new algorithms and applications in Julia, but it takes intense thinking and work to unlock its full potential. I hope that by sharing my experience with GraphGLRM, that I can help this community get closer to unlocking Julia’s full power.
 
@@ -136,7 +136,7 @@
     Wenlei Gao received his B.Sc in 2010 and M.Sc in 2013 in Geophysics from China University of Petroleum, Beijing, China. From 2013 to 2014 he worked for the Research Institute of China National Offshore Oil Company. He is currently enrolled in the Ph.D. program in Geophysics in the University of Alberta. His research is mainly focused on multicomponent seismic data registration and joint deconvolution.
 - speaker: "Anna Ciesielski"
   affiliation: "ifo Institute and Ludwig-Maximilians University in Munich (Germany)"
-  title: "Julia - a major scripting language in economic research?"
+  title: "Julia: a major scripting language in economic research?"
   abstract: >
     Julia has the potential to become a major programming language in economics. In this presentation I will suggest a new way to calibrate models of economic growth. For that purpose I use a Markov-Chain Monte-Carlo algorithm (the Klara package) and I repeatedly solve for the roots of a big system of nonlinear equations using the JuMP and Ipopt packages. With this approach I am able to estimate the distributions of parameter values which drive long-run economic growth and project confidence intervals of macroeconomic variables into the future. For this purpose Julia is the best programming language that I know of, because it combines a great range of functionalities and at the same time it is very fast. To conclude, I will reflect on some challenges that came up during the project.
   bio: >
@@ -150,14 +150,14 @@
     I am a final year graduate student at IIT Kharagpur studying Mathematics & Computing Sciences. I am also a Google Summer of Code, 2016 fellow under the Julia Language.
 - speaker: "Ranjan Anantharaman"
   affiliation: "Julia Computing, Inc."
-  title: "Circuitscape - A Tool to Measure Landscape Connectivity"
+  title: "Circuitscape: A Tool to Measure Landscape Connectivity"
   abstract: >
     Circuitscape is one of the most popular tools to measure landscape connectivity, using concepts from electrical circuit theory. Ecologists can model landscapes as large resistance maps and then compute current maps and voltage potentials at various parts on the landscape. Computationally, this involves constructing a large graph and using a sparse solver. This tool has originally been written in Python, and this talk will be about porting it to Julia as well as improving the solver in the package. This talk will also focus on performance comparisons between the Julia and Python versions.
   bio: >
     Ranjan Anantharaman is a data scientist at Julia Computing. His interests span applied mathematics and numerical computing, and he enjoys working with computation across a variety of fields and domains.
 - speaker: "Josef Heinen"
   affiliation: "Forschungszentrum Jülich"
-  title: "GR framework – present and future"
+  title: "GR framework: present and future"
   abstract: >
     GR is a plotting package for the creation of two- and three-dimensional graphics in Julia, offering basic MATLAB-like plotting functions to visualize static or dynamic data with minimal overhead. In addition, GR can be used as a backend for Plots, a popular visualization interface and toolset for Julia. Using quick practical examples, this talk is going to present the special features and capabilities provided by the GR framework for high-performance graphics, in particular when being used in interactive notebooks (Jupyter), development environments (Atom), desktop applications (nteract) or terminal programs (iTerm2). The presentation also introduces how to embed GR in interactive GUI applications based on QML.jl, a new plotting interface to Qt5 QML. Moreover, some experimental features and elements will be introduced, i.a. a meta layer providing an interactive interface to new backends based on Qt5 or JavaScript.
   bio: >
@@ -185,7 +185,7 @@
     I am currently a Ph.D. student in neuroscience at MIT, but my affiliation will probably change before JuliaCon.
 - speaker: "Tanmay Mohapatra & Pradeep Mudlapur"
   affiliation: "Julia Computing, Inc."
-  title: "JuliaRun - A simple & scalable Julia deployment platform"
+  title: "JuliaRun: A simple & scalable Julia deployment platform"
   abstract: >
     JuliaRun is a product of Julia Computing under development and a few early users. It is adaptable to a variety of private and public clouds and makes it easy to deploy Julia applications both batch and online. We will present a brief of the architecture and how it can help deploy scalable end to end applications.
   bio: >
@@ -232,7 +232,7 @@
   title: "The Julia VS Code extension"
   abstract: >
     This talk will give an overview of the Julia extension for VS Code. The extension currently provides syntax highlighting, an integrated REPL, code completion, hover help, an integrated linter, code navigation, integration with the Julia testing infrastructure and integrated support for Weave documents (Julia’s knitr equivalent).
-    
+
     A 30-minute version of this talk would talk about the internals of the extension. We would describe the Julia language server (our implementation of the Microsoft Language Server Protocol) that provides the integration with the VS Code UI. Other topics we would cover are our approach to build a robust and reliable software delivery mechanism that does not depend on the shared Julia package directory, our custom parser that is used in the language server and the developments currently being made to provide actionable parse-time formatting and linting hints, as well as any other features we might add between now and JuliaCon.
 
     Links:
@@ -267,7 +267,7 @@
 
   bio: >
     Udayan is a Software Engineer with Algorithms and Data Science group at Microsoft.   Before coming to Microsoft, he was designing predictive algorithms to detect threats and malignant apps at a mobile security startup in Chicago.
-    He has a MS and a Ph.D. in Computer Engineering from University of Florida, Gainesville, FL. His research was focused on Trust, Privacy and Behavior mining in Mobile Networks. 	
+    He has a MS and a Ph.D. in Computer Engineering from University of Florida, Gainesville, FL. His research was focused on Trust, Privacy and Behavior mining in Mobile Networks.
 
     Paul is a senior software engineer in Microsoft’s Algorithms and Data Science group, where he is the lead engineer for the Data Science Virtual Machine and works on a variety of solutions for easier machine learning and data science. He was previously the project lead for the Planner service in Office 365. While on Planner he also worked on disaster recovery, topology, storage, and several other core service components. He holds computer science degrees from Clemson and Duke.
 - speaker: "Xiuwen Zheng"
@@ -287,7 +287,7 @@
     Develop and apply statistical and computational methods for the interpretation of large-scale genetic data
 - speaker: "Patrick Belliveau"
   affiliation: "University of British Columbia"
-  title: "Solving Geophysical Inverse Problems in the jInv Framework, AKA Seeing Underground with Julia"
+  title: "Solving Geophysical Inverse Problems with the jInv.jl Framework:  Seeing Underground with Julia"
   abstract: >
     Geophysical inversion is the mathematical and computational process of estimating the spatial distribution of physical properties of the earth's subsurface from remote measurements. It's a key tool in applied geophysics, which is generally concerned with determining the structure and composition of the earth's interior without direct sampling. At JuliaCon 2017 I would like to discuss our group's efforts to develop a modular, scalable, and extensible framework for solving geophysical inverse problems and other partial differential equation (PDE) constrained parameter estimation problems in Julia.
 

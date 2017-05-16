@@ -4,15 +4,15 @@
   abstract: >
     The web is eating the world, but building modern web applications can be an intimidating task. Successful online products must be fast, beautiful and usable. Responsive, maintainable and extendable. Provide simple and flexible web APIs. Be secure. Reach virtually 100% uptime while being easy to debug, extend and update, requiring powerful logging, intelligent caching and rapid scaling strategies.
 
-    Julia as a language has an enormous potential in the web space thanks to its concise and friendly syntax, the powerful REPL, Unicode support, cross-platform availability, the efficiently compiled code and its parallel and distributed computing capabilities. And Julia's ecosystem already provides low level libraries like HttpServer and WebSockets. But they leave the developers having to spend large amounts of time writing glue and boilerplate code: a tedious, expensive and error prone task. 
+    Julia as a language has an enormous potential in the web space thanks to its concise and friendly syntax, the powerful REPL, Unicode support, cross-platform availability, the efficiently compiled code and its parallel and distributed computing capabilities. And Julia's ecosystem already provides low level libraries like HttpServer and WebSockets. But they leave the developers having to spend large amounts of time writing glue and boilerplate code: a tedious, expensive and error prone task.
 
-    Genie is a new web framework that leverages Julia's unique combination of features and its extensive collection of packages to empower developers to create high-performance web apps in less time and with less code. It glues low level libraries and contributes its own middlewares to expose a coherent and efficient workflow and a rich API for building web applications. 
+    Genie is a new web framework that leverages Julia's unique combination of features and its extensive collection of packages to empower developers to create high-performance web apps in less time and with less code. It glues low level libraries and contributes its own middlewares to expose a coherent and efficient workflow and a rich API for building web applications.
 
-    This talk will give you the guided tour of Genie, introducing the MVC stack and its main components and showing you how to quickly bootstrap a new Genie app and how to easily implement CRUD operations to expose resources over the internet, in an efficient and secure manner. You will see how easy it is to use Genie's API in tandem with Julia's modules system to hook up your code - allowing you to focus on your software's value proposition instead of wasting precious time dealing with the low level details of transporting bytes over the wire. 
+    This talk will give you the guided tour of Genie, introducing the MVC stack and its main components and showing you how to quickly bootstrap a new Genie app and how to easily implement CRUD operations to expose resources over the internet, in an efficient and secure manner. You will see how easy it is to use Genie's API in tandem with Julia's modules system to hook up your code - allowing you to focus on your software's value proposition instead of wasting precious time dealing with the low level details of transporting bytes over the wire.
   bio: >
     Web developer since 2000. Architecting and building multi-tier, performance critical web apps handling large amounts of real time data since 2008. PHP, Ruby, JavaScript, F#, Elixir. Now using Julia and Genie to tackle web development's own two-language problem (productive-slow-interpreted vs unproductive-fast-compiled).
 
-    CTO at OLBG. Startup devotee and serial tech founder. IronHack mentor, organizer of Barcelona Julia and Barcelona on Rails. Creator of Genie.jl. 
+    CTO at OLBG. Startup devotee and serial tech founder. IronHack mentor, organizer of Barcelona Julia and Barcelona on Rails. Creator of Genie.jl.
 - speaker: "James Fairbanks"
   affiliation: "Georgia Tech Research Institute"
   title: "LightGraphs: our network, our story"
@@ -38,7 +38,7 @@
     I'm a Research Analyst at the New York Fed using Julia to estimate and forecast macroeconomic models. I'm interested in applying the frontier of scientific computing to economic research, so that we can solve more realistic and complex models.
 - speaker: "David P. Sanders"
   affiliation: "Department of Physics, Faculty of Sciences, National University of Mexico"
-  title: "Constraint propagation with Julia: `IntervalConstraintProgramming.jl`"
+  title: "Solving equations and inequalities using constraint propagation"
   abstract: >
     Continuous constraint propagation is a technique that allows us to calculate the "feasible set" satisfied by a collection of (in)equalities. We will explain the basic ideas of the method, in particular the "forward-backward contractor", and describe the implementation in the `IntervalConstraintProgramming.jl` package.
 
@@ -52,7 +52,7 @@
     He is a principal author of the [`ValidatedNumerics.jl`](https://github.com/dpsanders/ValidatedNumerics.jl) package for interval arithmetic, and [`IntervalConstraintProgramming.jl`](https://github.com/dpsanders/IntervalConstraintProgramming.jl) for constraint propagation.
 - speaker: "Kristoffer Carlsson"
   affiliation: "Chalmers University of Technology"
-  title: "OhMyREPL.jl - This is my REPL. There are many like it, but this one is mine."
+  title: "OhMyREPL.jl: This is my REPL; there are many like it, but this one is mine"
   abstract: >
     By default, Julia comes with a powerful REPL that itself is completely written in Julia.
     It has, among other things, tab completion, customizable keybindings and different prompt modes to use the shell or access the help system.
@@ -178,7 +178,7 @@
     He holds a Ph.D. (Dr. rer. pol.) in economics from the University of Hamburg (Germany) and the International Max Planck Research School on Earth System Modelling, a MSc in Environmental Change and Management from the University of Oxford (UK) and a M.Phil. in philosophy, logic and philosophy of science from Ludwig-Maximilians-Universität München (Munich, Germany).
 - speaker: "Hilding Elmqvist"
   affiliation: "Mogram AB, Lund, Sweden"
-  title: "Modia - A Domain Specific Extension of Julia for Modeling and Simulation"
+  title: "Modia: A Domain Specific Extension of Julia for Modeling and Simulation"
   abstract: >
     Modeling of physical systems (electrical, mechanical, thermo-dynamical, etc.) are made by differential and algebraic equations, i.e. expression=expression. An example is Newton's equation. Julia allows such a syntax and provides meta-programming to symbolically solve equations and JIT compile them. These properties enabled defining a powerful domain specific language for modeling and simulation called Modia. The authors used previous experience from the design of the modeling language Modelica (www.Modelica.org). Component models are defined by @model macros. Such models contain definition of variables with various attributes such as start values, min, max, SI unit, etc. An @equations macro is used to define the equations of such a component. Coupling between components is expressed using a connect statement involving groups of variables. The semantics is either to constrain connected variables to be equal or to constrain a set of variables to sum to zero, for example to model Kirchhoff's current law. By these constructs it's possible and convenient to build models with hundred thousands of equations describing the dynamics of a car, an airplane, a power plant, etc.
 
@@ -199,7 +199,7 @@
     In January 2016, Elmqvist founded Mogram AB. Current activities include designing and implementing an experimental modeling language called Modia.
 - speaker: "Laurent Heirendt"
   affiliation: "Luxembourg Centre for Systems Biomedicine"
-  title: "COBRA.jl - Accelerating Systems Biology"
+  title: "COBRA.jl: Accelerating Systems Biology"
   abstract: >
     Laurent Heirendt, Sylvain Arreckx, Ines Thiele, Ronan M.T.
     Fleming
