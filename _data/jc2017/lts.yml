@@ -7,21 +7,21 @@
     Josh is a statistics Ph.D. student at NC State University, where he researches on-line optimization algorithms for performing statistical analysis on big and streaming data.
 - speaker: "Isaac Yonemoto"
   affiliation: "Interplanetary Robot"
-  title: "Verilog.jl: a verilog DSL for Julia"
+  title: "Verilog.jl: a Verilog DSL for Julia"
   abstract: >
     In order to test out some numerical formats I developed, and profile their hardware performance, I developed Verilog.jl - which is a Julia library that aggressively takes advantage of Julia's type system and access to the AST as a 1st-class process.  The result is a julia-based DSL for hardware design.  This library allows for rapid iteration of potential hardware design, and automated testing, and elimination of errors in putting together a full hardware module package.
   bio: >
     Former biochemist, now working in theoretical numerical computing
 - speaker: "Christina Lee"
   affiliation: "Okinawa Institute of Science and Technology"
-  title: "Teaching through Code"
+  title: "Teaching Through Code"
   abstract: >
     Standards already exist to improve software readability, but code understandable by a colleague differs from the best code to present to a student.  As a scientist, I have often had to jump from mathematics or pseudo-code to a fully fledged implementation, with no chance to gain purchase in an intermediate middle ground.  In the last year, I have worked on a Julia blog in computational physics and numerics and have striven to write code comprehensible to someone unfamiliar with the fundamental principles of the algorithm.  In this talk, I will display both good and bad examples of documentation and tutorials, as well as guidelines for improvement.
   bio: >
     Theoretical Physics Graduate Student
 - speaker: "Thalia Chan"
   affiliation: "Imperial College, London"
-  title: "Improving biological network inference with Julia"
+  title: "Improving Biological Network Inference with Julia"
   abstract: >
     In the multi-disciplinary field of systems biology, we welcome the opportunity that Julia brings for writing fast software with simple syntax. Speed is important in an age when biological datasets are increasing in size and analyses are becoming computationally more expensive. One example is the problem of determining how genes within a cell interact with one another. In the inference of gene regulatory networks (GRN) we seek to detect relationships between genes through statistical dependencies in biological data, and as datasets grow, so does computation time. Some algorithms use measures from information theory, which are suitable for detecting nonlinear biological relationships, but incur a high computational cost. We developed InformationMeasures.jl, a package for calculating information theoretic measures. The improvement in performance of our Julia package compared to widely-used packages in other languages enables us to develop new algorithms with higher complexity, examining triples, rather than pairs, of genes. These we can show are more successful than pairwise methods (in simulated data where the underlying GRNs are known), and scale well to the size of the largest currently-available biological datasets.
   bio: >
@@ -45,7 +45,7 @@
     Mihir Paradkar recently graduated from Cornell University in Biological Engineering. He has been user of Julia since v0.3.5 and is a developer of GraphGLRM.jl and LowRankModels.jl .
 - speaker: "Daniel Whitenack"
   affiliation: "Pachyderm"
-  title: "Sustainable machine learning workflows at production scale with Julia"
+  title: "Sustainable Machine Learning Workflows at Production Scale with Julia"
   abstract: >
     The recent advances in machine learning and artificial intelligence are amazing, and Julia seems poised to play a significant role in these fields. Yet, in order to have real value within a company, data scientists must be able to get their models off of their laptops and deployed within a company’s distributed data pipelines and production infrastructure. In this talk, we will implement an ML model locally and talk about the trouble we can get into taking this to production. Then, against all odds, we will actually deploy the model in a scalable manner to a production cluster. Now that’s a pretty good 10 minutes!
   bio: >
@@ -75,7 +75,7 @@
     https://www.linkedin.com/in/mark-stalzer-97254a/
 - speaker: "Oscar Dowson"
   affiliation: "University of Auckland"
-  title: "Cows, lakes, and a JuMP extension for multi-stage stochastic optimization"
+  title: "Cows, Lakes, and a JuMP Extension for Multi-stage Stochastic Optimization"
   abstract: >
     Stochastic Dual Dynamic Programming (SDDP) is an optimization algorithm for solving large, multi-stage stochastic programming problems. It is well known in the electricity community, but has received little attention in other application areas. The algorithm is computationally demanding as it typically involves iteratively solving hundreds of thousands of linear programs. In the past, implementations have been coded in slow, but expressive mathematical optimization languages such as AMPL, or in fast, but low level languages such as C++. In this talk, we detail a JuMP extension we have developed to solve problems using SDDP. We also present benchmarks showing that our Julia implementation has similar run-times to a previous version developed in C++, while being more flexible and expressive. This speed and flexibility has allowed us to revisit assumptions made in previous work, as well as apply the SDDP algorithm to problems as diverse as agriculture, energy, and finance.
   bio: >
@@ -89,7 +89,7 @@
     Eric is co-leading Invenia's transition to Julia and designing the building blocks for Invenia's Energy Intelligence System.
 - speaker: "Shashi Gowda"
   affiliation: "Julia Computing, Inc."
-  title: "WebIO.jl: a thin abstraction layer for web based widgets"
+  title: "WebIO.jl: a Thin Abstraction Layer for Web Based Widgets"
   abstract: >
     WebIO acts as a small Julian bridge between browser-based UIs to Julia such as IJulia, Atom, Blink and Mux, and packages that wish to output rich, interactive widgets. This means graphics packages don't have to depend on IJulia or Atom or Blink etc to create widgets. Instead they only depend on WebIO and use its abstractions. Widgets written with WebIO once will work on all the above interfaces. Some features are:
 
@@ -108,42 +108,42 @@
     I work on various Julia projects. My interests are mainly in interactive UIs.
 - speaker: "Avik Sengupta"
   affiliation: "Julia Computing, Inc."
-  title: "Web scraping with Julia"
+  title: "Web Scraping with Julia"
   abstract: >
     A large part of data science is in the gathering of data, and in solving the 2 language problem, it should be no surprise that Julia is great for that part of the workflow. In this talk, we will discuss how to combine a set of packages (HTTP.jl, Gumbo.jl, Cascadia.jl) to easily develop and deploy a web scraping strategy. We will see how Julia's high level language features make it easy to interactively develop such projects, and at the same allow deployment into a distributed cluster for scraping at scale.
   bio: >
     Avik is the author of Julia's integration with Java and various other packages. One of his  hobbies is to make Julia a first class language on the Raspberry Pi.
 - speaker: "Jane E. Herriman"
   affiliation: "Caltech/Lawrence Livermore National Lab"
-  title: "Using Julia to inform qb@ll development"
+  title: "Using Julia to Inform Qb@ll Development"
   abstract: >
     Qb@ll is an open source density functional theory package being developed at Lawrence Livermore National Lab. Present work focuses on efficient time integration methods, with the aim of substantially increasing the timescales accessible in simulations of electron dynamics.  Qb@ll is several hundred thousand lines of C++, Fortran, and Perl. Exploring new methods directly in the code base is extremely developer-time inefficient. Simultaneously, rigorous exploration of relevant methods is highly computationally intensive, precluding the use of traditional high-productivity languages. Screening new methods in Julia has proven highly effective, even accounting for the time to learn the language and implement a small code to explore electron wave function integration.
   bio: >
     Jane is a graduate student in computational materials physics enrolled at Caltech. She is interning at Lawrence Livermore National Lab, where she is working with Xavier Andrade on methods for and applications of density functional theory.
 - speaker: "Yifei Wang"
   affiliation: "Georgia Institute of Technology"
-  title: "Exploring evolutionary dynamics of communications in bacteria using Julia"
+  title: "Exploring Evolutionary Dynamics of Communications in Bacteria Using Julia"
   abstract: >
     Many species of bacteria are able to collectively sense and respond to their environment. This communication form known as quorum-sensing (QS) can be achieved through the production of small molecules that are able to freely diffuse across cell membranes. These molecules (autoinducers) can subsequently be detected by other individuals in the population and once a threshold limit is reached, then this may cause a change in gene expression which allows bacteria to coordinate their activities such as biofilm formation, virulence and antibiotic resistance. Despite the widespread interest in QS from molecular mechanisms to social evolution and pathogen control, there is still controversy over the basic evolutionary function of QS. Using Julia as the agent-based modeling platform, we have been able to investigate the rewards and risks of coordination and cooperation in QS. In this talk, I will briefly introduce the research background and share some of our results obtained from simulations in the digital evolution using Julia. This work is important as it sheds light on how simple signal-mediated behavioral rules can shape complex collective behaviors in bacteria. Julia greatly helped simplify the modeling precess and speed up simulations.
   bio: >
     Yifei Wang is currently a postdoctoral research fellow with the School of Biological Sciences at Georgia Institute of Technology. His research focuses on collective intelligence, evolutionary dynamics and high-performance computing. Dr. Wang received a degree of B.Eng. in computer science & technology in 2009, a degree of M.Eng. in astronautics engineering in 2012, and a degree of Ph.D. in computing in 2016. He received a Richard E. Merwin Student Scholarship from the IEEE Computer Society in 2011, and received a three-year Overseas University Research Studentship from the University of Bath in 2012. He was also the only Ph.D. student winner from the UK to receive the Outstanding Xinjiang Students Studying Abroad from the Department of Education of Xinjiang Uygur Autonomous Region, China, in 2014. Dr. Wang was the Student Activities Chair of IEEE UK & Ireland Section from 2013 to 2015. He along with his team successfully organized the 3rd IEEE UK & Ireland Student Branch Congress at the University of Bath in 2013. Dr. Wang was honored as the Outstanding Section Volunteer by the IEEE UK & Ireland Section in 2015 in recognition and appreciation of his valued services and contributions.
 - speaker: "Wenlei Gao"
   affiliation: "University of Alberta"
-  title: "Julia for seismic data processing and imaging (Seismic.jl)"
+  title: "Julia for Seismic Data Processing and Imaging (Seismic.jl)"
   abstract: >
     Seismic.jl is a Julia package that provides a framework for seismic wave modeling, data processing and imaging. The current version includes support to read/write seismic data, reconstruction and denoising of  multi-dimensional (5D) seismic data via parallel and distributed tensor completion, GPU-accelerated finite-difference solvers for seismic wave simulations, and seismic imaging including passive-seismic source location. In this lightning talk, I will briefly describe our area of research and immediately, show how Seismic.jl has been used as main framework for our research in applied seismology.
   bio: >
     Wenlei Gao received his B.Sc in 2010 and M.Sc in 2013 in Geophysics from China University of Petroleum, Beijing, China. From 2013 to 2014 he worked for the Research Institute of China National Offshore Oil Company. He is currently enrolled in the Ph.D. program in Geophysics in the University of Alberta. His research is mainly focused on multicomponent seismic data registration and joint deconvolution.
 - speaker: "Anna Ciesielski"
   affiliation: "ifo Institute and Ludwig-Maximilians University in Munich (Germany)"
-  title: "Julia: a major scripting language in economic research?"
+  title: "Julia: a Major Scripting Language in Economic Research?"
   abstract: >
     Julia has the potential to become a major programming language in economics. In this presentation I will suggest a new way to calibrate models of economic growth. For that purpose I use a Markov-Chain Monte-Carlo algorithm (the Klara package) and I repeatedly solve for the roots of a big system of nonlinear equations using the JuMP and Ipopt packages. With this approach I am able to estimate the distributions of parameter values which drive long-run economic growth and project confidence intervals of macroeconomic variables into the future. For this purpose Julia is the best programming language that I know of, because it combines a great range of functionalities and at the same time it is very fast. To conclude, I will reflect on some challenges that came up during the project.
   bio: >
     I am a Ph.D. student in the economics department at the Ludwig-Maximilians University in Munich (Germany).
 - speaker: "Ayush Pandey"
   affiliation: "Indian Institute of Technology Kharagpur"
-  title: "Applications of Convex.jl in optimization involving complex numbers"
+  title: "Applications of Convex.jl in Optimization Involving Complex Numbers"
   abstract: >
     Convex optimization problems require rigorous mathematical understanding to solve them. Convex.jl allows users to solve complex optimization problems easily by providing a simple intuitive user interface to express the objective function and constraints. As it became popular, we saw increased demand to support optimization over complex numbers, from users working in diverse scientific fields including power grid optimization, quantum information theory, wireless communication, and signal processing. Previously, these users relied on various tools such as MATLAB’s cvx and open-source python package PICOS to tackle different problems depending upon their domain of work. Convex’s new support for complex numbers allows users to approach each of these problems in Julia. In this talk, I will show how to the new functionality in Convex.jl provides a single integrated solution for many types of Disciplined Convex Programming Problems and show how to solve complex problems using Convex.jl in very few lines of code, taking examples from scientific domains mentioned above. I will also present benchmarks comparing Convex.jl with competing open-source tools.
   bio: >
@@ -157,7 +157,7 @@
     Ranjan Anantharaman is a data scientist at Julia Computing. His interests span applied mathematics and numerical computing, and he enjoys working with computation across a variety of fields and domains.
 - speaker: "Josef Heinen"
   affiliation: "Forschungszentrum Jülich"
-  title: "GR framework: present and future"
+  title: "GR Framework: Present and Future"
   abstract: >
     GR is a plotting package for the creation of two- and three-dimensional graphics in Julia, offering basic MATLAB-like plotting functions to visualize static or dynamic data with minimal overhead. In addition, GR can be used as a backend for Plots, a popular visualization interface and toolset for Julia. Using quick practical examples, this talk is going to present the special features and capabilities provided by the GR framework for high-performance graphics, in particular when being used in interactive notebooks (Jupyter), development environments (Atom), desktop applications (nteract) or terminal programs (iTerm2). The presentation also introduces how to embed GR in interactive GUI applications based on QML.jl, a new plotting interface to Qt5 QML. Moreover, some experimental features and elements will be introduced, i.a. a meta layer providing an interactive interface to new backends based on Qt5 or JavaScript.
   bio: >
@@ -171,42 +171,42 @@
     Avik is the author of Julia's integration with Java and various other packages. One of his  hobbies is to make Julia a first class language on the Raspberry Pi.
 - speaker: "Nishanth H. Kottary"
   affiliation: "Julia Computing Inc."
-  title: "JuliaBox on various cloud platforms and current development goals"
+  title: "JuliaBox on Various Cloud Platforms and Current Development Goals"
   abstract: >
     A quick presentation on our experience of running JuliaBox on various cloud platforms viz. Amazon AWS, Google Cloud Platform and Microsoft Azure. Also we present the current development plans to make JuliaBox faster and support a host of new features.
   bio: >
     Software Engineer at Julia Computing Inc.
 - speaker: "Simon Kornblith"
   affiliation: "MIT"
-  title: "JLD2: High-performance serialization of Julia data structures in an HDF5-compatible format"
+  title: "JLD2: High-performance Serialization of Julia Data Structures in an HDF5-compatible Format"
   abstract: >
     At present, two options exist for saving Julia data structures to disk: Julia's built-in serializer and the JLD (Julia data) package. The built-in serializer achieves reasonable performance, but uses a non-standardized format that differs by Julia version and processor architecture. JLD saves data structures in a standardized format (HDF5), but has substantial overhead when saving large numbers of mutable objects. In this talk, I describe the design of JLD2, a re-implementation of JLD. By replacing JLD's dependency on the HDF5 library with a pure Julia implementation of a subset of HDF5, JLD2 achieves performance comparable to Julia's built-in serializer, while writing files readable by standard HDF5 implementations. Additionally, JLD2 resolves numerous issues with the previous JLD format and implementation.
   bio: >
     I am currently a Ph.D. student in neuroscience at MIT, but my affiliation will probably change before JuliaCon.
 - speaker: "Tanmay Mohapatra & Pradeep Mudlapur"
   affiliation: "Julia Computing, Inc."
-  title: "JuliaRun: A simple & scalable Julia deployment platform"
+  title: "JuliaRun: A Simple & Scalable Julia Deployment Platform"
   abstract: >
     JuliaRun is a product of Julia Computing under development and a few early users. It is adaptable to a variety of private and public clouds and makes it easy to deploy Julia applications both batch and online. We will present a brief of the architecture and how it can help deploy scalable end to end applications.
   bio: >
     Tanmay and Pradeep have contributed to Julia packages in JuliaWeb and JuliaCloud.
 - speaker: "Jane Liang"
   affiliation: "University of Tennessee Health Science Center"
-  title: "L1-penalized matrix linear models for high throughput data"
+  title: "L1-penalized Matrix Linear Models for High Throughput Data"
   abstract: >
     Analysis of high-throughput data can be improved by taking advantage of known relationships between observations. Matrix linear models provide a simple framework for encoding such relationships to enhance detection of associations. Estimation of these models is challenging when the datasets are large and when penalized regression is used. This talk will discuss implementing fast estimation algorithms for L1-penalized matrix linear models as a first-time Julia user and fluent R user. We will share our experiences using Julia as our platform for prototyping, numerical linear algebra, parallel computing, and sharing our method.
   bio: >
     Jane Liang recently obtained a bachelor's degree in statistics from UC Berkeley and plans to enter a doctoral program later this year. Currently, she is a scientific programmer working with Dr. Saunak Sen at the University of Tennessee Health Science Center, Department of Preventive Medicine, Division of Biostatistics.
 - speaker: "Jacob Quinn"
   affiliation: "Domo"
-  title: "Julia + Enterprise: Building web services in Julia"
+  title: "Julia + Enterprise: Building Web Services in Julia"
   abstract: >
     Much has been said about Julia's keen focus and success in the numerical computation space. While certainly useful, many enterprises today operate in dynamic environments where many different microservices must interoperate and communicate. Leveraging recent progress on Julia's web capabilities, this talk will discuss strategies for building stand-alone services in Julia.
   bio: >
     Attended Carnegie Mellon for a master's degree in data science and active Julia contributor for 4 years now.
 - speaker: "Andy Ferris"
   affiliation: "Fugro Roames"
-  title: "Statically sized and typed data in Julia"
+  title: "Statically Sized and Typed Data in Julia"
   abstract: >
     I will describe my experience working with and developing highly efficient data structures in Julia which leverage statically known information - such as the type(s) contained in a collection, or the predetermined size of an array. Julia's combination of efficient code generation and metaprogramming capability make it an ideal language to implement data structures which are both convenient to program with and lightning fast in execution.
 
@@ -215,7 +215,7 @@
     I currently work at Fugro Roames on the intersection of machine learning, geodesy and big data. Beginning with detailed, large-scale scans of the physical world, we deduce intelligence for our clients that would be expensive to acquire directly. Previously, I worked in academia as a numerical quantum physicist, where I was attracted to Julia for its unique combination of user productivity and speed.
 - speaker: "Tim Besard"
   affiliation: "Ghent University"
-  title: "Interfacing with LLVM using LLVM.jl"
+  title: "Interfacing with LLVM Using LLVM.jl"
   abstract: >
     LLVM.jl provides a high-level Julia interface to the LLVM compiler framework. In this talk, I'll explain how to use LLVM.jl for basic code generation and execution, as well as how to integrate it with the rest of the Julia compiler.
   bio: >
@@ -229,7 +229,7 @@
     Nikos Ignatiadis is a first year Ph.D. student at Stanford’s Statistics department. He is interested in the development of interpretable methods for multiple testing and high dimensional inference.
 - speaker: "Zac Nugent"
   affiliation: "None"
-  title: "The Julia VS Code extension"
+  title: "The Julia VS Code Extension"
   abstract: >
     This talk will give an overview of the Julia extension for VS Code. The extension currently provides syntax highlighting, an integrated REPL, code completion, hover help, an integrated linter, code navigation, integration with the Julia testing infrastructure and integrated support for Weave documents (Julia’s knitr equivalent).
 
@@ -258,7 +258,7 @@
     I am a first-year student in biomathematics. My studies are focused on stochastic processes, scientific computing, and optimization.
 - speaker: "Udayan Kumar/ Paul Shealy"
   affiliation: "Microsoft"
-  title: "Building end to end data science solutions in the Azure cloud with Julia"
+  title: "Building End to End Data Science Solutions in the Azure Cloud with Julia"
   abstract: >
     Increasingly organizations are using cloud platforms to store their data and perform analytics driven by cost, scale, and manageability considerations. Business applications are being retooled to leverage the vast enterprise / public data, artificial intelligence (AI), and machine learning (ML) algorithms.  To build and deploy large scale intelligent applications, data scientists and analysts today need to be able to combine their knowledge of analytical languages and platforms like Julia with that of the cloud.
 
@@ -272,7 +272,7 @@
     Paul is a senior software engineer in Microsoft’s Algorithms and Data Science group, where he is the lead engineer for the Data Science Virtual Machine and works on a variety of solutions for easier machine learning and data science. He was previously the project lead for the Planner service in Office 365. While on Planner he also worked on disaster recovery, topology, storage, and several other core service components. He holds computer science degrees from Clemson and Duke.
 - speaker: "Xiuwen Zheng"
   affiliation: "University of Washington"
-  title: "JSeqArray: data manipulation of whole-genome sequencing variants in Julia"
+  title: "JSeqArray: Data Manipulation of Whole-genome Sequencing Variants in Julia"
   abstract: >
     Whole-genome sequencing (WGS) data is being generated at an unprecedented rate. Analysis of WGS data requires a flexible data format to store the different types of DNA variation. A new WGS variant data format “SeqArray” was proposed recently (Zheng X, etc, 2017 Bioinformatics), which outperforms text-based variant call format (VCF) in terms of access efficiency and file size.
 
@@ -287,7 +287,7 @@
     Develop and apply statistical and computational methods for the interpretation of large-scale genetic data
 - speaker: "Patrick Belliveau"
   affiliation: "University of British Columbia"
-  title: "Solving Geophysical Inverse Problems with the jInv.jl Framework:  Seeing Underground with Julia"
+  title: "Solving Geophysical Inverse Problems with the JInv.jl Framework:  Seeing Underground with Julia"
   abstract: >
     Geophysical inversion is the mathematical and computational process of estimating the spatial distribution of physical properties of the earth's subsurface from remote measurements. It's a key tool in applied geophysics, which is generally concerned with determining the structure and composition of the earth's interior without direct sampling. At JuliaCon 2017 I would like to discuss our group's efforts to develop a modular, scalable, and extensible framework for solving geophysical inverse problems and other partial differential equation (PDE) constrained parameter estimation problems in Julia.
 
@@ -300,7 +300,7 @@
     Hi! I'm a Ph.D. student in the department of Earth, Ocean and Atmospheric Sciences at the University of British Columbia in Vancouver Canada. Academically I'm interested in developing new computational methods for solving geophysical imaging problems. Since coming to UBC Julia has become my language of choice and I now consider myself a reformed Fortran programmer.
 - speaker: "Jean-Patrick Brunet"
   affiliation: "IRT SystemX"
-  title: "Julia in industrial research prototyping: using your time for ideas not code."
+  title: "Julia in Industrial Research Prototyping: Using Your Time for Ideas not Code."
   abstract: >
     Located at the crossroad of innovation and industry, industrial research aims to find groundbreaking solutions to existing problems. In this context, our project’s objective wasto introduce the use of Reduced Order Model (ROM) in the car design process. To generate a ROM, existing car crash simulations are used as a learning base to create a surrogate model that will be able to predict crashes with varying parameters. The interest being that crash simulation is costly, requiring around 15 hours on dedicated clusters, while the ROM model can be created in 2 hours and then requires 40s to estimate a crash. While the ROM only provides an approximation of the crash simulation, it allows one to explore a much wider range of configurations at a lower cost.
     One of the first questions of the project was the choice of a programing language in which to develop the proof of concept. Requirements were robustness (transfer of the technology to industrial partner required “production grade” language), a high level of reliability,  speed, and efficiency with large matrix calculations The two-last requirements were due to the complex calculation that is involved in the creation of the reduction model (based on linear programing) and the size of the data to manage (typical reduction will use upward of 350 Gb of RAM during its generation), which required built-in possibilities for huge array allocation in 64bits with natural way indexing. Additionally, the following were a must-have, efficient loop implementation (without reformulation), easy wrapper to existing libraries (HDF5, CPLEX, SuiteSparse…) with an interchangeable library (Jump), built in parallelization, versatility, generic and dynamic data structures, no complex allocation segmentation fault nor bus error. In summary, a Fast and High performance prototyping software.
@@ -311,7 +311,7 @@
     Jean-Patrick, research engineer at the Technological Research Institute SystemX, is a programming enthusiast. After two masters in mechanical and petroleum engineering from the Ecole Centrale Nantes and Penn State he ventured into web development in a startup developing an online teaching application. He is now back to his first love, applied research.
 - speaker: "Igor Zakhlebin"
   affiliation: "Northwestern University"
-  title: "Junet: towards better network analysis in Julia"
+  title: "Junet: Towards Better Network Analysis in Julia"
   abstract: >
     I will present Junet — a new package for network analysis that seeks to be a fast and hackable alternative to mainstream network analysis libraries like NetworkX, igraph, and graph-tool. Unlike other Julia packages, it allows to quickly traverse and modify the graphs as well as to associate the attributes with their nodes and edges. I will discuss the data structures implemented in Junet and showcase how specific Julia's features allow to make them efficient. For example, thanks to parametric types it is possible to shrink the memory consumed by Junet to a fraction of what other libraries require. And conjunction of multiple dispatch with just-in-time compilation allows to optimize some methods based on the specific types they operate on, sometimes eliminating the computation altogether. The talk will also overview things that are experimental and don't work so well like creating zero-cost iterators and parallelizing loops. Finally, I will present the benchmarks comparing Junet with state-of-the-art libraries for network analysis.
   bio: >
@@ -345,6 +345,6 @@
     Jeff is one of the creators of Julia, co-founding the project at MIT in 2009 and eventually receiving a Ph.D. related to the language in 2015. He continues to work on the compiler and system internals, while also working to expand Julia's commercial reach as a co-founder of Julia Computing, Inc.
 - speaker: "Stefan Karpinski"
   affiliation: "Julia Computing, Inc. / NYU"
-  title: "Julia roadmap"
+  title: "Julia Roadmap"
   abstract: "TBD"
   bio: "co-creator of Julia, co-founder of Julia Computing"

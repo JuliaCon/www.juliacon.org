@@ -16,7 +16,7 @@
     Chris Rackauckas is a 4th year Ph.D. student in Mathematics at the University of California, Irvine. He is the principal author of many Julia packages, including the JuliaDiffEq packages (DifferentialEquations.jl) and ParallelDataTransfer.jl, and has contributed to numerous other packages related to scientific computing. Chris is also actively engaged in the Julia community as the author of the StochasticLifestyle blog and the tutorial "A Deep Introduction to Julia for Data Science and Scientific Computing".
 - speaker: "Daniel Whitenack"
   affiliation: "Pachyderm"
-  title: "Integrating Julia in real-world, distributed pipelines"
+  title: "Integrating Julia in Real-world, Distributed Pipelines"
   abstract: >
     After attending this workshop, you will have the skills needed to integrate Julia in real-world environments.  Not only that, you will understand at least one strategy for distributing Julia data analysis at production scale on large data sets and streaming data.
 
@@ -44,7 +44,7 @@
     Pontus is a research associate at University College London, that spends most of his research time on Natural Language Processing and Machine Learning -- with a particular focus on Deep Learning.  He has been using Julia since 2014 due to a need for rapid prototyping and computational performance.  When it comes to Julia contributions, he tends to contribute small occasional patches to the standard library.
 - speaker: "Huckleberry Febbo"
   affiliation: "University of Michigan"
-  title: "NLOptControl.jl a tool for Solving Nonlinear Optimal Control Problems"
+  title: "NLOptControl.jl a Tool for Solving Nonlinear Optimal Control Problems"
   abstract: >
     I am the developer of NLOptControl.jl, a JuliaOpt tool that is an extension for JuMP.jl. NloptControl.jl is used for formulating and solving nonlinear optimal control problems. A current limitation of optimization modeling software, such as JuMP is that it does not allow for ease of adding integral constraint equations.
 
@@ -73,7 +73,7 @@
     Mechanical Engineering Ph.D. 4th year student
 - speaker: "David P. Sanders"
   affiliation: "Department of Physics, Faculty of Sciences, National University of Mexico"
-  title: "An Invitation to Julia: toward version 1.0"
+  title: "An Invitation to Julia: Toward Version 1.0"
   abstract: >
     This is an introductory tutorial on Julia as it is today, aimed at people with experience in another language, and who want to get up to speed quickly as Julia heads towards its first stable version.
 
@@ -84,14 +84,14 @@
     He is a principal author of the [`ValidatedNumerics.jl`](https://github.com/dpsanders/ValidatedNumerics.jl) package for interval arithmetic, and [`IntervalConstraintProgramming.jl`](https://github.com/dpsanders/IntervalConstraintProgramming.jl) for constraint propagation.
 - speaker: "Patrick Kofod Mogensen"
   affiliation: "University of Copenhagen"
-  title: "Optimization and solving systems of equations in Julia"
+  title: "Optimization and Solving Systems of Equations in Julia"
   abstract: >
     In this workshop we will introduce the two main packages organized under the JuliaNLSolvers umbrella: Optim.jl for optimization and NLsolve.jl for solving systems of equations. We will look at the types of problems the packages solve, what the interfaces are like, and work on practical examples. A strong mathematical background is not needed, but some understanding of calculus is required to follow the discussion of the different methods.
   bio: >
     Ph.D. student in economics, JuliaNLSolvers owner and developer, Julia nerd.
 - speaker: "Tim Besard, Simon Danisch, Valentin Churavy"
   affiliation: "Various"
-  title: "GPU programming with Julia"
+  title: "GPU Programming with Julia"
   abstract: >
     This interactive workshop will introduce a couple of tools and packages for GPU programming in Julia: how to set-up a working environment, basic usage, and optimization. Participants will be able to follow along using their own system, or on a cloud-based JuliaBox instance.
 
