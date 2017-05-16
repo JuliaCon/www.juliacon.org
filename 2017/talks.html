@@ -56,7 +56,7 @@ layout: default2017
 
         <h2>Workshops</h2>
 {% for workshop in workshops %}
-    <h3 id="workshop-{{forloop.index}}">{{ workshop.title }}</h3>
+    <a href="#workshop-{{forloop.index}}"><h3 id="workshop-{{forloop.index}}">{{ workshop.title }}</h3></a>
     <div class="u-uppercase text-gray" style="font-size:0.90em">
         {{workshop.speaker}}, {{workshop.affiliation}}
     </div>
@@ -71,7 +71,7 @@ layout: default2017
 
         <h2>Talks</h2>
 {% for talk in talks %}
-    <h3 id="talk-{{forloop.index}}">{{ talk.title }}</h3>
+    <a href="#talk-{{forloop.index}}"><h3 id="talk-{{forloop.index}}">{{ talk.title }}</h3></a>
     <div class="u-uppercase text-gray" style="font-size:0.90em">
         {{talk.speaker}}, {{talk.affiliation}}
     </div>
@@ -90,7 +90,7 @@ layout: default2017
     <div class="u-cols-6">
         <h2>Lightning Talks</h2>
 {% for talk in lts %}
-    <h3 id="lightning-{{forloop.index}}">{{ talk.title }}</h3>
+    <a href= "#lightning-{{forloop.index}}"><h3 id="lightning-{{forloop.index}}">{{ talk.title }}</h3></a>
     <div class="u-uppercase text-gray" style="font-size:0.90em">
         {{talk.speaker}}, {{talk.affiliation}}
     </div>
