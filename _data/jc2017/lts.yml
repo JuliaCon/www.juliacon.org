@@ -7,7 +7,7 @@
     Josh is a statistics Ph.D. student at NC State University, where he researches on-line optimization algorithms for performing statistical analysis on big and streaming data.
 - speaker: "Isaac Yonemoto"
   affiliation: "Interplanetary Robot"
-  title: "Verilog.jl: a verilog DSL forJulia"
+  title: "Verilog.jl: a verilog DSL for Julia"
   abstract: >
     In order to test out some numerical formats I developed, and profile their hardware performance, I developed Verilog.jl - which is a Julia library that aggressively takes advantage of Julia's type system and access to the AST as a 1st-class process.  The result is a julia-based DSL for hardware design.  This library allows for rapid iteration of potential hardware design, and automated testing, and elimination of errors in putting together a full hardware module package.
   bio: >
@@ -150,7 +150,7 @@
     I am a final year graduate student at IIT Kharagpur studying Mathematics & Computing Sciences. I am also a Google Summer of Code, 2016 fellow under the Julia Language.
 - speaker: "Ranjan Anantharaman"
   affiliation: "Julia Computing, Inc."
-  title: "Circuitscape: A Tool to Measure LandscapeConnectivity"
+  title: "Circuitscape: A Tool to Measure Landscape Connectivity"
   abstract: >
     Circuitscape is one of the most popular tools to measure landscape connectivity, using concepts from electrical circuit theory. Ecologists can model landscapes as large resistance maps and then compute current maps and voltage potentials at various parts on the landscape. Computationally, this involves constructing a large graph and using a sparse solver. This tool has originally been written in Python, and this talk will be about porting it to Julia as well as improving the solver in the package. This talk will also focus on performance comparisons between the Julia and Python versions.
   bio: >
