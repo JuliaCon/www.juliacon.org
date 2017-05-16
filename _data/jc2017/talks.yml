@@ -52,7 +52,7 @@
     He is a principal author of the [`ValidatedNumerics.jl`](https://github.com/dpsanders/ValidatedNumerics.jl) package for interval arithmetic, and [`IntervalConstraintProgramming.jl`](https://github.com/dpsanders/IntervalConstraintProgramming.jl) for constraint propagation.
 - speaker: "Kristoffer Carlsson"
   affiliation: "Chalmers University of Technology"
-  title: "OhMyREPL.jl: This is my REPL. There are many like it, but this one is mine."
+  title: "OhMyREPL.jl: This is my REPL; there are many like it, but this one is mine"
   abstract: >
     By default, Julia comes with a powerful REPL that itself is completely written in Julia.
     It has, among other things, tab completion, customizable keybindings and different prompt modes to use the shell or access the help system.
