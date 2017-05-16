@@ -15,7 +15,7 @@
     CTO at OLBG. Startup devotee and serial tech founder. IronHack mentor, organizer of Barcelona Julia and Barcelona on Rails. Creator of Genie.jl.
 - speaker: "James Fairbanks"
   affiliation: "Georgia Tech Research Institute"
-  title: "LightGraphs: our network, our story"
+  title: "LightGraphs: Our Network, Our Story"
   abstract: >
     Our talk discusses the development and origin of LightGraphs, current features, and future developments. We introduce the package's major design choices in a historical context as a compromise between the three core LightGraphs goals of simplicity, performance, and flexibility. We highlight several areas where specific features of Julia have led to flexible and efficient implementations of graph algorithms.
 
@@ -38,7 +38,7 @@
     I'm a Research Analyst at the New York Fed using Julia to estimate and forecast macroeconomic models. I'm interested in applying the frontier of scientific computing to economic research, so that we can solve more realistic and complex models.
 - speaker: "David P. Sanders"
   affiliation: "Department of Physics, Faculty of Sciences, National University of Mexico"
-  title: "Solving equations and inequalities using constraint propagation"
+  title: "Solving Equations and Inequalities Using Constraint Propagation"
   abstract: >
     Continuous constraint propagation is a technique that allows us to calculate the "feasible set" satisfied by a collection of (in)equalities. We will explain the basic ideas of the method, in particular the "forward-backward contractor", and describe the implementation in the `IntervalConstraintProgramming.jl` package.
 
@@ -52,7 +52,7 @@
     He is a principal author of the [`ValidatedNumerics.jl`](https://github.com/dpsanders/ValidatedNumerics.jl) package for interval arithmetic, and [`IntervalConstraintProgramming.jl`](https://github.com/dpsanders/IntervalConstraintProgramming.jl) for constraint propagation.
 - speaker: "Kristoffer Carlsson"
   affiliation: "Chalmers University of Technology"
-  title: "OhMyREPL.jl: This is my REPL; there are many like it, but this one is mine"
+  title: "OhMyREPL.jl: This Is My REPL; There Are Many Like It, But This One Is Mine"
   abstract: >
     By default, Julia comes with a powerful REPL that itself is completely written in Julia.
     It has, among other things, tab completion, customizable keybindings and different prompt modes to use the shell or access the help system.
@@ -65,7 +65,7 @@
     Ph.D. student in computational mechanics at Chalmers University of Technology. Using Julia both for studies and as a hobby.
 - speaker: "Deniz Yuret"
   affiliation: "Koç University, Istanbul"
-  title: "Knet.jl: beginning deep learning with 100 lines of Julia"
+  title: "Knet.jl: Beginning Deep Learning with 100 Lines of Julia"
   abstract: >
     Knet (pronounced "kay-net") is the Koç University deep learning framework implemented in Julia by Deniz Yuret and collaborators. Knet uses dynamic computational graphs generated at runtime for automatic differentiation of (almost) any Julia code. This allows machine learning models to be implemented by only describing the forward calculation (i.e. the computation from parameters and data to loss) using the full power and expressivity of Julia. The implementation can use helper functions, loops, conditionals, recursion, closures, tuples and dictionaries, array indexing, concatenation and other high level language features, some of which are often missing in the restricted modeling languages of static computational graph systems like Theano, Torch, Caffe and Tensorflow. GPU operation is supported by simply using the KnetArray type instead of regular Array for parameters and data. High performance is achieved using custom memory management and efficient GPU kernels.
   bio: >
@@ -88,7 +88,7 @@
     I am an associate professor at the mechanics department of the Royal Military Academy. For my Ph.D., I worked on Coolfluid, a C++ framework for computational fluid dynamics with a domain specific language. My interest in Julia is sparked by its powerful metaprogramming functionality coupled with C++-like performance, together with much better accessibility for students. To ease the transition to Julia, we are working on making some C++ libraries available in Julia. The QML.jl package is part of this effort. We also use Julia in our daily teaching activities, to provide students with interactive solutions to exercises.
 - speaker: "Jorge Perez and Luis Benet"
   affiliation: "UNAM (Mexico)"
-  title: "TaylorIntegration.jl: Taylor's integration method in Julia"
+  title: "TaylorIntegration.jl: Taylor's Integration Method in Julia"
   abstract: >
     In this talk we shall present TaylorIntegration.jl, an ODE integration package using Taylor's method in Julia. The main idea of Taylor's method is to approximate locally the solution by means by a *high-order* Taylor expansion, whose coefficients are computed recursively using automatic differentiation techniques. One of the principal advantages of Taylor's method is that, whenever high accuracy is required, the order of the method can be increased, which is more efficient computationally than taking smaller time steps.
     The accuracy of Taylor's method permits to have round-off errors per integration step. Traditionally, it has been difficult to
@@ -100,7 +100,7 @@
     coauthor of ValidatedNumerics.jl, TaylorSeries.jl and TaylorIntegration.jl, and has contributed to other Julia packages.
 - speaker: "Camila Metello & Joaquim Garcia"
   affiliation: "PSR Inc."
-  title: "Stochastic optimization models on power systems"
+  title: "Stochastic Optimization Models on Power Systems"
   abstract: >
     We will present 3 tools for decision making under uncertainty in the power systems area: SDDP, a tool for optimal hourly operation of complex power systems; OptGen, a computational tool for determining the least-cost expansion of a multi-regional hydrothermal system; OptFlow, a mathematical model to optimize operation of a generation/transmission system with AC electrical network constraints.
 
@@ -167,7 +167,7 @@
     José Manuel Calderón Trilla is a Research Scientist at Galois, Inc. working on Compilers, Static Analysis, and Formal Methods. He received his Ph.D. from the University of York in the UK for his work on Implicit Parallelism in lazy functional languages.
 - speaker: "David Anthoff"
   affiliation: "UC Berkeley"
-  title: "Query.jl: Query almost anything in julia"
+  title: "Query.jl: Query Almost Anything in Julia"
   abstract: >
     Query is a package for querying julia data sources. Its role is similar to LINQ in C# and dplyr in R. It can filter, project, join and group data from any iterable data source. It has enhanced support for querying arrays, DataFrames, DataTables, TypedTables, IndexedTables and any DataStream source (e.g. CSV, Feather, SQLite etc.). The package also defines an interface for tabular data that allows a) dispatch on any tabular data source and b) simple conversions of tabular data representations. The talk will first introduce Query from a user perspective and highlight different examples of queries that the package makes feasible. The second half of the talk will dive deep into the internals of the package and explain the various extension points that package provides.
   bio: >
@@ -249,7 +249,7 @@
     Madeleine completed her Ph.D. at Stanford University in Computational & Mathematical Engineering in 2015 under the supervision of Stephen Boyd, and a one year postdoctoral fellowship at Caltech in the Center for the Mathematics of Information hosted by Professor Joel Tropp. At Stanford, she was awarded a NSF Graduate Fellowship, a Gabilan Graduate Fellowship, and a Gerald J. Lieberman Fellowship, and was selected as the doctoral student member of Stanford's School of Engineering Future Committee to develop a road-map for the future of engineering at Stanford over the next 10–20 years. She received a B.S. degree in Mathematics and Physics, summa cum laude, with honors in mathematics and in physics, from Yale University.
 - speaker: "Jonathan Malmaud"
   affiliation: "MIT"
-  title: "Modern machine learning in Julia with TensorFlow.jl"
+  title: "Modern Machine Learning in Julia with TensorFlow.jl"
   abstract: >
     By many measures, TensorFlow has grown over the last year to become the most popular library for training machine-learning models. TensorFlow.jl provides Julia with a simple yet feature-rich interface to TensorFlow that takes advantage of Julia's multiple dispatch, just-in-time compilation, and metaprogramming capabilities to provide unique capabilities exceeding TensorFlow's own native Python API.
     This talk will demonstrate TensorFlow.jl by guiding listeners through training a realistic model of image captioning , showing how to 1) construct the model with native Julia control flow and indexing, 2) visualize the model structure and parameters in a web browser during training,  and 3) seamlessly save and share the trained model with Python. No prior experience with TensorFlow is assumed.
@@ -264,7 +264,7 @@
     I work with Julia Computing on Julia's IDE, Juno, as well as various projects within the machine learning ecosystem.
 - speaker: "Ehsan Totoni"
   affiliation: "Intel Labs"
-  title: "HiFrames: High Performance Distributed Data frames in Julia"
+  title: "HiFrames: High Performance Distributed Data Frames in Julia"
   abstract: >
     Data frames are essential tools for data scientists, but existing data frames packages in Julia (and other languages) are sequential and do not scale to large data sets. Alternatively, data frames in distributed frameworks such as Spark are slow and not integrated with other computations flexibly. We propose a novel compiler-based approach where we integrate data frames into the High Performance Analytics Toolkit (HPAT) to build HiFrames. It automatically parallelizes and compiles relational operations along with other array computations in end-to-end data analytics programs, and generates efficient MPI/C++ code. We demonstrate that HiFrames is significantly faster than alternatives such as Spark on clusters, without forcing the programmer to switch to embedded SQL for part of the program. HiFrames is 3.6x to 70x faster than Spark SQL for basic relational operations, and can be up to 20,000x faster for advanced analytics operations, such as weighted moving averages (WMA), that the map-reduce paradigm cannot handle effectively. We will discuss how Julia’s powerful macro and compilation system facilitates developing HiFrames.
   bio: >
@@ -294,7 +294,7 @@
     We're graduate students in the Robot Locomotion Group at MIT, where we work on simulation, planning, and control of walking and flying robots.
 - speaker: "Hong Ge, Zoubin Ghahramani, Kai Xu"
   affiliation: "University of Cambridge"
-  title: "Turing: a fresh approach to probabilistic programming"
+  title: "Turing: a Fresh Approach to Probabilistic Programming"
   abstract: >
     Turing is a new probabilistic programming language (PPL) based on Julia, a framework which allows users to define probabilistic models and perform inference automatically. Thanks to Julia's meta-programming support, Turing has a very friendly front-end modelling interface. Meanwhile, coroutines are used in Turing's inference engine development to achieve the state-of-the-art sampling performance. Also, we have recently introduced a new Gibbs interface, which allows user to compose different samplers and run them in the same time. In this talk, we will discuss our motivation of developing Turing in Julia, introduce the design and architecture of Turing, and present some practical examples of how probabilistic modelling is performed in Turing.
   bio: >
@@ -329,21 +329,21 @@
     Entwickler von GLVisualize & GPUArrays
 - speaker: "Stefan Karpinski"
   affiliation: "Julia Computing, Inc. / NYU"
-  title: "Pkg3: Julia's new package manager"
+  title: "Pkg3: Julia's New Package Manager"
   abstract: >
     This talk covers the design and implementation of Pkg3, the third (and hopefully final!) major iteration of Julia's built-in package manager. We'll begin with some history: what worked and didn't work in the two previous iterations of the package manager. Pkg3 tries to marry the better parts of systems like Python's virtualenv and Rust's cargo, while supporting federated and layered package registries, and supporting interactive usage as well as reproducible environments and reliable deployment of code in production. We'll nerd out a bit with some graph theory and how difficult it is to select compatible sets of package versions, and how much harder still it is to make version resolution understandable and predictable. But it won't be all theory – we'll also cover imminently practical subjects like "how do I install packages?"
   bio: >
     co-creator of Julia, co-founder of Julia Computing
 - speaker: "Jameson Nash"
   affiliation: "Julia Computing, Inc."
-  title: "AoT or JIT : How does Julia work?"
+  title: "AoT or JIT : How Does Julia Work?"
   abstract: >
     Julia uses a unique mix of techniques adopted from conventional static and dynamic to provide a special blend of high-performance and flexible compute kernels. This allows it to simultaneously have a fully ahead-of-time-compiled code model – while permitting (even encouraging) code updates at runtime – and a fully runtime-interpreted interface – while permitting extensive compile-time optimization. In this talk, I will examine some of the trade-offs and limitations this requires of user code, especially on common first-class code evaluation features – such as `eval` and incremental pre-compilation – as well as advanced features – such as `@generated` functions and `@pure`. We will also try to take a look at the internal layout and implementation of some of these data structures, and how the compiler works to maintain their correctness over time, despite other changes to the system.
   bio: >
     I've been a Julia contributor since before it was cool. Now, I'm working for Julia Computing, as the static compilation champion, compiler correctness fiend, and performance cliff jumper.
 - speaker: "Jiahao Chen"
   affiliation: "Capital One"
-  title: "Taking vector transposes seriously"
+  title: "Taking Vector Transposes Seriously"
   abstract: >
     from @jiahao:
 
@@ -360,7 +360,7 @@
     Data Scientist at Capital One, formerly Research Scientist at MIT
 - speaker: "Eddie Elizondo"
   affiliation: "Homer Logistics"
-  title: "Using Julia to bridge research and production environments for an on-demand delivery network"
+  title: "Using Julia to Bridge Research and Production Environments for an On-demand Delivery Network"
   abstract: >
     Quickly moving ideas from research to implementation has always been challenging, usually requiring intensive code rewrites that impede development or constrain research ideas considered too time-intensive to implement.  Homer Logistics is an on-demand delivery provider whose systems power more than 100,000 monthly deliveries across 11 markets across the United States.  We have used Julia extensively to bridge the gap between research and implementation to improve and iterate our methods as quickly as possible.
 
@@ -369,7 +369,7 @@
     4 years of industry experience: 2 years in operations and analytics consulting and most recently, developing dynamic dispatching, routing, and allocation models for an on-demand transportation startup.  Will begin a Ph.D. program in operations research this fall.  University of Pennsylvania '13 (B.S., concentrations in statistics, operations research, finance)
 - speaker: "Rainer Engelken"
   affiliation: "Max Planck Institute for Dynamics and Self-Organization"
-  title: "Event-based simulation of spiking neural networks in Julia"
+  title: "Event-based Simulation of Spiking Neural Networks in Julia"
   abstract: >
     Information in the brain is processed by the coordinated activity of large neural circuits. Neural network models help to understand, for example, how biophysical features of single neurons and the network topology shape the collective circuit dynamics. This requires solving large systems of coupled differential equations which is numerically challenging.
 
