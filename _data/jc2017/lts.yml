@@ -136,7 +136,7 @@
     Wenlei Gao received his B.Sc in 2010 and M.Sc in 2013 in Geophysics from China University of Petroleum, Beijing, China. From 2013 to 2014 he worked for the Research Institute of China National Offshore Oil Company. He is currently enrolled in the Ph.D. program in Geophysics in the University of Alberta. His research is mainly focused on multicomponent seismic data registration and joint deconvolution.
 - speaker: "Anna Ciesielski"
   affiliation: "ifo Institute and Ludwig-Maximilians University in Munich (Germany)"
-  title: "Julia: a major scripting language in economicresearch?"
+  title: "Julia: a major scripting language in economic research?"
   abstract: >
     Julia has the potential to become a major programming language in economics. In this presentation I will suggest a new way to calibrate models of economic growth. For that purpose I use a Markov-Chain Monte-Carlo algorithm (the Klara package) and I repeatedly solve for the roots of a big system of nonlinear equations using the JuMP and Ipopt packages. With this approach I am able to estimate the distributions of parameter values which drive long-run economic growth and project confidence intervals of macroeconomic variables into the future. For this purpose Julia is the best programming language that I know of, because it combines a great range of functionalities and at the same time it is very fast. To conclude, I will reflect on some challenges that came up during the project.
   bio: >
