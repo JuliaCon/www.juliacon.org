@@ -294,7 +294,7 @@
     Develop and apply statistical and computational methods for the interpretation of large-scale genetic data
 - speaker: "Patrick Belliveau"
   affiliation: "University of British Columbia"
-  title: "Solving Geophysical Inverse Problems in the jinv Framework, AKA Seeing Underground with Julia"
+  title: "Solving Geophysical Inverse Problems in the jInv Framework, AKA Seeing Underground with Julia"
   abstract: >
     Geophysical inversion is the mathematical and computational process of estimating the spatial distribution of physical properties of the earth's subsurface from remote measurements. It's a key tool in applied geophysics, which is generally concerned with determining the structure and composition of the earth's interior without direct sampling. At JuliaCon 2017 I would like to discuss our group's efforts to develop a modular, scalable, and extensible framework for solving geophysical inverse problems and other partial differential equation (PDE) constrained parameter estimation problems in Julia.
 
