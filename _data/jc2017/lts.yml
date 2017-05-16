@@ -197,13 +197,6 @@
     Analysis of high-throughput data can be improved by taking advantage of known relationships between observations. Matrix linear models provide a simple framework for encoding such relationships to enhance detection of associations. Estimation of these models is challenging when the datasets are large and when penalized regression is used. This talk will discuss implementing fast estimation algorithms for L1-penalized matrix linear models as a first-time Julia user and fluent R user. We will share our experiences using Julia as our platform for prototyping, numerical linear algebra, parallel computing, and sharing our method.
   bio: >
     Jane Liang recently obtained a bachelor's degree in statistics from UC Berkeley and plans to enter a doctoral program later this year. Currently, she is a scientific programmer working with Dr. Saunak Sen at the University of Tennessee Health Science Center, Department of Preventive Medicine, Division of Biostatistics.
-- speaker: "Katarzyna Bozek"
-  affiliation: "Okinawa Institute for Science and Technology"
-  title: "Automated tracking of honeybees using Julia"
-  abstract: >
-    Computation in biological research is dominated by scripting in python, statistics and plotting in R, with different languages often combined depending on the package availability and convenience of use. In this talk I’m going to describe the experience of using Julia in all parts of a research project, from data preprocessing and method design to plotting of results. The goal of our project is to automatically track bees in a dense environment of a bee hive based on video images that don’t contain individual bee tagging. In the main part of this work we used Julia MXNet package to implement deep learning architectures for dense object detection. I would like to outline the difficulties and advantages of using Julia as a comprehensive tool for research projects of this type.
-  bio: >
-    Trained in CS, currently applying computational methods to questions in biological research.
 - speaker: "Jacob Quinn"
   affiliation: "Domo"
   title: "Julia + Enterprise: Building web services in Julia"
