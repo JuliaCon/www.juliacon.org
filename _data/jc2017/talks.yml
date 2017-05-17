@@ -328,7 +328,7 @@
      * Tight integration with GPUArrays, pre-processing on the GPU
      * Higher level plotting interface
   bio: >
-    Entwickler von GLVisualize & GPUArrays
+    Developer of GLVisualize & GPUArrays
     
 - speaker: "Stefan Karpinski"
   affiliation: "Julia Computing, Inc. / NYU"
