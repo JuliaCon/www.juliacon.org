@@ -147,7 +147,7 @@
   abstract: >
     Convex optimization problems require rigorous mathematical understanding to solve them. Convex.jl allows users to solve complex optimization problems easily by providing a simple intuitive user interface to express the objective function and constraints. As it became popular, we saw increased demand to support optimization over complex numbers, from users working in diverse scientific fields including power grid optimization, quantum information theory, wireless communication, and signal processing. Previously, these users relied on various tools such as MATLAB’s cvx and open-source python package PICOS to tackle different problems depending upon their domain of work. Convex’s new support for complex numbers allows users to approach each of these problems in Julia. In this talk, I will show how to the new functionality in Convex.jl provides a single integrated solution for many types of Disciplined Convex Programming Problems and show how to solve complex problems using Convex.jl in very few lines of code, taking examples from scientific domains mentioned above. I will also present benchmarks comparing Convex.jl with competing open-source tools.
   bio: >
-    I am a final year graduate student at IIT Kharagpur studying Mathematics & Computing Sciences. I am also a Google Summer of Code, 2016 fellow under the Julia Language.
+    Ayush Pandey is a final year graduate student at IIT Kharagpur studying Mathematics & Computing Sciences with micro-specialization in Optimization Theory and Applications. He is also a Google Summer of Code, 2016 fellow under the Julia Language.
 - speaker: "Ranjan Anantharaman"
   affiliation: "Julia Computing, Inc."
   title: "Circuitscape: A Tool to Measure Landscape Connectivity"
