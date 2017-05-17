@@ -13,8 +13,8 @@
     Web developer since 2000. Architecting and building multi-tier, performance critical web apps handling large amounts of real time data since 2008. PHP, Ruby, JavaScript, F#, Elixir. Now using Julia and Genie to tackle web development's own two-language problem (productive-slow-interpreted vs unproductive-fast-compiled).
 
     CTO at OLBG. Startup devotee and serial tech founder. IronHack mentor, organizer of Barcelona Julia and Barcelona on Rails. Creator of Genie.jl.
-- speaker: "James Fairbanks"
-  affiliation: "Georgia Tech Research Institute"
+- speaker: "James Fairbanks & Seth Bromberger"
+  affiliation: "Georgia Tech Research Institute & Lawrence Livermore National Laboratory"
   title: "LightGraphs: Our Network, Our Story"
   abstract: >
     Our talk discusses the development and origin of LightGraphs, current features, and future developments. We introduce the package's major design choices in a historical context as a compromise between the three core LightGraphs goals of simplicity, performance, and flexibility. We highlight several areas where specific features of Julia have led to flexible and efficient implementations of graph algorithms.
@@ -24,6 +24,8 @@
     Finally, we speculate on the influence of Julia's focus on elegant parallel processing to future development of the package.
   bio: >
     Dr. James Fairbanks is a Research Engineer at the Georgia Tech Research Institute where he studies problems in complex networks, data analysis, and high performance computing with applications to healthcare and social phenomena.
+
+    Seth Bromberger, a Research Scientist at Lawrence Livermore National Laboratory (https://people.llnl.gov/seth), is currently exploring the application of graph theory and machine learning to cybersecurity problems in critical infrastructure.
 - speaker: "Pearl Li"
   affiliation: "Federal Reserve Bank of New York"
   title: "Using Parallel Computing for Macroeconomic Forecasting at the Federal Reserve Bank of New York"
