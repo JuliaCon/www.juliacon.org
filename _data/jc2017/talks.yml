@@ -315,20 +315,21 @@
     GPUs have typically been programmed using low-level languages like CUDA and OpenCL, providing full control over the hardware at the expense of developer efficiency. CUDAnative.jl makes it possible to program GPUs directly from Julia, in the case you need the flexibility to write your own kernel functions, without having to fall back to CUDA C or binary libraries. In this talk, I will give an overview of CUDAnative.jl with its features and restrictions, explain the technology behind it, and sketch our future plans.
   bio: >
     Ph.D. student at Ghent University
+    
 - speaker: "Simon Danisch"
   affiliation: "JuliaLang"
   title: "GLVisualize 1.0"
   abstract: >
-    The newest update about GLVisualize.
-    Topics:
-     * Different backends for GLVisualize - Web here we come!
-     * New API functions for simpler drawing
+    GLVisualize is a visualization framework written purely in Julia + OpenGL.
+    There are a lot of new changes that I want to talk about:
+     * New trait system for more modularity and code clarity
+     * Different backends for GLVisualize - conquering the Web & PDFs!
+     * A new API for simpler drawing
+     * Tight integration with GPUArrays, pre-processing on the GPU
      * Higher level plotting interface
-     * Performance updates + pre-processing on the GPU
-     * Future!
-
   bio: >
     Entwickler von GLVisualize & GPUArrays
+    
 - speaker: "Stefan Karpinski"
   affiliation: "Julia Computing, Inc. / NYU"
   title: "Pkg3: Julia's New Package Manager"
