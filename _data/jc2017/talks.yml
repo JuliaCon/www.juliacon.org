@@ -147,7 +147,7 @@
   affiliation: "Stanford University"
   title: "Image Quilting: Building 3D Geological Models One Tile at a Time"
   abstract: >
-    ImageQuilting.jl is a high-performance implementation of texture synthesis and transfer for 3D images that is capable of matching pre-existing data in the canvas where the image is to be synthesized. It can optionally make use of GPUs through the OpenCL.jl standard and is being currently used by the industry for fast generation of 3D geological models. In this talk, I will demonstrate some of the applications of this package in energy resources engineering and hydrogeology, and will highlight the qualities of the Julia programming language
+    ImageQuilting.jl is a high-performance implementation of texture synthesis and transfer for 3D images that is capable of matching pre-existing data in the canvas where the image is to be synthesized. It can optionally make use of GPUs through the OpenCL standard and is being currently used by the industry for fast generation of 3D geological models. In this talk, I will demonstrate some of the applications of this package in energy resources engineering and hydrogeology, and will highlight the qualities of the Julia programming language
     that enabled an unprecedented speed in this famous computer vision algorithm.
   bio: >
     I am 3rd year Ph.D. student, more info: https://juliohm.github.io/
