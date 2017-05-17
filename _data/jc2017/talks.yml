@@ -378,9 +378,4 @@
     Here, we introduce a novel efficient method for numerically exact simulations of sparse neural networks that bring to bear Julia’s different data structures and high performance. The new algorithm reduces the computational cost from O(N) to O(log(N)) operations per network spike. This is achieved by mapping the neural dynamics to pulse-coupled phase oscillators and using mutable binary heaps for efficient state updates.
     Thereby numerically exact simulations of large spiking networks and the characterization of their chaotic phase space structure become possible. For example, calculating the largest Lyapunov exponent of a spiking neural network with one million neurons is sped up by more than four orders of magnitude compared to previous implementations in other programming languages (C++, Python, Matlab).
   bio: >
-    - 2017: Ph.D., Max Planck Institute for Dynamics and Self-Organization
-    "Chaotic neural circuit dynamics" (summa cum laude)
-
-    - 2011: Diploma in Physics, University of Tuebingen
-
-    - 2009: Certificate of Advanced Study in Mathematics (Part III), University of Cambridge (UK)
+    Rainer just finished his Ph.D. in at the Max Planck Institute for Dynamics and Self-Organization (Göttingen) on 'Chaotic neural circuit dynamics' after studying physics at various places. He has been using Julia since 2014, as it minimizes both programming time and CPU time and allows easy debugging, profiling and visualization under one roof.
