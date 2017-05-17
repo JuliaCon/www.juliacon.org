@@ -31,8 +31,8 @@
     The workshop will be completely example/demo based and will include individual exercises for the students.
   bio: >
     Daniel (@dwhitena) is a Ph.D. trained data scientist working with Pachyderm (@pachydermIO).  Daniel develops innovative, distributed data pipelines which include predictive models, data visualizations, statistical analyses, and more.  He has spoken at conferences around the world (Datapalooza, DevFest Siberia, GopherCon, and more), teaches data science/engineering with Ardan Labs (@ardanlabs), maintains the Go kernel for Jupyter, and is actively helping to organize contributions to various open source data science projects.
-- speaker: "Pontus Stenetorp"
-  affiliation: "University College London"
+- speaker: "Mike Innes, Jonathan Malmaud, Pontus Stenetorp"
+  affiliation: "Julia Computing, Massachusetts Institute of Technology, University College London"
   title: "Deep Learning with Julia"
   abstract: >
     Over the last few years we have seen Deep Learning rise to prominence not just in academia with state-of-the-art results for well-established tasks, but also in industry to leverage an ever-increasing amount of data becoming available.  Due to the computationally heavy nature of Deep Learning approaches, Julia is in a unique position to serve as the language of choice for developing and deploying deep machine learning models.
@@ -41,7 +41,11 @@
 
     The organisers of the workshop have between them many years of experience of teaching, research, and working with and implementing Deep Learning frameworks in Julia and other programming languages.
   bio: >
-    Pontus is a research associate at University College London, that spends most of his research time on Natural Language Processing and Machine Learning -- with a particular focus on Deep Learning.  He has been using Julia since 2014 due to a need for rapid prototyping and computational performance.  When it comes to Julia contributions, he tends to contribute small occasional patches to the standard library.
+    Mike Innes is a software engineer at Julia Computing, where he works on the Juno IDE and the machine learning ecosystem.
+
+    Jon Malmaud is a PhD candidate at MIT's Brain and Cognitive Science Department, where he works on AI and Deep Learning. He's also a core contributor to the Julia language, and created Julia's TensorFlow bindings.
+
+    Pontus Stenetorp is a research associate at University College London, that spends most of his research time on Natural Language Processing and Machine Learning -- with a particular focus on Deep Learning.  He has been using Julia since 2014 due to a need for rapid prototyping and computational performance.  When it comes to Julia contributions, he tends to contribute small occasional patches to the standard library.
 - speaker: "Huckleberry Febbo"
   affiliation: "University of Michigan"
   title: "NLOptControl.jl a Tool for Solving Nonlinear Optimal Control Problems"
