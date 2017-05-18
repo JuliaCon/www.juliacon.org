@@ -150,7 +150,7 @@
     ImageQuilting.jl is a high-performance implementation of texture synthesis and transfer for 3D images that is capable of matching pre-existing data in the canvas where the image is to be synthesized. It can optionally make use of GPUs through the OpenCL standard and is being currently used by the industry for fast generation of 3D geological models. In this talk, I will demonstrate some of the applications of this package in energy resources engineering and hydrogeology, and will highlight the qualities of the Julia programming language
     that enabled an unprecedented speed in this famous computer vision algorithm.
   bio: >
-    I am 3rd year Ph.D. student, more info: https://juliohm.github.io/
+     I am a Ph.D. candidate in the Department of Energy Resources Engineering at Stanford University. In my research, I study the links between surface processes (i.e. flow and sediment transport) at the surface of the Earth and the resulting geostatistical properties at its subsurface. Part of this research consists of developing efficient algorithms for stochastic/physical simulation of 3D Earth models. For more information, please visit: https://juliohm.github.io
 - speaker: "José Manuel Calderón Trilla"
   affiliation: "Galois, Inc."
   title: "Julia for Fully Homomorphic Encryption: Current Progress and Challenges"
