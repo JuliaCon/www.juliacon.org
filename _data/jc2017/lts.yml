@@ -5,13 +5,6 @@
     SparseRegression implements a variety of offline and online algorithms for statistical models that are linear in the parameters (generalized linear models, quantile regression, SVMs, etc.).  This talk will discuss my experience using primitives defined in the JuliaML ecosystem (LossFunctions and PenaltyFunctions) to implement a fast and flexible SparseReg type for fitting a wide variety of models.
   bio: >
     Josh is a statistics Ph.D. student at NC State University, where he researches on-line optimization algorithms for performing statistical analysis on big and streaming data.
-- speaker: "Isaac Yonemoto"
-  affiliation: "Interplanetary Robot"
-  title: "Verilog.jl: a Verilog DSL for Julia"
-  abstract: >
-    In order to test out some numerical formats I developed, and profile their hardware performance, I developed Verilog.jl - which is a Julia library that aggressively takes advantage of Julia's type system and access to the AST as a 1st-class process.  The result is a julia-based DSL for hardware design.  This library allows for rapid iteration of potential hardware design, and automated testing, and elimination of errors in putting together a full hardware module package.
-  bio: >
-    Former biochemist, now working in theoretical numerical computing
 - speaker: "Christina Lee"
   affiliation: "Okinawa Institute of Science and Technology"
   title: "Teaching Through Code"
