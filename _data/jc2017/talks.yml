@@ -397,3 +397,16 @@
     More about LowRankModels: https://github.com/madeleineudell/LowRankModels.jl
   bio: >
     Mihir Paradkar recently graduated from Cornell University in Biological Engineering. He has been user of Julia since v0.3.5 and is a developer of GraphGLRM.jl and LowRankModels.jl .
+- speaker: "Udayan Kumar/ Paul Shealy"
+  affiliation: "Microsoft"
+  title: "Building End to End Data Science Solutions in the Azure Cloud with Julia"
+  abstract: >
+    Increasingly organizations are using cloud platforms to store their data and perform analytics driven by cost, scale, and manageability considerations. Business applications are being retooled to leverage the vast enterprise / public data, artificial intelligence (AI), and machine learning (ML) algorithms.  To build and deploy large scale intelligent applications, data scientists and analysts today need to be able to combine their knowledge of analytical languages and platforms like Julia with that of the cloud.
+
+    In this talk, data scientists and analysts will learn how to build end-to-end analytical solutions using Julia on scalable cloud infrastructure. Developing such solutions usually requires one to understand how to seamlessly integrate Julia with various cloud technologies. After attending the talk, the attendees should have a good understanding of all the major aspects needed to start building intelligent applications on the cloud using Julia, leveraging appropriate cloud services and tool-kits. We will also briefly introduce the Azure Data Science Virtual Machine [DSVM](http://aka.ms/dsvm) which provides a comprehensive development/experimentation environment with several pre-configured tools to make it easy to work with different cloud services (SQL Data Warehouse, Spark, Blobs etc.) from Julia and other popular data analytics languages. Join this demo heavy session where we cover the end to end data science life-cycle and show how you can access storage and compute services on the Azure cloud using Julia from the DSVM.  A self-guided tutorial building upon the examples in the demo will be published online for attendees to continue their learning offline.
+
+  bio: >
+    Udayan is a Software Engineer with Algorithms and Data Science group at Microsoft.   Before coming to Microsoft, he was designing predictive algorithms to detect threats and malignant apps at a mobile security startup in Chicago.
+    He has a MS and a Ph.D. in Computer Engineering from University of Florida, Gainesville, FL. His research was focused on Trust, Privacy and Behavior mining in Mobile Networks.
+
+    Paul is a senior software engineer in Microsoft’s Algorithms and Data Science group, where he is the lead engineer for the Data Science Virtual Machine and works on a variety of solutions for easier machine learning and data science. He was previously the project lead for the Planner service in Office 365. While on Planner he also worked on disaster recovery, topology, storage, and several other core service components. He holds computer science degrees from Clemson and Duke.
