@@ -361,15 +361,15 @@
     Joint work with Alan Edelman, Andy Ferris, and a few other people.
   bio: >
     Data Scientist at Capital One, formerly Research Scientist at MIT
-- speaker: "Eddie Elizondo"
-  affiliation: "Homer Logistics"
-  title: "Using Julia to Bridge Research and Production Environments for an On-demand Delivery Network"
-  abstract: >
-    Quickly moving ideas from research to implementation has always been challenging, usually requiring intensive code rewrites that impede development or constrain research ideas considered too time-intensive to implement.  Homer Logistics is an on-demand delivery provider whose systems power more than 100,000 monthly deliveries across 11 markets across the United States.  We have used Julia extensively to bridge the gap between research and implementation to improve and iterate our methods as quickly as possible.
-
-    Because of Julia’s flexibility, package library for optimization, and strong performance, we can repurpose much of our research code from a simulated environment for our production systems.  In production, we use a collection of Julia microservices built from Docker images that are then deployed and managed using Kubernetes.  The Julia microservices function as specialized computational engines for different components of the delivery network, helping us solve tens of thousands of linear programs daily to remain dynamically responsive to our on-demand environment.  These microservices communicate with other systems using Redis and HTTP.  We will talk about our experience using Julia in research and production and challenges that are our concerns for continuing to use Julia in the future.
-  bio: >
-    4 years of industry experience: 2 years in operations and analytics consulting and most recently, developing dynamic dispatching, routing, and allocation models for an on-demand transportation startup.  Will begin a Ph.D. program in operations research this fall.  University of Pennsylvania '13 (B.S., concentrations in statistics, operations research, finance)
+# - speaker: "Eddie Elizondo"
+#   affiliation: "Homer Logistics"
+#   title: "Using Julia to Bridge Research and Production Environments for an On-demand Delivery Network"
+#   abstract: >
+#     Quickly moving ideas from research to implementation has always been challenging, usually requiring intensive code rewrites that impede development or constrain research ideas considered too time-intensive to implement.  Homer Logistics is an on-demand delivery provider whose systems power more than 100,000 monthly deliveries across 11 markets across the United States.  We have used Julia extensively to bridge the gap between research and implementation to improve and iterate our methods as quickly as possible.
+# 
+#     Because of Julia’s flexibility, package library for optimization, and strong performance, we can repurpose much of our research code from a simulated environment for our production systems.  In production, we use a collection of Julia microservices built from Docker images that are then deployed and managed using Kubernetes.  The Julia microservices function as specialized computational engines for different components of the delivery network, helping us solve tens of thousands of linear programs daily to remain dynamically responsive to our on-demand environment.  These microservices communicate with other systems using Redis and HTTP.  We will talk about our experience using Julia in research and production and challenges that are our concerns for continuing to use Julia in the future.
+#   bio: >
+#     4 years of industry experience: 2 years in operations and analytics consulting and most recently, developing dynamic dispatching, routing, and allocation models for an on-demand transportation startup.  Will begin a Ph.D. program in operations research this fall.  University of Pennsylvania '13 (B.S., concentrations in statistics, operations research, finance)
 - speaker: "Rainer Engelken"
   affiliation: "Max Planck Institute for Dynamics and Self-Organization"
   title: "Event-based Simulation of Spiking Neural Networks in Julia"
