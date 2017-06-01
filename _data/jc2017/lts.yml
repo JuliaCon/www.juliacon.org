@@ -302,7 +302,7 @@
   abstract: >
      JuliaDB.jl is an end-to-end all-Julia data analysis platform incorporating storage, parallelism and compute into a single model. One can load a pile of CSV files into JuliaDB as a distributed table. JuliaDB will index the files and save the index for efficient lookup of subsets of the data later. You can also convert the data from the CSV files into an efficient memory mappable binary format ("ingest").
 
-     This talk will be a breif introduction to the basic primitives of JuliaDB and how to use them."
+     This talk will be a brief introduction to the basic primitives of JuliaDB and how to use them."
   bio: >
     Jeff is one of the creators of Julia, co-founding the project at MIT in 2009 and eventually receiving a Ph.D. related to the language in 2015. He continues to work on the compiler and system internals, while also working to expand Julia's commercial reach as a co-founder of Julia Computing, Inc.
 - speaker: "Stefan Karpinski"
