@@ -175,9 +175,16 @@
     Jane Liang recently obtained a bachelor's degree in statistics from UC Berkeley and plans to enter a doctoral program later this year. Currently, she is a scientific programmer working with Dr. Saunak Sen at the University of Tennessee Health Science Center, Department of Preventive Medicine, Division of Biostatistics.
 - speaker: "Jacob Quinn"
   affiliation: "Domo"
-  title: "Julia + Enterprise: Building Web Services in Julia"
+  title: "DataStreams: Roadmap for Data I/O in Julia"
   abstract: >
-    Much has been said about Julia's keen focus and success in the numerical computation space. While certainly useful, many enterprises today operate in dynamic environments where many different microservices must interoperate and communicate. Leveraging recent progress on Julia's web capabilities, this talk will discuss strategies for building stand-alone services in Julia.
+    The DataStreams package defines a powerful and performant interface for getting data in and out of Julia. Come learn about exciting advances in features and performance as we approach Julia 1.0.
+  bio: >
+    Attended Carnegie Mellon for a master's degree in data science and active Julia contributor for 4 years now.
+- speaker: "Jacob Quinn"
+  affiliation: "Domo"
+  title: "Nulls.jl: Missingness for Data in Julia"
+  abstract: >
+    Nullability is a complex issue for any programming language or domain; Nulls.jl puts forth the data-friendly approach Julia has wanted and deserves with core language support.
   bio: >
     Attended Carnegie Mellon for a master's degree in data science and active Julia contributor for 4 years now.
 - speaker: "Andy Ferris"
