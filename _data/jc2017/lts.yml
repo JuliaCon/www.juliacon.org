@@ -306,3 +306,10 @@
   title: "Julia Roadmap"
   abstract: "TBD"
   bio: "co-creator of Julia, co-founder of Julia Computing"
+- speaker: "Felipe Noronha"
+  affiliation: "Brazilian Development Bank"
+  title: "Heavy-duty pricing of Fixed Income financial contracts with Julia"
+  abstract: >
+    The pricing of bonds or a Credit Portfolio usually has simple mathematics. However, when faced with a big portfolio, careful design is crucial for a fast execution time. I'll show how I designed a solution to price a database of about 2.4 million contracts with 78 million cashflows in up to 3.5 minutes using a 8 core machine. The solution uses plain simple Julia code, some parallel computation and buffering strategies, Julia's native serialization for fast-loading data from the disk, and a handful of packages. BusinessDays.jl and InterestRates.jl packages will be featured.
+  bio: >
+    Bachelor in Computer Engineering, M. Sc. in Economics, Market Risk Manager at BNDES (Brazilian Development Bank).
