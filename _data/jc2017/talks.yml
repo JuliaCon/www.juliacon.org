@@ -13,6 +13,9 @@
     Web developer since 2000. Architecting and building multi-tier, performance critical web apps handling large amounts of real time data since 2008. PHP, Ruby, JavaScript, F#, Elixir. Now using Julia and Genie to tackle web development's own two-language problem (productive-slow-interpreted vs unproductive-fast-compiled).
 
     CTO at OLBG. Startup devotee and serial tech founder. IronHack mentor, organizer of Barcelona Julia and Barcelona on Rails. Creator of Genie.jl.
+  resources:
+    - name: "Slides"
+      url: "/2017/assets/slides/Julia_Web_Development_with_Genie--slides.zip"
 - speaker: "James Fairbanks & Seth Bromberger"
   affiliation: "Georgia Tech Research Institute & Lawrence Livermore National Laboratory"
   title: "LightGraphs: Our Network, Our Story"
@@ -26,6 +29,9 @@
     Dr. James Fairbanks is a Research Engineer at the Georgia Tech Research Institute where he studies problems in complex networks, data analysis, and high performance computing with applications to healthcare and social phenomena.
 
     Seth Bromberger, a Research Scientist at Lawrence Livermore National Laboratory (https://people.llnl.gov/seth), is currently exploring the application of graph theory and machine learning to cybersecurity problems in critical infrastructure.
+  resources:
+    - name: "Slides"
+      url: "/2017/assets/slides/lightgraphsjl.pdf"
 - speaker: "Pearl Li"
   affiliation: "Federal Reserve Bank of New York"
   title: "Using Parallel Computing for Macroeconomic Forecasting at the Federal Reserve Bank of New York"
@@ -38,6 +44,9 @@
     Disclaimer: This talk reflects the experience of the author and does not represent an endorsement by the Federal Reserve Bank of New York or the Federal Reserve System of any particular product or service. The views expressed in this talk are those of the authors and do not necessarily reflect the position of the Federal Reserve Bank of New York or the Federal Reserve System. Any errors or omissions are the responsibility of the authors.
   bio: >
     I'm a Research Analyst at the New York Fed using Julia to estimate and forecast macroeconomic models. I'm interested in applying the frontier of scientific computing to economic research, so that we can solve more realistic and complex models.
+  resources:
+    - name: "Slides"
+      url: "https://github.com/pearlzli/dsge-forecasting_juliacon-2017"
 - speaker: "David P. Sanders"
   affiliation: "Department of Physics, Faculty of Sciences, National University of Mexico"
   title: "Equations, inequalities and global optimisation: guaranteed solutions using interval methods and constraint propagation"
@@ -65,6 +74,9 @@
 
     His video tutorials on Julia have a total of 75,000 views on YouTube.
     He is a principal author of the [`ValidatedNumerics.jl`](https://github.com/dpsanders/ValidatedNumerics.jl) package for interval arithmetic, and [`IntervalConstraintProgramming.jl`](https://github.com/dpsanders/IntervalConstraintProgramming.jl) for constraint propagation.
+  resources:
+    - name: "Slides"
+      url: "https://github.com/dpsanders/juliacon_2017_calculating_with_sets"
 - speaker: "Kristoffer Carlsson"
   affiliation: "Chalmers University of Technology"
   title: "OhMyREPL.jl: This Is My REPL; There Are Many Like It, But This One Is Mine"
@@ -78,6 +90,9 @@
     The talk will give an overview of the different features, discuss which features managed to get upstreamed to Julia v0.6 and, if time allows, outline the internals of the package.
   bio: >
     Ph.D. student in computational mechanics at Chalmers University of Technology. Using Julia both for studies and as a hobby.
+  resources:
+    - name: "Slides"
+      url: "https://github.com/KristofferC/OhMyREPL_JuliaCon2017"
 - speaker: "Deniz Yuret"
   affiliation: "Koç University, Istanbul"
   title: "Knet.jl: Beginning Deep Learning with 100 Lines of Julia"
@@ -85,6 +100,9 @@
     Knet (pronounced "kay-net") is the Koç University deep learning framework implemented in Julia by Deniz Yuret and collaborators. Knet uses dynamic computational graphs generated at runtime for automatic differentiation of (almost) any Julia code. This allows machine learning models to be implemented by only describing the forward calculation (i.e. the computation from parameters and data to loss) using the full power and expressivity of Julia. The implementation can use helper functions, loops, conditionals, recursion, closures, tuples and dictionaries, array indexing, concatenation and other high level language features, some of which are often missing in the restricted modeling languages of static computational graph systems like Theano, Torch, Caffe and Tensorflow. GPU operation is supported by simply using the KnetArray type instead of regular Array for parameters and data. High performance is achieved using custom memory management and efficient GPU kernels.
   bio: >
     Deniz Yuret received his BS, MS, and Ph.D. at MIT working at the AI Lab on machine learning and natural language processing during 1988-1999. He co-founded Inquira, Inc., a startup commercializing question answering technology which was later acquired by Oracle.  He is currently an associate professor of Computer Engineering at Koç University, Istanbul and founder of its Artificial Intelligence Laboratory. In his spare time he develops Knet.jl, a Julia deep learning framework that uses dynamic computational graphs generated at runtime for automatic differentiation of (almost) any Julia code.
+  resources:
+    - name: "Repo"
+      url: "https://github.com/denizyuret/Knet.jl"
 - speaker: "Spencer Lyon"
   affiliation: "NYU Stern"
   title: "The Dolo Modeling Framework"
@@ -101,6 +119,9 @@
     The target audience for this talk is anyone interested in developing GUIs for their Julia application with a consistent look on OS X, Linux and Windows. All user-facing code is pure Julia and QML, no C++ knowledge is required to use the package.
   bio: >
     I am an associate professor at the mechanics department of the Royal Military Academy. For my Ph.D., I worked on Coolfluid, a C++ framework for computational fluid dynamics with a domain specific language. My interest in Julia is sparked by its powerful metaprogramming functionality coupled with C++-like performance, together with much better accessibility for students. To ease the transition to Julia, we are working on making some C++ libraries available in Julia. The QML.jl package is part of this effort. We also use Julia in our daily teaching activities, to provide students with interactive solutions to exercises.
+  resources:
+    - name: "Slides"
+      url: "https://github.com/barche/qml-juliacon2017"
 - speaker: "Jorge Perez and Luis Benet"
   affiliation: "UNAM (Mexico)"
   title: "TaylorIntegration.jl: Taylor's Integration Method in Julia"
@@ -113,6 +134,9 @@
 
     Luis Benet is Associate Professor at the Instituto de Ciencias Físicas of the National University of Mexico (UNAM). He is mainly interested in classical and quantum chaos, including the dynamics of Solar System objects. He is
     coauthor of ValidatedNumerics.jl, TaylorSeries.jl and TaylorIntegration.jl, and has contributed to other Julia packages.
+  resources:
+    - name: "Slides"
+      url: "http://nbviewer.jupyter.org/format/slides/github/PerezHz/TaylorIntegration.jl/blob/master/examples/JuliaCon2017/TaylorIntegration_JuliaCon.ipynb"
 - speaker: "Camila Metello & Joaquim Garcia"
   affiliation: "PSR Inc."
   title: "Stochastic Optimization Models on Power Systems"
@@ -148,6 +172,9 @@
     Julia is a language designed for numerical computing and it does that job pretty well. However, the emphasis on numerical computing and data science tends to overshadow the language’s other use cases. In this talk we share our experiences using Julia to build a distributed data fabric using commodity hardware. A data fabric is a distributed storage system that abstracts away the physical infrastructure and makes data available to applications using well known protocols such as NFS or S3. Our talk focuses on how we use Julia to implement a data fabric with specific examples. We will discuss some of the shortcomings and how we circumvented them. Finally we close by a cost benefit analysis of developing in Julia and how it can be a critical advantage in bringing products to market.
   bio: >
     Ajay works on systems and infrastructure software for fun and profit. He has dabbled in operating systems, memory allocators, file systems and distributed systems. He founded kinant.com in 2017 to simplify the deployment and usage of storage infrastructure.
+  resources:
+    - name: "Slides"
+      url: "/2017/assets/slides/Julia for Infrastructure (Juliacon '17).pdf"
 - speaker: "Simon Byrne, Ranjan Anantharaman"
   affiliation: "Julia Computing, Inc."
   title: "Miletus: A Financial Modelling Suite in Julia"
@@ -191,6 +218,11 @@
     He is an assistant professor in the Energy and Resources Group at the University of California, Berkeley. Previously he was an assistant professor in the School of Natural Resources and the Environment of the University of Michigan, a postdoc at the University of California, Berkeley and a postdoc at the Economic and Social Research Institute in Ireland. He also was a visiting research fellow at the Smith School of Enterprise and the Environment, University of Oxford.
 
     He holds a Ph.D. (Dr. rer. pol.) in economics from the University of Hamburg (Germany) and the International Max Planck Research School on Earth System Modelling, a MSc in Environmental Change and Management from the University of Oxford (UK) and a M.Phil. in philosophy, logic and philosophy of science from Ludwig-Maximilians-Universität München (Munich, Germany).
+  resources:
+    - name: "Slides"
+      url: "/2017/assets/slides/AnthoffJuliacon2017.pdf"
+    - name: "Slides (single-page)"
+      url: "https://github.com/davidanthoff/talk-2017-juliacon"
 - speaker: "Hilding Elmqvist"
   affiliation: "Mogram AB, Lund, Sweden"
   title: "Modia: A Domain Specific Extension of Julia for Modeling and Simulation"
@@ -228,6 +260,9 @@
     He then worked in industry and oversaw the structural analysis of large aircraft docking structures.
 
     Recently, Laurent started as a Research Associate at the Luxembourg Centre for Systems Biomedicine, where he works in the numerical optimization of large biochemical networks using Julia. Besides his mother tongue Luxembourgish, he is fluent in English, French and German, and he is currently learning Brazilian Portuguese. 
+  resources:
+    - name: "Slides"
+      url: "https://opencobra.github.io/COBRA.jl/juliaCon2017/presentation.pdf"
 - speaker: "Jarrett Revels"
   affiliation: "MIT"
   title: "Mixed-Mode Automatic Differentiation in Julia"
@@ -235,6 +270,9 @@
     Julia's unique execution model, metaprogramming facilities, and type system make it an ideal candidate language for native automatic differentiation (AD). In this talk, we'll discuss a variety of Julia-specific tricks employed by ForwardDiff and ReverseDiff to differentiate user-provided Julia functions. Topics covered include the implementation of a native Julia execution tracer via operator overloading, functor-based directives for specialized instruction taping, SIMD vectorization and instruction elision for inlined dual number operations, and vectorized differentiation of linear algebraic expressions. I'll close the talk with a glimpse into the future of AD in Julia and JuMP, highlighting the effect new features may have on other downstream projects like Celeste, Optim and RigidBodyDynamics.
   bio: >
     I like to make Julia code differentiate itself.
+  resources:
+    - name: "Slides"
+      url: "https://github.com/jrevels/AutoDiffPresentations/blob/master/juliacon_2017_slides.pdf"
 - speaker: "Madeleine Udell"
   affiliation: "Cornell University"
   title: "Julia: The Type of Language for Mathematical Programming"
@@ -260,6 +298,9 @@
     This talk will demonstrate TensorFlow.jl by guiding listeners through training a realistic model of image captioning , showing how to 1) construct the model with native Julia control flow and indexing, 2) visualize the model structure and parameters in a web browser during training,  and 3) seamlessly save and share the trained model with Python. No prior experience with TensorFlow is assumed.
   bio: >
     Ph.D. candidate at MIT studying artificial intelligence
+  resources:
+    - name: "Slides"
+      url: "https://github.com/malmaud/juliacon2017"
 - speaker: "Mike Innes"
   affiliation: "Julia Computing, Inc."
   title: "Flux: Machine Learning with Julia"
@@ -297,6 +338,9 @@
 
   bio: >
     We're graduate students in the Robot Locomotion Group at MIT, where we work on simulation, planning, and control of walking and flying robots.
+  resources:
+    - name: "Slides"
+      url: "https://github.com/tkoolen/RoboticsJuliaCon2017.jl/"
 - speaker: "Hong Ge, Zoubin Ghahramani, Kai Xu"
   affiliation: "University of Cambridge"
   title: "Turing: a Fresh Approach to Probabilistic Programming"
@@ -311,6 +355,9 @@
     Julia 0.6 includes a long-needed overhaul of the type system. While the effects of this change are not always visible, the new system eliminates classes of bugs and increases the expressiveness of types and method signatures. I plan to briefly explain how the new system works and what you can do with it. But more importantly, I want to ask: where do we go from here? Will we ever need another overhaul? I'll present some possible future features and other related speculations. Topics may include record types, more powerful tuple types, protocols, ugly corner cases, and method specificity and ambiguity.
   bio: >
     Jeff is one of the creators of Julia, co-founding the project at MIT in 2009 and eventually receiving a Ph.D. related to the language in 2015. He continues to work on the compiler and system internals, while also working to expand Julia's commercial reach as a co-founder of Julia Computing, Inc.
+  resources:
+    - name: "Slides"
+      url: "https://docs.google.com/presentation/d/14vKJZxSNLkB-zu7asaLcvg6iJUyYfmpOu8NhN5hmItY"
 - speaker: "Tim Besard"
   affiliation: "Ghent University"
   title: "Programming NVIDIA GPUs in Julia with CUDAnative.jl"
@@ -318,6 +365,9 @@
     GPUs have typically been programmed using low-level languages like CUDA and OpenCL, providing full control over the hardware at the expense of developer efficiency. CUDAnative.jl makes it possible to program GPUs directly from Julia, in the case you need the flexibility to write your own kernel functions, without having to fall back to CUDA C or binary libraries. In this talk, I will give an overview of CUDAnative.jl with its features and restrictions, explain the technology behind it, and sketch our future plans.
   bio: >
     Ph.D. student at Ghent University
+  resources:
+    - name: "Slides"
+      url: "https://maleadt.github.io/notebooks/2017-juliacon/talk_cudanative.pdf"
     
 - speaker: "Simon Danisch"
   affiliation: "JuliaLang"
@@ -347,6 +397,9 @@
     Julia uses a unique mix of techniques adopted from conventional static and dynamic to provide a special blend of high-performance and flexible compute kernels. This allows it to simultaneously have a fully ahead-of-time-compiled code model – while permitting (even encouraging) code updates at runtime – and a fully runtime-interpreted interface – while permitting extensive compile-time optimization. In this talk, I will examine some of the trade-offs and limitations this requires of user code, especially on common first-class code evaluation features – such as `eval` and incremental pre-compilation – as well as advanced features – such as `@generated` functions and `@pure`. We will also try to take a look at the internal layout and implementation of some of these data structures, and how the compiler works to maintain their correctness over time, despite other changes to the system.
   bio: >
     I've been a Julia contributor since before it was cool. Now, I'm working for Julia Computing, as the static compilation champion, compiler correctness fiend, and performance cliff jumper.
+  resources:
+    - name: "Slides"
+      url: "https://vtjnash.github.io/juliacon-talks-vtjnash/assets2017/player/KeynoteDHTMLPlayer.html"
 - speaker: "Jiahao Chen"
   affiliation: "Capital One"
   title: "Taking Vector Transposes Seriously"
@@ -364,6 +417,9 @@
     Joint work with Alan Edelman, Andy Ferris, and a few other people.
   bio: >
     Data Scientist at Capital One, formerly Research Scientist at MIT
+  resources:
+    - name: "Slides"
+      url: "https://www.slideshare.net/acidflask/taking-vector-transposes-seriously"
 # - speaker: "Eddie Elizondo"
 #   affiliation: "Homer Logistics"
 #   title: "Using Julia to Bridge Research and Production Environments for an On-demand Delivery Network"
@@ -383,6 +439,9 @@
     Thereby numerically exact simulations of large spiking networks and the characterization of their chaotic phase space structure become possible. For example, calculating the largest Lyapunov exponent of a spiking neural network with one million neurons is sped up by more than four orders of magnitude compared to previous implementations in other programming languages (C++, Python, Matlab).
   bio: >
     Rainer just finished his Ph.D. in at the Max Planck Institute for Dynamics and Self-Organization (Göttingen) on 'Chaotic neural circuit dynamics' after studying physics at various places. He has been using Julia since 2014, as it minimizes both programming time and CPU time and allows easy debugging, profiling and visualization under one roof.
+  resources:
+    - name: "Slides"
+      url: "https://github.com/RainerEngelken/JuliaCon2017"
 - speaker: "Mihir Paradkar"
   affiliation: "Cornell University"
   title: "GraphGLRM: Making Sense of Big Messy Data"
@@ -392,6 +451,9 @@
     More about LowRankModels: https://github.com/madeleineudell/LowRankModels.jl
   bio: >
     Mihir Paradkar recently graduated from Cornell University in Biological Engineering. He has been user of Julia since v0.3.5 and is a developer of GraphGLRM.jl and LowRankModels.jl . He will be starting as a software engineering in data mining at Yelp late this summer.
+  resources:
+    - name: "Slides"
+      url: "https://docs.google.com/presentation/d/1n8Q7lf1O1tS-OKQOAkZWydvy5lwQY4UlMCKE3W129Fw"
 - speaker: "Udayan Kumar/ Paul Shealy"
   affiliation: "Microsoft"
   title: "Building End to End Data Science Solutions in the Azure Cloud with Julia"
