@@ -14,6 +14,9 @@
     unique high-order adaptive Runge-Kutta methods for stochastic differential equations  and the fast high-order methods for delay differential equations. Lastly,  participants will be walked through the analysis add-on tools, using Optim.jl to perform parameter estimation of ordinary differential equation models, identify sensitive parameters, and quantify numerical uncertainties of solutions. Users will leave the workshop with an expanded view of what kinds of problems can be solved with DifferentialEquations.jl and with the knowledge of how to solve them.
   bio: >
     Chris Rackauckas is a 4th year Ph.D. student in Mathematics at the University of California, Irvine. He is the principal author of many Julia packages, including the JuliaDiffEq packages (DifferentialEquations.jl) and ParallelDataTransfer.jl, and has contributed to numerous other packages related to scientific computing. Chris is also actively engaged in the Julia community as the author of the StochasticLifestyle blog and the tutorial "A Deep Introduction to Julia for Data Science and Scientific Computing".
+  resources:
+    - name: "Slides"
+      url: "https://github.com/JuliaDiffEq/JuliaCon2017"
 - speaker: "Daniel Whitenack"
   affiliation: "Pachyderm"
   title: "Integrating Julia in Real-world, Distributed Pipelines"
@@ -31,6 +34,11 @@
     The workshop will be completely example/demo based and will include individual exercises for the students.
   bio: >
     Daniel (@dwhitena) is a Ph.D. trained data scientist working with Pachyderm (@pachydermIO).  Daniel develops innovative, distributed data pipelines which include predictive models, data visualizations, statistical analyses, and more.  He has spoken at conferences around the world (Datapalooza, DevFest Siberia, GopherCon, and more), teaches data science/engineering with Ardan Labs (@ardanlabs), maintains the Go kernel for Jupyter, and is actively helping to organize contributions to various open source data science projects.
+  resources:
+    - name: "Slides"
+      url: "https://t.co/vZLzpBy15e"
+    - name: "Workshop"
+      url: "https://github.com/dwhitena/julia-workshop"
 - speaker: "Mike Innes, Jonathan Malmaud, Pontus Stenetorp"
   affiliation: "Julia Computing, Massachusetts Institute of Technology, University College London"
   title: "Deep Learning with Julia"
@@ -46,6 +54,9 @@
     Jon Malmaud is a PhD candidate at MIT's Brain and Cognitive Science Department, where he works on AI and Deep Learning. He's also a core contributor to the Julia language, and created Julia's TensorFlow bindings.
 
     Pontus Stenetorp is a research associate at University College London, that spends most of his research time on Natural Language Processing and Machine Learning -- with a particular focus on Deep Learning.  He has been using Julia since 2014 due to a need for rapid prototyping and computational performance.  When it comes to Julia contributions, he tends to contribute small occasional patches to the standard library.
+  resources:
+    - name: "Workshop"
+      url: "https://github.com/ninjin/juliacon2017_dl_workshop"
 - speaker: "Huckleberry Febbo"
   affiliation: "University of Michigan"
   title: "NLOptControl.jl a Tool for Solving Nonlinear Optimal Control Problems"
@@ -86,6 +97,9 @@
 
     His previous Julia tutorials on YouTube have over 75,000 views.
     He is a principal author of the [`ValidatedNumerics.jl`](https://github.com/dpsanders/ValidatedNumerics.jl) package for interval arithmetic, and [`IntervalConstraintProgramming.jl`](https://github.com/dpsanders/IntervalConstraintProgramming.jl) for constraint propagation.
+  resources:
+    - name: "Workshop"
+      url: "https://github.com/dpsanders/julia_towards_1.0"
 - speaker: "Patrick Kofod Mogensen"
   affiliation: "University of Copenhagen"
   title: "Optimization and Solving Systems of Equations in Julia"
@@ -108,6 +122,15 @@
     3. GPUArrays.jl
   bio: >
     Contributors to the JuliaGPU ecosystem
+  resources:
+    - name: "JuliaGPU ecosystem slides"
+      url: "https://vchuravy.github.io/notebooks/juliacon2017/GPU-workshop.slides.html"
+    - name: "JuliaGPU ecosystem slides (single-page)"
+      url: "https://vchuravy.github.io/notebooks/juliacon2017/GPU-workshop.html"
+    - name: "CUDAnative.jl slides"
+      url: "https://goo.gl/Rb1mo3"
+    - name: "CUDAnative.jl slides (single-page)"
+      url: "https://goo.gl/pbT471"
 - speaker: "Katharine Hyatt"
   affiliation: "UC Santa Barbara"
   title: "From One to Many: Writing Julia Code to Simulate Big Quantum Systems on Big Computers"
@@ -115,3 +138,6 @@
     Start using Julia to do simulations of quantum systems with many interacting particles! We will write a single-core exact diagonalization code which can handle a variety of models from quantum physics, using Julia to make it readable and performant. We'll tour the Julia package ecosystem for useful packages that will help us store our results to share with others and get to the interesting physics. Then, we'll use some of Julia's parallel features to scale up our code to do many-body simulation on many-core and many-node systems in a convenient, reproducible, and fast way. You need not ever have written any Julia before. We'll use physics examples as natural motivation to explore Julia's capabilities, but no background in quantum mechanics is required. We will introduce the models as we go.
   bio: >
     5th year physics graduate student, sometimes Julia contributor
+  resources:
+    - name: "Workshop"
+      url: "https://github.com/kshyatt/juliacon2017"

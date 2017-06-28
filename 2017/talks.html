@@ -63,6 +63,17 @@ layout: default2017
         <em class="u-italic">About {{workshop.speaker}}</em>
         {{workshop.bio | markdownify }}
     </div>
+
+    {% if workshop.resources %}
+    <div>
+        <em class="u-italic">Resources</em>
+        <ul>
+          {% for resource in workshop.resources %}
+          <li><a href="{{resource.url}}">{{resource.name}}</a></li>
+          {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
 {% endfor %}
 
         <h2>Talks</h2>
@@ -78,6 +89,17 @@ layout: default2017
         <em class="u-italic">About {{talk.speaker}}</em>
         {{talk.bio | markdownify }}
     </div>
+
+    {% if talk.resources %}
+    <div>
+        <em class="u-italic">Resources</em>
+        <ul>
+          {% for resource in talk.resources %}
+          <li><a href="{{resource.url}}">{{resource.name}}</a></li>
+          {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
 {% endfor %}
 
     </div>
@@ -97,6 +119,17 @@ layout: default2017
         <em class="u-italic">About {{talk.speaker}}</em>
         {{talk.bio | markdownify }}
     </div>
+
+    {% if talk.resources %}
+    <div>
+        <em class="u-italic">Resources</em>
+        <ul>
+          {% for resource in talk.resources %}
+          <li><a href="{{resource.url}}">{{resource.name}}</a></li>
+          {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
 {% endfor %}
 
     </div>

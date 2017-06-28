@@ -12,6 +12,11 @@
     Standards already exist to improve software readability, but code understandable by a colleague differs from the best code to present to a student.  As a scientist, I have often had to jump from mathematics or pseudo-code to a fully fledged implementation, with no chance to gain purchase in an intermediate middle ground.  In the last year, I have worked on a Julia blog in computational physics and numerics and have striven to write code comprehensible to someone unfamiliar with the fundamental principles of the algorithm.  In this talk, I will display both good and bad examples of documentation and tutorials, as well as guidelines for improvement.
   bio: >
     Theoretical Physics Graduate Student
+  resources:
+    - name: "Slides"
+      url: "http://slides.com/christinalee/juliacon"
+    - name: "Website"
+      url: "http://albi3ro.github.io/M4/general%20audience/Teaching_With_Code.html"
 - speaker: "Thalia Chan"
   affiliation: "Imperial College, London"
   title: "Improving Biological Network Inference with Julia"
@@ -33,6 +38,9 @@
     This talk will address efforts to promote diversity and inclusion at JuliaCon this year, with the goals of a) increasing awareness of JuliaCon’s initiatives among conference participants and the Julia community at large and b) starting a public conversation about diversity and inclusion with other open-source conferences. It will place JuliaCon’s initiatives in the context of the broader scientific computing community.
   bio: >
     Erica is a research analyst in the Macroeconomics function at the Federal Reserve Bank of New York and the Diversity Chair for JuliaCon 2017. She is a 2015 graduate of Williams College and plans to begin her Ph.D. in Economics in the fall.
+  resources:
+    - name: "Slides"
+      url: "https://github.com/emoszkowski/DiversityInclusion-JuliaCon2017"
 - speaker: "Mark Stalzer"
   affiliation: "Caltech"
   title: "TheoSea: Theory Marching to Light"
@@ -63,6 +71,9 @@
     Function return type annotations were added over a year ago and have seen some usage in Base but little in user-land. This talk will describe how they are implemented and discuss how ResultTypes.jl uses them to great effect.
   bio: >
     Eric is co-leading Invenia's transition to Julia and designing the building blocks for Invenia's Energy Intelligence System.
+  resources:
+    - name: "Slides"
+      url: "http://slides.com/iamed2/using-return-type-annotations-effectively"
 - speaker: "Shashi Gowda"
   affiliation: "Julia Computing, Inc."
   title: "WebIO.jl: a Thin Abstraction Layer for Web Based Widgets"
@@ -89,6 +100,9 @@
     A large part of data science is in the gathering of data, and in solving the 2 language problem, it should be no surprise that Julia is great for that part of the workflow. In this talk, we will discuss how to combine a set of packages (HTTP.jl, Gumbo.jl, Cascadia.jl) to easily develop and deploy a web scraping strategy. We will see how Julia's high level language features make it easy to interactively develop such projects, and at the same allow deployment into a distributed cluster for scraping at scale.
   bio: >
     Avik is the author of Julia's integration with Java and various other packages. One of his  hobbies is to make Julia a first class language on the Raspberry Pi.
+  resources:
+    - name: "Slides"
+      url: "https://nbviewer.jupyter.org/format/slides/gist/aviks/b55bb6f2f22cd7700084c1cbf22af124"
 - speaker: "Jane E. Herriman"
   affiliation: "Caltech/Lawrence Livermore National Lab"
   title: "Using Julia to Inform Qb@ll Development"
@@ -138,6 +152,9 @@
     GR is a plotting package for the creation of two- and three-dimensional graphics in Julia, offering basic MATLAB-like plotting functions to visualize static or dynamic data with minimal overhead. In addition, GR can be used as a backend for Plots, a popular visualization interface and toolset for Julia. Using quick practical examples, this talk is going to present the special features and capabilities provided by the GR framework for high-performance graphics, in particular when being used in interactive notebooks (Jupyter), development environments (Atom), desktop applications (nteract) or terminal programs (iTerm2). The presentation also introduces how to embed GR in interactive GUI applications based on QML.jl, a new plotting interface to Qt5 QML. Moreover, some experimental features and elements will be introduced, i.a. a meta layer providing an interactive interface to new backends based on Qt5 or JavaScript.
   bio: >
     Josef Heinen is the head of the group "Scientific IT–Systems" at the Peter Grünberg Institute / Jülich Centre for Neutron Science, both institutes at Forschungszentrum Jülich, a leading research centre in Germany. The design and development of visualization systems have been an essential part of his activities over the last twenty years. Most recently his team is engaged with the further development of a universal framework for cross-platform visualization applications (GR Framework).
+  resources:
+    - name: "Slides"
+      url: "https://goo.gl/wGarHU"
 - speaker: "Avik Sengupta"
   affiliation: "Julia Computing, Inc."
   title: "Julia on the Raspberry Pi"
@@ -203,6 +220,11 @@
     LLVM.jl provides a high-level Julia interface to the LLVM compiler framework. In this talk, I'll explain how to use LLVM.jl for basic code generation and execution, as well as how to integrate it with the rest of the Julia compiler.
   bio: >
     Ph.D. student at Ghent University
+  resources:
+    - name: "Slides"
+      url: "https://maleadt.github.io/notebooks/2017-juliacon/lightningtalk_llvm.slides.html"
+    - name: "Slides (single-page)"
+      url: "https://maleadt.github.io/notebooks/2017-juliacon/lightningtalk_llvm.html"
 - speaker: "Nikolaos Ignatiadis"
   affiliation: "Stanford University"
   title: "MultipleTesting.jl: Simultaneous Statistical Inference in Julia"
@@ -232,6 +254,9 @@
     The use of multiple dispatch in Julia’s standard library and user-written functions presents a challenge for automated techniques of generating test data. In order to exercise all the methods that implement a function, the generation technique must generate test data with diverse data types, but traditional techniques typically focus solely on diverse data values and implicitly assume a constant data type. In this talk, I will demonstrate our solution to this challenge which automatically learns an effective probability distribution over types and methods that create instances of these types. I will explain how we used this approach to fuzz-test some common arithmetic and string functions in the Julia standard library, in the process identifying three faults.
   bio: >
     I am an assistant professor in software engineering. The primary objective of my research is to improve the cost-effectiveness of software testing through the application of machine learning and statistical methods.  I have been a user of Julia for three years, and am co-developer of the DataGenerators package which facilitates the generation of complex test data.
+  resources:
+    - name: "Slides"
+      url: "http://www.simonpoulding.net/presentations/JuliaCon2017.pdf"
 - speaker: "Alfonso Landeros"
   affiliation: "University of California, Los Angeles"
   title: "BioSimulator.jl: Stochastic Simulation in Julia"
@@ -274,6 +299,11 @@
     I will present Junet — a new package for network analysis that seeks to be a fast and hackable alternative to mainstream network analysis libraries like NetworkX, igraph, and graph-tool. Unlike other Julia packages, it allows to quickly traverse and modify the graphs as well as to associate the attributes with their nodes and edges. I will discuss the data structures implemented in Junet and showcase how specific Julia's features allow to make them efficient. For example, thanks to parametric types it is possible to shrink the memory consumed by Junet to a fraction of what other libraries require. And conjunction of multiple dispatch with just-in-time compilation allows to optimize some methods based on the specific types they operate on, sometimes eliminating the computation altogether. The talk will also overview things that are experimental and don't work so well like creating zero-cost iterators and parallelizing loops. Finally, I will present the benchmarks comparing Junet with state-of-the-art libraries for network analysis.
   bio: >
     Graduate student
+  resources:
+    - name: "Repo"
+      url: "https://github.com/inguar/Junet.jl"
+    - name: "Paper"
+      url: "https://www.aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/viewFile/15708/14894"
 - speaker: "Gergo Bohner"
   affiliation: "Gatsby Computational Neuroscience Unit, UCL"
   title: "Continuous-Time Point-Process Factor Analysis in Julia"
