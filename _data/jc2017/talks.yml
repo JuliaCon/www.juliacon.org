@@ -348,6 +348,9 @@
     Turing is a new probabilistic programming language (PPL) based on Julia, a framework which allows users to define probabilistic models and perform inference automatically. Thanks to Julia's meta-programming support, Turing has a very friendly front-end modelling interface. Meanwhile, coroutines are used in Turing's inference engine development to achieve the state-of-the-art sampling performance. Also, we have recently introduced a new Gibbs interface, which allows user to compose different samplers and run them in the same time. In this talk, we will discuss our motivation of developing Turing in Julia, introduce the design and architecture of Turing, and present some practical examples of how probabilistic modelling is performed in Turing.
   bio: >
     Developers of the Turing project form Cambridge Machine Learning Group
+  resources:
+    - name: "Slides & demos"
+      url: "https://github.com/xukai92/JuliaCon17"
 - speaker: "Jeff Bezanson"
   affiliation: "Julia Computing, Inc."
   title: "The State of the Type System"
