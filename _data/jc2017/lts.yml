@@ -213,6 +213,9 @@
     I plan to describe the various metaprogramming approaches which are useful for implementing containers of known size or having inhomogeneous elements - by using traits, pure functions, generated functions, macros and recursion. I will touch upon the successes and failures of packages like StaticArrays.jl, Switches.jl and TypedTables.jl, and hope to preview work on a more flexible yet strongly-typed tabular data structure than currently provided by TypedTables.
   bio: >
     I currently work at Fugro Roames on the intersection of machine learning, geodesy and big data. Beginning with detailed, large-scale scans of the physical world, we deduce intelligence for our clients that would be expensive to acquire directly. Previously, I worked in academia as a numerical quantum physicist, where I was attracted to Julia for its unique combination of user productivity and speed.
+  resources:
+    - name: "Slides"
+      url: "https://docs.google.com/presentation/d/1ESV4MSGdfn89KSVoD6c7Tz1gwZ-MKa1pgpl8bOLsQSk"
 - speaker: "Tim Besard"
   affiliation: "Ghent University"
   title: "Interfacing with LLVM Using LLVM.jl"
