@@ -197,6 +197,9 @@
     The DataStreams package defines a powerful and performant interface for getting data in and out of Julia. Come learn about exciting advances in features and performance as we approach Julia 1.0.
   bio: >
     Attended Carnegie Mellon for a master's degree in data science and active Julia contributor for 4 years now.
+  resources:
+    - name: "Slides"
+      url: "https://docs.google.com/presentation/d/1rAr34bY9q9ckHD5tqLCX0ZGjRTp3EeGgkst8GMM6lk0"
 - speaker: "Jacob Quinn"
   affiliation: "Domo"
   title: "Nulls.jl: Missingness for Data in Julia"
@@ -204,6 +207,9 @@
     Nullability is a complex issue for any programming language or domain; Nulls.jl puts forth the data-friendly approach Julia has wanted and deserves with core language support.
   bio: >
     Attended Carnegie Mellon for a master's degree in data science and active Julia contributor for 4 years now.
+  resources:
+    - name: "Slides"
+      url: "https://docs.google.com/presentation/d/1nRQQslmBO1x9HTXfRd6VLFVkUQYOgcXYD6s50uRxOKk"
 - speaker: "Andy Ferris"
   affiliation: "Fugro Roames"
   title: "Statically Sized and Typed Data in Julia"
