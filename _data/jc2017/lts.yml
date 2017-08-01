@@ -345,6 +345,9 @@
   title: "Julia Roadmap"
   abstract: "TBD"
   bio: "co-creator of Julia, co-founder of Julia Computing"
+  resources:
+    - name: "Slides"
+      url: "/2017/assets/slides/2017 JuliaCon Roadmap.pdf"
 - speaker: "Felipe Noronha"
   affiliation: "Brazilian Development Bank"
   title: "Heavy-duty pricing of Fixed Income financial contracts with Julia"
