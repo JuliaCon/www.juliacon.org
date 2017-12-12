@@ -14,24 +14,24 @@ h1 {
     margin-bottom: 12px;
     line-height: 48px;
     font-weight: bold;
-    /* font-family: "futura-pt"; */
-    font-family: 'Nunito', sans-serif;
+    font-family: "futura-pt";
+    /* font-family: 'Nunito', sans-serif; */
 }
 
 h2 {
     font-size: 32px;
     line-height: 40px;
     margin-bottom: 16px;
-    /* font-family: "futura-pt"; */
-    font-family: 'Nunito', sans-serif;
+    font-family: "futura-pt";
+    /* font-family: 'Nunito', sans-serif; */
 }
 
 h3 {
     font-size: 24px;
     line-height: 40px;
     margin-bottom: 16px;
-    /* font-family: "futura-pt"; */
-    font-family: 'Nunito', sans-serif;
+    font-family: "futura-pt";
+    /* font-family: 'Nunito', sans-serif; */
 }
 
 h1,h2,h3,h4 {
@@ -45,8 +45,8 @@ h1,h2,h3,h4 {
 }
 
 .u-futura {
-    /* font-family: "futura-pt"; */
-    font-family: 'Nunito', sans-serif;
+    font-family: "futura-pt";
+    /* font-family: 'Nunito', sans-serif; */
 }
 
 
@@ -153,8 +153,8 @@ h1,h2,h3,h4 {
 
 .long-form h2 {
     font-size: 24px;
-    /* font-family: 'futura-pt'; */
-    font-family: 'Nunito', sans-serif;
+    font-family: 'futura-pt';
+    /* font-family: 'Nunito', sans-serif; */
 }
 
 pre {
