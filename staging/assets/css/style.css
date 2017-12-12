@@ -298,6 +298,7 @@ ul, ol {
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: 1300pt auto;
+    margin-bottom: -10px;
 }
 
 .main-heading h1 {
