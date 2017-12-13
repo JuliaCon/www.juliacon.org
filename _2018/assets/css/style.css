@@ -15,7 +15,6 @@ h1 {
     line-height: 48px;
     font-weight: bold;
     font-family: "futura-pt";
-    /* font-family: 'Nunito', sans-serif; */
 }
 
 h2 {
@@ -23,7 +22,6 @@ h2 {
     line-height: 40px;
     margin-bottom: 16px;
     font-family: "futura-pt";
-    /* font-family: 'Nunito', sans-serif; */
 }
 
 h3 {
@@ -31,7 +29,6 @@ h3 {
     line-height: 40px;
     margin-bottom: 16px;
     font-family: "futura-pt";
-    /* font-family: 'Nunito', sans-serif; */
 }
 
 h1,h2,h3,h4 {
@@ -46,7 +43,6 @@ h1,h2,h3,h4 {
 
 .u-futura {
     font-family: "futura-pt";
-    /* font-family: 'Nunito', sans-serif; */
 }
 
 
@@ -154,7 +150,6 @@ h1,h2,h3,h4 {
 .long-form h2 {
     font-size: 24px;
     font-family: 'futura-pt';
-    /* font-family: 'Nunito', sans-serif; */
 }
 
 pre {
@@ -252,7 +247,7 @@ ul, ol {
 .border-white { border-color: #ffffff}
 
 .u-pad-2 {
-    padding: 32px;
+    padding:32px;
 }
 
 .long-form td, th {
@@ -264,8 +259,8 @@ ul, ol {
 }
 
 .banner-gradient {
-    background: radial-gradient(circle at bottom right,  #e7a248, #e74248, #9d253d); /* Standard syntax */
-    background-color: #e74248;
+  background: radial-gradient(circle at bottom right,  #e7a248, #e74248, #9d253d); /* Standard syntax */
+  background-color: #e74248;
 }
 
 .text-yellow {
@@ -283,110 +278,4 @@ ul, ol {
 }
 .bg-maroon {
     background-color: #9d253d;
-}
-
-/* new design */
-.previous-editions-menu {
-    font-size: 11pt;
-}
-.previous-editions-menu a {
-    color: #000;
-}
-
-.main-heading {
-    background-image: url('../img/london_skyline.jpg');
-    background-repeat: no-repeat;
-    background-position: center bottom;
-    background-size: 1300pt auto;
-}
-
-.main-heading h1 {
-    font-size: 40pt;
-    font-weight: 900;
-    color: #bf382e;
-    margin-top: 20pt;
-}
-
-.main-heading h3 {
-    font-size: 16pt;
-    color: #6581df;
-    line-height: 120%;
-}
-
-.heading-copy {
-
-}
-
-.heading-copy .main-title {
-
-}
-
-.main-menu {
-    background-color: #bf382e;
-}
-.main-menu .navbar .navbar-nav a.nav-link {
-    color: #fff;
-}
-
-.masonry .grid-item {
-    /* float: left; */
-    /* width: 47%; */
-    /* height: auto; */
-    /* margin-right: 10pt; */
-    /* margin-bottom: 10pt; */
-}
-
-.content-box {
-    padding: 20pt;
-    color: #fff;
-    font-size: 12pt;
-}
-.content-box h2 {
-    font-size: 22pt;
-    color: #fff;
-}
-.content-box a {
-    text-decoration: underline;
-    color: #f0b980
-}
-
-.red-box {
-    background-color: #bf382e;
-}
-.light-blue-box {
-    background-color: #6581df;
-}
-.green-box {
-    background-color: #64ac58;
-}
-.dark-blue-box {
-    background-color: #3857bd;
-}
-.purple-box {
-    background-color: #854c9e;
-}
-
-footer {
-    background-color: #232323;
-    color: #fff;
-}
-footer a {
-    color: #fff;
-}
-footer a:hover {
-    color: #e7a248;
-}
-
-@media (min-width: 768px) {
-    .navbar-nav {
-        float:none;
-        margin:0 auto;
-        display: block;
-        text-align: center;
-    }
-
-    .navbar-nav > li {
-        display: inline-block;
-        float:none;
-    }
 }
