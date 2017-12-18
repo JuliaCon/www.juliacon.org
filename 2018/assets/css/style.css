@@ -375,21 +375,22 @@ ul, ol {
 .content-box-talk {
     padding: 12pt;
     color: #333333;
-    font-size: 12pt;
+    font-size: 10pt;
+    font-family: Futura, Trebuchet MS, Arial, sans-serif;
 }
 .content-box-talk h2 {
     font-size: 24pt;
     color: #bf382e;
     position: relative;
+    font-family: Futura, Trebuchet MS, Arial, sans-serif;
 }
 .content-box-talk p {
     position: relative;
     color: #333333;
-    font-size: 10pt;
 }
 .content-box-talk a {
     color: #bf382e;
-    font-size: 12pt;
+    font-size: 10pt;
 }
 .header-talks {
     color: #bf382e;
