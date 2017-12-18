@@ -10,31 +10,31 @@ layout: default2018
 <div class="container">
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 
-
-{% for talk in site.data.talks %}
-{% assign loopindex = forloop.index | modulo: 6 %}
-    <div class="grid-item col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-3">
-      <div class="white-box">
-        <div class="header-talks">
-          <div class="headerimg-talks">
-            <img src="{{ img_folder }}/header{{loopindex}}.png" width="100%" height="20%">
-          </div>
-          <div class="avatar-talks">
-            <img class="avatar-circle-talks" src="https://avatars1.githubusercontent.com/u/20812112"></img>
-            <div class="speaker-talks">
+  {% for talk in site.data.talks %}
+      {% assign loopindex = forloop.index | modulo: 6 %}
+      <div class="grid-item col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-3">
+        <div class="white-box">
+          <div class="header-talks">
+            <div class="headerimg-talks">
+              <img src="{{ img_folder }}/header{{loopindex}}.png" width="100%" height="20%">
+            </div>
+            <div class="avatar-talks">
+              <img class="avatar-circle-talks" src="https://avatars1.githubusercontent.com/u/20812112">
+              <div class="speaker-talks">
                 {{talk.speaker}}
+              </div>
             </div>
           </div>
-        </div>
-        <br>
+          <br>
           <div class="content-box-talk">
-          <h2>{{talk.title}}</h2>
-          <p>{{talk.abstract | strip_html | truncate: 300 }}</p>
-          <a href="{{ talk.speaker | datapage_url: '.' }}">more details</a>
+            <h2>{{talk.title}}</h2>
+            <p>{{talk.abstract | strip_html | truncate: 300 }}</p>
+            <a href="{{ talk.speaker | datapage_url: '.' }}">more details</a>
+          </div>
         </div>
       </div>
-    </div>
-{% endfor %}
+  {% endfor %}
+
   </div>
 </div>
 
