@@ -5,6 +5,6 @@ kramdown:
 page_gen-dirs: true
 page_gen:
   - data: 'talks'
-    template: 'profile'
+    template: '2018speaker'
     name: 'speaker'
     dir: '2018/talks'
