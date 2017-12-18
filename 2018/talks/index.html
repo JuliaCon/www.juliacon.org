@@ -1,6 +1,7 @@
 ---
 layout: default2018
 ---
+{% assign img_folder = "../assets/img" %}
 
 {% include main_nav.html %}
 
@@ -12,10 +13,24 @@ layout: default2018
 
 {% for talk in site.data.talks %}
     <div class="grid-item col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-3">
-      <div class="red-box content-box">
-        <h2>{{talk.speaker}}</h2>
-        <p>{{talk.abstract}}</p>
-        <a href="{{ talk.speaker | datapage_url: '.' }}">more details</a>
+      <div class="white-box">
+        <div class="header-talks">
+          <div class="headerimg-talks">
+            <img src="{{ img_folder }}/header1.png" width="100%" height="20%">
+          </div>
+          <div class="avatar-talks">
+            <img class="avatar-circle-talks" src="https://avatars1.githubusercontent.com/u/20812112"></img>
+            <div class="speaker-talks">
+                {{talk.speaker}}
+            </div>
+          </div>
+        </div>
+        <br>
+          <div class="content-box-talk">
+          <h2>{{talk.title}}</h2>
+          <p>{{talk.abstract | strip_html | truncate: 300 }}</p>
+          <a href="{{ talk.speaker | datapage_url: '.' }}">more details</a>
+        </div>
       </div>
     </div>
 {% endfor %}
