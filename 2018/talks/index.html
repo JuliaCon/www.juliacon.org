@@ -1,0 +1,36 @@
+---
+layout: default2018
+---
+
+{% include main_nav.html %}
+
+<div class="u-vskip-3"></div>
+
+<div class="container">
+  <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
+
+
+{% for talk in site.data.talks %}
+    <div class="grid-item col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-3">
+      <div class="red-box content-box">
+        <h2>{{talk.speaker}}</h2>
+        <p>{{talk.abstract}}</p>
+        <a href="{{ talk.speaker | datapage_url: '.' }}">more details</a>
+      </div>
+    </div>
+{% endfor %}
+  </div>
+</div>
+
+<div class="u-vskip-3"></div>
+
+<footer class="container-fluid" align="center">
+  <div class="container">
+  <div class="u-vskip"></div>
+  <div class="u-vskip"></div>
+  <div class="container">
+    {% include footer.html %}
+  </div>
+  <div class="u-vskip"></div>
+</div>
+</footer>

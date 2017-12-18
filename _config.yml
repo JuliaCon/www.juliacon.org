@@ -1,3 +1,10 @@
 name: JuliaCoq
 kramdown:
   input: GFM
+
+page_gen-dirs: true
+page_gen:
+  - data: 'talks'
+    template: 'profile'
+    name: 'speaker'
+    dir: '2018/talks'
