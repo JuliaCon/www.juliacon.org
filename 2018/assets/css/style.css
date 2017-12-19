@@ -218,7 +218,28 @@ ul, ol {
     border: 8px solid #fff;
     overflow: hidden;
 }
-
+.avatar-circle-talks {
+    position: relative;
+    left: 8%;
+    top: -2em;
+    width: 20%;
+    border-radius: 60px;
+    border: 1px solid #888888;
+    overflow: hidden;
+}
+.avatar-talks {
+    color: #bf382e;
+    font-size: 12pt;
+    position: relative;
+    top: -35%;
+    min-height: 25pt;
+    max-height: 40pt;
+}
+.headerimg-talks {
+    position: relative;
+    width: 100%;
+    height:20%;
+}
 .u-fit-width {
     width: 100%;
     height: auto;
@@ -350,8 +371,46 @@ ul, ol {
     color: #f0b980
 }
 
+.content-box-talk {
+    padding: 12pt;
+    color: #333333;
+    font-size: 10pt;
+    font-family: Futura, Trebuchet MS, Arial, sans-serif;
+}
+.content-box-talk h2 {
+    font-size: 24pt;
+    color: #bf382e;
+    position: relative;
+    font-family: Futura, Trebuchet MS, Arial, sans-serif;
+}
+.content-box-talk p {
+    position: relative;
+    color: #333333;
+}
+.content-box-talk a {
+    color: #bf382e;
+    font-size: 10pt;
+}
+.header-talks {
+    color: #bf382e;
+    font-size: 12pt;
+    width: 100%;
+    height: 5%;
+}
+.speaker-talks {
+    position: absolute;
+    left: 32%;
+    width: 68%;
+    top: 25%;
+    font-size: 12pt;
+    color: #333333;
+}
 .red-box {
     background-color: #bf382e;
+}
+.white-box {
+    background-color: #ffffff;
+    border: 1px solid #aaa;
 }
 .light-blue-box {
     background-color: #6581df;
