@@ -109,12 +109,12 @@ h1,h2,h3,h4 {
     width: 98vw;
 }
 
-.active {
-    border-top: solid #000 4px;
-    padding-top: 12px;
-    color: #000 !important;
-    font-weight: bold;
-}
+//.active {
+//    border-top: solid #000 4px;
+//    padding-top: 12px;
+//    color: #000 !important;
+//    font-weight: bold;
+//}
 
 .text-pad {
     padding: 0.333em 1em;
@@ -347,6 +347,32 @@ ul, ol {
 }
 .main-menu .navbar .navbar-nav a.nav-link {
     color: #fff;
+}
+
+.grey-menu {
+    background-color: #ededed;
+}
+.grey-menu .navbar .navbar-nav a.nav-link {
+    color: #bf382e;
+}
+
+.btn {
+    color: #bf382e;
+    background-color: #fff;
+    border: 1px solid #bf382e;
+    border-radius: 0
+}
+.btn:active{
+  background-color: #bf382e;
+}
+
+.btn:hover, .btn:focus{
+    color: #333;
+}
+
+.btn.active {
+  color: #fff;
+  background-color: #bf382e;
 }
 
 .masonry .grid-item {
