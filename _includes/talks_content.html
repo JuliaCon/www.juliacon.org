@@ -1,0 +1,50 @@
+{% assign current_folder = "." %}
+
+<div class="u-vskip-3"></div>
+
+<div class="container">
+  <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
+
+    {% for talk in talks %}
+      {% assign loopindex = forloop.index | modulo: 6 %}
+      <div class="grid-item col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-3">
+        <div class="white-box">
+          <div class="header-talks">
+            <div class="headerimg-talks">
+              <img src="{{ img_folder }}/header{{loopindex}}.png" width="100%" height="20%">
+            </div>
+            <div class="avatar-talks">
+              {% if talk.avatar %}
+              <img class="avatar-circle-talks" src="{{ talk.avatar }}">
+              {% else %}
+              <img class="avatar-circle-talks" src="/2018/assets/img/juliatocat.png">
+              {% endif %}
+              <div class="speaker-talks">
+                {{talk.speaker}}
+              </div>
+            </div>
+          </div>
+          <br>
+          <div class="content-box-talk">
+            <h2>{{talk.title}}</h2>
+            <p>{{talk.abstract | strip_html | truncate: 300 }}</p>
+            <a href="{{ talk.id | datapage_url: '/2018/talks_workshops' }}">more details</a>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="u-vskip-3"></div>
+
+<footer class="container-fluid" align="center">
+  <div class="container">
+    <div class="u-vskip"></div>
+    <div class="u-vskip"></div>
+    <div class="container">
+      {% include footer.html %}
+    </div>
+    <div class="u-vskip"></div>
+  </div>
+</footer>
