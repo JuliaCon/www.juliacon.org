@@ -29,7 +29,7 @@
           <br>
           <div class="content-box-talk">
             <h2>
-              <a href="{{ talk.id | datapage_url: '/2018/talks_workshops' }}" class="talk-title">{{talk.title}}</a>
+              <a href="/2018/talks_workshops/{{ talk.id }}" class="talk-title">{{talk.title}}</a>
             </h2>
             <p>{{talk.abstract | strip_html | truncate: 300 }}</p>
           </div>
