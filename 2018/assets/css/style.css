@@ -109,12 +109,12 @@ h1,h2,h3,h4 {
     width: 98vw;
 }
 
-//.active {
+/* //.active {
 //    border-top: solid #000 4px;
 //    padding-top: 12px;
 //    color: #000 !important;
 //    font-weight: bold;
-//}
+//} */
 
 .text-pad {
     padding: 0.333em 1em;
@@ -220,12 +220,13 @@ ul, ol {
 }
 .avatar-circle-talks {
     position: relative;
-    left: 8%;
+    left: 8pt;
     top: -2em;
-    width: 20%;
+    width: 80pt;
     border-radius: 60px;
     border: 1px solid #888888;
     overflow: hidden;
+    background-color: #fff;
 }
 .avatar-talks {
     color: #bf382e;
@@ -401,21 +402,23 @@ ul, ol {
     padding: 12pt;
     color: #333333;
     font-size: 10pt;
-    font-family: Futura, Trebuchet MS, Arial, sans-serif;
+    font-family: "futura-pt", sans-serif;
+    /* font-family: 'Nunito', sans-serif; */
 }
 .content-box-talk h2 {
-    font-size: 24pt;
+    font-size: 22pt;
     color: #bf382e;
-    position: relative;
-    font-family: Futura, Trebuchet MS, Arial, sans-serif;
+    font-family: "futura-pt", sans-serif;
+    /* font-family: 'Nunito', sans-serif; */
 }
 .content-box-talk p {
     position: relative;
     color: #333333;
+    font-size: 12pt;
 }
 .content-box-talk a {
     color: #bf382e;
-    font-size: 10pt;
+    font-size: 12pt;
 }
 .header-talks {
     color: #bf382e;
@@ -424,12 +427,13 @@ ul, ol {
     height: 5%;
 }
 .speaker-talks {
-    position: absolute;
-    left: 32%;
-    width: 68%;
-    top: 25%;
-    font-size: 12pt;
+    font-size: 14pt;
     color: #333333;
+    font-weight: 700;
+    display: block;
+    margin-left: 100pt;
+    margin-top: -85pt;
+    max-width: 80%;
 }
 .red-box {
     background-color: #bf382e;
@@ -437,6 +441,7 @@ ul, ol {
 .white-box {
     background-color: #ffffff;
     border: 1px solid #aaa;
+    padding: 10pt;
 }
 .light-blue-box {
     background-color: #6581df;
@@ -449,6 +454,14 @@ ul, ol {
 }
 .purple-box {
     background-color: #854c9e;
+}
+
+.content-box-talk h2 a.talk-title {
+    font-size: 22pt;
+    color: #bf382e;
+    font-family: "futura-pt", sans-serif;
+    /* font-family: 'Nunito', sans-serif; */
+    text-decoration: none;
 }
 
 footer {
@@ -474,4 +487,56 @@ footer a:hover {
         display: inline-block;
         float:none;
     }
+}
+
+#talks-filter a:hover {
+  background-color: #bf382e;
+  color: #fff;
+}
+
+#talk .avatar-circle-talks {
+  position: relative;
+  left: 8pt;
+  width: 100pt;
+  border-radius: 90px;
+  border: 1px solid #888888;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+#talk .speaker-talks {
+  font-size: 14pt;
+  color: #333333;
+  font-weight: 700;
+  display: block;
+  margin-left: 120pt;
+  margin-top: -95pt;
+  max-width: 80%;
+}
+
+p.affiliation {
+  font-weight: normal;
+  font-size: 10pt;
+  margin-bottom: 0;
+  min-height: 20pt;
+}
+
+#talk p.affiliation {
+  font-weight: normal;
+  font-size: 12pt;
+  min-height: 20pt;
+}
+
+.back-link {
+  color: #bf382e;
+  text-decoration: none !important;
+  padding: 2pt;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #bf382e;
+}
+
+.grey-menu .navbar-nav li {
+  background-color: #ededed;
 }

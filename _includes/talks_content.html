@@ -7,12 +7,9 @@
 
     {% for talk in talks %}
       {% assign loopindex = forloop.index | modulo: 6 %}
-      <div class="grid-item col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-3">
+      <div class="grid-item col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-3" style="border-top: 25pt solid #fff">
         <div class="white-box">
           <div class="header-talks">
-            <div class="headerimg-talks">
-              <img src="{{ img_folder }}/header{{loopindex}}.png" width="100%" height="20%">
-            </div>
             <div class="avatar-talks">
               {% if talk.avatar %}
               <img class="avatar-circle-talks" src="{{ talk.avatar }}">
@@ -21,14 +18,20 @@
               {% endif %}
               <div class="speaker-talks">
                 {{talk.speaker}}
+                <p class="affiliation">
+                {% if talk.affiliation != "None" %}
+                {{ talk.affiliation }}
+                {% endif %}
+                </p>
               </div>
             </div>
           </div>
           <br>
           <div class="content-box-talk">
-            <h2>{{talk.title}}</h2>
+            <h2>
+              <a href="{{ talk.id | datapage_url: '/2018/talks_workshops' }}" class="talk-title">{{talk.title}}</a>
+            </h2>
             <p>{{talk.abstract | strip_html | truncate: 300 }}</p>
-            <a href="{{ talk.id | datapage_url: '/2018/talks_workshops' }}">more details</a>
           </div>
         </div>
       </div>

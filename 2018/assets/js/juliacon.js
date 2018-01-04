@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $('.main-menu').stickThis();
+    $('.main-menu').sticky({ "zIndex": 10000 });
 });
