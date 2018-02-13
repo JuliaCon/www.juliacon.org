@@ -316,10 +316,39 @@ ul, ol {
 }
 
 .main-heading {
-    background-image: url('../img/london_skyline.jpg');
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: 1300pt auto;
+}
+
+@media (min-width: 0px) {
+    .main-heading {
+        background-image: url('../img/london_skyline-gradient.jpg');
+    }
+}
+
+@media (min-width: 480px) {
+    .main-heading {
+        background-image: url('../img/london_skyline-800.jpg');
+    }
+}
+
+@media (min-width: 768px) {
+    .main-heading {
+        background-image: url('../img/london_skyline-800.jpg');
+    }
+}
+
+@media (min-width: 992px) {
+    .main-heading {
+        background-image: url('../img/london_skyline-1200.jpg');
+    }
+}
+
+@media (min-width: 1200px) {
+    .main-heading {
+        background-image: url('../img/london_skyline.jpg');
+    }
 }
 
 .main-heading h1 {
