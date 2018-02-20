@@ -485,6 +485,15 @@ ul, ol {
 .purple-box {
     background-color: #854c9e;
 }
+.dark-purple-box {
+    background-color: #553d6b;
+}
+.dark-green-box {
+    background-color: #607d4f;
+}
+.light-red-box {
+    background-color: #ee6856;
+}
 
 .content-box-talk h2 a.talk-title {
     font-size: 22pt;
