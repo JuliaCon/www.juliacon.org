@@ -222,7 +222,7 @@ ul, ol {
     position: relative;
     left: 8pt;
     top: -2em;
-    width: 80pt;
+    width: 70pt;
     border-radius: 60px;
     border: 1px solid #888888;
     overflow: hidden;
@@ -450,6 +450,11 @@ ul, ol {
     color: #bf382e;
     font-size: 12pt;
 }
+.content-box .content-box-talk a {
+  text-decoration: underline;
+  color: #f0b980;
+  font-size: 14pt;
+}
 .header-talks {
     color: #bf382e;
     font-size: 12pt;
@@ -464,6 +469,17 @@ ul, ol {
     margin-left: 100pt;
     margin-top: -85pt;
     max-width: 80%;
+}
+.content-box .speaker-talks {
+    color: #fff;
+    font-size: 18pt;
+    margin-left: 90pt;
+}
+.content-box .speaker-talks .affiliation {
+  font-size: 16px;
+}
+.content-box .content-box-talk p {
+    color: #fff;
 }
 .red-box {
     background-color: #bf382e;

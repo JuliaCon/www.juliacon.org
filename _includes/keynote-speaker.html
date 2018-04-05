@@ -1,12 +1,20 @@
-<h3><a href="{{include.url}}">{{include.name}}</a></h3>
-<div class="u-uppercase text-gray" style="font-size:0.90em">{{include.affiliation}}</div>
-<div class="u-vskip"></div>
-<div>
-  {% if include.image %}
-    <img src="{{include.image}}" style="max-height: 185px; float: left; margin-right: 1em;">
-  {% endif %}
-  <div>
-      {{include.blurb | markdownify}}
+<div class="header-talks">
+  <div class="avatar-talks">
+    {% if include.avatar %}
+    <img class="avatar-circle-talks" src="{{ include.avatar }}">
+    {% else %}
+    <img class="avatar-circle-talks" src="/2018/assets/img/juliatocat.png">
+    {% endif %}
+    <div class="speaker-talks">
+      {{include.name}}
+      <p class="affiliation">
+      {% if include.affiliation != "None" %}
+      {{ include.affiliation }}
+      {% endif %}
+      </p>
+    </div>
   </div>
 </div>
-<div class="u-vskip"></div>
+<div class="content-box-talk">
+  <p>{{include.abstract | markdownify | truncate: 1000 }}</p>
+</div>
