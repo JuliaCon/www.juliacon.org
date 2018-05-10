@@ -484,6 +484,11 @@ ul, ol {
 .red-box {
     background-color: #bf382e;
 }
+/* .red-box.content-box h2 {
+    text-decoration: underline #ee6856;
+    text-decoration-skip-ink: auto;
+    -webkit-text-decoration-skip-ink: auto;
+} */
 .white-box {
     background-color: #ffffff;
     border: 1px solid #aaa;
@@ -594,4 +599,14 @@ h1, h2, h3, h4, h5, h6 {
 
 .grey-menu .navbar-nav li {
   background-color: #ededed;
+}
+
+.earlybird {
+  text-align: center;
+  background-color: cornsilk;
+}
+
+.earlybird a {
+  color: #bf382e;
+  text-decoration: none;
 }
