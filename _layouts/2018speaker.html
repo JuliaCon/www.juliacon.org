@@ -2,7 +2,9 @@
 layout: default2018
 ---
 
-{% include grey_nav.html %}
+{% include earlybird.html %}
+{% include header18.html %}
+{% include main_nav.html %}
 
 <link rel="stylesheet" href="/{{current_folder}}/assets/css/font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="/{{current_folder}}/assets/css/jssocials.css">
@@ -42,10 +44,10 @@ layout: default2018
   <div class="content-box-talk">
     <h2>{{page.title}}</h2>
 
-    <p>{{page.abstract}}</p>
+    <p>{{ page.desc | markdownify }}</p>
 
     <h3>Speaker's bio</h3>
-    <p>{{ page.bio }}</p>
+    <p>{{ page.bio | markdownify }}</p>
 
     {% if page.resources %}
     <h3>Resources</h3>
