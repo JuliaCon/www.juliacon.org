@@ -1,4 +1,0 @@
-Name,Biography,Title,Abstract
-David P. Sanders,"I am an associate professor of computational physics in the Department of Physics, Faculty of Sciences, National University of Mexico (UNAM). I first heard about Julia in the summer of 2013 at SciPy, but did not really discover it until the beginning of 2014. Since then I have switched to using it full time for both teaching and research. I am an author of the `ValidatedNumerics.jl` and `BilliardModels.jl` packages. At SciPy 2014, I gave a 4-hour Julia tutorial, listed on the Learning section of the Julia web-page, which has over 20,000 views. ",Introduction to Julia for Scientific Computing,"A tutorial introduction to Julia for scientific computing, aimed at people who already know a scientific computing language but are new to Julia.
-
-This will be an improved and streamlined version of my SciPy 2014 tutorial listed at julialang.org/learning, based around Jupyter notebooks."
