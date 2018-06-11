@@ -1,0 +1,597 @@
+/*************************************************
+
+JuliaCon 2014
+Author: PJ Macklin
+pjmacklin.com
+
+*************************************************/
+
+/*------------------------------------
+Variables
+-------------------------------------*/
+
+// Colors
+$blue: #6B85DD;
+$green: #6BAB5B;
+$red: #D66661;
+$purple: #AA7DC0;
+
+$easeoutcubic: cubic-bezier(0.550, 0.055, 0.675, 0.190);
+$easeoutback: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+
+$small-screen: 42rem;
+$wide-screen: 100rem;
+
+// Mixins
+
+@mixin transition($param: all 250ms $easeoutcubic) {
+    -webkit-transition: $param;
+    -moz-transition: $param;
+    -ms-transition: $param;
+    -o-transition: $param;
+    transition: $param;
+}
+
+@mixin transform($param...) {
+    -webkit-transform: $param;
+    -moz-transform: $param;
+    -ms-transform: $param;
+    -o-transform: $param;
+    transform: $param;
+}
+
+@mixin animation($param...) {
+    -webkit-animation: $param;
+    -moz-animation: $param;
+    -ms-animation: $param;
+    -o-animation: $param;
+    animation: $param;
+}
+
+@mixin breakpoint($point) {
+    @if $point == narrow {
+        @media only screen and (max-width: $small-screen) { @content; }
+    }
+
+    @else if $point == mid {
+        @media only screen and (min-width: $small-screen + 1) and (max-width: $wide-screen - 1){ @content; }
+    }
+
+    @else if $point == wide {
+        @media only screen and (min-width: $wide-screen) { @content; }
+    }
+}
+
+// Placeholders
+
+%transition-el {
+    @include transition();
+}
+
+// Animation
+
+@keyframes flying {
+    0% {
+        @include transform(translate3d(0,0,0));
+    }
+
+    25% {
+        @include transform(translate3d(0, 10px, 0));
+    }
+
+    75% {
+        @include transform(translate3d(0,-10px,0));
+    }
+    100% {
+        @include transform(translate3d(0,0,0));
+    }
+}
+
+@-webkit-keyframes flying {
+    0% {
+        @include transform(translate3d(0,0,0));
+    }
+
+    25% {
+        @include transform(translate3d(0, 10px, 0));
+    }
+
+    75% {
+        @include transform(translate3d(0,-10px,0));
+    }
+    100% {
+        @include transform(translate3d(0,0,0));
+    }
+}
+
+@-moz-keyframes flying {
+    0% {
+        @include transform(translate3d(0,0,0));
+    }
+
+    25% {
+        @include transform(translate3d(0, 10px, 0));
+    }
+
+    75% {
+        @include transform(translate3d(0,-10px,0));
+    }
+    100% {
+        @include transform(translate3d(0,0,0));
+    }
+}
+
+@keyframes cloudpass {
+    0% {
+        right: -20%;
+    }
+    100% {
+        right: 100%;
+    }
+}
+
+@-webkit-keyframes cloudpass {
+    0% {
+        right: -20%;
+    }
+    100% {
+        right: 100%;
+    }
+}
+
+@-moz-keyframes cloudpass {
+    0% {
+        right: -20%;
+    }
+    100% {
+        right: 100%;
+    }
+}
+
+@keyframes wavebob {
+    0% {
+        @include transform(translateY(0%));
+    }
+    25% {
+        @include transform(translateY(10px));
+    }
+    75% {
+        @include transform(translateY(-10px));
+    }
+    100% {
+        @include transform(translateY(0%));
+    }
+}
+
+@-webkit-keyframes wavebob {
+    0% {
+        @include transform(translateY(0%));
+    }
+    25% {
+        @include transform(translateY(10px));
+    }
+    75% {
+        @include transform(translateY(-10px));
+    }
+    100% {
+        @include transform(translateY(0%));
+    }
+}
+
+@-moz-keyframes wavebob {
+    0% {
+        @include transform(translateY(0%));
+    }
+    25% {
+        @include transform(translateY(10px));
+    }
+    75% {
+        @include transform(translateY(-10px));
+    }
+    100% {
+        @include transform(translateY(0%));
+    }
+}
+
+/*------------------------------------
+Global styles
+-------------------------------------*/
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: normal 1rem/1.5rem georgia, serif;
+    background-color: white;
+    // background-attachment: fixed;
+}
+
+/*------------------------------------
+Typography
+-------------------------------------*/
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+    font-weight: 200;
+    margin-bottom: .5rem;
+}
+
+h1 {
+    font-size: 3rem;
+    line-height: 3.25rem;
+}
+
+h2 {
+    font-size: 2rem;
+    line-height: 2.25rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+    margin-bottom: 1rem;
+}
+
+h4 {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+}
+
+h5 {
+    font-size: 1rem;
+}
+
+h6 {
+    font-size: .75rem;
+    line-height: 1rem;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+a {
+    @extend %transition-el;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.border-header {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 3rem;
+
+    span {
+        position: relative;
+        top: 1rem;
+        background: #fff;
+        padding: 1rem;
+    }
+}
+
+.button {
+    background: $green;
+    padding: .5rem 1rem;
+    border-radius: 4px;
+    color: #fff;
+    text-decoration: none;
+    box-shadow: 0 2px 0 darken($green, 10%);
+    display: inline-block;
+    margin: 1rem 0;
+
+    &:hover {
+        background: lighten($green, 10%);
+    }
+
+    &:active {
+        box-shadow: none;
+        @include transform(translateY(2px));
+    }
+}
+
+/*------------------------------------
+Structural elements
+-------------------------------------*/
+
+.container {
+    width: 40rem;
+    margin: 1rem auto 1rem;
+
+    @include breakpoint(narrow) {
+        width: 90%;
+    }
+}
+
+.clearfix {
+    clear: both;
+}
+
+.intro-container {
+    margin-top: 4rem;
+}
+
+#bottom-illustration {
+    -webkit-perspective: 300;
+    -moz-perspective: 300;
+    -ms-perspective: 300;
+    perspective: 300;
+    padding-top: 10rem;
+}
+
+.illo-container {
+    position: relative;
+    margin-bottom: 0;
+    @include transform(translate3d(-300%, -300px, -100px));
+    @include transition(all 1.5s $easeoutback);
+    z-index: 20;
+
+    &.enter-frame {
+        @include transform(translate3d(0, 0 ,0));
+    }
+}
+
+.round-avatar {
+    border-radius: 50%;
+    width: 8rem;
+    height: 8rem;
+    background: $green;
+    display: block;
+    margin: 1rem auto;
+}
+
+.map {
+    width: 100%;
+}
+
+.full-container {
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    padding-top: 5rem;
+    overflow: hidden;
+    background-image: -webkit-radial-gradient(center bottom, circle cover, #BBD8F0 0%, #fff 70%); /* New WebKit syntax */
+    background-image: -moz-radial-gradient(center bottom, circle cover, #BBD8F0 0%, #fff 70%);
+    background-image: -ms-radial-gradient(center bottom, circle cover, #BBD8F0 0%, #fff 70%); /* IE10+ */
+    background-image: -o-radial-gradient(center bottom, circle cover, #BBD8F0 0%, #fff 70%); /* Opera (13?) */
+}
+
+.top-container, .middle-container {
+    height: 30rem;
+}
+
+.middle-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+
+    .flag-container {
+        top: auto;
+        bottom: -10%;
+    }
+
+    .waving-flag {
+        @include transform(scaleX(-1));
+        top: auto;
+        bottom: 0;
+    }
+
+
+    .cloud-container {
+        .cloud1 {
+            top: 50%;
+        }
+
+        .cloud2 {
+            top: 30%;
+        }
+    }
+}
+
+.flying-viking {
+    @include animation(flying 2s infinite linear);
+    position: relative;
+    z-index: 20;
+}
+
+.viking-n-dragon {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.bottom-flag {
+    position: absolute;
+    width: 38%;
+    right: 33.35%;
+    top: -45.75%;
+    @include transform(rotate(-10deg));
+}
+
+.cloud, .building {
+    position: absolute;
+    right: 100%;
+}
+
+.cloud-container {
+
+    &.cloud-container1 {
+        position: relative;
+        z-index: 10;
+    }
+    .cloud1, .cloud2 {
+        top: auto;
+    }
+}
+
+.cloud1 {
+    z-index: 100;
+    top: 50%;
+    @include animation(cloudpass 6s infinite linear);
+}
+
+.cloud2 {
+    z-index: 1;
+    top: 40%;
+    @include animation(cloudpass 9s infinite linear);
+}
+
+.building {
+    bottom: 0;
+    z-index: 20;
+}
+
+.building1 {
+    @include animation(cloudpass 8s 2s infinite linear);
+}
+
+.building2 {
+    @include animation(cloudpass 7s 4s infinite linear);
+}
+
+.building3 {
+    @include animation(cloudpass 8s infinite linear);
+}
+
+.building4 {
+    @include animation(cloudpass 9s 3s infinite linear);
+}
+
+.flag-container {
+    width: 400px;
+    top: 0;
+    margin: auto;
+    -webkit-perspective: 1000;
+    -moz-perspective: 1000;
+    -ms-perspective: 1000;
+    perspective: 1000;
+    z-index: 1;
+    position: relative;
+    height: 100%;
+    @include animation(wavebob 1s linear infinite);
+}
+
+.waving-flag {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    -webkit-transform-origin: bottom center;
+    -moz-transform-origin: bottom center;
+    -ms-transform-origin: bottom center;
+    -o-transform-origin: bottom center;
+    transform-origin: bottom center;
+    @include transform(rotate(-10deg));
+}
+
+.toplayer {
+    position: relative;
+    z-index: 20;
+}
+
+.sponsor-placeholder {
+    width: 100%;
+    height: 50px;
+    background: #ddd;
+    display: block;
+}
+
+.abstrac {
+    width: 40rem;
+    margin: 1rem auto 2rem;
+    border-top: 1px solid #ddd;
+    padding-top: 2rem;
+
+    @include breakpoint(narrow) {
+        width: 90%;
+    }
+}
+
+.workshop-toc-container {
+    width: 40rem;
+    margin: 2rem auto 2.5rem;
+
+    @include breakpoint(narrow) {
+        width: 90%;
+    }
+}
+
+/*------------------------------------
+Navigation Bar
+-------------------------------------*/
+/* This implementation is a tweaked version of http://www.w3schools.com/howto/howto_js_topnav.asp */
+
+ul.topnav {
+    list-style-type: none;
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+    display: inline-block;
+    color: #a0a0a0;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+ul.topnav li a:hover {color: black;}
+ul.topnav li.icon {display: none;}
+
+@media screen and (max-width:1000px) {
+  ul.topnav li:not(:first-child) {display: none;}
+  ul.topnav li.icon {
+    float: right;
+    display: inline-block;
+  }
+  ul.topnav.responsive {position: fixed;}
+  ul.topnav.responsive li.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  ul.topnav.responsive li {
+    float: none;
+    display: inline;
+  }
+  ul.topnav.responsive li a {
+    text-align: left;
+    width: 100%;
+  }
+}
+
+/*------------------------------------
+Grid
+-------------------------------------*/
+
+.row {
+    margin-left: -1rem;
+    margin-right: -1rem;
+}
+
+.column {
+    float: left;
+    margin: 0 1rem 3rem;
+}
+
+.half-column {
+    width: calc(50% - 2rem);
+}
+
+.quart-column {
+    width: calc(25% - 2rem);
+}

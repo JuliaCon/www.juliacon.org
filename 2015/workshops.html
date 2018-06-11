@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JuliaCon 2015: Boston, MA.</title>
+        <meta name="description" content="JuliaCon 2015: Boston, MA.">
+        <meta name="viewport" id="viewport" content="width=device-width,maximum-scale=1.5">
+        <meta property="og:site_name" content="JuliaCon">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="JuliaCon">
+        <meta property="og:description" content="JuliaCon 2015: Boston, MA.">
+        <meta property="og:url" content="http://www.juliacon.com/">
+        <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+        <link rel="stylesheet" href="css/juliacon.css">
+        <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script type="text/javascript" src="js/juliacon.js"></script>
+
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-28835595-3', 'auto');
+          ga('send', 'pageview');
+
+        </script>
+    </head>
+    <body> 
+        <div class="full-container" style="height: 15rem;">
+            <h1 class="text-center">JuliaCon 2015</h1>
+            <h1 class="text-center">Workshops</h1>
+        </div>
+   <div class="container">
+    See <a href="index.html#sched">main page</a> for schedule details.
+</div>
+
+<a name="wednesday"><center><h1>Wednesday</h1></center></a>
+
+  <div class="container abstract">
+    <p><h2>Introduction to Julia for Scientific Computing</h2></p> 
+    <p><em>David P. Sanders</em></p>
+    <p><p>A tutorial introduction to Julia for scientific computing, aimed at people who already know a scientific computing language but are new to Julia.</p>
+
+<p>This will be an improved and streamlined version of my SciPy 2014 tutorial listed at julialang.org/learning, based around Jupyter notebooks.</p>
+</p>
+    <p><b>Bio:</b> I am an associate professor of computational physics in the Department of Physics, Faculty of Sciences, National University of Mexico (UNAM). I first heard about Julia in the summer of 2013 at SciPy, but did not really discover it until the beginning of 2014. Since then I have switched to using it full time for both teaching and research. I am an author of the `ValidatedNumerics.jl` and `BilliardModels.jl` packages. At SciPy 2014, I gave a 4-hour Julia tutorial, listed on the Learning section of the Julia web-page, which has over 20,000 views. </p>
+  </div>
+
+
+<a name="saturday"><center><h1>Saturday</h1></center></a>
+
+  <div class="container abstract">
+    <p><h2>Solving Optimization Problems with JuliaOpt</h2></p> 
+    <p><em>Iain Dunning, Joey Huchette, Miles Lubin, Madeleine Udell</em></p>
+    <p><p>Optimization provides a powerful framework for decision making: from path planning, to resource allocation, to data fitting, and everything in between. There are a variety of powerful open-source and commercial packages for solving structured mathematical optimization problems, but identifying the right framework for a given problem can be tricky. This workshop will introduce JuMP and Convex.jl, two modeling languages under the JuliaOpt organization that allow users to easily express linear, mixed-integer, conic, semidefinite, and nonlinear optimization problems in Julia. So easily, in fact, that the user may not even need to know what these problem types are. These models can then be solved using any package in the JuliaOpt ecosystem that supports the problem type. We will introduce basic syntax, provide an overview of the complementary capabilities of both JuMP and Convex.jl, and walk through a number of hands-on examples using Jupyter notebooks.</p>
+</p>
+    <p><b>Bio:</b> Iain Dunning, Joey Huchette, and Miles Lubin are PhD candidates at the Operations Research Center at MIT. They are early adopters of Julia and developers of JuMP.
+Madeleine Udell, a developer of Convex.jl, is a postdoctoral fellow at the Center for the Mathematics of Information at Caltech. She recently received a PhD in Computational and Mathematical Engineering at Stanford, and will be joining Cornell as an assistant professor in Operations Research and Information Engineering in 2016. All four are members of the JuliaOpt organization, which curates high quality optimization software in Julia.</p>
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Julia and the World: How to Work with C / C++ / Java / Python / Ruby from Julia.</h2></p> 
+    <p><em>Avik Sengupta</em></p>
+    <p><p>From the very beginning, Julia has had first class support for calling native C code. On top of this functionality, language interop with other languages such as Python, Java and Ruby have been developed.</p>
+
+<p>This workshop will offer a hands on tutorial on using external libraries written in C, C++, Java, Python and Ruby from within Julia</p>
+
+<p>We will focus first and foremost on calling C libraries. We will describe how types are mapped, and see how to pass structs and callback functions. We will then take an indepth look at calling Python and Java code via the PyCall and JavaCall packages. Finally, time permitting, we will briefly touch upon the ability to call Ruby and C++ libraries.</p>
+</p>
+    <p><b>Bio:</b> Avik Sengupta has built risk and trading systems in Java for investment banks for over a decade. Three years ago he discovered Julia, and hasn't looked back since. He is a Julia contributor and the maintainer of a few Julia packages.
+
+</p>
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Introduction to Writing High Performance Julia
+</h2></p> 
+    <p><em>Arch D. Robison</em></p>
+    <p><p>This workshop is an introduction to writing high performance code in Julia.  We’ll start with a high level view of the hardware and Julia, and how Julia semantics differ from languages such as C/C++/Fortran.  Next we’ll dive into how Julia compiles your program, all the way from your source text to the machine instructions.  A focus will be on the compiler’s type-inference engine and how to make it work for you instead of against you.   Another focus will be how to cater to the hardware.  We’ll also look at “deals with the devil” annotations (@inbounds, @fastmath, @simd) so that you understand what kind of trade you make with those annotations.  Finally, we’ll look the art of writing vectorizable code, which brings many of the topics into play.</p>
+
+<p>Attendees are encouraged to bring a computer with Julia installed on it so that they can try exercises that involve speeding up slow examples.</p>
+</p>
+    <p><b>Bio:</b> Arch was the lead developer for KAI C++, and the original architect of Intel Threading Building Blocks.  He contributed type-based alias analysis and vectorization support to Julia.  Arch took 2nd place in Al Zimmerman’s “Delacorte Numbers” programming contest using Julia exclusively.  His Erdös number is 3.</p>
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Everyday Analytics and Visualization</h2></p> 
+    <p><em>Randy Zwitch</em></p>
+    <p><p>With its initial focus on high-performance and scientific computing, the Julia language can be intimidating for newer users. However, using Julia is not just about being a speed demon; with a clean syntax and rapidly growing package eco-system, Julia can be used for “everyday” tasks as summary statistics, accessing web APIs and databases and interactive data visualization.</p>
+
+<p>Randy will demonstrate an end-to-end example of a data analysis workflow, from downloading publicly available data to loading data into Julia, creating summaries and answering business questions using visualization (Gadfly/Plot.ly).</p>
+
+</p>
+    <p><b>Bio:</b> Randy Zwitch is a Senior Data Scientist/Data Engineer at Comcast, studying how customers consume the its product offerings using Hadoop and related big data technologies.
+
+Randy has contributed mostly unit tests to the main Julia project. He has also created several packages (UAParser, Twitter, OAuth, LogParser) and actively participates in the JuliaWeb organization.</p>
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Managing Data in Julia: Old Tricks, New Tricks</h2></p> 
+    <p><em>Jacob Quinn</em></p>
+    <p><p>Managing data in any language can be a hassle. Varying file formats, data layouts, character sets, compression techniques, not to mention the actual code for manipulating data.</p>
+
+<p>In this talk, some old standards (ODBC, SQLite) are revisited for their on-going usefulness and stability in managing data, while some new methods are also explored that leverage the power of Julia and novel user interfaces.</p>
+</p>
+    <p><b>Bio:</b> Currently a technical consultant at Domo in Utah. Just graduated from Carnegie Mellon in Pittsburgh. Developing Julia for about 3 years now, and own/maintain the ODBC, SQLite, SuffixArrays, TimeZones, Dates, and Yelp packages, as well as the Sublime-IJulia package for Sublime Text. Also been involved in several significant projects involve Base Julia functionality.</p>
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Parallel Computing with Julia</h2></p> 
+    <p><em>Viral</em></p>
+    <p><p>This is a workshop conducted by the folks who have been working on various aspects of parallel computing in Julia - Andreas Noack Jensen, Amit Murthy, Tanmay Mohapatra, Jiahao Chen, Jake Bolewski, Alan Edelman.</p>
+
+<p>This workshop will provide an overview of parallel computing in Julia. It will start with an introduction to using built-in <a href="http://julia.readthedocs.org/en/latest/manual/parallel-computing/">Julia primitives for parallel processing</a>, such as pmap, @parallel, remotecall, spawn, fetch, etc. Based on this low-level primitives, shared arrays and <a href="https://github.com/JuliaParallel/DistributedArrays.jl">distributed arrays</a> have been built. Finally we will try some Parallel Linear Algebra using packages such as <a href="https://github.com/JuliaParallel/ScaLAPACK.jl">ScaLapack</a> along with some <a href="https://github.com/JuliaParallel/MPI.jl">MPI</a> programming. We will also look at the possibilities of data processing with data loaded from the <a href="https://github.com/JuliaParallel/Elly.jl">Hadoop file system (HDFS)</a> and/or <a href="https://github.com/amitmurthy/AWS.jl">S3</a>. We will also preview the upcoming multi-threading capabilities in Julia. For some of the examples, the workshop will use additional compute resources through AWS or MIT.</p>
+</p>
+    <p><b>Bio:</b> Viral is one of the co-creators of Julia. Please see the LinkedIn page for more details: https://in.linkedin.com/in/viralbshah</p>
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Making GUIs with Escher.jl</h2></p> 
+    <p><em>Shashi</em></p>
+    <p><p>In this workshop, I will introduce <a href="https://github.com/shashi/Escher.jl">Escher’s</a> end-user API to Julians. Participants will install Escher and build some cool web apps in a hands-on session. These will include:</p>
+
+<ul>
+  <li>a minesweeper clone</li>
+  <li>a pivot table accompanied by Gadfly plots</li>
+  <li>a simple Jupyter notebook clone</li>
+  <li>a recommendation system</li>
+  <li>anything you want to build</li>
+</ul>
+</p>
+    <p><b>Bio:</b> I make UI tools for Julia and JuliaBox users. I brought @manipulate to your IJulia notebooks. :)</p>
+  </div>
+
+
+<div class="container">
+  <a href="/index.html">Return to main page</a>.
+</div>
+
+   
+
+    </body>
+</html>
