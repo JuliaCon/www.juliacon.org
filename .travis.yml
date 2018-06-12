@@ -7,7 +7,7 @@ rvm:
 
 branches:
   only:
-    - master
+    - src
 
 before script:
 
