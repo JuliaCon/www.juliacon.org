@@ -34,6 +34,6 @@ deploy:
   skip_cleanup: true
   github_token: "$GH_TOKEN"
   local_dir: ./_site
-  target_branch: gh-pages
+  target_branch: master
   on:
-    branch: master
+    branch: src
