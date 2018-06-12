@@ -6,8 +6,9 @@ http://juliacon.org/
 For local development install jekyll and run `jekyll serve` from the repository root. Old Jekyll based sites are build with `jekyll build --source YYYYsrc --destination YYYY`.
 
 ## Automatic build and deployment of the site
-The source for the Jekyll website is currently located in the `master` branch of this repository.
-The built site will be deployed to `gh-pages`. This will be triggered when a push is made to the `master` branch. Push and PR to other branches should not trigger any build and deployment of the site.
+The source for the Jekyll website is currently located in the `src` branch of this repository. This is set as the primary branch in Github, and hence PR's should be opened against this branch. 
+
+The built site will be deployed to `master`. This will be triggered when a push is made to the `src` branch. Push and PR to other branches should not trigger any build and deployment of the site.
 
 The build and deployment of the site to GitHub pages is done using Travis CI.
 
