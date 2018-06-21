@@ -466,7 +466,7 @@ ul, ol {
     color: #333333;
     font-weight: 700;
     display: block;
-    margin-left: 100pt;
+    margin-left: 90pt;
     margin-top: -80pt;
     max-width: 80%;
 }
@@ -610,3 +610,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #bf382e;
   text-decoration: none;
 }
+
+.sponsors { overflow: auto; }
+.sponsors dl { float: left; text-align: left; overflow: auto; vertical-align: middle; }
+.sponsors dt { color: #90908f; line-height: 110%; padding-right: 0.5em; }
+.sponsors dt, .sponsors dd { float: left; width: 110px; margin: 0; padding: 0; display: inline-block; height: 50px; overflow: auto; }
+.sponsors dd { margin-right: 18px; }

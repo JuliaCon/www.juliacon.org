@@ -28,6 +28,7 @@
           </div>
           <br>
           <div class="content-box-talk">
+            <span class="badge badge-dark">{{ talk.type | capitalize }}</span>
             <h2>
               <a href="{{ talk.id | datapage_url: '/2018/talks_workshops' }}" class="talk-title">{{talk.title}}</a>
             </h2>
