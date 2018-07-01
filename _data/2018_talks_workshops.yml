@@ -78,7 +78,6 @@
     Speakers and titles
     -------------------
     * Sheehan Olver: ApproxFun.jl, Approximating Functions and Solving Differential Equations.
-    * Christoph Ortner: JuLIP.jl, Julia for Atomistic Simulation.
     * David P. Sanders: ValidatedNumerics.jl, Rigorous Floating-point Calculations with Interval Arithmetic.
     * R. Mikael Slevinsky: FastTransforms.jl, Fast Orthogonal Polynomial Transforms.
     * Weijian Zhang: MatrixDepot.jl, Testing Linear Algebra Algorithms in Julia.
@@ -89,11 +88,6 @@
     Sheehan Olver, Imperial College, London
 
     ApproxFun.jl is a Julia package that makes working with functions on a computer fast and easy. Basic algebra and calculus operations are available, so that one can, for example, differentiate the function $\sin\cos^2 x$ as easy as typing `sin(cos(x)^2)'`. Further capabilities include solving differential equations and random number sampling. This talk will demonstrate the capabilities of ApproxFun, and how Julia’s approach to typing allows for these capabilities to be used with other types, such as Dual numbers (from DualNumbers.jl) or BigFloats.
-
-    *JuLIP.jl, Julia for Atomistic Simulation*  
-    Christoph Ortner, University of Warwick
-
-    I will introduce a family of Julia packages for atomistic simulation primarily of material systems. This includes tools for developing new interatomic potentials or electronic structure models, generating atomistic configurations, imposing boundary conditions and constraints, and performing molecular dynamics simulations, minimisation and saddle search. All of these aspects of molecular simulations involve interesting questions for numerical analysis and applied mathematics in general. The purpose of the JuLIP eco-system is (1) to make it easy for mathematicians to work with physically realistic models; (2) to link to established atomistic simulation software so that new models algorithms can feed directly back into material modelling.
 
     *ValidatedNumerics.jl, Rigorous Floating-point Calculations with Interval Arithmetic*  
     David P. Sanders, Universidad Nacional Autónoma de México
