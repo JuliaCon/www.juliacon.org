@@ -71,9 +71,9 @@
   title: "Numerical Analysis in Julia"
   type: workshop
   abstract: >
-    This workshop brings together 5 speakers on different topics in numerical analysis, to demonstrate the strengths of Julia’s approach to scientific computing in atomistic simulations, function approximation, differential equations, fast transformations, validated numerics, and linear algebra.
+    This workshop brings together 4 speakers on different topics in numerical analysis, to demonstrate the strengths of Julia’s approach to scientific computing in atomistic simulations, function approximation, differential equations, fast transformations, validated numerics, and linear algebra.
   desc: |
-    This workshop proposal brings together 5 speakers on different topics in numerical analysis. The aim of the workshop is to have demonstrations of Julia packages in this area in a way to motivate the results to a “general” audience. Our speakers cover a variety of areas to give a broad demonstration of what is now possible using Julia.
+    This workshop proposal brings together 4 speakers on different topics in numerical analysis. The aim of the workshop is to have demonstrations of Julia packages in this area in a way to motivate the results to a “general” audience. Our speakers cover a variety of areas to give a broad demonstration of what is now possible using Julia.
 
     Speakers and titles
     -------------------
