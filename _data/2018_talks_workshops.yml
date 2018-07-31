@@ -249,7 +249,7 @@
   id: 15
 
 - speaker: "S. Hessam M. Mehr"
-  title: "Saving lives with Julia:"
+  title: "Saving lives with Julia"
   type: "lightning"
   abstract: "Thanks to Julia’s speed and expressiveness, our very small team (1 developer!) was quickly able to create an ecosystem of Julia libraries for state-of-the-art automatic analysis of drug mixtures using nuclear magnetic resonance (NMR) spectroscopy data."
   desc: |
@@ -259,6 +259,7 @@
     The end result, <em>NMR.jl</em>, is the core project of the nascent <em>JuliaNMR</em> ecosystem on GitHub. <em>NMR.jl</em> aims to be a general-purpose NMR processing library and comes with state-of-the-art routines for automatic quantitative analysis of mixtures. Julia’s multiple dispatch semantics, excellent performance, and interactive development style allowed us to design much of the library in an exploratory manner and freely experiment with different ideas.
     This talk gives an overview of <em>NMR.jl</em> and how its spectral decomposition algorithm is being used at Health Canada’s Drug Analysis Service. We hope to demonstrate the unique features of the Julia programming language that helped quickly prototype and implement <em>NMR.jl</em> and the custom automation routines around it, all without sacrificing performance. Aside from the language itself, we hope to credit the excellent Julia libraries (e.g. <em>Plots.jl</em>) without which <em>NMR.jl</em> would not have been possible.
   bio: |
+    Hessam Mehr is an electrical engineer turned synthetic chemist who graduated from the University of British Columbia last year and badly misses the good old days of graduate school. Between September 2017 and March 2018, Hessam was working with Health Canada to develop techniques for analyzing drug samples using nuclear magnetic resonance. Currently, he is a post-doc at the University of Glasgow where he continues to spend his free time biking, learning new human and computer languages, practicing calligraphy (not very well at all), and baking bread.
 
   id: 16
 
