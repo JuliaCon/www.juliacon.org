@@ -213,7 +213,6 @@
 
 - speaker: "Jamie Brandon"
   avatar: "http://avatars.schd.ws/5/15/5709080/avatar.jpg.320x320px.jpg?928"
-  affiliation: "Unknown"
   title: "Julia as a platform for language development"
   type: "talk"
   abstract: ""
@@ -387,7 +386,7 @@
 
 - speaker: "Michael Krabbe Borregaard"
   avatar: "http://avatars.schd.ws/3/cf/5709063/avatar.jpg.320x320px.jpg?7b1"
-  affiliation: "Unknown"
+  affiliation: "U of Copenhagen"
   title: "EcoJulia - towards a framework for ecological data analysis in Julia."
   type: "lightning"
   abstract: ""
@@ -479,7 +478,7 @@
 
 - speaker: "Ollin Demian Langle Chimal"
   avatar: "http://avatars.schd.ws/7/73/5709073/avatar.jpg.320x320px.jpg?0f4"
-  affiliation: "Unknown"
+  affiliation: "Ministry of Social Development, Mexico"
   title: "Complex Network Analysis of Political Data"
   type: "lightning"
   abstract: ""
@@ -512,7 +511,7 @@
 
 - speaker: "Todd Green"
   avatar: "http://avatars.schd.ws/6/8c/5709088/avatar.jpg.320x320px.jpg?5b6"
-  affiliation: "Unknown"
+  affiliation: "Relational AI"
   title: "Low-Level Systems Programming in High-Level Julia"
   type: "talk"
   abstract: ""
@@ -524,7 +523,7 @@
 
 - speaker: "Przemyslaw Szufel"
   avatar: "http://avatars.schd.ws/2/a6/5709050/avatar.jpg.320x320px.jpg?183"
-  affiliation: "Unknown"
+  affiliation: "Warsaw School of Economics"
   title: "Performance of a distributed Julia simulation on an AWS Spot Fleet vs a Cray supercomputer"
   type: "lightning"
   abstract: ""
@@ -536,7 +535,7 @@
 
 - speaker: "Matt Bauman"
   avatar: "http://avatars.schd.ws/4/92/5709076/avatar.jpg.320x320px.jpg?b80"
-  affiliation: "Unknown"
+  affiliation: "Julia Computing"
   title: "Advocating for public policy change with Julia"
   type: "lightning"
   abstract: ""
@@ -546,9 +545,9 @@
     Matt Bauman is a Senior Research Scientist at <a href="https://juliacomputing.com">JuliaComputing</a> at their Chicago outpost, where he spends lots of time working on Julia’s arrays. He’s been contributing to both the core language and multiple packages since 2014. At his previous position as a Data Science Fellow at the University of Chicago’s <a href="https://dssg.uchicago.edu">Center for Data Science and Public Policy</a>, he longed for dot-broadcasting in Python. He recently defended his PhD dissertation in Bioengineering from the University of Pittsburgh, focusing on neural prosthetics.
   id: 44
 
-- speaker: "adityapuranik97@gmail.com"
+- speaker: "Aditya Puranik"
   avatar: "http://avatars.schd.ws/6/af/5709069/avatar.jpg.320x320px.jpg?bc4"
-  affiliation: "Unknown"
+  affiliation: "The National Institute of Engineering, Mysore"
   title: "Minecraft and Julia : A new way to build stuff and learn how to program"
   type: "lightning"
   abstract: ""
@@ -582,7 +581,7 @@
 
 - speaker: "Gajendra Deshpande  and Dr. S.A.Kulkarni"
   avatar: "http://avatars.schd.ws/3/6d/5709091/avatar.jpg.320x320px.jpg?6c9"
-  affiliation: "Unknown"
+  affiliation: "KLS Gogte Institute of Technology, Belgaum"
   title: "Brainy Things: Brain Computer Interface meets Internet of Things"
   type: "talk"
   abstract: ""
@@ -691,7 +690,7 @@
 
 - speaker: "Simon Byrne"
   avatar: "http://avatars.schd.ws/b/54/5709072/avatar.jpg.320x320px.jpg?12a"
-  affiliation: "Unknown"
+  affiliation: "Julia Computing"
   title: "0.1 vs 1//10: How numbers are compared"
   type: "lightning"
   abstract: ""
@@ -767,7 +766,7 @@
 
 - speaker: "Kelly Shen"
   avatar: "http://avatars.schd.ws/c/2b/5709071/avatar.jpg.320x320px.jpg?34e"
-  affiliation: "Unknown"
+  affiliation: "Etsy"
   title: "How Etsy Handles “Peeking” in A/B Testing"
   type: "lightning"
   abstract: ""
@@ -791,7 +790,7 @@
 
 - speaker: "Jesse Bettencourt"
   avatar: "http://avatars.schd.ws/c/b8/5709053/avatar.jpg.320x320px.jpg?0bf"
-  affiliation: "Unknown"
+  affiliation: "U of Toronto"
   title: "Self-tuning Gradient Estimators through Higher-order Automatic Differentiation in Julia"
   type: "lightning"
   abstract: ""
@@ -846,7 +845,7 @@
 
 - speaker: "Torkel Loman"
   avatar: "http://avatars.schd.ws/a/8f/5709074/avatar.jpg.320x320px.jpg?29c"
-  affiliation: "Unknown"
+  affiliation: "U of Cambridge"
   title: "Efficient Modelling of Biochemical Reaction Networks"
   type: "lightning"
   abstract: ""
@@ -914,7 +913,7 @@
 
 - speaker: "Abhijith Chandraprabhu"
   avatar: "http://avatars.schd.ws/2/de/5709070/avatar.jpg.320x320px.jpg?abf"
-  affiliation: "Unknown"
+  affiliation: "Julia Computing"
   title: "500K - Providing training to 500K individuals across India in AI"
   type: "lightning"
   abstract: ""
@@ -979,7 +978,7 @@
 
 - speaker: "Gael Forget"
   avatar: "http://avatars.schd.ws/7/22/5709058/avatar.jpg.320x320px.jpg?43d"
-  affiliation: "Unknown"
+  affiliation: "MIT"
   title: "Bringing ocean, climate, and ecosystem modeling to Julia"
   type: "lightning"
   abstract: ""
@@ -1003,7 +1002,7 @@
 
 - speaker: "Carl Åkerlindh"
   avatar: "http://avatars.schd.ws/c/24/5709030/avatar.jpg.320x320px.jpg?e75"
-  affiliation: "Unknown"
+  affiliation: "Lund U"
   title: "Fast derivative pricing in Julia"
   type: "lightning"
   abstract: ""
@@ -1068,7 +1067,7 @@
 
 - speaker: "Simon Broda"
   avatar: "http://avatars.schd.ws/6/c7/5709046/avatar.jpg.320x320px.jpg?f6a"
-  affiliation: "Unknown"
+  affiliation: "U of Amsterdam"
   title: "ARCH Models in Julia"
   type: "lightning"
   abstract: ""
@@ -1113,7 +1112,6 @@
 
 - speaker: "wheynderickx@gmail.com"
   avatar: "http://avatars.schd.ws/e/4c/5709027/avatar.jpg.320x320px.jpg?6c6"
-  affiliation: "Unknown"
   title: "Systemic Model of Banking Originated Losses (SyMBOL) in Julia"
   type: "lightning"
   abstract: ""
@@ -1178,7 +1176,7 @@
 
 - speaker: "Giovanni Ballarin"
   avatar: "http://avatars.schd.ws/d/98/5709083/avatar.jpg.320x320px.jpg?8f6"
-  affiliation: "Unknown"
+  affiliation: "Konstanz U"
   title: "GPU-Accelerated Value Function Iteration in Julia: Faster Macroeconomic Modeling"
   type: "talk"
   abstract: ""
@@ -1259,7 +1257,7 @@
 
 - speaker: "Shashi Gowda"
   avatar: "http://avatars.schd.ws/9/5a/5709093/avatar.jpg.320x320px.jpg?287"
-  affiliation: "Unknown"
+  affiliation: "Julia Computing"
   title: "Getting Started with JuliaDB"
   type: "talk"
   abstract: ""
@@ -1343,7 +1341,7 @@
 
 - speaker: "Matt Bauman"
   avatar: "http://avatars.schd.ws/4/92/5709076/avatar.jpg.320x320px.jpg?b80"
-  affiliation: "Unknown"
+  affiliation: "Julia Computing"
   title: "An introduction to high performance custom arrays"
   type: "talk"
   abstract: ""
@@ -1389,7 +1387,6 @@
 
 - speaker: "Mauro Werder"
   avatar: "http://avatars.schd.ws/5/c4/5709044/avatar.jpg.320x320px.jpg?316"
-  affiliation: "Unknown"
   title: "Parameters.jl: keyword constructors and default values for types"
   type: "lightning"
   abstract: ""
@@ -1401,7 +1398,7 @@
 
 - speaker: "Robin Deits"
   avatar: "http://avatars.schd.ws/7/c1/5709092/avatar.jpg.320x320px.jpg?e57"
-  affiliation: "Unknown"
+  affiliation: "MIT"
   title: "JuliaRobotics: Making robots walk with Julia"
   type: "talk"
   abstract: ""
@@ -1423,7 +1420,7 @@
 
 - speaker: "Tanmay Mohapatra"
   avatar: "http://avatars.schd.ws/c/a3/5709068/avatar.jpg.320x320px.jpg?8bf"
-  affiliation: "Unknown"
+  affiliation: "Julia Computing"
   title: "A Scalable Scheduler Plugin For Dagger on JuliaRun"
   type: "lightning"
   abstract: ""
