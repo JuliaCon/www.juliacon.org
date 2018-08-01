@@ -1323,139 +1323,234 @@
   affiliation: "IBM Dublin Research Lab"
   title: "CombineML for Seamless Ensembling of Machine Learning Models from Scikit-learn, Caret, and Julia"
   type: "lightning"
-  abstract: ""
+  abstract: "CombineML main feature is to provide a framework for seamless ensembling of existing machine learning implementations from scikitlearn, caret, and Julia. It supports the following ensembles: stack, voting, and best. It is a heterogeneous ensemble driven by a uniform machine learner API designed for learner composition of machine learning implementations from scikit-learn, caret, and Julia.&nbsp;It allows the building of complex ensemble architecture in a few lines of code."
   desc: |
-    <em>Abstract</em>
-    CombineML main feature is to provide a framework for seamless ensembling of existing machine learning implementations from scikitlearn, caret, and Julia. It supports the following ensembles: stack, voting, and best. It is a heterogeneous ensemble driven by a uniform machine learner API designed for learner composition of machine learning implementations from scikit-learn, caret, and Julia.&nbsp;It allows the building of complex ensemble architecture in a few lines of code.&nbsp;
 
-     #Create learners for parallel processing
+     ### Create learners for parallel processing
+
      nprocs() ==1 && addprocs()
 
+
      @everywhere import CombineML.Util
+
      @everywhere import CombineML.Transformers
+
      @everywhere import RDatasets
+
      @everywhere CU=CombineML.Util
+
      @everywhere CT=CombineML.Transformers
+
      @everywhere RD=RDatasets
 
      #Scikit wrapper that provides access to scikit learners
+
      @everywhere sk_gblearner = CT.SKLLearner(
+
      &nbsp; Dict( :output =&gt; :class,
+
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :learner =&gt; "GradientBoostingClassifier",
+
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :impl_options =&gt; Dict()
+
      &nbsp; &nbsp;)
      )
 
-     # Select best learner from the set
+
+     ### Select best learner from the set
+
      @everywhere best_learner = CT.BestLearner(
+
      &nbsp; &nbsp; &nbsp; Dict(
+
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :learners =&gt; [sk_gblearner,CT.PrunedTree(),CT.RandomForest()],
+
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :output =&gt; :class, :score_type =&gt; Real, :learner_options_grid =&gt; nothing
+
      &nbsp; &nbsp; &nbsp; )
+
      )
 
-     # Learners in voting committee
+
+     ### Learners in voting committee
+
      @everywhere vote_learner = CT.VoteEnsemble(
+
      &nbsp; &nbsp; &nbsp;Dict(
+
      &nbsp; &nbsp; &nbsp; &nbsp;:output =&gt; :class,
+
      &nbsp; &nbsp; &nbsp; &nbsp;:learners =&gt; [
+
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CT.PrunedTree(), CT.DecisionStumpAdaboost(),
+
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CT.RandomForest(),sk_gblearner,best_learner
+
      &nbsp; &nbsp; &nbsp; &nbsp;]
+
      &nbsp; )
+
      )
 
-     # Learners in stack ensemble
+     ### Learners in stack ensemble
+
      @everywhere stack_learner = CT.StackEnsemble(
+
      &nbsp; Dict(
+
      &nbsp; &nbsp; :learners =&gt; [
+
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;CT.PrunedTree(), CT.RandomForest(),
+
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;CT.DecisionStumpAdaboost(),
+
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;best_learner, sk_gblearner
+
      &nbsp; &nbsp; &nbsp;],
+
      &nbsp; &nbsp; :stacker =&gt; CT.RandomForest()
+
      &nbsp; )
      )
 
-     # Create a Pipeline
-     pipeline = CT.Pipeline(
-     &nbsp; Dict(
-     &nbsp; &nbsp; :transformers =&gt; [
-     &nbsp; &nbsp; &nbsp; &nbsp; CT.OneHotEncoder(), # Encodes nominal features into numeric
-     &nbsp; &nbsp; &nbsp; &nbsp; CT.Imputer(), # Imputes NA values
-     &nbsp; &nbsp; &nbsp; &nbsp; CT.StandardScaler(), # Standardizes features
-     &nbsp; &nbsp; &nbsp; &nbsp; learner&nbsp;
-     &nbsp; &nbsp; ]
-     &nbsp; )
-    )
 
-     # Sample dataset from Iris
+     ### Create a Pipeline
+
+     pipeline = CT.Pipeline(
+
+     &nbsp; Dict(
+
+     &nbsp; &nbsp; :transformers =&gt; [
+
+     &nbsp; &nbsp; &nbsp; &nbsp; CT.OneHotEncoder(), # Encodes nominal features into numeric
+
+     &nbsp; &nbsp; &nbsp; &nbsp; CT.Imputer(), # Imputes NA values
+
+     &nbsp; &nbsp; &nbsp; &nbsp; CT.StandardScaler(), # Standardizes features
+
+     &nbsp; &nbsp; &nbsp; &nbsp; learner&nbsp;
+
+     &nbsp; &nbsp; ]
+
+     &nbsp; )
+     )
+
+     ### Sample dataset from Iris
+
      dataset = RD.dataset("datasets", "iris")
+
      instances = Array(dataset[:, 1:(end-1)])
+
      labels = Array(dataset[:, end])
 
-     # Split into training and test sets
+     ### Split into training and test sets
+
      (train_ind, test_ind) = CU.holdout(size(instances, 1), 0.3)
 
-     #Train and Predict
+     ### Train and Predict
+
      CT.fit!(pipeline, instances[train_ind, :], labels[train_ind])
+
      predictions = CT.transform!(pipeline, instances[test_ind, :])
 
-     # Compute accuracy
+     ### Compute accuracy
+
      result = CU.score(:accuracy, labels[test_ind], predictions)
 
      # Evaluate Ensembles in Parallel
+
      @everywhere function predict(learner)
+
      &nbsp; dataset = RD.dataset("datasets", "iris")
+
      &nbsp; instances = Array(dataset[:, 1:(end-1)])
+
      &nbsp; labels = Array(dataset[:, end])
+
      &nbsp; (train_ind, test_ind) = CU.holdout(size(instances, 1), 0.3)
+
      &nbsp; pipeline = CT.Pipeline(
+
      &nbsp; &nbsp; Dict(
+
      &nbsp; &nbsp; &nbsp; :transformers =&gt; [
+
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;CT.OneHotEncoder(), # Encodes nominal features into numeric
+
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;CT.Imputer(), # Imputes NA values
+
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;CT.StandardScaler(), # Standardizes features
+
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;CT.PCA(),
+
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;learner&nbsp;&nbsp;
+
      &nbsp; &nbsp; &nbsp; ]
+
      &nbsp; &nbsp; )
+
      &nbsp; )
+
      &nbsp; CT.fit!(pipeline, instances[train_ind, :], labels[train_ind]);
+
      &nbsp; predictions = CT.transform!(pipeline, instances[test_ind, :]);
+
      &nbsp; result = CU.score(:accuracy, labels[test_ind], predictions)
+
      &nbsp; return result
+
      end
 
      using DataFrames
+
      function main(trials)
+
      &nbsp; learners=Dict(
+
      &nbsp; &nbsp; &nbsp; &nbsp;:gradientboosting=&gt;sk_gblearner, :randomforest=&gt;CT.RandomForest(),
+
      &nbsp; &nbsp; &nbsp; &nbsp;:adaboost=&gt;CT.DecisionStumpAdaboost(), :votelearner=&gt;vote_learner,
+
      &nbsp; &nbsp; &nbsp; &nbsp;:bestlearner=&gt;best_learner, :stacklearner=&gt;stack_learner
      &nbsp; )
+
      &nbsp; models=collect(keys(learners))
+
      &nbsp; ctable=@parallel (vcat) for model in models
+
      &nbsp; &nbsp; &nbsp;acc=@parallel (vcat) for i=1:trials
+
      &nbsp; &nbsp; &nbsp; &nbsp; res=predict(learners[model])
+
      &nbsp; &nbsp; &nbsp; &nbsp; println(model," =&gt; ",round(res))
+
      &nbsp; &nbsp; &nbsp; &nbsp; res
+
      &nbsp; &nbsp; &nbsp;end
+
      &nbsp; &nbsp; &nbsp;[model round(mean(acc)) round(std(acc)) length(acc)]
+
      &nbsp; end
+
      &nbsp; sorted=sortrows(ctable,by=(x)-&gt;x[2],rev=true) |&gt; DataFrame
+
      &nbsp; rename!(sorted,Dict(:x1=&gt;:model,:x2=&gt;:mean_acc,:x3=&gt;:std_acc,:x4=&gt;:trials))
+
      &nbsp; return sorted
+
      end
 
      const trials = 5
+
      res = main(trials)
+
      @show res
 
-     # Known Limitations
-     # 1. Learners have only been tested on instances with numeric features.
-     # 2. Inconsistencies may result in using nominal features
-     #&nbsp; &nbsp; &nbsp;directly without a numeric transformation (i.e.&nbsp;OneHotEncoder).
+     ### Known Limitations
+
+     1. Learners have only been tested on instances with numeric features.
+
+     2. Inconsistencies may result in using nominal features directly without a numeric transformation (i.e.&nbsp;OneHotEncoder).
   bio: |
     I am a research scientist at the IBM Dublin Research Lab working in the areas of analytics, datamining, machine learning, and AI. I finished my Doctor of Engineering degree from the Toyohashi University of Technology in Japan (2005). I have a Master’s degree in Computer Science majoring in Artificial Intelligence (Ateneo de Manila University, 1995) and a Bachelor’s degree in Applied Mathematics (University of the Philippines in the Visayas, 1991). I used to work as a technical staff for two years in the Neuroinformatics Lab of RIKEN Brain Science Institute, Japan before finishing my DEng degree. I spent a total of 4 years as a Postdoctoral Fellow in the National University of Singapore and the National Neuroscience Institute working on diverse topics such as context-aware reasoning, datamining models for activity recognition in smarthome environment, detecting biomarkers for Parkinson’s Disease by image processing of fMRI and DTI images, and automated diagnosis of movement disorder for intelligent healthcare. Moreover, I held an Asst. Professorship for a total of 6 years in the University of the Philippines and Ateneo de Manila University. My research interests include datamining, optimization, development of intelligent agents using machine learning and evolutionary computation, neuroinformatics, and biomedical engineering.
   id: 101
