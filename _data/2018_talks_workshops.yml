@@ -1712,11 +1712,14 @@
 - speaker: "Shashi Gowda"
   avatar: "http://avatars.schd.ws/9/5a/5709093/avatar.jpg.320x320px.jpg?287"
   affiliation: "Julia Computing"
-  title: "Getting Started with JuliaDB"
+  title: "How JuliaDB works"
   type: "talk"
-  abstract: "Introductory talk on JuliaDB, a large-scale analytical database in pure Julia."
+  abstract: |
+    JuliaDB is a pure Julia analytical database. It support a number of features: releational database operations, parsing text files, parallel computing, tabular data storage and compression.
+    In this talk you will learn about the underlying building block packages that make up JuliaDB. This talk should help beginners get started using and hacking on JuliaDB!
   desc: |
-    This talk introduces the core features of JuliaDB illustrating the same with examples.
+    JuliaDB is a pure Julia analytical database. It makes loading large datasets and playing with them easy and fast. JuliaDB needs to support a number of features: releational database operations, quickly parsing text files, parallel computing, data storage and compression.
+    This talk is a bottom-up look at the construction of JuliaDB. We will talk about the scope and implementation of underlying building block packages, namely IndexedTables, TextParse, Dagger, OnlineStats and PooledArrays. This talk should help beginners get started using, as well as hacking on JuliaDB!
 
     * Why we built JuliaDB?
     * Brief introduction to Indexed tables
