@@ -45,9 +45,9 @@
     I am an algorithm and software engineer at Fugro Roames, applying machine learning techniques to big data in order to make sense of and to model the physical world. I have been using Julia since v0.3 for both research and commercial production-at-scale, and am the author of several Julia packages including StaticArrays.
   id: 2
 
-- speaker: "Pontus Stenetorp"
+- speaker: "Mike Innes, Deniz Yuret, and Pontus Stenetorp"
   avatar: https://avatars1.githubusercontent.com/u/354934?s=460&v=4
-  affiliation: "University College London"
+  affiliation: "Julia Computing, Koç University, and University College London"
   title: "Machine Learning with Julia: Elegance, Speed and Ease"
   type: workshop
   abstract: >
@@ -55,11 +55,11 @@
   desc: |
     Machine Learning (ML) is at its core the art of programming by data, rather than by hand, and ML has risen to become one of the most desirable skills in academia and industry. The common maxim is that two traits control who rules the ML landscape, ability to find and ingest more data and those that can innovate the quickest. Given these traits, we argue that Julia is uniquely poised as a very strong contender as the language for ML; as we allow for quick development cycles and offer unrivalled speed. After a quick introduction to the basics of ML, we will give the audience a description of the lay of the land in terms of libraries and frameworks in Julia, and finally proceed to build simple to complex models using the premier framework Flux. After attending the workshop the audience will be familiar with the basics of ML to avoid common pitfalls and be ready to tackle their own ML problems the Julian way.
   bio: |
-    I am Pontus Stenetorp, a researcher and educator that finds Natural Language Processing (NLP) and Machine Learning research to be fascinating. The widely-adopted text annotation and visualisation tool brat is one of my creations and since 2012 a majority of my work has been on representation learning (Deep Learning) for natural language.
+    Mike Innes is a software engineer at Julia Computing, where he works on among other things the Juno IDE and the machine learning ecosystem. He is the creator of the Flux machine learning library.
 
-    My current research focuses on end-to-end models that learns with a minimal amount of human supervision – with a particular focus on allowing computers to pass real-world exams – and is supported by the Paul G Allen Family Foundation. If you share any of my research interests, do have a look at my list of publications and if you have questions regarding my research, feel free to contact me. I also teach and supervise student research projects in my area of expertise.
+    Deniz Yuret is an associate professor of Computer Engineering at Koç University in Istanbul working at the Artificial Intelligence Laboratory, as well as a long-time Julia contributor and original creator of the deep learning framework Knet.
 
-    Currently, I am a Senior Research Associate at University College London (UCL) and a member of the Machine Reading Group lead by Reader Sebastian Riedel at the Department of Computer Science. I received a PhD from the University of Tokyo in 2013 and a MSc Eng from the Royal Institute of Technology (KTH) in 2010. In my spare time I contribute to the Julia programming language community, read plenty of books, and enjoy being a mediocre amateur photographer.
+    Pontus Stenetorp is a senior research associate at University College London, where he spends most of his research time on natural language processing and machine learning.
   resources:
     - name: "Repo"
       url: "http://fluxml.ai/"
