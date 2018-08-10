@@ -1945,3 +1945,262 @@
   bio: |
 
   id: 130
+
+- speaker: "Henrik Sykora"
+  affiliation: "Budapest University of Technology and Economics"
+  title: "An effective method to investigate stochastic delayed systems using Julia"
+  type: "poster"
+  abstract: "Modelling of stochastic effects in engineering is limited not only by the few existing mathematical methods but also by their low effectivity and high complexity. An easy-to-use Julia package is presented to investigate stochastic linear delayed systems including control and machine-tool vibrations."
+  desc: |
+    # An effective method to investigate stochastic delayed systems using Julia
+
+    During investigation of dynamical systems, stochastic effects are often neglected, however stochastic excitations many times influence the behaviour of the systems. In case of applying deterministic models to approximate stochastic systems, during the identification process of system parameters usually their mean value is used as the parameter, while the measured variation is used to qualify the measurements. This approach often does not describe well enough the behaviour of the investigated system and leads to false results.
+    An example from mechanical engineering problems is machine tool vibrations, where the goal is to avoid vibration during the material removal process in order to ensure the best surface quality, while maintaining the highest possible material removal rate. The mathematical models, through which the dynamics of the machining is investigated are almost exclusively deterministic delayed differential equations. However, the forces originating from the cutting depend on a large number of factors (e.g. friction, high frequency changes in chip formation, material inhomogeneity), which gives the process a highly stochastic nature.
+    Another possible application is the investigation of traffic dynamics in the presence of vehicles equipped with connected cruise control (CCC), using vehicle-to-vehicle (V2V) communication. One goal of the corresponding researches is to avoid a phenomena called phantom traffic jam, during which spontaneous traffic jam forms without any accident or roadblock, due to the drivers’ large reaction times and limited perception range. The use of autonomous vehicles decreases the reaction times, but to gain beyond line of sight information one has to apply V2V communication. The simplest method for this technology is that each vehicle measures its position and velocity (e.g. with GPS and on board velocity sensors) and broadcasts it to the other vehicles. The broadcasted signal is received by the other vehicles, and they use this data to control their velocity. A challenge is that packet losses occur, which results in a "jerky" behaviour of the vehicle. To investigate the effect of the packet losses, usually deterministic packet loss patterns are used, introducing time-dependent time delay into the system. However, these packet losses occur stochastically, causing the time delay to be stochastic.
+
+    To facilitate the investigation of the stationary behaviour of such systems, a Julia package was created. This package is able to handle stochastic delayed linear systems, which can be written in the following structure:
+
+    $$\mathrm{d}\mathbf{x}_t = \left(\mathbf{A}(t) \mathbf{x}_t + \mathbf{B}(t) \mathbf{x}_{t-\tau(t)}\right)\mathrm{d}t +\left(\boldsymbol{\sigma}(t)+\boldsymbol{\alpha}(t)\mathbf{x}_t + \boldsymbol{\beta}(t) \mathbf{x}_{t-\tau(t)}\right)\mathrm{d}W_t,$$
+
+    where $\mathbf{x}(t)\in \mathbb{R}^d$ is the $d$-dimensional state vector, $\mathbf{A}(t),\mathbf{B}(t),\boldsymbol{\alpha}(t),\boldsymbol{\beta}(t) \in\mathbb{R}^{d\times d}$ are deterministic, time dependent coefficient matrices, $\sigma(t)\in\mathbb{R}^d$ is the vector corresponding to the additive noise $\tau(t) \in \mathbb{R}$ is the time delay, which can change between discrete values stochastically. To model the stochastic effects in the parameters, the $W_t$ Wiener process is used.
+    The package is capable to compute moment stability and stationary $\lim_{t\to\infty}\mathbb{E}\left(\mathbf{x}_t\mathbf{x}_t^\top\right)$ second moment of the delayed system. Furthermore, the method is generalised to handle multiple time delays and stochastic excitations. One has to only supply the coefficient matrices and the time delay as functions of time, then the package calculates the mentioned stationary properties of the investigated system.
+
+    Machine tool vibrations:
+    [Conference proceeding at ASME](http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2662495), [Homepage of the ERC SIREN project](http://siren.mm.bme.hu/)
+    Connected cruise control V2V communication: [Book chapter on Springer.com](https://link.springer.com/chapter/10.1007%2F978-3-319-53426-8_18)
+  bio: |
+    Henrik Sykora is a PhD student at the Budapest University of Technology. His main research topic is the investigation of the behaviour of linear stochastic delayed differential equations. After spending some time in Karlsruhe University of Technology and a few months in University of Michigan, he realized that even if there is a good mathematical method, it is worth few, if it cannot be used by others quickly and simply. That's why he is striving to create a Julia package, with which he can give not only published results, but also a possible tool for others.
+    When he is not glued to a chair gazing at a computer screen, he tries to teach mechanics to mechanical engineering students,  reads books about great and not so great (but nevertheless successful) people, and tries not to tap too much during his brazilian Jiu-Jitsu trainings.
+  id: 142
+
+- speaker: "Mathieu Besançon"
+  affiliation: "GERAD, Montréal & INRIA Lille"
+  title: "Bi-level optimization for consumption predictability in smart grids"
+  type: "poster"
+  abstract: "Increasing the proportion of renewable energy has become a priority for power grids, but their integration requires higher flexibility of consumption times. Using game theory and optimization, we design a framework allowing flexibility and privacy, while reducing costs for both consumer and supplier"
+  desc: |
+    Power grids are evolving with the integration of distributed and renewable generation sources and with the possibility of exchange of information between consumers and the aggregator supplying them. We highlight an application of bi-level optimization for such situation involving a new energy tariff setting for residential consumers, implemented in Julia first as a black-box problem, then decomposed as a set of linear problems with JuMP.
+  bio: |
+    Mathieu Besançon is a PhD student in a double program between Ecole Polytechnique of Montréal, Canada at GERAD, and the INOCS team at INRIA Lille, France. His research focuses on optimization in smart grids for the development of simple, robust and scalable Demand Response programs.
+  id: 143
+
+- speaker: "Mauro Werder"
+  affiliation: "ETH Zurich, Switzerland"
+  title: "BITE, a Baysian Ice Thickness Estimation model"
+  type: "poster"
+  abstract: "Glaciers and ice caps are projected to dominate global sea level rise up to 2100. To estimate ice thickness maps of such glaciers using mostly surface data, we use a semi-physical forward model combined with a Bayesian inversion scheme. We leverage Julia to allow compute intense MCMC simulations."
+  desc: |
+    The around 200'000 glaciers and ice caps around the world are projected to dominate global sea level rise up to 2100. Whilst air-borne and ground-based ice penetrating radar works very well, it cannot be applied to all glaciers.  Thus to estimate their thickness methods based on remotely sensed surface data are needed.  We present such a method based on a simple, semi-physical forward model based on mass conservation and basic ice physics and combine it with a Bayesian inversion approach.  Using MCMC techniques we can estimate maps of ice thickness and their errors. The forward model is reasonably well tuned and can calculate a thickness map of a big glacier in less than 0.1s.  The inversion is done using KissMCMC.jl which implements a Affine Invariant Markov chain Monte Carlo (MCMC) Ensemble sampler modeled after the Python [emcee](http://dfm.io/emcee/current/) implementation.
+  bio: |
+
+  id: 144
+
+- speaker: "Vivek Gadodia"
+  affiliation: "Dravyaniti Consulting LLP"
+  title: "Built to Last- Developing Robust Trading and Investment Strategies"
+  type: "poster"
+  abstract: "Life of a Trading strategy is unknown.  'Till how long will this work?'.  As markets get more mature, with advent of ML and AI, the designer's job is getting tougher.  Using rules to analyse big data by splitting it across Time-Frames, traders can gain significant edges, for all types of traders."
+  desc: |
+    How often have we across trading strategies that work well in back-test, but don't do as well after going live.  Or they may do well, and then stop working abruptly.  The problem is very challenging to deal with, especially when clients also start losing faith with the draw-down duration getting extended.  What is, then a way to get the edge on your side?  How to design effective systems which gain advantage of price moves when in favour, but go on the defensive when the markets are not in favour.  This is a classic combination of combining defensive and attacking strategies simultaneously, to build highly effective systems.  By combining price action and indicators on multiple time-frames, analysing larger chunks of data like a parallel processor would do, we can make more robust and profitable strategies.
+
+    In the talk, I'll be showing:
+    a) Guide-lines around how to select time-frames, and selection of indicators to apply on the different time-frames.
+    b) Compare and show some couple of examples from single time-frame systems v/s multi-time frame systems coded in Julia in different asset classes.
+  bio: |
+    I have been involved in systematic trading for the past 10 years and developed over a 100 models across various frequencies i.e. high, medium and low, across global markets.  Currently, I manage a suite of non-correlated strategies which are being used by Proprietary Desks, Hedge Funds, High Net Worth Individuals to manage their portfolio risks and generate absolute returns.  A large part of the reason of our systems having survived is due to the usage of Multiple Time Frames in analysing market data, and using Julia to work with multiple Time-Series in parallel.
+
+    I have coded in multiple languages using VBA, C++, Java, Python, Julia and have hands on experienced working on large scale complex projects for enterprises.  I found trading systems to be the area that helps me use and apply multi-disciplinary skills and I continue to learn and develop on that.  It's a journey, which I believe is best lived by sharing ideas and continuously growing, learning from mistakes.
+  id: 145
+
+- speaker: "Laurent Heirendt, Ph.D."
+  affiliation: "University of Luxembourg"
+  title: "COBRA.jl - Gearing up for high-dimensional constraint-based modelling"
+  type: "poster"
+  abstract: "Julia accelerates analyses of huge-scale biochemical networks with now more than a million biochemical reactions. Through the open-source high-performance COBRA.jl package, the analysis capabilities of the COnstraint-Based Reconstruction and Analysis community are lifted to another level."
+  desc: |
+    The COnstraint-Based Reconstruction and Analysis (COBRA) community is developing ever larger biochemical networks. Reconstructions with millions of biochemical reactions are on the horizon. The limits of traditional implementations in MATLAB, Python, or C, are reached when exploring such large networks, especially when performing the same analysis on thousands of these large models.
+    A main requirement for accelerating existing and new COBRA methods is a short development time and the ability to gain speedups with the convenience of writing code similar to Python or MATLAB while assuring parallelism across multiple nodes without traditional MPI- based languages. This is why the COBRA community turned towards Julia, and released the high-level, high-performance, and open-source COBRA.jl package.
+    DistributedFBA.jl [1], part of COBRA.jl, allows to perform a flux variability analysis or any of its related types efficiently, especially on large (up to 500’000 reactions) and huge-scale models (more than 500’000 reactions). PALM.jl [2] allows to launch analyses based on the COBRA Toolbox [3] across several computing nodes simultaneously, and this for hundreds of models. The COBRA Toolbox is a comprehensive software suite of interoperable COBRA methods written in MATLAB, which has found widespread applications in biology, biomedicine, and biotechnology because its functions can be flexibly combined to implement tailored COBRA protocols for any biochemical network.
+    Julia is the language of choice when it comes to accelerating analyses of large and huge-scale biochemical networks. With the COBRA.jl package, reconstruction and analysis of large and huge-scale models is made possible and accelerated.
+  bio: |
+    Laurent Heirendt was born in 1987 in Luxembourg City, Luxembourg (Europe). He received his BSc in Mechanical Engineering from the Ecole Polytechnique Fédérale de Lausanne, Switzerland in 2009. A year later, he received his MSc in Advanced Mechanical Engineering from Imperial College London in the UK, where his research and thesis focused on developing a general dynamic model for shimmy analysis of aircraft landing gear that is still in use today. He received his Ph.D. in 2014 in Aerospace Science from the University of Toronto, Canada. He developed a thermo-tribomechnical model of an aircraft landing gear, which led to a patent pending design of a critical aircraft landing gear component. He then worked in industry and oversaw the structural analysis of large aircraft docking structures. Recently, Laurent started as a Research Associate at the Luxembourg Centre for Systems Biomedicine, where he works in the numerical optimization of large biochemical networks using Julia. Besides his mother tongue Luxembourgish, he is fluent in English, French, and German, and he is currently learning Brazilian Portuguese.
+  id: 146
+
+- speaker: "Rob Blackwell"
+  affiliation: "British Antarctic Survey"
+  title: "EchoJulia – a new approach to scientific echosounder data analysis"
+  type: "poster"
+  abstract: "EchoJulia is a software library that is enabling new kinds of fisheries acoustic applications. From big data analysis of ship-based surveys to data collection from ocean gliders, we show how Julia is set to improve ecosystem estimates of Southern Ocean Antarctic Krill."
+  desc: |
+    Fisheries surveys are typically conducted using echosounders on research ships to estimate animal abundance and biomass. New unmanned, marine autonomous vehicles and underwater gliders are being used to increase spatial and temporal sampling, but existing acoustic processing software is inadequate for embedded, autonomous applications.
+    EchoJulia is a new, open source software library being developed at the British Antarctic Survey, Cambridge, UK as part of a PhD studentship. We found that the Julia programming language has enabled the same code to be used for embedded systems prototypes, desktop interfaces, and batch-mode, big data processing.
+    Rob will talk about his field work in the Southern Ocean, his decision to use Julia for acoustic data processing, as well as the resulting applications in acoustic noise removal and Antarctic krill swarm detection.
+
+  bio: |
+    After a long career in the computer software industry, Rob Blackwell is now a PhD candidate at the British Antarctic Survey learning about Scientific Computing and Data Science applied to fisheries acoustics. It's really just an excuse to hack Julia code.
+  id: 147
+
+- speaker: "Pedro Ivo de Oliveira Filho"
+  affiliation: "University College London"
+  title: "Enhancing Photovoltaic Solar Cell Manufacturing: Design and Scale-up of an Industrial AACVD under Uncertainty"
+  type: "poster"
+  abstract: "Handling uncertainty in process design and optimisation is a crucial challenge in current research and in the industry. We believe that Julia has the potential to be used as a comprehensive modelling language to enable designers to develop new systems with greater confidence."
+  desc: |
+    The global energy sector has now sustainability as one of its main objectives and solar technology is amongst the most viable options for a reliable and clean energy production. Reducing the cost of solar modules is a crucial element to increase the potential of such a solution. Solar cells are based on Transparent and Conductive Oxide (TCO) films, which can be produced via a process called Aerosol-Assisted Chemical Vapour Deposition (AACVD). Concisely, this process is based on sequential stages. Firstly, aerosol is generated from a solution containing TCO precursors. Then, the aerosol is transported to a heated chamber, where the solvent evaporates and the precursors deposit, forming the desired film. Not only can TCOs be produced by this process, but also composites, powders, coatings, nanotubes, etc.
+
+    Although there is some research available in the literature reporting small scale experimental results of the AACVD technique, there is little about computational modelling. The latter would nevertheless be crucial for the design and scale-up of the AACVD. Consequently, we present an integrated model composed of aerosol generation, transport and delivery. For the aerosol generation, we predict the range of droplet sizes obtained via ultrasonic atomisation of the precursor solution. This is done using probability distributions, which become one of the inputs for the transport model. We can then predict the aerosol loss as a function of the properties of the droplets, the flow and the piping system. The model output shows the fraction of aerosol that reaches the heated chamber as well as its size range. It has been tested for a variety of scenarios, using different combinations of horizontal, inclined and vertical pipes. Finally, the solvent evaporation in the heated chamber is modelled, which depends mainly on the temperature profile of the site and the flow conditions. The precursors are now free to deposit and form the desired products. Uncertainty and sensitivity analyses are performed throughout the process.
+
+    The stochastic aspects of aerosol generation, transport and delivery were incorporated using probability distributions. Experimental results were used to validate the model predictions for droplet sizes for the generated aerosol and the loss during transport. Through the formulation of an optimisation problem, the model presented has been used to suggest possible designs for the transport system, minimising the aerosol loss. This approach is suitable for transport distances on the scale of industrial processes. Other applications based on particle atomisation and transport, such as fuel combustion and spray drying or cooling, can also use the models presented here. Finally, the knowledge acquired while handling uncertainties in the modelling of the AACVD process has been used to plan a modelling framework based on Julia that will enable us to represent uncertainties and manipulate variables with uncertain values.
+  bio: |
+    Pedro received his BEng in Chemical Engineering with first-class honours in 2015 from the Federal University of Minas Gerais (UFMG). He was part of the Scientific Initiation Program in Mathematics at the same university (2011-2014). He was a fellow of the Science without Borders program at McMaster University, Canada (2012-2013). In 2015 Pedro started his PhD studies at University College London, while maintaining hobbies like football, volunteering, activities related to the work of J. R. R. Tolkien and C. S. Lewis, etc.
+  id: 148
+
+- speaker: "Dr. Zygmunt L. Szpak"
+  affiliation: "Australian Institute for Machine Learning"
+  title: "Estimation of Nonlinear Errors-in-Variables Models for Computer Vision Applications"
+  type: "poster"
+  abstract: "I will present an approximate maximum likelihood  method that encapsulates a gamut of heteroscedastic errors-in-variables regression problems that often arise in computer vision applications. Julia's multiple dispatch and Unicode support facilitates a unique, concise and readable implementation."
+  desc: |
+    A central task in computer vision involves fitting parametric models to digitised images. In particular, given a collection of image feature locations, one seeks a set of parameters that describe a specific relationship between the image locations. Often the data-parameter connection takes the form of a system of equations, and the underlying estimation task falls into the category of non-linear heteroscedastic errors-in-variables regression problems.
+    I will present an approximate maximum likelihood cost function and concomitant numerical scheme which encapsulates a broad class of problems including conic fitting, optical flow, homography and fundamental matrix estimation; trifocal tensor estimation; camera calibration and three-dimensional rigid motion estimation. Thanks to Julia's Unicode support and multiple dispatch capability I will be able to demonstrate a clear and concise implementation which embodies the various natural levels of mathematical abstraction that lead to generic code.
+  bio: |
+    Zygmunt L. Szpak received his Ph.D. degree in Computer Science from the University of Adelaide, Australia, in 2013, and his M.Sc. degree in Computer Science from the University of KwaZulu-Natal, South Africa, in 2009.  He is a senior research fellow at the Australian Institute for Machine Learning—an institute at the University of Adelaide. He works on numerous industry inspired computer vision problems. In the last couple of years, his work has focused on the application of machine learning and multiple-view geometry techniques for the development of smart medical devices.
+  id: 149
+
+- speaker: "R Gowers"
+  affiliation: "University of Warwick"
+  title: "Extended Neurons with Noise in Julia"
+  type: "poster"
+  abstract: "Most of the time, neurons in the cortex fire due to randomly arriving inputs.  The irregular firing that results is not merely noise, but is thought to play an important role in cortical computation.  I show how I have implemented stochastic simulations of this irregular firing in my research."
+  desc: |
+    Neurons in the brain are highly complex structures which are bombarded by randomly arriving synaptic inputs.  Indeed, most of the time, neurons in the cortex fire due to random fluctuations and are in the "subthreshold regime".  Understanding how neurons behave in this noisy environment is important to understanding computation in the brain.  My poster gives an overview of how I have used Julia for my theoretical models, numerical simulations and data analysis.
+
+    Neurons are highly elongated with differences in synapses along their length, and I am interested in how the spatial properties of neurons affect their firing behaviour.  Therefore, it is necessary to numerically solve stochastic differential equations in both space and time.  Julia allowed me to create and run these simulations with little difficulty.  Since I am interested in numerous random trials to calculate the average firing rate from a population of neurons, the relative ease of simple parallelisation in Julia has been very helpful to me.  The profiling of simulations has also been very useful for finding inefficiencies and making my code run faster.
+
+    A wide range of different neuronal parameters are typically explored during simulations, and it is therefore useful to save these parameters of a simulation in an easy to read manner with the simulation data itself.  To this end, the HDF5 derived JLD file format has been invaluable.  It has also been useful in restructuring real-world data obtained from experiments, in which I used various techniques to infer the parameters.
+  bio: |
+    I am a second year PhD student at the University of Warwick currently doing research in computational neuroscience.  Previously, I have done some research in thin film transistors and resistive memory.  I have been using Julia for about 3 years now, when I used it to find all possible solutions to a puzzle.
+  id: 150
+
+- speaker: "Andrew Collier"
+  affiliation: "Exegetic Analytics"
+  title: "Getting Started with Bayesian Techniques in Julia"
+  type: "poster"
+  abstract: "Bayesian techniques can seem challenging and esoteric. However, they promise a powerful alternative to frequentist statistics, with the possibility of extracting even more useful information from your data. This talk will help you get started with Bayesian analyses."
+  desc: |
+    What are the minimum things you need to know to start applying Bayesian techniques in Julia? This talk will provide an entry level discussion covering the following topics:
+
+    - What can Bayes do for me? (A blitz introduction to Bayesian methods)
+    - What is [Stan](http://mc-stan.org/)?
+    - Using Stan in Julia.
+  bio: |
+    Andrew Collier is a freelance Data Scientist, working at the interface between Academia and Industry. He spends most of his time in R, Python, SQL and the BASH, but dabbles in a wide range of other technologies. He enjoys giving training and public speaking.
+  id: 151
+
+- speaker: "Petre Caraiani"
+  affiliation: "Institute for Economic Forecasting, Romanian Academy"
+  title: "Introduction to Quantitative Macroeconomics using Julia"
+  type: "poster"
+  abstract: "The title of the presentation comes from the my forthcoming book at one of the leading publishers, Academic Press, an imprint of Elsevier. The poster (based on the book) will introduce the audience to state-of-art computational techniques used in economics through examples and applications in Julia."
+  desc: |
+    The presentation is based on the results in my forthcoming book "Introduction to Quantitative Macroeconomics using Julia" forthcoming at Academic Press. The presentation will deal first with general numerical techniques, covering techniques related to linear algebra, root finding or optimization based on available packages in Julia. The presentation becomes more technical in the second part, where I cover specific techniques employed in macroeconomics, but that can be used in related disciplines like finance, operation research, statistics, optimization: dynamic programming, simulation techniques, solving and simulating systems of stochastic difference equations.
+    The presentation will balance theory with applications in Julia and the code to accompany the book will be available online.
+  bio: |
+    I am  a Senior Researcher at the Institute for Economic Forecasting, Romanian Academy. I have a PhD in economics and I do research in quantitative modeling. I have published numerous papers in peer-reviewed journals.
+  id: 152
+
+- speaker: "Ahan Sengupta"
+  affiliation: "City of London School"
+  title: "Julia Robots on the Raspberry Pi"
+  type: "poster"
+  abstract: "The talk is about remote control robots controlled by Julia on a Raspberry Pi. I will show how to do physical computing with Julia using the GPIO pins of the Pi."
+  desc: |
+    This talk is about remote-control robots using by a Raspberry Pi, with code written in Julia. The motors and other peripherals are connected to the Raspberry Pi via the GPIO pins. This shows physical uses of Julia and teaches how to access motors and other elements attached to a Pi via GPIO in Julia. In addition, it also shows how to hack wireless third-party video game controllers in Julia. In this program, Julia will communicate wirelessly with the controller and control the motors and the other miscellaneous accessories of the robot. Julia will also process the images coming out of the robot's camera.
+  bio: |
+    I'm 12 years old and have a great interest in programming. I started coding in Scratch when I was 9 years old but I can now code in Python and Julia.
+  id: 153
+
+- speaker: "Miguel Raz Guzmán Macedo"
+  affiliation: "UNAM"
+  title: "Lessons for beginner developers: Arbitrary order generalized OrthogonalPolynomials.jl in 100 lines of Julia"
+  type: "poster"
+  abstract: "Julia's capabilities are amazing for scientific computing - but how to begin designing your own libraries and packages? With OrthogonalPolynomials.jl, we will showcase the development of a production ready library in 100 lines of code - with a series of video walkthroughs on step by step design."
+  desc: |
+    Getting started is hard.
+    As of yet, there is no standard "Practices and principles of Software design in Julia" canonical reference.
+    This talk seeks to add a resource to beginner steps STEM people face when starting with package development in design.
+    Yes, our manuals state explicitly how different functions work by themselves, but composing simple behaviors to build a tool and solve a problem is a rich and complex design space where no obvious answers exist.  Adventurous early adopters haven't necessarily slogged in this phase due to prior experience in other languages, but a repertoire of incremental handheld software design practices and principles is welcome.
+    This is where I find OrthogonalPolynomials.jl exciting. In a terse ~100 lines of code, one can produce arbitray order generalized [canonical orthogonal polynomials](http://people.math.sfu.ca/~cbm/aands/page_789.htm) that have a myriad of applications in numerical computing. This means that a vast amount of functionality can be obtained with very little Julia code through the simple use of multiple dispatch a little metaprogramming, and generated functions.
+    So OK, you can build a Julia package that has stellar functionality. This is not new - what is new is to produce documentation of the entirety of the design process in curated Youtube Videos and livestreams to answer questions about the increasing simplifications and tradeoffs of the design, and extending the conversation to the viewership is where I believe the added value for the Julia Community in this talk lies.
+  bio: |
+    I am a Mexican physics student interested in the overlap of HPC and physics with the use of Julia.
+    I participated in competitive debating in HS and university, landed handstands all around the world and am a wannabe polyglot.
+    I enjoy climbing, reading long form foreign policy analysis, and building communities to care for those most vulnerable.
+    If you see my tweets, I've probably added you to the ever-growing list of Julia tweeters, and if you see my posts on Discourse, you will have probably seen my push for a growing resource for Spanish speakers diving into Julia.
+    To wanna see what I'm about, feel free to drop into my [stream](twitch.tv/brainrpg) for some casual programming riffing on the speedrunning videogame community online.
+    (Although its probs best to wait until school is over.)
+    God bless summer!
+
+  id: 154
+
+- speaker: "Renan Domingues"
+  affiliation: "UFPR - Federal University of Paraná"
+  title: "LU update in the Simplex Method"
+  type: "poster"
+  abstract: "We study the Simplex method, a linear optimization search method. The revised Simplex method was studied and implemented along with the LU update, aiming for the solution of large scale sparse problems. The method was implemented in the Julia Language and tested against available solvers."
+  desc: |
+    Linear programming is highly used for problem solving, since many real life applications can be well represented by minimizing costs under constraints, allowing the most efficient way to allocate and manage resources. This study is focused in the Simplex method, a linear optimization search method characterized by moving along the edges of the viable region while always decreasing the function value.
+
+    The revised Simplex method was studied and implemented along with the LU update for performance improvement, aiming for the solution of large scale sparse problems. The method was implemented fully in the Julia Language and tested against the available solvers in the JuMP platform.
+  bio: |
+    I'm an undergraduate chemical engineering student from Brazil. I love science and computational mathematics and hope to be working with research in the future.
+  id: 155
+
+- speaker: "beckerfloh@gmail.com"
+  affiliation: "Karlsruhe Institute of Technology"
+  title: "PCE.jl - Towards a Julia Package for Polynomial Chaos Expansion"
+  type: "poster"
+  abstract: "This poster announces PCE.jl, which is a Julia Package for uncertainty quantification (UQ) using a method called 'polynomial chaos expansion' (PCE). It offers an alternative approach to Monte-Carlo-based UQ, and is also more efficient for certain problem instances."
+  desc: |
+    PCE.jl - Towards a Julia Package for Polynomial Chaos Expansion
+    ====================================================
+
+    Uncertainties and inaccuracies pervade all kinds of models that are derived from experimental data. Introducing random variables into the governing equations of a dynamical system is one way to describe the inherent uncertainty. A *polynomial chaos expansion* (PCE) of a random variable is a spectral representation in terms of an orthogonal polynomial basis and can be used as a technique for uncertainty quantification and uncertainty propagation.
+    This poster announces PCE.jl, a Julia Package for uncertainty quantification that was part of my masters thesis at the Optimization & Control Group at KIT, Germany.
+  bio: |
+    Hey, my name is Florian and I'm from Karlsruhe, Baden-Württemberg, Southern Germany. I studied cognitive and computer science in Tübingen and Karlsruhe and next month I am starting a Phd in CS at KIT. I am interested in numerical computing, image processing and beer :)
+    I once climbed a mountain near Reykjavik while it was hailing and I will never do it again.
+
+    My favorite member of One Direction is, of course, Louis Tomlinson.
+  id: 156
+
+- speaker: "Will Tebbutt"
+  affiliation: "University of Cambridge"
+  title: "Probabilistic Programming and Gaussian Processes in Julia"
+  type: "poster"
+  abstract: "Deep Learning's popularity is partly derived from its composability. General probabilistic machine learning is, in fact, just as composable, but technically much more challenging. I present an interesting edge case where life is easy, and discuss how Julia is uniquely positioned to exploit this."
+  desc: |
+    The goal of a Probabilistic Programming Language (PPL) is to make probabilistic modeling as composable and straightforward to use as Deep Learning (DL). A PPL enables domain experts to compose probabilistic models and perform inference, without having to worry precisely how inference happens. This is analogous to how DL frameworks let you compose various layers and learn their parameters, without having to worry about the details of how their gradients are computed.
+
+    Unfortunately, a PPL that works well in practice is significantly harder to implement than a DL framework. This is because a PPL ultimately approximates high-dimensional integrals (hard), whereas a DL framework is concerned with computing high-dimensional gradients (easy-ish). There is, however, an edge case in which PP is easy: if all of the random variables in our programme are jointly Gaussian, then these high-dimensional integrals can be computed exactly. Perhaps surprisingly, by considering _very_ large collections of jointly Gaussian random variables, known as Gaussian processes (GPs), we can construct a large class of useful probabilistic models for functions.
+
+    In this poster I
+    - present a simple ML problem which is solved very well by GPs;
+    - present some seemingly simple extensions to this problem which are tricky to do with traditional it-does-one-thing-well style machine learning software, but which are trivial in a PP framework;
+    - present the core computational problem associated with GPs, which drives a large amount of research, and discuss how a variety of Julia's features (syntactic loop fusion, support for specially-structured matrices via multiple dispatch, amongst others) make it the ideal language in which to realise PP with GPs;
+    - discuss how integration with Turing.jl is natural, and how this will enable the use of GPs as a component in general probabilistic models; and
+    - highlight some gaps in Julia's linear algebra ecosystem that, if filled / improved, would be immediately useful for GPs.
+  bio: |
+    Will is a PhD student in the Computational and Biological Learning lab at the University of Cambridge, working on problems in probabilistic machine learning. He is particularly interested in Gaussian processes, automating Bayesian inference, and the use of machine learning to solve problems in climate science. When not working he can be found playing the guitar, or listening to people play it well.
+  id: 157
+
+- speaker: "Chris Rackauckas"
+  affiliation: "University of California, Irvine"
+  title: "The Hidden Information in Stochasticity:  How Biological Organisms Use and Control Randomness"
+  type: "poster"
+  abstract: "Stochasticity (randomness) in biochemical reactions exists. Things diffuse and randomly bump together to bind/unbind. Yet these chemicals form the basis of life. But biological organisms evolve to their surroundings. Have they evolved to use biochemical randomness? I will demonstrate how they do it."
+  desc: |
+    Randomness and stochasticity are prevalent features of biological phenomena. Usually, experiments are repeated multiple times and the average results are taken to be indicative of the truth. However, I will show that the randomness in the data due to the experimental variation is not “just noise”, but rather a rich source of information. We will focus on retinoic acid signaling in the developing zebrafish hindbrain. There it will be demonstrated using stochastic differential equation models in via DifferentialEquations.jl that the protein crabp2a is able to control the level of biological noise without changing the mean values, a feature we will call mean-independent noise attenuation. We will describe how a very specific level of randomness in the retinoic acid signal is required for hindbrain segmentation to properly occur, and show that mean-independent noise attenuation causes crabp2a to act as a control knob to achieve the appropriate noise levels and allows the rhombomere boundaries to sharpen. Additionally, we will show that this information about the internal biochemical randomness constrains the possible models of hindbrain signaling networks, and use this to mathematically deduce the source of the random variation. Together, the audience should leave with an understanding that randomness may be far more insightful than the average behavior.
+  bio: |
+    I am a mathematician and theoretical biologist at the University of California, Irvine. My programming language of choice is Julia and I am the lead developer of the JuliaDiffEq organization dedicated to solving differential equations (and includes the package DifferentialEquations.jl). My research is in time stepping methods for solving stochastic differential equations (SDEs) and applications to stochastic partial differential equations (SPDEs) which model biological development.
+  id: 158
