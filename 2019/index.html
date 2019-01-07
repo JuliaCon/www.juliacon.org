@@ -2,7 +2,7 @@
 layout: default2019
 ---
 {% comment %} {% include alert.html %} {% endcomment %}
-{% include header19.html %}
+{% include_relative header19.html %}
 
 <div class="main-heading container-fluid">
   <div class="u-futura heading-copy container">
@@ -10,7 +10,7 @@ layout: default2019
     <div class="u-vskip"></div>
     <h3 align="center">
       <!-- TODO: update dates and location-->
-      <strong>21st to 27th of July, 2019</strong> at the University of Maryland<br/>
+      <strong>21st to 26th of July, 2019</strong> at the University of Maryland<br/>
       SMC Campus Center, 621 W Lombard St, Baltimore, MD 21201, USA
     </h3>
   </div>
@@ -27,14 +27,14 @@ layout: default2019
 
 {% comment %} {% include main_nav.html %} {% endcomment %}
 
-{% include submit_proposal.html %}
+{% include_relative submit_proposal.html %}
 
 <div class="u-vskip-3"></div>
 
-{% include content19.html %}
+{% include_relative content19.html %}
 
 {% comment %} <div class="u-vskip-3"></div> {% endcomment %}
 
 {% comment %} {% include sponsors.html %} {% endcomment %}
 
-{% include footer_container19.html %}
+{% include_relative footer_container19.html %}

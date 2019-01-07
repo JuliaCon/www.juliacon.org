@@ -4,7 +4,7 @@ kramdown:
 
 page_gen-dirs: true
 page_gen:
-  - data: '2018_talks_workshops'
-    template: '2018speaker'
+  - data: '2019_talks_workshops'
+    template: '2019speaker'
     name: 'id'
-    dir: '2018/talks_workshops'
+    dir: '2019/talks_workshops'
