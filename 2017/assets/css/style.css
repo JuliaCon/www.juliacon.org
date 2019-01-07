@@ -214,6 +214,26 @@ ul, ol {
     overflow: hidden;
 }
 
+.avatar-circle-talks {
+    position: relative;
+    left: 8pt;
+    top: -2em;
+    width: 70pt;
+    border-radius: 60px;
+    border: 1px solid #888888;
+    overflow: hidden;
+    background-color: #fff;
+    display: none; /*can't figure out how to display this */
+}
+.avatar-talks {
+    color: #bf382e;
+    font-size: 12pt;
+    position: relative;
+    top: -35%;
+    min-height: 25pt;
+    max-height: 40pt;
+}
+
 .u-fit-width {
     width: 100%;
     height: auto;
