@@ -5,4 +5,4 @@ jekyll build --config _config.yml --source . --destination ./_site
 
 # Using htmlproofer to test the _site
 # currently checking for links, and 4xx errors might need to add check images
-htmlproofer ./site --disable-external --only_4xx
+#htmlproofer ./site --disable-external --only_4xx
