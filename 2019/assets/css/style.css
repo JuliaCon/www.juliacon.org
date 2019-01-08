@@ -360,6 +360,10 @@ ul, ol {
     margin-top: 20pt;
 }
 
+.main-heading h2 {
+    color: #4366d0;
+}
+
 .main-heading h3 {
     font-size: 16pt;
     color: #4366d0;
