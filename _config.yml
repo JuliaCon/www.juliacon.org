@@ -8,3 +8,7 @@ page_gen:
     template: '2019speaker'
     name: 'id'
     dir: '2019/talks_workshops'
+  - data: '2018_talks_workshops'
+    template: '2018speaker'
+    name: 'id'
+    dir: '2018/talks_workshops'
