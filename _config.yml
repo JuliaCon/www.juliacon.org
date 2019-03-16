@@ -12,3 +12,10 @@ page_gen:
     template: '2018speaker'
     name: 'id'
     dir: '2018/talks_workshops'
+
+plugins:
+  - jekyll-redirect-from
+
+# mimic GitHub Pages: jekyll <cmd> --safe
+whitelist:
+  - jekyll-redirect-from
