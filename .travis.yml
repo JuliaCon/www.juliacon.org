@@ -14,7 +14,7 @@ before script:
 install:
   - gem install jekyll
   - gem install html-proofer
-
+  - gem install jekyll-redirect-from
 
 script:
   - bash script/build.sh
