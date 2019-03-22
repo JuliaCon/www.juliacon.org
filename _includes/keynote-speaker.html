@@ -1,12 +1,18 @@
 <div class="header-talks">
   <div class="avatar-talks">
-    {% if include.avatar %}
+    {% if include.avatar and include.url != "" %}
+    <a href="{{ include.url }}"><img class="avatar-circle-talks" src="{{ include.avatar }}"></a>
+    <div class="speaker-talks">
+        <a href="{{ include.url }}" style="text-decoration:none;">{{include.name}}</a>
+    {% else include.avatar %}
     <img class="avatar-circle-talks" src="{{ include.avatar }}">
-    {% else %}
-    <img class="avatar-circle-talks" src="/2018/assets/img/juliatocat.png">
-    {% endif %}
     <div class="speaker-talks">
       {{include.name}}
+    {% else %}
+    <img class="avatar-circle-talks" src="/2018/assets/img/juliatocat.png">
+    <div class="speaker-talks">
+      {{include.name}}
+    {% endif %}
       <p class="affiliation">
       {% if include.affiliation != "None" %}
       {{ include.affiliation }}
