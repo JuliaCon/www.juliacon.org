@@ -9,6 +9,10 @@ a {
     color: #9d253d;
 }
 
+em {
+    font-style: italic;
+}
+
 h1 {
     font-size: 32px;
     margin-bottom: 12px;
