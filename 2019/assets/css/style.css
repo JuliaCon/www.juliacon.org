@@ -311,6 +311,10 @@ ul, ol {
     background-color: #9d253d;
 }
 
+.text-green {
+    color: #00A61D;
+}
+
 /* new design */
 .previous-editions-menu {
     font-size: 11pt;
