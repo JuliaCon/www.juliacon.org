@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JuliaCon 2016: Boston, MA.</title>
+        <meta name="description" content="JuliaCon 2015: Boston, MA.">
+        <meta name="viewport" id="viewport" content="width=device-width,maximum-scale=1.5">
+        <meta property="og:site_name" content="JuliaCon">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="JuliaCon">
+        <meta property="og:description" content="JuliaCon 2016: Boston, MA.">
+        <meta property="og:url" content="http://www.juliacon.com/">
+
+        <link rel="stylesheet" href="css/juliacon.css">
+        <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script type="text/javascript" src="js/juliacon.js"></script>
+
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-28835595-3', 'auto');
+          ga('send', 'pageview');
+
+        </script>
+    </head>
+    <body>
+        <div class="full-container top-container">
+            <h1 class="text-center">JuliaCon 2016</h1>
+
+            <div class="cloud-container cloud-container1">
+                <img src="images/cloud.png" alt="" class="cloud cloud1">
+            </div>
+            <div class="cloud-container cloud-container2">
+                <img src="images/cloud-2.png" alt="" class="cloud cloud2">
+            </div>
+            <div class="flag-container">
+                <img src="images/waving-flag.gif" alt="" class="waving-flag">
+            </div>
+        </div>
+                <style>
+  .border-header a {
+    text-decoration: none;
+  }
+  th {
+    border-bottom:1px solid gray;
+  }
+  td {
+    vertical-align: top;
+  }
+  .break {
+     background-color: #e0e0e0
+  }
+</style>
+
+<div class="workshop-toc-container">
+  <h2 class="text-center border-header"><span>Workshops</span></h2>
+  <center>
+  <table>
+    <tr><th></th><th width="45%">Track 1 - Room 32-123</th><th width="45%">Track 2 - Room 32-141</th></tr>
+    <tr class="break"><td>8:30</td> <td>LIGHT BREAKFAST</td><td></td></tr>
+    <tr><td>9:00</td>  <td><a href="#invitation">Invitation to Intermediate-Level Julia</a></td><td><a href="#performance">Introduction to Writing High Performance Julia</a></td></tr>
+    <tr class="break"><td>12:00</td> <td>LUNCH</td><td></td></tr>
+    <tr><td>13:30</td> <td><a href="#plots">Plots with Plots</a></td><td><a href="#binary_dependencies">Creating, Distributing, and Testing Julia Packages with Binary Dependencies</a></td></tr>
+    <tr class="break"><td>15:00</td> <td>AFTERNOON BREAK (W/COFFEE)</td> <td></td></tr>
+    <tr><td>15:15</td> <td><a href="#parallel">Parallel computing with Julia</a></td></tr>
+    <tr class="break"><td>17:15</td> <td>END</td></tr>
+  </table>
+  </center>
+</div>
+
+<div class="abstrac">
+  <a name="invitation"><h2>Invitation to Intermediate-Level Julia</h2></a>
+  <em>David P. Sanders</em> (
+     Department of Physics, <a href="http://www.fciencias.unam.mx">Faculty of Sciences</a>,
+     National Autonomous University of Mexico [UNAM] &amp; Julia group, MIT)
+  </p>
+  <p>This is a tutorial workshop on intermediate-level Julia, suitable for
+     anybody who has some programming experience and knows basic Julia syntax. The GitHub
+     repository containing the workshop materials can be found here:
+     <table style="padding-left: 2em;">
+            <tr><td><a href="https://github.com/dpsanders/intermediate_julia">https://github.com/dpsanders/invitation_to_julia</td><td>(workshop materials)</td></tr>
+     </table>
+  </p>
+  <p>
+     It follows on from the basic <em>Invitation to Julia</em> tutorial from JuliaCon 2015.
+     It is recommended that you browse through that material before attending this tutorial,
+     available at:
+  <table style="padding-left: 2em;"><tr><td><a href="https://www.youtube.com/watch?v=gQ1y5NUD_RI">https://www.youtube.com/watch?v=gQ1y5NUD_RI</a>       </td><td>(video)</td></tr>
+         <tr><td><a href="https://github.com/dpsanders/invitation_to_julia">https://github.com/dpsanders/invitation_to_julia</td><td>(IJulia notebooks)</td></tr>
+  </table>
+  </p>
+  <p>
+    We will cover material from the following topics:
+    <ul style="padding-left: 2em;">
+
+    <li><b>Composite types</b>
+      <p>
+        Composite types are the data part of "objects" in other languages.
+        Julia is not object-oriented in the traditional sense: methods live
+        <em>outside</em> objects, enabling one of the key features of Julia, multiple dispatch.
+
+        <ul style="padding-left: 2em;">
+          <li>Using built-in composite types</li>
+          <li>Build your own composite type</li>
+          <li>Parametrisation: a powerful tool</li>
+          <li>Conversion and promotion</li>
+          <li>Multiple dispatch and composability: examples</li>
+        </ul>
+      </p>
+    </li>
+    <li><b>Metaprogramming</b>
+      <p>
+        Metaprogramming is a powerful technique, and hence frightening and to be respected:
+        it allows you to write Julia code that creates other Julia code. We will build up some
+        examples to simplify this as much as possible.
+        <ul style="padding-left: 2em;">
+          <li>What is metaprogramming?</li>
+          <li>Simple example: generating a complicated function</li>
+          <li>What do macros do?</li>
+          <li>A full example</li>
+        </ul>
+      </p>
+    </li>
+    <li><b>Wrapping your code into a package</b>
+      <p>
+        Open source is about sharing your code.
+        Julia provides a simple way to make a package for your own use that you can easily share with other people to get feedback and contributors.
+        You can convert it into a registered package once it's really ready for distribution.
+        <ul style="padding-left: 2em;">
+          <li> Make your own package
+          <li>Registering your package (once it's really ready)
+        </ul>
+      </p>
+    </li>
+    </ul>
+  </p>
+
+  <p><b>Bio:</b> <A href="http://sistemas.fciencias.unam.mx/~dsanders/">David P. Sanders</a>
+    is an associate professor of computational physics in the Department of Physics,
+    Faculty of Sciences, National University of Mexico (UNAM),
+    and is on sabbatical in the Julia group at MIT during 2016.
+    David discovered Julia at the start of 2014 and now uses it exclusively in both
+    teaching and research. He is an author of the <tt>ValidatedNumerics.jl</tt> package for
+    rigorous numerics, and has given tutorials on Julia at SciPy 2014 and JuliaCon 2015
+    (see <A href="http://julialang.org/learning/">here</a>),
+    with collectively nearly 50,000 views on YouTube.
+  </p>
+</div>
+
+<div class="abstrac">
+  <a name="performance"><h2>Introduction to Writing High Performance Julia</h2></a>
+  <p><em>Arch D. Robison</em>, Intel Corporation</p>
+  <p>This workshop is an introduction to writing high performance code in Julia.
+     We'll start with a high level view of the hardware and Julia,
+     and how Julia semantics differ from languages such as C/C++/Fortran.
+     Next we'll cover how Julia compiles your program, from your source text down to the machine instructions.
+     The key is to make Julia's type-inference work for you instead of against you, and cater to the hardware.
+     We'll also look at "deals with the devil" annotations (<tt>@inbounds</tt>, <tt>@fastmath</tt>, <tt>@simd</tt>)
+     so that you understand the trade you make with those annotations.
+     Finally, we'll look the art of writing vectorizable code, which brings many of the topics together.
+     Overall, the goal is to understand what you need to do, and what to leave to the compiler, to get high preforming code.
+
+     Attendees are encouraged to bring a computer with Julia to try exercises that involve speeding up slow examples.</p>
+
+     The presentation and exercises can be found here:
+     <table style="padding-left: 2em;">
+            <tr><td><a href="http://www.blonzonics.us/julia/juliacon-2016">http://www.blonzonics.us/julia/juliacon-2016</td><td>(workshop materials)</td></tr>
+     </table>
+  </p>
+  <p><b>Bio:</b> Arch D. Robison was the lead developer for KAI C++,
+    the original architect of Intel Threading Building Blocks,
+    and one of the authors of *Structured Parallel Programming: Patterns for Efficient Computation*.
+    He contributed type-based alias analysis and vectorization support to Julia.
+    Arch took 2nd place in Al Zimmerman’s "Delacorte Numbers" programming contest using Julia exclusively.
+    His Erdös number is 3.
+  </p>
+</div>
+
+<div class="abstrac">
+  <a name="plots"><h2>Plots with Plots</h2></a>
+  <p><em>Tom Breloff</em></p>
+  <p>A hands-on workshop of how to hack visualizations with <tt>Plots.jl</tt> and the various backends it supports. </p>
+
+  <p><b>Bio:</b> Tom Breloff has spent a decade in finance building and running algorithmic trading operations.
+    A self-proclaimed mad scientist, studying different subjects related to AGI (neuroscience, deep learning, etc),
+    he has a heavy background in high throughput systems and data visualization in finance.
+    Tom has a B.A. in Mathematics and B.S. in Economics from the Unversity of Rochester,
+    and a M.S. from NYU Courant Institute.
+  </p>
+</div>
+
+<div class="abstrac">
+  <a name="binary_dependencies"><h2>Creating, Distributing, and Testing Julia Packages with Binary Dependencies</h2></a>
+  <p><em>Tony Kelman</em>, Julia Computing</p>
+  <p>I will cover the process and tools for creating Julia packages that wrap C (or Fortran) libraries.
+     Working through a small example I will cover how to initially get basic functionality working
+     interactively from the REPL, then structure the code as a Julia package.
+     We will begin working from a single development platform,
+     then proceed to show how to build, distribute, and leverage automated
+     testing tools to get the C library and wrapper Julia package working
+     across common Linux distributions, Mac OS X, and Windows.
+     The GitHub repository containing the workshop notebook can be found here:
+     <table style="padding-left: 2em;">
+            <tr><td><a href="https://github.com/tkelman/JuliaCon2016workshop">https://github.com/tkelman/JuliaCon2016workshop</td><td>(workshop materials)</td></tr>
+     </table>
+  </p>
+  <p><b>Bio:</b>
+    Tony Kelman recently completed a Ph.D. in Mechanical Engineering at Berkeley,
+    doing research in optimization based control.
+    He began contributing to open source in 2012 with build system improvements
+    to the COIN-OR set of optimization solver libraries.
+    He started using and contributing to Julia in early 2014, and joined Julia Computing in late 2015.
+  </p>
+</div>
+
+<div class="abstrac">
+  <a name="parallel"><h2>Parallel Computing with Julia</h2></a>
+  <p><em>Viral Shah, Shashi Gowda, Andreas Noack, Ranjan Anantharaman, Amit Murthy</em></p>
+  <p>This workshop will give an overview of tools in Julia for dealing with large amounts of data.<p>
+  <p>Building Blocks for parallel computing in Julia:
+    <ul style="padding-left: 2em;">
+      <li>RemoteChannels</li>
+      <li>Futures</li>
+      <li><tt>@parallel</tt> and <tt>pmap</tt></li>
+    </ul>
+  </p>
+  <p>Multi-Threading Julia:
+    <ul style="padding-left: 2em;">
+      <li>What kinds of programs can benefit from Julia's multi-threading
+    </ul>
+  </p>
+  <p>GPUs
+    <ul style="padding-left: 2em;">
+      <li>Capabilities of Julia on GPUs</li>
+    </ul>
+  </p>
+  <p>MPI and Elemental
+    <ul style="padding-left: 2em;">
+      <li><tt>MPI.jl</tt> overview</li>
+      <li><tt>Elemental.jl</tt> overview</li>
+      <li>Linear algebra with <tt>Elemental.jl</tt></li>
+      <li>Parallel SVD</li>
+    </ul>
+  </p>
+  <p>ComputeFramework - out of core parallel computations
+    <ul style="padding-left: 2em;">
+      <li>Playing with random data</li>
+      <li>Saving data to disk</li>
+      <li>API overview</li>
+      <li>Some matrix and/or vector operations</li>
+      <li>Example application (logistic regression)</li>
+      <li>What works and what doesn't with limited RAM</li>
+      <li>Working at the lower level with Blobs</li>
+    </ul>
+  </p>
+  <p><b>Bio:</b>
+  Prolific contributors to the Julia ecosystem.
+  </p>
+</div>
+
+<div class="abstrac"><a href="index.html"><center>JuliaCon 2016 Home Page</center></a></div>
+
+
+    <div class="full-container" id="bottom-illustration">
+            <img src="images/cloud.png" alt="" class="cloud cloud1">
+            <img src="images/cloud-2.png" alt="" class="cloud cloud2">
+            <div class="illo-container container">
+                <div class="flying-viking">
+                    <img src="images/viking-illustration.png" alt="" class="viking-n-dragon">
+                    <img src="images/flag-bottom.gif" alt="" class="bottom-flag">
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
