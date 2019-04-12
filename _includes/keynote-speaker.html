@@ -4,10 +4,14 @@
     <a href="{{ include.url }}"><img class="avatar-circle-talks" src="{{ include.avatar }}"></a>
     <div class="speaker-talks">
         <a href="{{ include.url }}" style="text-decoration:none;">{{include.name}}</a>
-    {% else include.avatar %}
+    {% elsif include.avatar %}
     <img class="avatar-circle-talks" src="{{ include.avatar }}">
     <div class="speaker-talks">
       {{include.name}}
+    {% elsif include.url != ""%}
+    <a href="{{ include.url }}"><img class="avatar-circle-talks" src="/2018/assets/img/juliatocat.png"></a>
+    <div class="speaker-talks">
+      <a href="{{ include.url }}" style="text-decoration:none;">{{include.name}}</a>
     {% else %}
     <img class="avatar-circle-talks" src="/2018/assets/img/juliatocat.png">
     <div class="speaker-talks">
