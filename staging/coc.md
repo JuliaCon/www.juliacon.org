@@ -67,7 +67,7 @@ a recurrence.
 
 You can make a personal report by calling or messaging this phone
 number: (TBD) or this email address
-juliacon@googlegroups.com (private group of the committee).
+[juliacon@julialang.org](mailto:juliacon@julialang.org) (private group of the committee).
 This phone number will be continuously monitored for the duration of the event.
 
 When taking a personal report, our staff will ensure you are safe and

@@ -59,8 +59,8 @@ please let us know and we will see what we can do.
 * Avoid opaque titles; while witty titles are good, an informative title is essential.
 * Avoid infomercials; while we love to hear how you use Julia in your company,  
   JuliaCon is not the place to sell your product.
-* If you want feedback before submitting a proposal, contact us at `juliacon@googlegroups.com`,
-  well ahead of the deadline.  
+* If you want feedback before submitting a proposal, contact us at 
+  [juliacon@julialang.org](mailto:juliacon@julialang.org), well ahead of the deadline.  
   We are more than happy to help you improve your proposal.
 
 If you have doubts about becoming a speaker, check out the website
