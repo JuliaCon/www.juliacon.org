@@ -628,6 +628,21 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
 }
 
+.mentorship {
+    text-align: center;
+    background-color: #CCF1D8;
+}
+
+.mentorship a {
+    color: #8D0081;
+    /* color: #761c7c; */
+    text-decoration: none;
+}
+
+.alert {
+    margin: 0%;
+}
+
 .sponsors { overflow: auto; }
 .sponsors dl { float: left; text-align: left; overflow: auto; vertical-align: middle; }
 .sponsors dt { color: #90908f; line-height: 110%; padding-right: 0.5em; }
