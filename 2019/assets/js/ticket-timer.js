@@ -40,7 +40,7 @@ function countdown(date, id){
 
 if( (earlyBird - new Date().getTime()) > 0 ){
 
-    $("#ticket-timer-text").html("<a href="https://juliacon.org/2019/tickets/">Early Bird Ticket Sale </a>");
+    $("#ticket-timer-text").html("<a href='https://juliacon.org/2019/tickets/'>Early Bird Ticket Sale </a>");
 
     // Update countdown every 1 second
     var cd1 = setInterval(
