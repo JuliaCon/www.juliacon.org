@@ -50,7 +50,7 @@ if( (earlyBird - new Date().getTime()) > 0 ){
 }
 else {
 
-    $("#ticket-timer-text").html("<a href='/{{current_folder}}/tickets/'>Ticket Sale </a>");
+    $("#ticket-timer-text").html("<a href='https://juliacon.org/2019/tickets/'>Ticket Sale </a>");
 
     // possible to do "function(){ countdown(params) }" instead of "countdown.bind(null, params)"
     var cd2 = setInterval(
