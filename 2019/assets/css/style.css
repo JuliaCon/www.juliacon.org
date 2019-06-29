@@ -643,8 +643,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0%;
 }
 
-.sponsors { overflow: auto; }
-.sponsors dl { float: left; text-align: left; overflow: auto; vertical-align: middle; }
-.sponsors dt { color: #90908f; line-height: 110%; padding-right: 0.5em; }
-.sponsors dt, .sponsors dd { float: left; width: 110px; margin: 0; padding: 0; display: inline-block; height: 50px; overflow: auto; }
-.sponsors dd { margin-right: 18px; }
+.sponsors { overflow: auto; padding: 20pt;}
+.sponsors_img_l1 { max-width: 350px; max-height: 200px; overflow: hidden; display: inline-block; }
+.sponsors_img_l2 { max-width: 300px; max-height: 80px; overflow: hidden; display: inline-block; }
+.sponsors_img_l3 { max-width: 250px; max-height: 50px; overflow: hidden; display: inline-block; }
