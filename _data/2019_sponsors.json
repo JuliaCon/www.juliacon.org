@@ -71,5 +71,11 @@
         "alt": "Intel",
         "src": "/2019/assets/img/sponsors/intel.png",
         "url": "https://www.intel.com/"
+    },
+    {
+        "level": "silver",
+        "alt": "nVidia",
+        "src": "/2019/assets/img/sponsors/nvidia.svg",
+        "url": "https://www.nvidia.com/"
     }
 ]
