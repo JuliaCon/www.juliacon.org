@@ -77,5 +77,11 @@
         "alt": "nVidia",
         "src": "/2019/assets/img/sponsors/nvidia.svg",
         "url": "https://www.nvidia.com/"
+    },
+    {
+        "level": "silver",
+        "alt": "Google",
+        "src": "/2019/assets/img/sponsors/google.png",
+        "url": "https://about.google/"
     }
 ]
