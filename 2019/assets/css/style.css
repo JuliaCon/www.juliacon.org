@@ -647,3 +647,10 @@ h1, h2, h3, h4, h5, h6 {
 .sponsors_img_l1 { max-width: 350px; max-height: 200px; overflow: hidden; display: inline-block; }
 .sponsors_img_l2 { max-width: 300px; max-height: 80px; overflow: hidden; display: inline-block; }
 .sponsors_img_l3 { max-width: 150px; max-height: 40px; overflow: hidden; display: inline-block; }
+
+@media screen and (max-width: 600px) {
+    #waving-flag{
+        display: none;
+        visibility: hidden;
+    }
+}
