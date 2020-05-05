@@ -1,0 +1,38 @@
+[
+    {
+        "level": "silver",
+        "alt": "Jeffrey Sarnoff",
+        "src": "/2020/assets/img/sponsors/sarnoff.png",
+        "url": "https://www.linkedin.com/in/jeffreysarnoff/"
+    },
+    {
+        "level": "gold",
+        "alt": "Julia Computing",
+        "src": "/2020/assets/img/sponsors/julia.png",
+        "url": "https://juliacomputing.com/"
+    },
+    {
+        "level": "silver",
+        "alt": "Zapata Computing",
+        "src": "/2020/assets/img/sponsors/zapata.png",
+        "url": "https://www.zapatacomputing.com/"
+    },
+    {
+        "level": "gold",
+        "alt": "Gordon and Betty Moore Foundation",
+        "src": "/2020/assets/img/sponsors/moore.jpg",
+        "url": "https://www.moore.org/"
+    },
+    {
+        "level": "silver",
+        "alt": "Invenia",
+        "src": "/2020/assets/img/sponsors/invenia-labs.png",
+        "url": "https://www.invenia.ca/labs"
+    },
+    {
+        "level": "gold",
+        "alt": "Intel",
+        "src": "/2020/assets/img/sponsors/intel.png",
+        "url": "https://www.intel.com/"
+    }
+]

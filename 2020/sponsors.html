@@ -7,10 +7,10 @@
         {% assign l3 = "silver" %}
 
         <!-- Sort Sponsors from A to Z -->
-        {% assign sponsor_data = site.data.2019_sponsors | sort: 'alt' %}
+        {% assign sponsor_data = site.data.2020_sponsors | sort: 'alt' %}
 
         <h1 align="center">Sponsors</h1>
-
+        {%comment%}
             <!-- Level One Tier-->
             <h2 align="center">{{ l1 | capitalize }}</h2>
                 <div class="d-flex flex-wrap justify-content-center align-items-center">
@@ -25,7 +25,7 @@
                     {% endif %}
                 {% endfor %}
                 </div>
-
+        {%endcomment%}
             <!-- Level Two Tier-->
             <h2 align="center">{{ l2 | capitalize }}</h2>
                 <div class="d-flex flex-wrap justify-content-center align-items-center">
