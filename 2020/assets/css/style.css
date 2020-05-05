@@ -332,19 +332,19 @@ ul, ol {
 
 @media (min-width: 0px) {
     .main-heading {
-        background-image: url('../img/lisbon-768.png');
+        background-image: url('../img/world-768.png');
     }
 }
 
 @media (min-width: 768px) {
     .main-heading {
-        background-image: url('../img/lisbon-1400.png');
+        background-image: url('../img/world-1400.png');
     }
 }
 
 @media (min-width: 1200px) {
     .main-heading {
-        background-image: url('../img/lisbon-2800.png');
+        background-image: url('../img/world-2800.png');
     }
 }
 
