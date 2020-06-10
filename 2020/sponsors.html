@@ -5,6 +5,8 @@
         {% assign l1 = "platinum" %}
         {% assign l2 = "gold" %}
         {% assign l3 = "silver" %}
+        {% assign l4 = "other" %}
+
 
         <!-- Sort Sponsors from A to Z -->
         {% assign sponsor_data = site.data.2020_sponsors | sort: 'alt' %}
@@ -50,6 +52,21 @@
                         <div class="p-4">
                             <a href="{{sponsor.url}}">
                                 <img src="{{sponsor.src}}" alt="{{sponsor.alt}}" class="sponsors_img_l3"/>
+                            </a>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+                </div>
+
+            <!-- Other Level Tier-->
+            <h2 align="center">{{ l4 | capitalize }}</h2>
+                <div class="d-flex flex-wrap justify-content-center align-items-center">
+
+                {% for sponsor in sponsor_data %}
+                    {% if sponsor.level == l4 %}
+                        <div class="p-4">
+                            <a href="{{sponsor.url}}">
+                                <img src="{{sponsor.src}}" alt="{{sponsor.alt}}" class="sponsors_img_l4"/>
                             </a>
                         </div>
                     {% endif %}
