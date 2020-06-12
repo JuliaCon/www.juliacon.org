@@ -34,5 +34,11 @@
         "alt": "Sticker Mule",
         "src": "/2020/assets/img/sponsors/sticker-mule.png",
         "url": "https://mule.to/pd5"
+    },
+    {
+        "level": "media partners",
+        "alt": "Packt",
+        "src": "/2020/assets/img/sponsors/packt.png",
+        "url": "https://www.packtpub.com/"
     }
 ]
