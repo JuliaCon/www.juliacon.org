@@ -27,13 +27,19 @@
         "level": "silver",
         "alt": "Invenia",
         "src": "/2020/assets/img/sponsors/invenia-labs.png",
-        "url": "https://www.invenia.ca/labs"
+        "url": "https://www.invenia.ca/labso"
     },
     {
         "level": "silver",
         "alt": "Juspay",
         "src": "/2020/assets/img/sponsors/juspay.png",
         "url": "https://juspay.in"
+    },
+    {
+        "level": "silver",
+        "alt": "repl.it",
+        "src": "/2020/assets/img/sponsors/repl-it.png",
+        "url": "https://repl.it"
     },
     {
         "level": "media partners",
