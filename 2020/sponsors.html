@@ -6,6 +6,7 @@
         {% assign l2 = "gold" %}
         {% assign l3 = "silver" %}
         {% assign l4 = "media partners" %}
+        {% assign l5 = "With the help of the Julia project’s fiscal sponsor:" %}
 
 
         <!-- Sort Sponsors from A to Z -->
@@ -58,7 +59,7 @@
                 {% endfor %}
                 </div>
 
-            <!-- Other Level Tier-->
+            <!-- Media Partner Tier-->
             <h2 align="center">{{ l4 | capitalize }}</h2>
                 <div class="d-flex flex-wrap justify-content-center align-items-center">
 
@@ -67,6 +68,21 @@
                         <div class="p-4">
                             <a href="{{sponsor.url}}">
                                 <img src="{{sponsor.src}}" alt="{{sponsor.alt}}" class="sponsors_img_l3"/>
+                            </a>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+                </div>
+        
+            <!-- Fiscal Sponsor (NF) Tier-->
+            <h2 align="center">{{ l5 | capitalize }}</h2>
+                <div class="d-flex flex-wrap justify-content-center align-items-center">
+
+                {% for sponsor in sponsor_data %}
+                    {% if sponsor.level == l5 %}
+                        <div class="p-4">
+                            <a href="{{sponsor.url}}">
+                                <img src="{{sponsor.src}}" alt="{{sponsor.alt}}" class="sponsors_img_l5"/>
                             </a>
                         </div>
                     {% endif %}
