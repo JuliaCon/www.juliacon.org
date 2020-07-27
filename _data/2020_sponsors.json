@@ -64,5 +64,11 @@
         "alt": "NumFOCUS",
         "src": "/2020/assets/img/sponsors/numfocus.png",
         "url": "https://numfocus.org"
+    },
+    {
+        "level": "media partners",
+        "alt": "Vercel",
+        "src": "/2020/assets/img/sponsors/vercel.png",
+        "url": "https://vercel.com/?utm_source=juliacon"
     }
 ]
