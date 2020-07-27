@@ -58,5 +58,11 @@
         "alt": "Packt",
         "src": "/2020/assets/img/sponsors/packt.png",
         "url": "https://www.packtpub.com/"
+    },
+    {
+        "level": "With the help of the Julia project’s fiscal sponsor:",
+        "alt": "NumFOCUS",
+        "src": "/2020/assets/img/sponsors/numfocus.png",
+        "url": "https://numfocus.org"
     }
 ]
