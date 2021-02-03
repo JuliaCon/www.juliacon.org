@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JuliaCon 2015: Boston, MA.</title>
+        <meta name="description" content="JuliaCon 2015: Boston, MA.">
+        <meta name="viewport" id="viewport" content="width=device-width,maximum-scale=1.5">
+        <meta property="og:site_name" content="JuliaCon">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="JuliaCon">
+        <meta property="og:description" content="JuliaCon 2015: Boston, MA.">
+        <meta property="og:url" content="http://www.juliacon.com/">
+        <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+        <link rel="stylesheet" href="css/juliacon.css">
+        <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script type="text/javascript" src="js/juliacon.js"></script>
+
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-28835595-3', 'auto');
+          ga('send', 'pageview');
+
+        </script>
+    </head>
+    <body> 
+        <div class="full-container" style="height: 15rem;">
+            <h1 class="text-center">JuliaCon 2015</h1>
+            <h1 class="text-center">Talks</h1>
+        </div>
+   <div class="container">
+    See <a href="index.html#sched">main page</a> for schedule details.
+</div>
+
+<a name="thursday"><center><h1>Thursday</h1></center></a>
+
+  <div class="container abstract">
+    <p><h2>BioJulia: A modern bioinformatics framework
+</h2></p> 
+    <p><em>Daniel C. Jones</em></p>
+    <p><p>The past decade, DNA sequencing has become dramatically cheaper, faster, and more accurate. Though a revolution for molecular biology research, the increased emphasis on deep sequencing has made bioinformatics software development increasingly inaccessible to non-expert programmers. While Perl, Python, and its ilk were ideal tools ten years ago, the avalanche of data has necessitated a new generation of highly specific standalone C/C++ tools that, while efficient, lack composability and create a high barrier to entry for contributors and reviewers.</p>
+
+<p>With <a href="https://github.com/BioJulia">BioJulia</a> we have begun building a Julia framework for computational biology research that is competitive in performance with C/C++ tools while retaining the accessibility and freedom afforded by traditional high-level languages. With a rigorous testing and code review regime, we have emphasized correctness along with speed, laying the groundwork for a vibrant ecosystem of open bioinformatics software.</p>
+</p>
+     
+    <p><b>Bio:</b> A graduate student at the University of Washington and author of several Julia packages, most notably Gadfly.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Methods, Models, and Moments: Julian Economics</h2></p> 
+    <p><em>Spencer Lyon</em></p>
+    <p><p>There was a time when economics focused on elegant models of frictionless worlds, but it’s now well understood that in order for economic models to replicate real world data series they must include many frictions. The field of economics is in the process of moving from a pen and paper science to a highly computationally intensive science. In short, economists are a huge academic community moving into the computational sphere and starting to explore the new generation of programming tools. As such, now is a very promising time for interaction between the Julia and economics communities.</p>
+
+<p>The goal of this talk is to introduce Julia users to some of the distinguishing features of computational economics. Among these are dynamic stochastic optimization, statistical inference and data analysis, and stochastic simulation. We will explore the <a href="https://github.com/QuantEcon/QuantEcon.jl">QuantEcon.jl</a> package and how Julia’s expressive type system and advanced compiler make Julia an excellent language for economists.</p>
+</p>
+     
+    <p><b>Bio:</b> Spencer Lyon is a 2nd year PhD student at NYU studying economics. He has a background in physics. Spencer’s research interests are broadly contained in the subfield of macro-economics, with particular emphasis on asset pricing and international modeling. Spencer is a devoted open source hacker who hails from the Python world. He is the main author of the QuantEcon.jl package and one of the core members of the quant-econ team. </p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>JuliaAstro</h2></p> 
+    <p><em>Kyle Barbary</em></p>
+    <p><p>I will discuss the state of Julia astronomy packages and the small but growing JuliaAstro organization. In the larger astronomy community, many have been moving towards Python over the last decade and this transition is still underway.  I will give some perspective on the prospects for the adoption of Julia in astronomy.</p>
+</p>
+     
+    <p><b>Bio:</b> I am a Cosmology Data Science Fellow at UC Berkeley and the Berkeley Institute for Data Science. I manage several JuliaAstro packages and wrote the Dierckx.jl wrapper for 1-d and 2-d splines.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Quantum Statistical Simulations with Julia</h2></p> 
+    <p><em>Katharine Hyatt</em></p>
+    <p><p>Using high-performance computing to probe quantum systems is becoming more and more common in condensed matter physics research. Many of the commonly used languages and techniques in this space are either difficult to learn or not performant. Julia has allowed us to quickly develop and test codes for a variety of commonly used algorithms, including exact diagonalization, DMRG, and quantum Monte Carlo. Its parallel features, including MPI and GPGPU integration, make it particularly attractive for many quantum simulations. I’ll discuss what features of Julia have been most useful for us when working on these simulations and the developments we’re most excited about.</p>
+</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Introducing Julia into a Python/C++ Scientific Computing Environment</h2></p> 
+    <p><em>David Beach</em></p>
+    <p><p>Numerica’s Space Situational Awareness (SSA) team develops advanced software for tracking satellites.  Most of our software is written in Python, C++, or a hybrid of these.  We have become accustomed to making trade-offs between ease of development and performance.  In this talk, I will highlight some reasons why Julia could be a game-changer for us, with examples involving problems related to satellite tracking.</p>
+</p>
+     
+    <p><b>Bio:</b> David Beach has over 15 years of experience developing scientific software, primarily in the finance and defense sectors, and currently designs simulation and target tracking software for the SSA team at Numerica.  Over the past year, he's started using Julia for some small projects, and is turning into a staunch advocate.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Climate classification and clustering with Julia</h2></p> 
+    <p><em>Art Diky</em></p>
+    <p><p>We investigate an objective approach to classifying world climate. We compare linear manifold and K-means clustering methods to derive a classification of climate types using long-term monthly climate data sets. Climate clusters are compared to the Köppen-Geiger climate classification system and analyzed where climate class boundaries change.<br />
+Julia language was a main tool used to perform climate data analysis, clustering and reporting. We used Julia to implement the linear manifold (LM) clustering algorithm, LMCLUS.jl, which performs a stochastic search to determine a best location of a bounded LM surrounded by a cluster. Julia provided an outstanding matrix multiplication performance and a parallel computation paradigm which we used in search of a best cluster subspace, along with computationally intensive sensitivity and validation analysis of the clustering results. In our research, we used NetCDF.jl for a data management, Clustering.jl for other clustering methods, Gadfly.jl and RCall.jl for visualizations.<br />
+This is a joint work of NASA Goddard Institute for Space Studies (GISS) and Graduate Center City University manifoldof New York.</p>
+</p>
+     
+    <p><b>Bio:</b> I am a PhD student in Computer Science at City University of New York (CUNY). My research interests are in the areas of machine learning, in particular unsupervised learning and pattern recognition, distributed computation and reinforcement learning. I am vivid Julia enthusiast. I wrote several Julia packages, including ManifoldLearning.jl and Evolutionary.jl, and contributed in testing and error fixing to many other packages.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Hypersignals, a bold vision for interactive Data Visualization</h2></p> 
+    <p><em>Simon Danisch</em></p>
+    <p><p>How can Julia + LLVM + Vulkan(OpenGL 5.0) completely change how we program and interact with data?<br />
+This is a talk about how a signal based event system can implement bold visions like visual debugging of large data sets, or interactive data visualization like envisioned by Bret Victor.<br />
+I will introduce the problems that arise from interactive, high performance visualizations and how they can be solved with state of the art technology.</p>
+</p>
+     
+    <p><b>Bio:</b> I develop infrastructure for Julia's 3D Graphic stack, which I want to utilize for interactive, visual programming.
+
+I've created the following packages for that purpose:
+Romeo,
+GLPlot,
+GLAbstraction, 
+GLDraw,
+GLText,
+GLWindow,
+ModernGL,
+FixedSizeArrays</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>3D Printing with Julia: Presenting "Euclid", a new high performance multimaterial slicer</h2></p> 
+    <p><em>Jack Minardi</em></p>
+    <p><p><em>Euclid</em> is a high performance multimaterial slicer written in Julia. At Voxel8 we have developed the first multimaterial 3D printer capable of producing fully functional electronics, and we needed a new slicer to drive it. Julia is used in production at Voxel8 to convert 3D models into a toolpath the printer executes to build up the model in a process known as “slicing”. <em>Euclid</em> is a command line application at its core, but we have put it in a Docker container and written a RESTful front-end to interact with it.</p>
+
+<p>This talk will cover our experiences using Julia in production, using <code>Cxx.jl</code> to interface with C++ libraries, as well as some more general 3D printing concepts like:</p>
+
+<ul>
+  <li>Mesh file formats (STL, OBJ)</li>
+  <li>“Slicing” the mesh into layers</li>
+  <li>Clipping and insetting</li>
+  <li>Thermoplastic extrusion properties.</li>
+</ul>
+</p>
+     
+    <p><b>Bio:</b> Jack Minardi is Co-Founder at Voxel8, where he leads the software team. Voxel8 has created the world’s first multi-material 3D printer for fabricating embedded electronics and other novel devices. Prior to working at Voxel8 Jack was a researcher in the Lewis Lab at Harvard University where he developed software for 3D printing. Jack earned a B.S. in electrical engineering from Vanderbilt University.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>GR.jl - Plotting for Julia based on GR</h2></p> 
+    <p><em>Josef Heinen</em></p>
+    <p><p>Julia is an accepted high-level scripting language for scientific computing and visualization, not least because of the proliferation of libraries such as Gadfly and PyPlot. However, when processing large amounts of data, in particular in combination with three-dimensional plotting (OpenGL), the existing graphics packages are too application-specific or seem to be reaching their limits. In particular, large amounts of data or the visualization of three-dimensional scenes may overwhelm the system.</p>
+
+<p>This presentation shows how visualization applications with special performance requirements can be designed on the basis of GR, a high-performance visualization library for Linux, OS X and Windows. The lecture also introduces a new graphics backend for PyPlot based on the GR framework. By combining the power of those libraries the responsiveness of animated visualization applications and their resulting frame rates can be improved significantly. This in turn allows the use of PyPlot in real-time environments, for example in the area of signal processing.</p>
+
+<p>Using concrete examples, the presentation will demonstrate the benefits of the <a href="http://gr-framework.org/">GR framework</a> for high-performance graphics or as a companion module for PyPlot. Based on selected applications, the suitability of the GR framework will be highlighted especially in environments where time is critical. The system’s performance capabilities will be illustrated using demanding live applications. In addition, the special abilities of the GR framework are emphasized in terms of interoperability with OpenGL, which opens up new possibilities for existing applications.</p>
+</p>
+     
+    <p><b>Bio:</b> Josef Heinen is the head of the group "Scientific IT-Systems" at the Peter Grünberg Institute / Jülich Centre for Neutron Science, both institutes at Forschungszentrum Jülich, a leading research centre in Germany. The design and development of visualization systems have been an essential part of his activities over the last twenty years. He is involved in several Open Source projects like GLI or GKS. Most recently his team is engaged with the further development of a universal framework for cross-platform visualization applications (GR Framework).</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Building web-powered applications in Julia</h2></p> 
+    <p><em>Mike Innes</em></p>
+    <p><p>I’ll talk about a path less traveled by most Julia developers: making desktop and web applications. Using the nascent Blink.jl library, I’ll demonstrate just what it’s capable of via some of the graphical developer tools I’ve been working on, and I’ll show you how quick and easy it is to make user-friendly interfaces for your own applications by building some live from scratch. Finally, we should get a chance to talk about the Julia tools we want to build next, taking advantage of this technology.</p>
+</p>
+     
+    <p><b>Bio:</b> I'm a Physics student from the UK who mostly works on Julia when I should be studying. I have a few more-or-less useful projects but the most popular is Juno, a Julia environment I started work on as part as Google Summer of Code, and which now has thousands of users. Recently I've also worked on bringing a much-needed documentation system to Julia 0.4.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>SFML.jl -- A package for the Simple Fast Multimedia Library</h2></p> 
+    <p><em>Zachary Yedidia</em></p>
+    <p><p>The SFML library is often used for game development by small companies or hobbyists, but it can also be used to create demonstrations and animations for scientific algorithms. SFML has modules for graphics, audio, and networking. The SFML.jl package I am working on should let Julia users take advantage of SFML to create compelling games and demos easily.</p>
+</p>
+     
+    <p><b>Bio:</b> Zachary Yedidia is a sophomore at Concord Academy High School. He is currently working on a Julia wrapper of SFML (the "Simple Fast Multimedia Library").</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Escher.jl: A new way to make and deploy GUIs</h2></p> 
+    <p><em>Shashi Gowda</em></p>
+    <p><p>TBC</p>
+</p>
+     
+    <p><b>Bio:</b> I make UI tools for Julia and JuliaBox users.I brought @manipulate to your IJulia notebooks. :)</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>JuliaBox - Julia in your browser</h2></p> 
+    <p><em>Viral Shah</em></p>
+    <p><p>We will introduce JuliaBox, its architecture, the things people are using it for, automatic grading in classrooms, and a roadmap for building and serving Julia applications through JuliaBox.</p>
+
+<p>We will describe a roadmap of how complete applications with a web UI (Canvas) and a computational backend can be built effortlessly in Julia and deployed with a single click on JuliaBox.</p>
+</p>
+     
+    <p><b>Bio:</b> https://in.linkedin.com/in/viralbshah</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Taxi fleet simulation and visualization</h2></p> 
+    <p><em>Sebastien Martin</em></p>
+    <p><p>We are considering taxis in a city (represented using LightGraphs.jl) with customers ready to be picked up at different times and locations. We are using JuliaOpt packages to find the best actions of our taxi fleet and maximize their revenues. We then use OpenStreetMap.jl and SFML.jl to visualize the results of the simulations.</p>
+</p>
+     
+    <p><b>Bio:</b> Sebastien Martin is a PhD student in Operations Research at MIT. His research focuses on Online Optimization and Transportation. The visualization part of the project was also done with the help of Brandon Zeng, sophomore in Computer Sciences at MIT.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Julia as a Probabilistic Programming Language</h2></p> 
+    <p><em>Zenna Tavares</em></p>
+    <p><p>There has been much debate over Julia’s prospects as a viable language for statistical computing.  In this talk I will offer a more exciting possibility: that Julia is uniquely well positioned for probabilistic programming.  I will present Sigma.jl, a Julia package in which you can specify arbitrarily complex probabilistic models as normal Julia programs; general probabilistic inference procedures then attempt to answer any statistical question you pose about the model.</p>
+
+<p>Researchers typically invent entirely new languages for probabilistic programming.  I will describe how we implement Sigma.jl purely as a package by exploiting Julia’s introspection and multimethod dispatch capabilities to perform static analyses, dynamically.  This allows us, for instance, to use Julia’s existing linear algebra routines over random matrices. I will also outline our algorithmic approach to probabilistic inference, which combines methods from statistics, program analysis and constraint solving, and when combined with Julia enables us to address new classes of probabilistic inference problems.</p>
+</p>
+     
+    <p><b>Bio:</b> Zenna Tavares is a Ph.D candidate at CSAIL of MIT in the Computer Aided Programming group.  Motivated by problems in both human and artificial intelligence, he studies probabilistic programming languages, inference algorithms and the automated synthesis of programs.
+
+He has worked on two Julia packages: Sigma.jl for probabilistic programming, and Lens.jl, a simple package to analyse runtime behaviour of algorithms.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Mocha.jl - Deep Learning for Julia</h2></p> 
+    <p><em>Chiyuan Zhang</em></p>
+    <p><p>Mocha.jl is a a flexible and efficient deep neural network library supporting multiple backends (CPU and GPU). In this talk, I will present the basic design and architecture of this library and demonstrate how to train a deep convolutional neural network in Julia.</p>
+</p>
+     
+    <p><b>Bio:</b> Chiyuan Zhang is a PhD student at CSAIL, MIT. His research focus on machine learning, speech recognition, and computational neuroscience. He is the author of Mocha.jl, a flexible, feature complete and efficient deep neural network library for Julia.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>L1 regularized regression</h2></p> 
+    <p><em>Simon Kornblith</em></p>
+    <p><p>L1 regularized regression, or the Lasso, is a popular technique for building linear and generalized linear models that selects only a subset of predictors and allows fitting models with more predictors than data points. Modern statistical theory provides a way to determine which of these predictors make significant contributions to the model. I will describe three packages I’ve created that implement L1 regularized regression in Julia: Lasso.jl, LARS.jl, and GLMNet.jl, and compare their approaches and performance.</p>
+</p>
+     
+    <p><b>Bio:</b> Simon Kornblith is a graduate student in Brain and Cognitive Sciences at MIT. He has used Julia in his work since 2013. He contributes to several Julia packages, including HDF5, MAT, DSP, and DataArrays, as well as to Julia itself. </p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Suitably Naming a Child with Multiple Nationalities using Julia</h2></p> 
+    <p><em>Pontus Stenetorp</em></p>
+    <p><p>Naming a child is never easy, and for parents that have different native languages it poses further problems.  Ideally, the name should be equally suitable for both of their native tongues, but how can one find such a name?  In this talk we will take a computational approach and attempt to model the suitability of a name using approaches from Natural Language Processing and Machine Learning, and, of course, our language of choice, Julia.  We will cover data collection/processing, mapping strings to phonemes, differences in languages, and the machine learning techniques necessary to modelling the suitability of a name.</p>
+</p>
+     
+    <p><b>Bio:</b> Pontus is a research associate at University College London, that spends
+most of his research time on Natural Language Processing and Machine Learning.  He has been using Julia since 2014 due to a need for rapid prototyping and computational performance.  When it comes to Julia contributions, he tends to contribute small occasional patches to the standard library.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>What needs to be done to move JuliaStats forward?</h2></p> 
+    <p><em>John Myles White</em></p>
+    <p><p>At present, the core JuliaStats libraries, DataArrays and DataFrames, have little to offer that would incentivize statisticians to switch away from R. In this talk, I’ll outline a proposal for what the Julia community needs to do to convince a statistician with little-to-no engineering experience to switch languages.</p>
+</p>
+     
+    <p><b>Bio:</b> Developer of many JuliaStats packages.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Lint</h2></p> 
+    <p><em>Tony Fong</em></p>
+    <p><p>A static code analysis package <code>Lint.jl</code> will be showcased and discussed. I’ll contrast this with other amazing tools such as <code>code_warntype</code>, <code>Typecheck.jl</code>. Some useful tips and tricks around the tool will be presented, such as lint-time printing and version-dependent linting.</p>
+</p>
+     
+    <p><b>Bio:</b> Tony Fong is the author of Lint.jl and TermWin.jl, and a contributor to Formatting.jl and Traits.jl.  His background is in physics and finance.  Tony's primary reason of using Julia is modeling of lower dimension electronic systems.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>How to support Windows: cross-platform installation and testing for Julia packages</h2></p> 
+    <p><em>Tony Kelman</em></p>
+    <p><p>A quick walk through the challenges in making Julia packages, specifically those that rely on binary dependencies, available and properly tested for Windows users. The talk will summarize some of the differences in compilers and build environments that are relevant for building scientific software, and some approaches for dealing with them, even for package developers who never use Windows themselves.</p>
+
+<p>Will specifically discuss and show examples of how to cross-compile common libraries, and how to use the openSUSE build service, the WinRPM.jl and BinDeps.jl Julia packages, and AppVeyor continuous integration testing.</p>
+</p>
+     
+    <p><b>Bio:</b> Helped get Julia 0.3 to pass its unit tests on Windows, and keep them that way by setting up AppVeyor continuous integration for Julia. Contributor to various packages, especially in JuliaOpt.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Automatic ccall wrapper generation with Clang.jl</h2></p> 
+    <p><em>Isaiah Norton</em></p>
+    <p><p>Clang.jl is a Julia binding to the C interface to the Clang compiler (libclang), providing access to C, C++, and Objective-C parse trees and associated information. Clang.jl provides a framework for automatic generation of Julia bindings from library headers and has been used to build packages including VideoIO.jl, and Gtk.jl. I will give a brief overview of the wrapped libclang API, the wrapper-generation system, and a wrapper generation example for a new library.</p>
+</p>
+     
+    <p><b>Bio:</b> I wrote the Clang.jl package, used to generate Julia bindings for several large (C) libraries, and have contributed to a number of other packages. I am also an active contributor to base Julia.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Julia's Package Ecosystem: Past, Present, and Future</h2></p> 
+    <p><em>Iain Dunning</em></p>
+    <p><p>A language can live or die depending on the strength of its package ecosystem. I’ll present a brief history of how Julia’s package ecosystem has grown over the past 3 years. I’ll then describe the current situation, including the PackageEvaluator system and pkg.julialang.org. Finally I’ll share some thoughts on future work in the area.</p>
+</p>
+     
+    <p><b>Bio:</b> I've been working with Julia for over two years, and have contributed mostly packages: JuliaOpt, Coverage.jl, FactCheck.jl, Humanize.jl, GraphLayout.jl, as well as countless patches to other packages and to Julia itself. My other main contribution is the development of pkg.julialang.org and the PackageEvaluator.jl package ecosystem testing service.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>What’s going on at JuliaTokyo?</h2></p> 
+    <p><em>Sorami Hisamoto</em></p>
+    <p><p>JuliaTokyo is a community / meetup for Julia enthusiasts in Japan.</p>
+
+<p>From basic tutorial to macros &amp; parallel computing, Deep Learning to<br />
+AI Japanese chess, and even an unofficial anime character, we are<br />
+having a variety of activities at JuliaTokyo.</p>
+
+<p>In this presentation I would like to introduce how Julia is gaining<br />
+its popularity in Japan, what we’ve been doing at JuliaTokyo, and how<br />
+we want to interact with the rest of the world in the future.</p>
+</p>
+     
+    <p><b>Bio:</b> Sorami Hisamoto is yet another Julia enthusiast in Tokyo, Japan. He
+works as a data analyst, mainly in the marketing area. Prior to that
+he was doing researches in the field of Natural Language Processing.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Contributing to Julia</h2></p> 
+    <p><em>Leah Hanson</em></p>
+    <p>
+</p>
+    
+  </div>
+
+
+<a name="friday"><center><h1>Friday</h1></center></a>
+
+  <div class="container abstract">
+    <p><h2>The base language: future directions and speculations</h2></p> 
+    <p><em>Jeff Bezanson</em></p>
+    <p><p>Aside from day-to-day bug fixing and feature development, a significant amount of work goes in to exploratory side projects and thinking about how Julia could be better. In this talk I will try to bring some of this into view, presenting ideas (at varying stages of development) about the future of the language and system. Topics include the type system, higher-order programming, static analysis, and miscellaneous others.</p>
+</p>
+     
+    <p><b>Bio:</b> Jeff is one of the co-creators of Julia. He recently finished a PhD at MIT and is now helping to build Julia Computing.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Work towards a pure Julia compiler frontend</h2></p> 
+    <p><em>Jake Bolewski</em></p>
+    <p><p>Julia’s compiler is implemented in three different programming languages, Scheme, Julia, and C/C++. This separation is an issue as it reduces modularity in the compiler and makes implementing new language features and optimizations difficult. As Julia begins to mature, I argue that now is the right time to start thinking about replacing parts of the compiler with Julia code. The most natural place to start is the compiler frontend which is currently written in Scheme. I will demo some work towards rewriting parts of the frontend in pure Julia. I hope to demonstrate that a pure Julia frontend will be beneficial in terms of features, performance, and opportunities for tool integration.</p>
+</p>
+     
+    <p><b>Bio:</b> Jake Bolewski has been using Julia for about a year and a half and currently works in the Julia group at MIT. In a past life he was a biologist working in the area of super-resolution / single molecule microscopy.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Who optimizes the optimizers? Can genetic algorithms help us to optimize the layout of llvm IR passes used to compile Julia code?</h2></p> 
+    <p><em>Westley Hennigh</em></p>
+    <p><p>I’ve <a href="https://github.com/WestleyArgentum/pass-optimizer">started a project</a> which configures Julia to load IR passes dynamically and runs a genetic algorithm that features <a href="https://books.google.com/books?id=3haO5vOc12cC&amp;pg=PA198&amp;lpg=PA198&amp;ots=xIjc04cd22&amp;sig=gzUjpqLzEy9w2VLtawMTs9TQ9_Q&amp;hl=en&amp;sa=X&amp;ei=nkIjVdqDF4edsAWFpoGgBg&amp;ved=0CFsQ6AEwBw#v=onepage">synapsing variable length crossover</a>. We’ll discuss the challenges involved in measuring the performance of IR pass layouts, the algorithm, and the results so far.</p>
+</p>
+     
+    <p><b>Bio:</b> Westley Hennigh has been working with Julia since late 2012. He built a system for running models written in Julia across machines in my butt, has contributed to the language, and maintains a variety of packages.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Shaving the Yak: Why Julia now has one of the best C++ FFIs and what to do with it</h2></p> 
+    <p><em>Keno Fischer</em></p>
+    <p><p>At last years JuliaCon, I presented two highly experimental projects I was working on the Julia C++ FFI, Cxx.jl and an LLDB-based debugger for Julia. Since last year, the C++ FFI has been completely<br />
+rewritten based on staged functions, has gained an interactive C++ REPL mode and has reached a<br />
+point where it has become useful, not only as a toy research project but has become usable for real<br />
+applications. In this follow-on talk, I will demonstrate these new capabilities and explain how to use<br />
+them to interact with C++ libraries. Additionally, I will given an update on the (still experimental, but improved) LLDB-based debugger, discussing what features are ready, what problems exist and what the future holds.</p>
+</p>
+     
+    <p><b>Bio:</b> Originally from Germany, Keno Fischer is currently finishing is Master's and Bachelor's degrees in Physics and Mathematics at Harvard University. Keno has contributed to Julia core development for more than three years, contributing such features as the Windows port, the improved REPL as well as numerous other bug fixes and minor improvements. Additionally, he is the author of a large variety of Julia packages, including SIUnits.jl, BinDeps.jl and Cxx.jl. Since last year, Keno has also been working with Julia Computing, aiming to make Julia viable not just in research, but in industry as well.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Traits.jl, interfaces for Julia</h2></p> 
+    <p><em>Mauro Werder</em></p>
+    <p><p><a href="https://github.com/mauro3/Traits.jl">Traits.jl</a> is an experimental package which brings interface/trait/type-class based programming to Julia.  Traits.jl implements two main features: (1) to group types, or tuples of types, into sets (traits) disconnected from the type hierarchy; and (2) to define methods which dispatch on those traits.  The grouping is achieved by specifying certain constraints which a type has to fulfill, typically implementing certain functions but other constraints are allowed too.  For example, a trait <code>Plus{X,Y}</code> could be defined as the set of all type tuples <code>(X,Y)</code> such that a method <code>+(::X,::Y)</code> exists.  Note that this set is (automatically) expanded as new methods to <code>+</code> are added. The dispatch on traits is implemented on top of the normal type-dispatch.  For example, <code>foo{X, Y; Plus{X,Y}}(x::X, y::Y) = ...</code> would define a method which is dispatched to for all <code>(X,Y) ∈ Plus{X,Y}</code>.</p>
+
+<p>I will present the following: a simple example on how Traits.jl works and can be useful; its inner workings; and use-cases in Base and for packages.  I hope to have a discussion on features, roadblocks, a more stable implementation, and whether something like this would be useful for Base.</p>
+</p>
+     
+    <p><b>Bio:</b> I am a glaciologist, specializing in simulations of water flow at the base of glaciers.  In the Julia community, I am probably mostly known for my experimental package Traits.jl which brings interface/trait/type-class based programming to Julia.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>What Happens When: From Parse-Time to Compile-Time</h2></p> 
+    <p><em>Jacob Quinn</em></p>
+    <p><p>Anyone who has poked around the Julia manual has come across a variety of terms and quick descriptions of what happens when code gets compiled. Quips of ‘macro this’, and ‘staged function that’, parse-time, compile-time, code lowering, type inference, aggressive specialization, and the list goes on.</p>
+
+<p>Finally, the entire process is all brought together and made sensible; fear the JIT no more.</p>
+</p>
+     
+    <p><b>Bio:</b> Currently a technical consultant at Domo in Utah. Just graduated from Carnegie Mellon in Pittsburgh. Developing Julia for about 3 years now, and own/maintain the ODBC, SQLite, SuffixArrays, TimeZones, Dates, and Yelp packages, as well as the Sublime-IJulia package for Sublime Text. Also been involved in several significant projects involve Base Julia functionality.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Mixing it up: Adventures with statistical models and sparse matrices</h2></p> 
+    <p><em>Douglas Bates</em></p>
+    <p>
+<p>Estimating the parameters in a ‘mixed-effects’ model (also called<br />
+‘variance components’ or ‘hierarchical’ or ‘multilevel’) requires<br />
+optimizing a log-likelihood.  Until recently it was not possible to<br />
+fit models with multiple non-nested sources of variability such as<br />
+‘subject’ and ‘item’ or longitudinal data on ‘student’, ‘classroom’,<br />
+‘school’, ‘district’, etc.  The introduction of sparse matrix<br />
+representations and some clever re-arrangement of terms in the<br />
+log-likelihood made it possible to evaluate the log-likelihood by<br />
+solving a large, sparse penalized least square problem.  But current<br />
+implementations can still take days to optimize this criterion for<br />
+complicated models fit to large data sets, because the sparse matrix<br />
+methods can’t take advantage of the special structure in the problem.<br />
+Because Julia combines the flexibility of a high-level language with<br />
+the capability of achieving high performance, it is possible to<br />
+exploit these special structures, in many cases reducing the time to<br />
+fit a model by one or two orders of magnitude.  User-defined types,<br />
+multiple dispatch, in-place evaluation, and devectorization are key<br />
+characteristics of Julia for this application.</p>
+</p>
+     
+    <p><b>Bio:</b> U. of Wisconsin - Madison</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Distributed-memory "direct" linear algebra and optimization</h2></p> 
+    <p><em>Jack Poulson</em></p>
+    <p><p>This talk will give a broad overview of recent algorithmic developments within the C++11/MPI library <a href="http://libelemental.org">Elemental</a> and ongoing efforts to expose interfaces to external languages (i.e., C, Python, and Julia). In particular, the talk will discuss recent advancements in Elemental’s distributed a priori regularized quasi-semidefinite sparse-direct solvers, their application to sparse Interior Point Methods and sparse generalized least squares problems, and progress towards interactive interfaces on large-scale machines.</p>
+</p>
+     
+    <p><b>Bio:</b> Jack Poulson is the lead developer of Elemental, a distributed-memory library for direct linear algebra and optimization, and an Assistant Professor of Mathematics and Member of the Institute for Computational and Mathematical Engineering at Stanford University. He has contributed a native Julia multifrontal Cholesky (MultiFrontalCholesky.jl) and is a contributor to Elemental.jl, which will provide distributed-memory dense linear algebra, sparse-direct solvers, and Interior Point Methods to Julia.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Introduction to OpenBLAS and BLIS</h2></p> 
+    <p><em>Zhang Xianyi</em></p>
+    <p><p>The BLAS (Basic Linear Algebra Subprograms) is a fundamental interface in scientific computing. In this talk, I will introduce the <a href="http://www.openblas.net/">OpenBLAS</a> and <a href="https://github.com/flame/blis">BLIS</a> projects. OpenBLAS is an optimized open source BLAS implementation based on GotoBLAS2, and the default BLAS library used in Julia. OpenBLAS supports modern Intel, AMD, and ARM processors. By hand-written or automatically generated (via the AUGEM) assembly kernels, we can achieve competitive performance with vendor BLAS libraries.</p>
+
+<p>BLIS is a portable framework for instantiating BLAS-like libraries. The framework was designed to isolate essential kernels of computation that, when optimized, immediately enable optimized implementations of most of its commonly used and computationally intensive operations.</p>
+</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>The present and future of sparse matrices in Julia.</h2></p> 
+    <p><em>Viral</em></p>
+    <p><p>In this talk, I will describe the current status of sparse matrices in Julia. About half the talk will focus on walking the audience through the current design, and feature set. The other half will focus on tensions in the current design, what different people want from sparse matrices, and a discussion on how to take this forward.</p>
+</p>
+     
+    <p><b>Bio:</b> https://in.linkedin.com/in/viralbshah</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Validated numerics in Julia</h2></p> 
+    <p><em>David P. Sanders</em></p>
+    <p><p>We will present features of the <code>ValidatedNumerics.jl</code> package, which provides tools for rigorous numerical calculations in Julia via interval arithmetic, and its application to validated computation in dynamical systems.</p>
+
+<p>In particular, in combination with the <code>BilliardModels.jl</code> package, we will show how to solve one of the “hundred-dollar, hundred-digit challenge” problems [1,2] by computing a guaranteed trajectory of a billiard model to arbitrary precision.</p>
+
+<p>[1] http://people.maths.ox.ac.uk/trefethen/hundred.html<br />
+[2] https://www.siam.org/pdf/news/388.pdf</p>
+</p>
+     
+    <p><b>Bio:</b> I am an associate professor of computational physics in the Department of Physics, Faculty of Sciences, National University of Mexico (UNAM). I first heard about Julia in the summer of 2013 at SciPy, but did not really discover it until the beginning of 2014. Since then I have switched to using it full time for both teaching and research. I am an author of the `ValidatedNumerics.jl` and `BilliardModels.jl` packages. At SciPy 2014, I gave a 4-hour Julia tutorial, listed on the Learning section of the Julia web-page, which has over 20,000 views. </p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Taylor series expansions in Julia</h2></p> 
+    <p><em>Luis Benet</em></p>
+    <p><p>I will describe some of the design and use of <code>TaylorSeries.jl</code>, which is a package to manipulate Taylor expansions in one or more independent variables. Results on integrations on a three-body problem will be presented.</p>
+</p>
+     
+    <p><b>Bio:</b> I am Associate Professor at the Instituto de Ciencias Físicas of the National University of Mexico (UNAM). My main fields of interest are classical and quantum chaos, random matrix theory and dynamical astronomy. Regarding Julia, I spotted a buggy behavior of `binomial` (#6154). Together with David Sanders, we develop and maintain `TaylorSeries.jl` and `ValidatedNumerics.jl`. I also use Julia to implement members of the so-called k-body gaussian embedded ensemble of random matrices. We are using Julia in our lectures.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Sparse Accelerator</h2></p> 
+    <p><em>Hongbo Rong</em></p>
+    <p><p>High-performance computing (HPC) on sparse data structures like graphs is becoming increasingly important in computational biology, web search, and knowledge discovery, etc.  Unlike traditional HPC applications that deal with regular data structures, sparse computation has unique challenges: its performance is often bound by the memory bandwidth,and  its parallelism is dependent on the specific input data. It is a very time-consuming process to speedup such workloads, usually taking an expert several months or years to achieve close-to-peak performance for a new architecture.</p>
+
+<p>We propose an external Julia package, called Sparse Accelerator, to  automatically optimizes sparse applications. It co-designs compiler, library and runtime to exploit the potential.</p>
+</p>
+     
+    <p><b>Bio:</b> A researcher at Programming Systems Lab in Intel. Worked on software pipelining, binary translation, and recently HPC.
+Before that, a developer  in Microsoft Visual Studio. Engineered local scheduler and tree register allocator in Phoenix compiler, and the C++ type system in Visual Studio 2011.
+Best Paper Awards at CGO 2004 and 2014.
+Developed an initial version of Julia2C. Developing a Julia package, Sparse Accelerator.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Using Julia as a Specification Language for the Next-Generation Airborne Collision Avoidance System</h2></p> 
+    <p><em>Robert Moss</em></p>
+    <p><p>This talk outlines how the FAA and the international safety community are using Julia in the development and specification of the next generation aircraft collision avoidance system. Historically, pseudocode was used with separate implementations for the validation of the system. Today, we utilize Julia to auto generate our specification document and replaced pseudocode in favor of an executable specification written in Julia.</p>
+</p>
+     
+    <p><b>Bio:</b> Robert Moss is an assistant staff member at Lincoln Laboratory in the Surveillance Systems Group. He joined Lincoln Laboratory as a co-op while receiving his bachelor's degree in computer science from Wentworth Institute of Technology in 2014, where his research included modeling the rotation curve of galaxies in Julia. At Lincoln Laboratory, his research focuses on development and analysis of the next-generation airborne collision avoidance system.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Distributed Algorithms for Full-Waveform-Inversion (FWI)</h2></p> 
+    <p><em>Lars Ruthotto and Eldad Haber</em></p>
+    <p><p>Full waveform inversion (FWI) is commonly used in geophysical explorations. The goal  of FWI is to estimate a model  (velocity) of the subsurface from measurements of the ground’s responses to seismic vibrations. FWI is known to be a challenging inverse problem that contains many local minima and can be ill-posed.</p>
+
+<p>FWI is computationally demanding:  estimating a model that accurately predicts the measurements requires a large number of simulations each of which is obtained from solving the Helmholtz equation over many sources and frequencies.</p>
+
+<p>This three hours hands-on workshop provides a brief introduction into FWI and the main cornerstones of inversion codes, including:<br />
+1. Finite Volume discretization of Helmholtz equation<br />
+1. Numerical optimization methods for solving the inverse problem.<br />
+1. Parallelization of the optimization problem</p>
+
+<p>We will show how to design an inversion code that can work well for small to medium size problems and can be scaled up to large scale problems. Special emphasis will be put on Julia’s potential to distribute the PDE solves amongst all available workers.</p>
+</p>
+     
+    <p><b>Bio:</b> Lars Ruthotto is an assistant professor in the Department of Mathematics and Computer Science at Emory University. Eldad Haber is a professor at the Department of Earth and Ocean Sciences at UBC in Vancouver and NSERC Industrial Research Chair in Computational Geoscience.
+
+Lars and Eldad are interested in scientific computing for inverse problems, especially electromagnetic imaging in geophysical applications. They both use Julia for teaching but mostly in their research. They contributed to Julia a wrapper for MUMPS and a few iterative solvers for large linear systems.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>JuliaOpt: Optimization-related projects in Julia</h2></p> 
+    <p><em>Iain Dunning</em></p>
+    <p><p>In this talk we will present the JuliaOpt suite of packages for optimization in Julia. In particular, we will focus on how these packages interact and can be composed to solve a variety of problems.</p>
+
+<p>We will begin with a discussion of two different modeling systems, JuMP and Convex.jl, and how they can be used to model different types of problems. We then move to describing the MathProgBase interface, which provides a rich abstraction over a variety of solvers (both pure Julia and external commercial and open-source libraries). Finally we will discuss how the JuliaOpt stack enables both rapid development of models and solvers, and outline future plans for JuliaOpt.</p>
+</p>
+     
+    <p><b>Bio:</b> I've been working with Julia for over two years, and have contributed mostly packages: JuliaOpt, Coverage.jl, FactCheck.jl, Humanize.jl, GraphLayout.jl, as well as countless patches to other packages and to Julia itself. My other main contribution is the development of pkg.julialang.org and the PackageEvaluator.jl package ecosystem testing service.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>JuliaGeo: Working with Geospatial data in Julia</h2></p> 
+    <p><em>Yee Sian Ng</em></p>
+    <p><p>Traditionally, the workflow for geographic information systems (GIS) requires the storage of geospatial data within databases, that are specially indexed for performing fast spatial queries. Nonetheless, the development of libraries for high-level languages like Python, R, and Javascript has made it a lot easier to work with geospatial data through programming languages, outside of a RDBMS. I will touch on the common types of spatial operations that we care about in practice, talk about the current state of packages for working with geospatial data in Julia, and discuss what remains to be done to move development for JuliaGeo forward.</p>
+</p>
+     
+    <p><b>Bio:</b> Yee Sian is a PhD student at MIT in the Operations Research Center (MIT ORC).</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Quickly building simulations of quantum systems</h2></p> 
+    <p><em>Blake Johnson</em></p>
+    <p><p>Powerful simulation tools are essential to early explorations of small quantum devices. I will introduce QSimulator.jl, a package to facilitate such simulations with a straightforward algebraic syntax to compose systems and interactions from a common toolbox. The package takes advantage of Julia’s parallel processing capabilities to distribute parameter sweeps across many nodes, greatly accelerating common workflows.</p>
+</p>
+     
+    <p><b>Bio:</b> Blake Johnson is a physicist working on building small quantum processors with superconducting qubits. He contributed to some of the first quantum algorithm demonstrations, and has extensive experience building FPGA-based hardware for controlling quantum systems. This custom hardware enables a new class of quantum feedback experiments requiring sub-microsecond measurement-to-control latency.
+
+Blake is helping to build a growing set of packages relevant to quantum information processing, including Cliffords.jl for efficient simulation of a certain class of quantum circuits.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>SLU-TMI - TextMining.jl</h2></p> 
+    <p><em>Kevin Damazyn and Mark Tabor</em></p>
+    <p><p>The SL Text Mining Initiative is an interdisciplinary project between the Computer Science and English departments. The initial focus is the construction of open source tools, in Julia, to facilitate text mining research. The project will then use these large-scale, computational tools to explore whether common delimiters of time period (namely, the concept of literary generations) operate at the level of lexical, linguistic, or stylistic patterns.  Using this information, natural language processing models will be constructed to classify unseen texts into these literary generations.</p>
+</p>
+     
+    <p><b>Bio:</b> Kevin: Recent SLU Computer Science (BS) graduate who currently works at Asynchrony Solutions in St. Louis.
+  Mark: Mark Tabor graduated from Saint Louis University with a BS in Computer Science.  He is a former Marine and Iraq war veteran.  His research interests involve Machine Learning and NLP.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>JLD: Saving Julia objects to the disk in HDF5 format</h2></p> 
+    <p><em>Simon Kornblith</em></p>
+    <p><p>The JLD module, included in HDF5.jl, provides a way to save and read any Julia data structure using the hierarchical data format HDF5. JLD maps Julia types and immutables directly to HDF5 compound types, providing efficient and structured on-disk storage that is robust to changes in code and in Julia itself. I will give an overview of how this mapping works, its strengths, and its pitfalls.</p>
+</p>
+     
+    <p><b>Bio:</b> Simon Kornblith is a graduate student in Brain and Cognitive Sciences at MIT. He has used Julia in his work since 2013. He contributes to several Julia packages, including HDF5, MAT, DSP, and DataArrays, as well as to Julia itself. </p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Serving up : A practical guide to exposing Julia APIs on the web</h2></p> 
+    <p><em>Avik Sengupta</em></p>
+    <p><p>The ability to expose Julia code on the internet, via HTTP, can be useful in many circumstances. In this lightning talk, we will see a practical demonstration of how to create a REST API from any Julia code, both in a pure Julia environment, as well as within a hybrid infrastructure.  We will look at some the security and stability requirements for this functionality, and the options for deployment.</p>
+</p>
+     
+    <p><b>Bio:</b> Avik Sengupta has built risk and trading systems in Java for investment banks for over a decade. Three years ago he discovered Julia, and hasn't looked back since. He is a Julia contributor and the maintainer of a few Julia packages.
+
+</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>ProtoBuf.jl - Interfacing Julia with Complex systems using Protocol Buffers</h2></p> 
+    <p><em>Tanmay Mohapatra</em></p>
+    <p><p>Protocol buffers are a language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols, data storage, and more.</p>
+
+<p>ProtoBuf.jl is a Julia implementation for protocol buffers which makes it possible for Julia applications communicate with other applications in a distributed, heterogeneous environment. For example, the Elly.jl package uses ProtoBuf extensively to integrate with HDFS and Yarn. However the use cases are many more.</p>
+</p>
+     
+    <p><b>Bio:</b> https://www.linkedin.com/in/tanmaykm</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Stan.jl: Statistical Modeling and Inference Made Easy</h2></p> 
+    <p><em>Bob Carpenter</em></p>
+    <p><p>Stan.jl is the Julia interface to Stan, an open-source, imperative<br />
+probabilistic programming language.  Stan allows you to express a<br />
+customized statistical model and conditioned on data, perform optimization<br />
+for classical penalized maximum likelihood estimation or sampling for<br />
+full Bayesian inference.</p>
+</p>
+     
+    <p><b>Bio:</b> Bob Carpenter is a research scientist in computational statistics
+(Columbia University).  He designed the Stan probabilistic programming
+language and is one of the Stan core developers.
+
+Bob has a Ph.D. in cognitive and computer science (University of
+Edinburgh), worked as a professor of computational linguistics
+(Carnegie Mellon University), an industrial researcher and programmer
+in speech recognition and natural language processing (Bell Labs,
+SpeechWorks, LingPipe).  In addition to working on Stan, he's written
+two books on computational linguistics, many papers, and the widely
+used LingPipe natural language processing toolkit.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Towards A Consistent Database Interface</h2></p> 
+    <p><em>Eric Davies</em></p>
+    <p><p>This talk will compare and demonstrate the two proposed Julia database interfaces DBI.jl and DBAPI.jl and solicit feedback on the community’s desired direction.</p>
+</p>
+     
+    <p><b>Bio:</b> Eric works in R&D at Invenia Technical Computing: a small, cutting-edge startup targeting inefficiencies in electrical grids. His interests lie in machine learning but his contributions to the Julia community have been database-related: Eric wrote and maintains PostgreSQL.jl and DBAPI.jl, and contributed to DBI.jl. </p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Cluster Managers and Parallel Julia</h2></p> 
+    <p><em>Amit Murthy</em></p>
+    <p><p>This presentation will cover<br />
+- a short introduction to parallel Julia internals<br />
+- writing a custom cluster manager<br />
+- demo of a cluster manager using ZeroMQ for transport</p>
+</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Multi-threading Julia</h2></p> 
+    <p><em>Kiran Pamnany and Ranjan Anantharaman</em></p>
+    <p><p>Shared memory parallelism is essential for high performance on today’s multi- and many-core architectures. We will present the threading infrastructure built into Julia, the programming model presented, and discuss design choices and alternatives.</p>
+
+<p>We will then present our experiences with, and the results of, applying this infrastructure to scale a number of different workloads written in Julia; often demonstrating performance comparable with C.</p>
+</p>
+     
+    <p><b>Bio:</b> Kiran works at Intel's Parallel Computing Lab, on enabling HPC application scaling on large IA-based clusters. His primary research focus is parallel programming models, and the underlying low-overhead, high performance software stacks required.
+
+Together with the core Julia developers, Kiran has built a multi-threading infrastructure for Julia -- the ``threading`` branch on Github.
+
+Ranjan is completing his internship at Intel Labs, on his way to earning his undergraduate degree in computer science from BITS-Pilani, Hyderabad. He has built and analyzed some of the first multi-threaded Julia programs.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Using Julia on a Cray Supercomputer</h2></p> 
+    <p><em>Patrick Sanan</em></p>
+    <p><p>Julia can now be used on a Cray supercomputer! We detail how, relying on recent upgrades by Amit Murty to the MPI ClusterManager. To work with Cray’s paradigm of hiding details of the compute nodes from the user, all communication is done through MPI, and master and worker threads are uniformly launched as Julia processes running on compute nodes. This has the advantage of simplicity, and takes advantage of Cray’s optimized MPI implementation. This procedure allows for extremely portable code which can use any Julia ClusterManager implementation, allowing for development on a laptop and deployment on the largest supercomputers.</p>
+</p>
+     
+    <p><b>Bio:</b> Patrick Sanan is a postdoctoral researcher at USI, Lugano, working on the GeoPC PASC project to advance the state of the art of preconditioners within large geophysics simulations. He is interested in the use of Julia for HPC.</p>
+    
+  </div>
+
+  <div class="container abstract">
+    <p><h2>Sparse Accelerator</h2></p> 
+    <p><em>Hongbo Rong</em></p>
+    <p><p>High-performance computing (HPC) on sparse data structures like graphs is becoming increasingly important in computational biology, web search, and knowledge discovery, etc.  Unlike traditional HPC applications that deal with regular data structures, sparse computation has unique challenges: its performance is often bound by the memory bandwidth,and  its parallelism is dependent on the specific input data. It is a very time-consuming process to speedup such workloads, usually taking an expert several months or years to achieve close-to-peak performance for a new architecture.</p>
+
+<p>We propose an external Julia package, called Sparse Accelerator, to  automatically optimizes sparse applications. It co-designs compiler, library and runtime to exploit the potential.</p>
+</p>
+     
+    <p><b>Bio:</b> A researcher at Programming Systems Lab in Intel. Worked on software pipelining, binary translation, and recently HPC.
+Before that, a developer  in Microsoft Visual Studio. Engineered local scheduler and tree register allocator in Phoenix compiler, and the C++ type system in Visual Studio 2011.
+Best Paper Awards at CGO 2004 and 2014.
+Developed an initial version of Julia2C. Developing a Julia package, Sparse Accelerator.</p>
+    
+  </div>
+
+
+<div class="container">
+  <a href="/index.html">Return to main page</a>.
+</div>
+
+   
+
+    </body>
+</html>

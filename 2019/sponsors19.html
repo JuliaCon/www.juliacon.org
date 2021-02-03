@@ -1,0 +1,59 @@
+<div class="container-fluid">
+    <div class="container sponsors">
+
+        <!-- Tier levels -->
+        {% assign l1 = "platinum" %}
+        {% assign l2 = "gold" %}
+        {% assign l3 = "silver" %}
+
+        <!-- Sort Sponsors from A to Z -->
+        {% assign sponsor_data = site.data.2019_sponsors | sort: 'alt' %}
+
+        <h1 align="center">Sponsors</h1>
+
+            <!-- Level One Tier-->
+            <h2 align="center">{{ l1 | capitalize }}</h2>
+                <div class="d-flex flex-wrap justify-content-center align-items-center">
+
+                {% for sponsor in sponsor_data %}
+                    {% if sponsor.level == l1 %}
+                        <div class="p-4">
+                            <a href="{{sponsor.url}}">
+                                <img src="{{sponsor.src}}" alt="{{sponsor.alt}}" class="sponsors_img_l1"/>
+                            </a>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+                </div>
+
+            <!-- Level Two Tier-->
+            <h2 align="center">{{ l2 | capitalize }}</h2>
+                <div class="d-flex flex-wrap justify-content-center align-items-center">
+
+                {% for sponsor in sponsor_data %}
+                    {% if sponsor.level == l2 %}
+                        <div class="p-4">
+                            <a href="{{sponsor.url}}">
+                                <img src="{{sponsor.src}}" alt="{{sponsor.alt}}"  class="sponsors_img_l2"/>
+                            </a>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+                </div>
+
+            <!-- Level Three Tier-->
+            <h2 align="center">{{ l3 | capitalize }}</h2>
+                <div class="d-flex flex-wrap justify-content-center align-items-center">
+
+                {% for sponsor in sponsor_data %}
+                    {% if sponsor.level == l3 %}
+                        <div class="p-4">
+                            <a href="{{sponsor.url}}">
+                                <img src="{{sponsor.src}}" alt="{{sponsor.alt}}" class="sponsors_img_l3"/>
+                            </a>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+                </div>
+    </div>
+</div>

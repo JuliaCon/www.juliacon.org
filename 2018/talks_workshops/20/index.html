@@ -1,0 +1,212 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>MIToS.jl: Mutual Information Tools for protein Sequence analysis in the Julia language &mdash; JuliaCon 2018, London, UK</title>
+    <meta name="description" content="MIToS.jl: Mutual Information Tools for protein Sequence analysis in the Julia language &mdash; JuliaCon 2018, London, UK" />
+    <meta name="viewport" id="viewport" content="width=device-width,maximum-scale=1.5" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@JuliaCon2018" />
+    <meta name="twitter:image" content="http://juliacon.org/2018/assets/img/julia-logo-dots.png" />
+
+    <meta property="og:site_name" content="JuliaCon 2018" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="JuliaCon 2018" />
+    <meta property="og:description" content="MIToS.jl: Mutual Information Tools for protein Sequence analysis in the Julia language &mdash; JuliaCon 2018, London, UK" />
+    <meta property="og:url" content="http://juliacon.org/2018/" />
+    <meta property="og:image" content="http://juliacon.org/2018/assets/img/julia-logo-dots.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="1112" />
+
+    <link rel="stylesheet" href="/2018/assets/css/reset.css">
+    <link rel="stylesheet" href="/2018/assets/css/util.css">
+    <link rel="stylesheet" href="/2018/assets/css/grid.css">
+    <link rel="stylesheet" href="/2018/assets/css/type-scale.css">
+
+    <link rel="shortcut icon" type="image/png" href="/favicon.png">
+
+    <script src="https://use.typekit.net/orl3mkt.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <link rel="stylesheet" href="/2018/assets/css/style.css">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Nunito:200,400,700" rel="stylesheet"> -->
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+</head>
+<body>
+    
+<div class="container-fluid earlybird">
+  <div class="container">
+    <div class="alert">
+       Videos from JuliaCon <a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB"> are now available online</a>
+    </div>
+  </div>
+</div>
+
+
+<div class="u-rows-1 u-hbox u-items-center u-justify-space-between container u-center">
+  <div class="u-title-medium u-hpad u-hbox u-items-center u-cols-4" style="margin:auto">
+    <a href="/2018/">
+        <img src="/2018/assets/img/logo.svg" style="width: 200px; height: auto" title="JuliaCon">
+    </a>
+    <div class="u-hskip-half"></div>
+    <a href="/2018/" class="link-color-inherit">
+        <div class="u-title-large u-futura" style="font-size:42px; margin-top: 8px; color: #888">2018</div>
+    </a>
+  </div>
+  <div class="u-futura u-uppercase previous-editions-menu" style="margin:auto">Previous editions: <a href="/2017/">2017</a> | <a href="/2016/">2016</a> | <a href="/2015/">2015</a> | <a href="/2014/">2014</a></div>
+</div>
+
+
+<div class="container-fluid main-menu">
+  <div class="container">
+    <nav class="navbar navbar-expand-md navbar-dark">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+          <li>
+            <img src="/2018/assets/img/waving-flag.gif" style="position: relative; top: 10pt; height: 60pt; margin-top: -37pt;">
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/2018">JuliaCon 2018</a>
+          </li>
+          <!-- li class="nav-item">
+            <a class="nav-link" href="/2018/cfp">call for proposals</a>
+          </li -->
+          <li class="nav-item">
+            <!-- <a class="nav-link" href="/2018/all_talks.html">talks & workshops</a> -->
+            <a class="nav-link" href="/2018/all_talks.html">talks & workshops</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/2018/schedule">schedule</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/2018/tickets.html">buy tickets</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+</div>
+
+
+<link rel="stylesheet" href="/2018/assets/css/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="/2018/assets/css/jssocials.css">
+<link rel="stylesheet" href="/2018/assets/css/jssocials-theme-minima.css">
+
+<div class="u-vskip-3"></div>
+<div class="u-vskip-2"></div>
+
+<div class="container" id="talk">
+  <div class="header-talks">
+    <div class="avatar-talks">
+      
+      <img class="avatar-circle-talks" src="http://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png">
+      
+      <div class="speaker-talks">
+        Diego Javier Zea
+        <p class="affiliation">
+        
+          Sorbonne Université
+        
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="u-vskip-3"></div>
+  <div class="u-vskip-2"></div>
+
+  <hr class="divider" />
+  <nav class="navbar">
+    <a href="/2018/all_talks.html" class="back-link">⤺ All talks</a>
+  </nav>
+  <hr class="divider" />
+
+  <div class="content-box-talk">
+    <h2>MIToS.jl: Mutual Information Tools for protein Sequence analysis in the Julia language</h2>
+
+    <p><p>Background Coevolution methods generate a growing interest in the scientific community due to its usefulness to predict the tridimensional protein structures, protein-protein binding interfaces and functionally important sites [1,2]. Mutual Information (MI) algorithm is useful for determining covariation or coevolving between positions in a Multiple Sequence Alignment (MSA). There is a great number of tools for estimating MI and derived scores from a MSA [3,4]. Although, none of them use a high level programming language, easy to use and modify, while having a good performance. As the Julia language is a high level programming language for scientific computing with a close to C performance [5], MIToS implements MI analysis and several useful tools for MSA and protein structure management in it.
+Materials and methods MIToS starting point was an improvement of the algorithm published by Buslje et. al. [1]. Other MI derived scores described in Brown &amp; Brown [3] and Dickson &amp; Gloor [4] were also included in MIToS. MIToS implements all the necessary tools for developing and testing new scores based on amino acid frequencies: functions and types for dealing with MSAs, parsing protein structures and determine inter residue contacts, mapping information between sequence and structure using SIFTS and predictive performance testing using ROC curves. MIToS also allows running these analysis from a command line, without requiring programming knowledge. We successfully used it to integrate structural and sequence information from a protein family large dataset.
+Results MIToS modules allow to write and run an entire protein sequence and structure analysis pipeline in a single programming language. Julia performance and easy to use parallelism allow us to run these analyses on a large dataset of protein sequence and structures and to test multiple hypotheses, parameter combinations, etc. As a result, we were able to create new knowledge about the relation between the evolutionary signals and the change of protein structures through the evolution [6].
+Conclusions MIToS allows users to access the the Julia language programming power for analysing and managing protein multiple sequence alignments. The implementation of several useful scripts in MIToS for command line execution allows acceding to this new MI implementations and its derived score to non-programmers. MIToS tools makes MSA editing and MI calculation easy and facilitates the integration of sequence and structure information.
+References &lt;ol type="1"&gt; &lt;li&gt;Buslje, C. M., Santos, J., Delfino, J. M., &amp; Nielsen, M. Correction for phylogeny, small number of observations and data redundancy improves the identification of coevolving amino acid pairs using mutual information. Bioinformatics 2009, 25(9), 1125-1131.</p>
+<ul>
+  <li>Buslje, C. M., Teppa, E., Di Doménico, T., Delfino, J. M., &amp; Nielsen, M. Networks of high mutual information define the structural proximity of catalytic sites: implications for catalytic residue identification. PLoS Comput Biol 2010, 6(11), e1000978-e1000978.</li>
+  <li>Brown, C. A., &amp; Brown, K. S. Validation of coevolving residue algorithms via pipeline sensitivity analysis: ELSC and OMES and ZNMI, oh my. PloS one 2010,5(6), e10779.</li>
+  <li>Dickson, R. J., &amp; Gloor, G. B. The MIp Toolset: an efficient algorithm for calculating Mutual Information in protein alignments. arXiv preprint 2013, arXiv:1304.4573.</li>
+  <li>Bezanson, J., Edelman, A., Karpinski, S., &amp; Shah, V. B. Julia: A fresh approach to numerical computing. arXiv preprint 2014, arXiv:1411.1607.</li>
+  <li>Zea, D.J., Monzon, A.M., Parisi, G. and Marino-Buslje, C., 2017. How is structural divergence related to evolutionary information?. bioRxiv, p.196782.</li>
+</ul>
+</p>
+
+    <h3>Speaker's bio</h3>
+    <p><p>I learned C at the university, then I did Bash, Perl, Python and R during the PhD. Now I’m a postdoc student doing Bioinformatics that has moved all its research pipeline into Julia. I think that Julia and its ecosystem are mature enough to do research with it. Also, MIToS shows how Julia can be used to solve the two/multiple language problem in Bioinformatics. MIToS also uses high-level abstractions that are possible in Julia to be faster than its C predecessor, even for someone without a strong programming background.</p>
+</p>
+
+    
+  </div>
+
+  <hr class="divider" />
+
+  <div id="share"></div>
+
+  <hr class="divider" />
+
+  <nav class="navbar">
+    <a href="/2018/all_talks.html" class="back-link">⤺ All talks</a>
+  </nav>
+</div>
+
+<div class="u-vskip-3"></div>
+
+<footer class="container-fluid" align="center">
+  <div class="container">
+    <div class="u-vskip"></div>
+    <div class="u-vskip"></div>
+    <div class="container">
+      <div class="u-body-extra-small">
+  <p>© 2014-2020 <a href="http://juliacon.org">JuliaCon.org</a> All rights reserved.
+  <a href="https://github.com/JuliaCon/juliacon.github.io">Fork this site on Github</a> or
+  open a <a href="https://github.com/JuliaCon/juliacon.github.io/issues">bug report</a>.</p>
+
+</div>
+
+    </div>
+    <div class="u-vskip"></div>
+  </div>
+</footer>
+
+<script src="/2018/assets/js/jssocials.min.js"></script>
+<script>
+    $("#share").jsSocials({
+        shares: ["email", "twitter", "facebook", "linkedin", "googleplus", "stumbleupon", "pocket", "whatsapp"],
+        showLabel: false,
+        showCount: false,
+        shareIn: "popup"
+    });
+</script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+    <script src="/2018/assets/js/jquery.sticky.js"></script>
+    <script src="/2018/assets/js/juliacon.js"></script>
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-28835595-3', 'auto');
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+    </script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+
+{% assign current_folder = "2019" %}
+<div class="container-fluid main-menu" style="border-bottom: 4px solid #333;">
+  <div class="container">
+    <nav class="navbar navbar-expand-md navbar-dark">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+          <li id="waving-flag">
+            <img src="/{{current_folder}}/assets/img/waving-flag.gif" style="position: relative; top: 10pt; height: 64pt; margin-top: -42pt;">
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/{{current_folder}}/sponsor/">sponsor</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/{{current_folder}}/tickets/">buy tickets</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://pretalx.com/juliacon2019/schedule/">schedule</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://pretalx.com/juliacon2019/talk/">talks & workshops</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/{{current_folder}}/volunteer/">volunteer</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+</div>

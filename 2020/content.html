@@ -1,0 +1,109 @@
+<div class="container">
+  <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
+    <div class="grid-item col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2">
+      <div class="content-box light-blue-box">
+        <h2>This year's JuliaCon is over. Thanks for tuning in!</h2>
+        <p>
+          JuliaCon 2020 has come to a close! Visit <a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR">the Julia Language's YouTube</a>
+          to watch all of the conference's talks, workshops, and keynotes. Thanks again to everyone who watched, gave a talk, bought merch, and helped make JuliaCon 2020 a massive success. 
+        </p>
+      </div>
+    </div>
+
+    <div class="grid-item col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2">
+      <div class="content-box red-box">
+        <h2>Keynote Speakers</h2>
+        <div class="u-vskip-2"></div>
+        <p>{% include keynote-speaker.html
+        name="Linda Petzold"
+        url="https://www.cs.ucsb.edu/people/faculty/petzold"
+        avatar="/2020/assets/img/petzold.jpg"
+        affiliation="UC Santa Barbara"
+        abstract="Linda Petzold is currently Distinguished Professor in the Department of Mechanical Engineering and the Department of Computer Science (Chair 2003-2007), and Director of the Computational Science and Engineering Graduate Emphasis at the University of California Santa Barbara. She is a member of the US National Academy of Engineering and a Fellow of ACM, ASME, SIAM and AAAS. She was named the UCSB Faculty Research Lecturer for 2011, was awarded the SIAM/ACM Prize for Computational Science and Engineering in 2013, received an Honorary Doctorate from Uppsala University in 2015, and was awarded the SIAM Prize for Distinguished Service in 2016. She was also awarded the JH Wilkinson prize for numerical software in 1991, and won the 2018 Sidney Fernbach Award.
+
+Professor Petzold’s research focuses on modeling, simulation and analysis of multiscale systems in materials, biology and medicine. She is best known for her pioneering work on the numerical solution of differential-algebraic equations (DAEs). Professor Petzold’s software, DASSL and its successor DASPK for the numerical solution of DAEs, is widely used throughout science, engineering and technology.  Her software LSODA, which adaptively determines whether an ODE system is stiff or nonstiff and chooses the appropriate class of algorithms, is also very widely used." %}</p>
+
+        <div class="u-vskip-2"></div>
+        <p>{% include keynote-speaker.html
+        name="Karen Willcox"
+        url="https://kiwi.oden.utexas.edu/"
+        avatar="/2020/assets/img/willcox.jpg"
+        affiliation="Univerity of Texas at Austin"
+        abstract="Karen E. Willcox is Director of the Oden Institute for Computational Engineering and Sciences, a Professor of Aerospace Engineering and Engineering Mechanics at the University of Texas at Austin, and External Professor at the Santa Fe Institute. At UT, she holds the W. A. “Tex” Moncrief, Jr. Chair in Simulation-Based Engineering and Sciences and the Peter O'Donnell, Jr. Centennial Chair in Computing Systems. Before joining the Oden Institute in 2018, she spent 17 years as a professor at the Massachusetts Institute of Technology, where she served as the founding Co-Director of the MIT Center for Computational Engineering and the Associate Head of the MIT Department of Aeronautics and Astronautics. Prior to joining the MIT faculty, she worked at Boeing Phantom Works with the Blended-Wing-Body aircraft design group. She is a Fellow of the Society for Industrial and Applied Mathematics (SIAM), a Fellow of the American Institute of Aeronautics and Astronautics (AIAA), and in 2017 was appointed Member of the New Zealand Order of Merit (MNZM)." %}</p>
+        
+        <div class="u-vskip-2"></div>
+        <p>{% include keynote-speaker.html
+        name="Juan Pablo Vielma"
+        url="http://www.mit.edu/~jvielma/"
+        avatar="/2020/assets/img/jpvielma.jpg"
+        affiliation="MIT"
+		abstract="Juan Pablo Vielma is currently a Research Scientist at Google and was formerly the Richard S. Leghorn (1939) Career Development Professor and an Associate Professor in Operations Research and Statistics at the MIT Sloan School of Management. Previously, he was an Assistant Professor in the department of industrial engineering at the University of Pittsburgh and was the 2009 Herman Goldstine Postdoctoral Fellow at the IBM Thomas J. Watson Research Center. His research interests include theory and technology for linear, non-linear, and stochastic mixed integer programming, and optimization models in sustainable natural resource management, marketing, and statistics. He is a key contributor to the package JuMP.jl, the de-facto mathematical programming package in Julia. Vielma has received the Presidential Early Career Award for Scientists and Engineers (PECASE), the Faculty Early Career Development Award from the National Science Foundation, a first prize in the INFORMS Junior Faculty Interest Group Paper Competition, the IBM Herman Goldstine Postdoctoral Fellowship and the INFORMS Optimization Society Student Paper Prize. He served as chair of the INFORMS Section on Energy, Natural Resources, and the Environment from 2010 to 2012 and as vice-chair for Integer and Discrete Optimization of the INFORMS Optimization Society from 2013 to 2015."%}</p>
+      </div>
+    </div>
+    <div class="grid-item col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2">
+      <div class="content-box purple-box">
+        <h2>JuliaCon 2020</h2>
+        <p>
+            JuliaCon is going virtual in 2020. Tickets are free, but <a href="/{{current_folder}}/tickets/">registration</a> is required.
+            The main conference talks will be held between the 29th and 31st of July,
+            between 12:30pm UTC and 7:30pm UTC. Of this, 2pm UTC to 5pm UTC will be considered
+            <strong>core hours</strong> during which keynotes and <span title="An informal discussion group" style="border-bottom: 1px dotted white;">Birds of Feather</span> sessions will be scheduled.
+        </p>
+        <p>
+            Workshops will be held in the previous week, starting Friday the 24th of July.
+        </p>
+      </div>
+    </div>
+    <div class="grid-item col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2">
+      <div class="content-box dark-blue-box">
+        <h2>T-Shirts and Stickers</h2>
+        <p>
+          JuliaCon 2020 conference t-shirts are now <a href="https://www.bonfire.com/juliacon2020/">
+            available for sale</a>. 
+        </p>
+        <p>
+          <a href="http://stickermule.com/juliacon20">StickerMule is offering</a>10 Julia stickers for only one 1 Euro (plus free shipping!). 
+          You can find the Julia Language logo <a href="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-logo-color.png">
+          here</a>
+        </p>
+      </div>
+    </div>
+    <div class="grid-item col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2">
+      <div class="content-box light-red-box">
+        <h2>Julia Community Prize</h2>
+        <p>
+          The Julia Community Prize has been <a href="prize/">announced</a>. Congratulations to this years winners: Huda Nassar, Mosè Giordano, and Chris Elrod.
+        </p>
+      </div>
+    </div>
+    <div class="grid-item col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2">
+      <div class="content-box dark-green-box">
+        <h2>Code of Conduct</h2>
+        <p>
+        JuliaCon is dedicated to providing a positive conference experience
+        for all attendees, regardless of gender, gender identity and expression,
+        sexual orientation, disability, physical appearance, body size, race,
+        age, religion, or national and ethnic origin. We encourage respectful
+        and considerate interactions between attendees and do not tolerate
+        harassment of conference participants in any form. For example, offensive
+        or sexual language and imagery is not appropriate for any conference
+        venue, including formal talks and networking between sessions. Conference
+        participants violating these standards may be sanctioned or expelled from
+        the conference (without a refund) at the discretion of the conference organizers.
+        Our anti-harassment policy and information about who to contact if you have
+        an issue you'd like to discuss can be found <a href="coc">here.</a>
+        </p>
+      </div>
+    </div>
+    <div class="grid-item col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2">
+      <div class="content-box light-red-box">
+        <h2>Committee</h2>
+        <p>
+          JuliaCon is <a href="committee.html">organized by a committee</a> composed entirely of volunteers,
+          and can be reached at <a href="mailto:juliacon@julialang.org">juliacon@julialang.org</a>
+          with any questions or comments.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
