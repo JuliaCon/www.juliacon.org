@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.5">
+
+  <meta name="description" content="{{site_descr}}" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@JuliaConOrg" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/cormullion/graphics/master/juliacon2021/old/juliacon-2021-ideas-5.png" />
+
+  <meta property="og:site_name" content="{{site_name}}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{site_name}}" />
+  <meta property="og:description" content="{{site_descr}}" />
+  <meta property="og:url" content="{{site_url}}" />
+
+
+  <meta property="og:image" content="https://raw.githubusercontent.com/cormullion/graphics/master/juliacon2021/old/juliacon-2021-ideas-5.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="2800" />
+  <meta property="og:image:height" content="860" />
+
+
+  <!-- Favicon + title -->
+  <link rel="icon" href="/assets/favicon.png">
+  <title>{{title}}</title>
+
+  <!-- STYLE + ADJUSTMENTS -->
+  <link rel="stylesheet" href="/css/reset.css">
+  <link rel="stylesheet" href="/css/util.css">
+  <link rel="stylesheet" href="/css/grid.css">
+  <link rel="stylesheet" href="/css/type-scale.css">
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/style.css">
+
+  {{ispage /2021/*}}
+  <style>
+    @media (min-width: 0px) {
+        .main-heading { background-image: url('../assets/2021/img/world_768.png'); }}
+    @media (min-width: 768px) {
+        .main-heading { background-image: url('../assets/2021/img/world_1400.png'); }}
+    @media (min-width: 1200px) {
+        .main-heading { background-image: url('../assets/2021/img/world_2800.png'); }}
+    .main-heading h2 { color: black; }
+    .main-menu { background-color: #389826}
+  </style>
+  {{end}}
+
+  {{ispage /2020/*}}
+  <style>
+    @media (min-width: 0px) {
+        .main-heading { background-image: url('../assets/2020/img/world_768.png'); }}
+    @media (min-width: 768px) {
+        .main-heading { background-image: url('../assets/2020/img/world_1400.png'); }}
+    @media (min-width: 1200px) {
+        .main-heading { background-image: url('../assets/2020/img/world_2800.png'); }}
+    .main-heading h2 { color: #4366d0; }
+    .main-menu { background-color: #9558b2}
+  </style>
+  {{end}}
+
+
+  <!-- misc scripts -->
+  <script src="https://use.typekit.net/orl3mkt.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+</head>
+<body>
+
+{{isnotpage 404.html}}
+
+  <div class="container-fluid earlybird">
+    <div class="container">
+      <div class="alert">
+        {{ispage /2020/*}}
+          Check out the JuliaCon 2020 <a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR">videos</a> | Julia Community Prizes <a href="/2020/prize/">announced</a>!
+        {{end}}
+      </div>
+    </div>
+  </div>
+
+  {{insert nav_year.html}}
+
+  {{ispage /2021/index.html /2020/index.html}}
+    {{insert title_year.html}}
+  {{end}}
+
+  {{insert nav.html}}
+
+{{end}}
+
+<div class="container">
+
+<!-- Content appended here -->
