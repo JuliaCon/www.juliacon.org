@@ -3,3 +3,4 @@ __site/
 node_modules/
 _bk/
 _sbx*
+Manifest.toml
