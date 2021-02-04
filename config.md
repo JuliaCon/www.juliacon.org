@@ -1,7 +1,7 @@
 +++
 author = "JuliaCon"
 
-prepath = "www.juliacon.org"        # remove this when deploying
+prepath = ""        # remove this when deploying
 
 # Used for the metadata (open graph)
 year       = "2021"
