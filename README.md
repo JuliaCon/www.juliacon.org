@@ -16,7 +16,7 @@ using Pkg; Pkg.add(["Franklin", "FranklinUtils"])
 
 Then `cd` to the `www.juliacon.org` folder you cloned locally and do
 
-```
+```julia
 using Franklin
 serve()
 ```
