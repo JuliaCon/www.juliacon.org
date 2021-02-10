@@ -1,5 +1,5 @@
 
-# JuliaCon 2019 Schedule
+# JuliaCon 2020 Schedule
 
 ~~~
 <h1></h1>
