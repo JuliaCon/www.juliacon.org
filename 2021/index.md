@@ -19,6 +19,16 @@ top_subtitle = "(Workshops in the week earlier)"
   Workshops will be held in the previous week.
 \end{box}
 
+\begin{box}{title="Keynote Speakers", color="red"}
+
+  \avatar{name="Jan Vitek", affil="Northeastern University", link="http://janvitek.org/", img="/assets/2021/img/vitek.jpg"}
+
+  @@content-box-talk
+    Jan Vitek is a Professor of Computer Science at Northeastern University. He holds degrees from the University of Geneva and Victoria. He works on topics related to the design and implementation of programming languages. In the Ovm project, he led the implementation of the first real-time Java virtual machine to be successfully flight-tested. Together with Noble and Potter, he proposed a concept that became known as Ownership Types. He was one of the designers of the Thorn language. He worked on gaining a better understanding of the JavaScript language and is looking at how to support scalable data analysis in R. Prof. Vitek chaired ACM SIGPLAN; he was the Chief Scientist at Fiji Systems and the founding team at H2O.ai, a vice chair of AITO; a vice chair of IFIP WG 2.4, and chaired SPLASH, PLDI, ECOOP, ISMM and LCTES and was program chair of ESOP, ECOOP, VEE, Coordination, and TOOLS.
+  @@
+
+\end{box}
+
 \begin{box}{title="2020 videos", color="light-blue"}
   JuliaCon 2020 has come to a close, but you can watch all of the conference's talks, workshops, and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR).
 \end{box}
