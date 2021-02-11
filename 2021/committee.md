@@ -4,9 +4,15 @@
 * Avik Sengupta, co-Chair
 * Huda Nassar, Program
 * Ranjan Anantharaman, Finance
-* Valentin Churavy, Proceedings
 * Kevin O'Brien, Media and Publicity
 * Logan Kilpatrick, Media and Publicity
+
+## Proceedings Committee
+
+* Valentin Churavy
+* Mathieu Besançon
+* Carsten Bauer
+* Ranjan Anantharaman
 
 ---
 
