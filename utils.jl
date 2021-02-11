@@ -32,10 +32,7 @@ end
 
 # NAV_YEAR tools
 
-function curyear() 
-   x = match(r"^\/?(20\d{2})\/", locvar(:fd_rpath))
-   x != nothing ? parse(Int, x.captures[1]) : 2021
-end
+curyear() = parse(Int, match(r"^[\/|\\]?(20\d{2})[\/||\\]", locvar(:fd_rpath)::String).captures[1])
 
 function hfun_curyear()
     return "$(curyear())"
