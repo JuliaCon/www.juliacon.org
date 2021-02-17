@@ -50,6 +50,10 @@ top_subtitle = "(Workshops in the week earlier)"
   JuliaCon is [organized by a committee](/2021/committee/) composed entirely of volunteers, and can be reached at \email with any questions or comments.
 \end{box}
 
+\begin{box}{title="Proceedings", color="light-blue"}
+  JuliaCon is complemented by the [JuliaCon proceedings](https://proceedings.juliacon.org), an open journal with a formal peer review process for articles that supplement JuliaCon contributions.
+\end{box}
+
 ~~~
 <!-- END of CONTAINER + MASONRY -->
   </div>
