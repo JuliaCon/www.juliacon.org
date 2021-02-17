@@ -6,6 +6,7 @@
 * Ranjan Anantharaman, Finance
 * Kevin O'Brien, Media and Publicity
 * Logan Kilpatrick, Media and Publicity
+* Travis DePrato, Accessibility
 
 ## Proceedings Committee
 
