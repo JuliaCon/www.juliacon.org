@@ -2,7 +2,7 @@
 title = "JuliaCon 2020, Everywhere on Earth"
 
 # top title + subtitle
-top_title = "Juliacon 2020 is live and online"
+top_title = "Juliacon 2020 was live and online"
 top_date = "Wednesday 29th to Friday 31st of July, 2020"
 top_subtitle = "(Workshops: 24th to 28th July)"
 top_link = "live.juliacon.org/live"
@@ -13,7 +13,7 @@ top_link = "live.juliacon.org/live"
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
 
-\begin{box}{title="This year's JuliaCon is over. Thanks for tuning in!", color="light-blue"}
+\begin{box}{title="This years JuliaCon is over. Thanks for tuning in!", color="light-blue"}
   JuliaCon 2020 has come to a close!
   Visit [the Julia Language's YouTube](https://www.youtube.com/playlist?list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR) to watch all of the conference's talks, workshops, and keynotes.
   Thanks again to everyone who watched, gave a talk, bought merch, and helped make JuliaCon 2020 a massive success.
