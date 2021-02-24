@@ -59,3 +59,39 @@ top_subtitle = "(Workshops in the week earlier)"
   </div>
 </div>
 ~~~
+
+
+~~~
+<div style="height:30px;display:block;"></div>
+<div class="container-fluid">
+  <div class="container sponsors">
+    <h1 align="center">Sponsors</h1>
+~~~
+
+\begin{centered}{title="Gold"}
+
+  \sponsor{name="Relational AI", link="https://www.relational.ai/", img="/assets/2021/img/sponsors/relational_ai.jpeg", level=2}
+
+  \sponsor{name="Julia Computing", link="https://juliacomputing.com/", img="/assets/2021/img/sponsors/jclogo.png", level=2}
+
+\end{centered}
+
+\begin{centered}{title="Silver"}
+
+  \sponsor{name="Pumas AI", link="https://pumas.ai", img="/assets/2021/img/sponsors/pumas-ai.png", level=3}
+
+  \sponsor{name="Conning", link="https://www.conning.com/", img="/assets/2021/img/sponsors/conning.png", level=3}
+
+\end{centered}
+
+\begin{centered}{title="With the help of the julia project’s fiscal sponsor:"}
+
+  \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
+
+\end{centered}
+
+~~~
+  </div>
+</div>
+<div style="height:20px;display:block;"></div>
+~~~
