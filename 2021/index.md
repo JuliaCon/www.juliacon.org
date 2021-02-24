@@ -43,7 +43,7 @@ top_subtitle = "(Workshops in the week earlier)"
   We encourage respectful and considerate interactions between attendees and do not tolerate harassment of conference participants in any form.
   For example, offensive or sexual language and imagery is not appropriate for any conference venue, including formal talks and networking between sessions.
   Conference  participants violating these standards may be sanctioned or expelled from the conference (without a refund) at the discretion of the conference organizers.
-  Our anti-harassment policy and information about who to contact if you have an issue you'd like to discuss can be found [here](/2021/coc/).
+  Our anti-harassment policy and information about who to contact if you have an issue you'd like to discuss can be found on our [Code of Conduct](/2021/coc/).
 \end{box}
 
 \begin{box}{title="Committee", color="dark-blue"}
