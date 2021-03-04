@@ -54,6 +54,10 @@ top_subtitle = "(Workshops in the week earlier)"
   JuliaCon is complemented by the [JuliaCon proceedings](https://proceedings.juliacon.org), an open journal with a formal peer review process for articles that supplement JuliaCon contributions.
 \end{box}
 
+\begin{box}{title="Recording your presentation", color="purple"}
+  Please see [this tutorial](https://www.youtube.com/watch?v=c71ftCd5hTw) if you'd like guidance recording your virtual JuliaCon presentation.
+\end{box}
+
 ~~~
 <!-- END of CONTAINER + MASONRY -->
   </div>
