@@ -22,9 +22,15 @@ top_subtitle = "(Workshops in the week earlier)"
 \begin{box}{title="Keynote Speakers", color="red"}
 
   \avatar{name="Jan Vitek", affil="Northeastern University", link="http://janvitek.org/", img="/assets/2021/img/vitek.jpg"}
-
+  
   @@content-box-talk
     Jan Vitek is a Professor of Computer Science at Northeastern University. He holds degrees from the University of Geneva and Victoria. He works on topics related to the design and implementation of programming languages. In the Ovm project, he led the implementation of the first real-time Java virtual machine to be successfully flight-tested. Together with Noble and Potter, he proposed a concept that became known as Ownership Types. He was one of the designers of the Thorn language. He worked on gaining a better understanding of the JavaScript language and is looking at how to support scalable data analysis in R. Prof. Vitek chaired ACM SIGPLAN; he was the Chief Scientist at Fiji Systems and the founding team at H2O.ai, a vice chair of AITO; a vice chair of IFIP WG 2.4, and chaired SPLASH, PLDI, ECOOP, ISMM and LCTES and was program chair of ESOP, ECOOP, VEE, Coordination, and TOOLS.
+  @@
+
+    \avatar{name="Xiaoye (Sherry) Li ", affil="Lawrence Berkeley National Laboratory", link="https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/members/staff-members/xiaoye-li/", img="/assets/2021/img/li.jpg"}
+
+  @@content-box-talk
+    Sherry Li is a Senior Scientist in the Computational Research Division, Lawrence Berkeley National Laboratory. She has worked on diverse problems in high performance scientific computations, including parallel computing, sparse matrix computations, high precision arithmetic, and combinatorial scientific computing. She has (co)authored over 120 publications, and contributed to several book chapters. She is the lead developer of SuperLU, a widely-used sparse direct solver, and has contributed to the development of several other mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. She has collaborated with many domain scientists to deploy the advanced mathematical software in their application codes, including those from accelerator engineering, chemical science, earth science, plasma fusion energy science, and materials science. She earned a Ph.D. in Computer Science from UC Berkeley in 1996. She has served on the editorial boards of the SIAM J. Scientific Comput. and ACM Trans. Math. Software, as well as many program committees of the scientific conferences. She is a SIAM Fellow and an ACM Senior Member.
   @@
 
 \end{box}
