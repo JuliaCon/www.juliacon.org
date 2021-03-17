@@ -88,7 +88,7 @@ top_subtitle = "(Workshops in the week earlier)"
 
 \end{centered}
 
-\begin{centered}{title="With the help of the julia project’s fiscal sponsor:"}
+\begin{centered}{title="With the help of the Julia project’s fiscal sponsor:"}
 
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
 
