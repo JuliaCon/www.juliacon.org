@@ -33,9 +33,19 @@ top_subtitle = "(Workshops in the week earlier)"
     Sherry Li is a Senior Scientist in the Computational Research Division, Lawrence Berkeley National Laboratory. She has worked on diverse problems in high performance scientific computations, including parallel computing, sparse matrix computations, high precision arithmetic, and combinatorial scientific computing. She has (co)authored over 120 publications, and contributed to several book chapters. She is the lead developer of SuperLU, a widely-used sparse direct solver, and has contributed to the development of several other mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. She has collaborated with many domain scientists to deploy the advanced mathematical software in their application codes, including those from accelerator engineering, chemical science, earth science, plasma fusion energy science, and materials science. She earned a Ph.D. in Computer Science from UC Berkeley in 1996. She has served on the editorial boards of the SIAM J. Scientific Comput. and ACM Trans. Math. Software, as well as many program committees of the scientific conferences. She is a SIAM Fellow and an ACM Senior Member.
   @@
 
+    \avatar{name="Soumith Chintala ", affil="Facebook AI Research", link="https://soumith.ch/", img="/assets/2021/img/chintala.png"}
+
+  @@content-box-talk
+    Soumith Chintala is a Researcher at Facebook AI Research, where he works on high-performance deep learning. Soumith co-created PyTorch, a deep learning framework that has traction among researchers. He works on computer vision, robotics and machine learning systems. He holds a Masters in CS from NYU.
+  @@
+
 \end{box}
 
-\begin{box}{title="2020 videos", color="light-blue"}
+\begin{box}{title="JuMP-dev", color="light-blue"}
+  We are pleased to announce that JuMP-dev 2021 will be colocated with JuliaCon. We are excited to welcome the JuMP and the larger mathematical optimization communities to JuliaCon, the combination will create an oustanding experience for our speakers and participants. Please see further details and talk submission guidelines on the [jump.dev page](https://jump.dev/meetings/juliacon2021/), and [register for a free JuliaCon ticket](http://localhost:8000/2021/tickets/).
+\end{box}
+
+\begin{box}{title="2020 videos", color="dark-purple"}
   JuliaCon 2020 has come to a close, but you can watch all of the conference's talks, workshops, and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR).
 \end{box}
 
@@ -56,7 +66,7 @@ top_subtitle = "(Workshops in the week earlier)"
   JuliaCon is [organized by a committee](/2021/committee/) composed entirely of volunteers, and can be reached at \email with any questions or comments.
 \end{box}
 
-\begin{box}{title="Proceedings", color="light-blue"}
+\begin{box}{title="Proceedings", color="green"}
   JuliaCon is complemented by the [JuliaCon proceedings](https://proceedings.juliacon.org), an open journal with a formal peer review process for articles that supplement JuliaCon contributions.
 \end{box}
 
