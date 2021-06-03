@@ -5,7 +5,7 @@ title = "JuliaCon 2020, Everywhere on Earth"
 top_title = "Juliacon 2020 was live and online"
 top_date = "Wednesday 29th to Friday 31st of July, 2020"
 top_subtitle = "(Workshops: 24th to 28th July)"
-top_link = "live.juliacon.org/live"
+top_link = "https://live.juliacon.org/agenda/2020-07-25"
 +++
 
 ~~~
