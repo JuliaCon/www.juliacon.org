@@ -109,6 +109,12 @@ top_subtitle = "(Workshops in the week earlier)"
 
 \end{centered}
 
+\begin{centered}{title="Media Partners"}
+
+  \sponsor{name="Packt", link="https://www.packtpub.com/", img="/assets/2021/img/sponsors/packt.png", level=3}
+  
+\end{centered}
+
 \begin{centered}{title="With the help of the Julia project’s fiscal sponsor:"}
 
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
