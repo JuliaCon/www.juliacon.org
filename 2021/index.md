@@ -87,12 +87,16 @@ top_subtitle = "(Workshops in the week earlier)"
   <div class="container sponsors">
     <h1 align="center">Sponsors</h1>
 ~~~
+\begin{centered}{title="Platinum"}
+
+  \sponsor{name="Julia Computing", link="https://juliacomputing.com/", img="/assets/2021/img/sponsors/jclogo.png", level=2}
+  
+\end{centered}
 
 \begin{centered}{title="Gold"}
 
   \sponsor{name="Relational AI", link="https://www.relational.ai/", img="/assets/2021/img/sponsors/relational_ai.jpeg", level=2}
 
-  \sponsor{name="Julia Computing", link="https://juliacomputing.com/", img="/assets/2021/img/sponsors/jclogo.png", level=2}
 
 \end{centered}
 
