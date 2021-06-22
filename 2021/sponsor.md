@@ -19,7 +19,7 @@ JuliaCon 2021 sponsorship comes with the following benefits:
 * Prominent mention of sponshorship before every talk video
 * Multiple entries in the Juliacon job listing with priority placement
 * Access to private channel in conference chat system
-* A 10 minute prerecorded video presentation, with priority placement immediately after a keynote address
+* A 15 minute live video presentation, immediately after the keynote address on the single track
 
 ### Gold Sponsorship (\$15,000)
 
@@ -28,7 +28,7 @@ JuliaCon 2021 sponsorship comes with the following benefits:
 * Prominent mention of sponshorship before every talk video
 * One entry in the Juliacon job listing with priority placement
 * Access to private channel in conference chat system
-* A 5 minute pre-recorded video presentation, played during a single track period
+* A 10 minute live video presentation, during a single track period
 
 ### Silver Sponsorship (\$5,000)
 
