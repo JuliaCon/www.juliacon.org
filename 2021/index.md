@@ -42,7 +42,7 @@ top_subtitle = "(Workshops in the week earlier)"
 \end{box}
 
 \begin{box}{title="JuMP-dev", color="light-blue"}
-  We are pleased to announce that JuMP-dev 2021 will be colocated with JuliaCon. We are excited to welcome the JuMP and the larger mathematical optimization communities to JuliaCon, the combination will create an oustanding experience for our speakers and participants. Please see further details and talk submission guidelines on the [jump.dev page](https://jump.dev/meetings/juliacon2021/), and [register for a free JuliaCon ticket](2021/tickets/).
+  We are pleased to announce that JuMP-dev 2021 will be colocated with JuliaCon. We are excited to welcome the JuMP and the larger mathematical optimization communities to JuliaCon, the combination will create an oustanding experience for our speakers and participants. Please see further details and talk submission guidelines on the [jump.dev page](https://jump.dev/meetings/juliacon2021/), and [register for a free JuliaCon ticket](tickets/).
 \end{box}
 
 \begin{box}{title="2020 videos", color="dark-purple"}
