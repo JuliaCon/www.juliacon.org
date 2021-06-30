@@ -46,7 +46,7 @@ top_subtitle = "(Workshops in the week earlier)"
 \end{box}
 
 \begin{box}{title="2020 videos", color="dark-purple"}
-  JuliaCon 2020 has come to a close, but you can watch all of the conference's talks, workshops, and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR).
+  JuliaCon 2020 has come to a close, but you can watch all of the conference's talks, workshops, and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR). We also have some [photographic memories from previous Juliacons](memories/). 
 \end{box}
 
 \begin{box}{title="Julia Community Prize", color="light-red"}
