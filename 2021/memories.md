@@ -6,7 +6,7 @@
 
 ### 2020
 
-Juliacon moved online in 2020, and so we could not arrange the traditional group photo. We did however ask our attendees to upload a photo of the place they were joining from. Here is a collage, represeting our global audience.  
+Juliacon moved online in 2020, and so we could not arrange the traditional group photo. We did however ask our attendees to upload a photo of the place they were joining from. Here is a collage, representing our global audience.  
 
 ![places of juliacon](/assets/shared/img/juliacon-2020.jpg)
 
@@ -24,7 +24,7 @@ Juliacon moved to Europe for the first time. Here we are at the [front quad](htt
 
 ### 2017
 
-Juliacon moved west, to the Univeristy of California, Berkeley. 
+Juliacon moved west, to the University of California, Berkeley. 
 
 ![juliacon 2017 group photo in Berkely, California](/assets/shared/img/juliacon-2017.jpg)
 
