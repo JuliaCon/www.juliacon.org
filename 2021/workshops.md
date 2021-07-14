@@ -2,7 +2,7 @@
 
 Below you will find the workshop schedule along with the link to watch on YouTube. All workshops will be at __10 AM EDT (2 PM UTC)__ and as shown below, there will be two workshops running concurrently each day. Make sure you [register (for free)](https://juliacon.org/2021/tickets/) to ensure you are able to participate and ask questions during the workshops.
 
-| Date        | Talk Title  |     Link    |
+| Date        | Workshop Title  |     Link    |
 | ----------- | ----------- | ----------- |
 | Tuesday July 20      | GPU programming in Julia       | [https://www.youtube.com/watch?v=Hz9IMJuW5hU](https://www.youtube.com/watch?v=Hz9IMJuW5hU)       |
 | Tuesday July 20   | DataFrames.jl 1.0 tutorial        | [https://www.youtube.com/watch?v=tJf24gfcSto](https://www.youtube.com/watch?v=tJf24gfcSto)        |
