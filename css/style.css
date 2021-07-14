@@ -9,6 +9,10 @@ a {
     color: #9d253d;
 }
 
+table, tr, th, tbody {
+    padding:6px;
+}
+
 em {
     font-style: italic;
 }
