@@ -4,7 +4,7 @@ title = "JuliaCon 2021, Everywhere on Earth"
 # top title + subtitle
 top_title = "Juliacon 2021 will be online and everywhere"
 top_date = "28th to 30th of July, 2021"
-top_subtitle = "(Workshops in the week earlier)"
+top_subtitle = "(Workshops will start on the 20th, the week earlier)"
 +++
 
 ~~~
