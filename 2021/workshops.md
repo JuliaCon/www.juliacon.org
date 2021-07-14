@@ -1,6 +1,6 @@
 # JuliaCon 2021 Workshops
 
-Below you will find the workshop scheudle along with the link to watch on YouTube.
+Below you will find the workshop scheudle along with the link to watch on YouTube. All workshops will be at __10 AM EDT (2 PM UTC)__ and as shown below, there will be two workshops running concurrently each day.
 
 | Date        | Talk Title  |     Link    |
 | ----------- | ----------- | ----------- |
