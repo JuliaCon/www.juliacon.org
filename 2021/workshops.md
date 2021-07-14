@@ -4,19 +4,19 @@ Below you will find the workshop schedule along with the link to watch on YouTub
 
 | Date        | Workshop Title  |     Link    |
 | ----------- | ----------- | ----------- |
-| Tuesday July 20      | GPU programming in Julia       | [https://www.youtube.com/watch?v=Hz9IMJuW5hU](https://www.youtube.com/watch?v=Hz9IMJuW5hU)       |
-| Tuesday July 20   | DataFrames.jl 1.0 tutorial        | [https://www.youtube.com/watch?v=tJf24gfcSto](https://www.youtube.com/watch?v=tJf24gfcSto)        |
-| Wednesday July 21      | Quantum Computing with Julia       | [https://www.youtube.com/watch?v=tEd6driz37w](https://www.youtube.com/watch?v=tEd6driz37w)       |
-| Wednesday July 21   | Statistics with Julia from the ground up        | [https://www.youtube.com/watch?v=IlPoU5Yr2QI](https://www.youtube.com/watch?v=IlPoU5Yr2QI)        |
-| Thursday July 22      | A mathematical look at electronic structure theory       | [https://www.youtube.com/watch?v=HvpPMWVm8aw](https://www.youtube.com/watch?v=HvpPMWVm8aw)       |
-| Thursday July 22  | Game development in Julia with GameZero.jl        | [https://www.youtube.com/watch?v=ar7wCVlncKE](https://www.youtube.com/watch?v=ar7wCVlncKE)        |
-| Friday July 23     | Solving differential equations in parallel on GPUs       | [https://www.youtube.com/watch?v=DvlM0w6lYEY](https://www.youtube.com/watch?v=DvlM0w6lYEY)       |
-| Friday July 23  | Package development in VSCode        | [https://www.youtube.com/watch?v=F1R3ETaRQXY](https://www.youtube.com/watch?v=F1R3ETaRQXY)        |
-| Saturday July 24     | Simulating Big Models in Julia with ModelingToolkit     | [https://www.youtube.com/watch?v=HEVOgSLBzWA](https://www.youtube.com/watch?v=HEVOgSLBzWA)       |
-| Saturday July 24  | Package development: improving engineering quality & latency       | [https://www.youtube.com/watch?v=wXRMwJdEjX4](https://www.youtube.com/watch?v=wXRMwJdEjX4)        |
-| Sunday July 25     | Parse and broker (log) messages with CombinedParsers(.EBNF)      | [https://www.youtube.com/watch?v=RpCnP-S7txI](https://www.youtube.com/watch?v=RpCnP-S7txI)       |
-| Sunday July 25  | Modeling Marine Ecosystems At Multiple Scales Using Julia      | [https://www.youtube.com/watch?v=UCIRrXz2ZS0](https://www.youtube.com/watch?v=UCIRrXz2ZS0)        |
-| Monday July 26     | It's all Set: A hands-on introduction to JuliaReach     | [https://www.youtube.com/watch?v=P4I7pTvQ4nk](https://www.youtube.com/watch?v=P4I7pTvQ4nk)       |
-| Monday July 26  | Introduction to Bayesian Data Analysis     | [https://www.youtube.com/watch?v=W_ExvidyESg](https://www.youtube.com/watch?v=W_ExvidyESg)        |
-| Tuesday July 27     | Diffractor: Next-Gen AD for Julia      | [https://www.youtube.com/watch?v=XuTzJCvE62M](https://www.youtube.com/watch?v=XuTzJCvE62M)       |
-| Tuesday July 27  | Introduction to metaprogramming in Julia      | [https://www.youtube.com/watch?v=2QLhw6LVaq0](https://www.youtube.com/watch?v=2QLhw6LVaq0)        |
+| Tuesday July 20      | [GPU programming in Julia](https://pretalx.com/juliacon2021/talk/review/KCSJWBBRMVCCJ9SVMHXPSZTBBUD3VXBL)       | [https://www.youtube.com/watch?v=Hz9IMJuW5hU](https://www.youtube.com/watch?v=Hz9IMJuW5hU)       |
+| Tuesday July 20   | [DataFrames.jl 1.2 tutorial](https://pretalx.com/juliacon2021/talk/review/9V73MD8VZGHPPFKR993SBKLJHKQTBWY9)        | [https://www.youtube.com/watch?v=tJf24gfcSto](https://www.youtube.com/watch?v=tJf24gfcSto)        |
+| Wednesday July 21      | [Quantum Computing with Julia](https://pretalx.com/juliacon2021/talk/review/JTBPVMHMGTSYAC8W8B87GCXEFXFRVUMW)       | [https://www.youtube.com/watch?v=tEd6driz37w](https://www.youtube.com/watch?v=tEd6driz37w)       |
+| Wednesday July 21   | [Statistics with Julia from the ground up](https://pretalx.com/juliacon2021/talk/review/BWEXCHLMJSSUL8XDHGWUHHKXM9QNUZZQ)        | [https://www.youtube.com/watch?v=IlPoU5Yr2QI](https://www.youtube.com/watch?v=IlPoU5Yr2QI)        |
+| Thursday July 22      | [A mathematical look at electronic structure theory](https://pretalx.com/juliacon2021/talk/review/E8JL8LNM8GALVY3VNQSTNQN7NLREMXVE)       | [https://www.youtube.com/watch?v=HvpPMWVm8aw](https://www.youtube.com/watch?v=HvpPMWVm8aw)       |
+| Thursday July 22  | [Game development in Julia with GameZero.jl](https://pretalx.com/juliacon2021/talk/review/S3MDHHXQ8P9LDMRYRXCMFDDXLLESURNN)        | [https://www.youtube.com/watch?v=ar7wCVlncKE](https://www.youtube.com/watch?v=ar7wCVlncKE)        |
+| Friday July 23     | [Solving differential equations in parallel on GPUs](https://pretalx.com/juliacon2021/talk/review/NDHRHLYN7JZUV88PLFWPL99P93NQVU8K)       | [https://www.youtube.com/watch?v=DvlM0w6lYEY](https://www.youtube.com/watch?v=DvlM0w6lYEY)       |
+| Friday July 23  | [Package development in VSCode](https://pretalx.com/juliacon2021/talk/review/3LTRK3ZEECUVL7TDLGE7UHYHHKNG9DHD)        | [https://www.youtube.com/watch?v=F1R3ETaRQXY](https://www.youtube.com/watch?v=F1R3ETaRQXY)        |
+| Saturday July 24     | [Simulating Big Models in Julia with ModelingToolkit](https://pretalx.com/juliacon2021/talk/review/7YHJAA37XGAQ7GXVBK37JFETTZ3ZLKLU)     | [https://www.youtube.com/watch?v=HEVOgSLBzWA](https://www.youtube.com/watch?v=HEVOgSLBzWA)       |
+| Saturday July 24  | [Package development: improving engineering quality & latency](https://pretalx.com/juliacon2021/talk/review/HFFUMRJE8RGQPWZS9QRTVE9NEWCUMH3N)       | [https://www.youtube.com/watch?v=wXRMwJdEjX4](https://www.youtube.com/watch?v=wXRMwJdEjX4)        |
+| Sunday July 25     | [Parse and broker (log) messages with CombinedParsers(.EBNF)](https://pretalx.com/juliacon2021/talk/review/HWRUWKWRXRZZXCVBS9LVLJPKYL9UYAKS)      | [https://www.youtube.com/watch?v=RpCnP-S7txI](https://www.youtube.com/watch?v=RpCnP-S7txI)       |
+| Sunday July 25  | [Modeling Marine Ecosystems At Multiple Scales Using Julia](https://pretalx.com/juliacon2021/talk/review/MY7U88E7NK8RWACPGA3YEFHKK7DDHKA8)      | [https://www.youtube.com/watch?v=UCIRrXz2ZS0](https://www.youtube.com/watch?v=UCIRrXz2ZS0)        |
+| Monday July 26     | [It's all Set: A hands-on introduction to JuliaReach](https://pretalx.com/juliacon2021/talk/review/9NYAYYMTPVFA9C7N3GUYFJ3C8YHPRSXA)     | [https://www.youtube.com/watch?v=P4I7pTvQ4nk](https://www.youtube.com/watch?v=P4I7pTvQ4nk)       |
+| Monday July 26  | [Introduction to Bayesian Data Analysis](https://pretalx.com/juliacon2021/talk/review/JBAB83AUDTS8VMGRJQXBY9C9AJMANSGU)     | [https://www.youtube.com/watch?v=W_ExvidyESg](https://www.youtube.com/watch?v=W_ExvidyESg)        |
+| Tuesday July 27     | [Diffractor: Next-Gen AD for Julia](https://pretalx.com/juliacon2021/talk/review/MJ7T9LXLXNDWHPW9WJN7SGTWU7L9QMJW)      | [https://www.youtube.com/watch?v=XuTzJCvE62M](https://www.youtube.com/watch?v=XuTzJCvE62M)       |
+| Tuesday July 27  | [Introduction to metaprogramming in Julia](https://pretalx.com/juliacon2021/talk/review/ZEPFHE8Z3QWER8FWHQ8RTE3X7WA9VGXH)      | [https://www.youtube.com/watch?v=2QLhw6LVaq0](https://www.youtube.com/watch?v=2QLhw6LVaq0)        |
