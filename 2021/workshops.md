@@ -22,5 +22,5 @@ Below you will find the workshop schedule along with the link to watch on YouTub
 | Tuesday July 27  | [Introduction to metaprogramming in Julia](https://pretalx.com/juliacon2021/talk/review/ZEPFHE8Z3QWER8FWHQ8RTE3X7WA9VGXH)      | [https://www.youtube.com/watch?v=2QLhw6LVaq0](https://www.youtube.com/watch?v=2QLhw6LVaq0)        |
 
 ~~~
-<img src="assets/2021/img/poster-workshops.png" alt="Poster for the JuliaCon 2021 workshop schedule" width="100%" height="400">
+<img src="/assets/2021/img/poster-workshops.png" alt="Poster for the JuliaCon 2021 workshop schedule" width="100%" height="400">
 ~~~
