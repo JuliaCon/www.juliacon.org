@@ -2,6 +2,7 @@
 
 Below you will find the workshop schedule along with the link to watch on YouTube. All workshops will be at __(2 PM UTC)__ and as shown below, there will be two workshops running concurrently each day. Make sure you [register (for free)](https://juliacon.org/2021/tickets/) to ensure you are able to participate and ask questions during the workshops.
 
+@@table
 | Date        | Workshop Title  |     Link    |
 | ----------- | ----------- | ----------- |
 | Tuesday July 20      | [GPU programming in Julia](https://pretalx.com/juliacon2021/talk/review/KCSJWBBRMVCCJ9SVMHXPSZTBBUD3VXBL)       | [https://www.youtube.com/watch?v=Hz9IMJuW5hU](https://www.youtube.com/watch?v=Hz9IMJuW5hU)       |
@@ -20,6 +21,7 @@ Below you will find the workshop schedule along with the link to watch on YouTub
 | Monday July 26  | [Introduction to Bayesian Data Analysis](https://pretalx.com/juliacon2021/talk/review/JBAB83AUDTS8VMGRJQXBY9C9AJMANSGU)     | [https://www.youtube.com/watch?v=W_ExvidyESg](https://www.youtube.com/watch?v=W_ExvidyESg)        |
 | Tuesday July 27     | [Diffractor: Next-Gen AD for Julia](https://pretalx.com/juliacon2021/talk/review/MJ7T9LXLXNDWHPW9WJN7SGTWU7L9QMJW)      | [https://www.youtube.com/watch?v=XuTzJCvE62M](https://www.youtube.com/watch?v=XuTzJCvE62M)       |
 | Tuesday July 27  | [Introduction to metaprogramming in Julia](https://pretalx.com/juliacon2021/talk/review/ZEPFHE8Z3QWER8FWHQ8RTE3X7WA9VGXH)      | [https://www.youtube.com/watch?v=2QLhw6LVaq0](https://www.youtube.com/watch?v=2QLhw6LVaq0)        |
+@@
 
 ~~~
 <img src="/assets/2021/img/poster-workshops.png" alt="Poster for the JuliaCon 2021 workshop schedule" width="100%" height="400">
