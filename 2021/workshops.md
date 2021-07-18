@@ -17,7 +17,7 @@ Below you will find the workshop schedule along with the link to watch on YouTub
         <td>Tuesday July 20</td>
         <td>
         <a
-            href="https://pretalx.com/juliacon2021/talk/review/KCSJWBBRMVCCJ9SVMHXPSZTBBUD3VXBL"
+            href="https://pretalx.com/juliacon2021/talk/VK87Q3/"
             >GPU programming in Julia</a
         >
         </td>
@@ -31,7 +31,7 @@ Below you will find the workshop schedule along with the link to watch on YouTub
         <td>Tuesday July 20</td>
         <td>
         <a
-            href="https://pretalx.com/juliacon2021/talk/review/9V73MD8VZGHPPFKR993SBKLJHKQTBWY9"
+            href="https://pretalx.com/juliacon2021/talk/FXZXMB/"
             >DataFrames.jl 1.2 tutorial</a
         >
         </td>
@@ -45,7 +45,7 @@ Below you will find the workshop schedule along with the link to watch on YouTub
         <td>Wednesday July 21</td>
         <td>
         <a
-            href="https://pretalx.com/juliacon2021/talk/review/JTBPVMHMGTSYAC8W8B87GCXEFXFRVUMW"
+            href="https://pretalx.com/juliacon2021/talk/V3N73B/"
             >Quantum Computing with Julia</a
         >
         </td>
@@ -59,7 +59,7 @@ Below you will find the workshop schedule along with the link to watch on YouTub
         <td>Wednesday July 21</td>
         <td>
         <a
-            href="https://pretalx.com/juliacon2021/talk/review/BWEXCHLMJSSUL8XDHGWUHHKXM9QNUZZQ"
+            href="https://pretalx.com/juliacon2021/talk/A9KZCY/"
             >Statistics with Julia from the ground up</a
         >
         </td>
@@ -73,7 +73,7 @@ Below you will find the workshop schedule along with the link to watch on YouTub
         <td>Thursday July 22</td>
         <td>
         <a
-            href="https://pretalx.com/juliacon2021/talk/review/E8JL8LNM8GALVY3VNQSTNQN7NLREMXVE"
+            href="https://pretalx.com/juliacon2021/talk/KK9KS7/"
             >A mathematical look at electronic structure theory</a
         >
         </td>
@@ -87,7 +87,7 @@ Below you will find the workshop schedule along with the link to watch on YouTub
         <td>Thursday July 22</td>
         <td>
         <a
-            href="https://pretalx.com/juliacon2021/talk/review/S3MDHHXQ8P9LDMRYRXCMFDDXLLESURNN"
+            href="https://pretalx.com/juliacon2021/talk/RS9B7Q/"
             >Game development in Julia with GameZero.jl</a
         >
         </td>
@@ -101,7 +101,7 @@ Below you will find the workshop schedule along with the link to watch on YouTub
         <td>Friday July 23</td>
         <td>
         <a
-            href="https://pretalx.com/juliacon2021/talk/review/NDHRHLYN7JZUV88PLFWPL99P93NQVU8K"
+            href="https://pretalx.com/juliacon2021/talk/CPH7SG/"
             >Solving differential equations in parallel on GPUs</a
         >
         </td>
@@ -115,7 +115,7 @@ Below you will find the workshop schedule along with the link to watch on YouTub
         <td>Friday July 23</td>
         <td>
         <a
-            href="https://pretalx.com/juliacon2021/talk/review/3LTRK3ZEECUVL7TDLGE7UHYHHKNG9DHD"
+            href="https://pretalx.com/juliacon2021/talk/WCSKJ7/"
             >Package development in VSCode</a
         >
         </td>
@@ -129,7 +129,7 @@ Below you will find the workshop schedule along with the link to watch on YouTub
         <td>Saturday July 24</td>
         <td>
         <a
-            href="https://pretalx.com/juliacon2021/talk/review/7YHJAA37XGAQ7GXVBK37JFETTZ3ZLKLU"
+            href="https://pretalx.com/juliacon2021/talk/NNVXZC/"
             >Simulating Big Models in Julia with ModelingToolkit</a
         >
         </td>
@@ -143,7 +143,7 @@ Below you will find the workshop schedule along with the link to watch on YouTub
         <td>Saturday July 24</td>
         <td>
         <a
-            href="https://pretalx.com/juliacon2021/talk/review/HFFUMRJE8RGQPWZS9QRTVE9NEWCUMH3N"
+            href="https://pretalx.com/juliacon2021/talk/VY9UVX/"
             >Package development: improving engineering quality &amp;
             latency</a
         >
@@ -158,7 +158,7 @@ Below you will find the workshop schedule along with the link to watch on YouTub
         <td>Sunday July 25</td>
         <td>
         <a
-            href="https://pretalx.com/juliacon2021/talk/review/HWRUWKWRXRZZXCVBS9LVLJPKYL9UYAKS"
+            href="https://pretalx.com/juliacon2021/talk/DKEJ97/"
             >Parse and broker (log) messages with CombinedParsers(.EBNF)</a
         >
         </td>
@@ -172,7 +172,7 @@ Below you will find the workshop schedule along with the link to watch on YouTub
         <td>Sunday July 25</td>
         <td>
         <a
-            href="https://pretalx.com/juliacon2021/talk/review/MY7U88E7NK8RWACPGA3YEFHKK7DDHKA8"
+            href="https://pretalx.com/juliacon2021/talk/FEZW9Q/"
             >Modeling Marine Ecosystems At Multiple Scales Using Julia</a
         >
         </td>
@@ -186,7 +186,7 @@ Below you will find the workshop schedule along with the link to watch on YouTub
         <td>Monday July 26</td>
         <td>
         <a
-            href="https://pretalx.com/juliacon2021/talk/review/9NYAYYMTPVFA9C7N3GUYFJ3C8YHPRSXA"
+            href="https://pretalx.com/juliacon2021/talk/9KGMHJ/"
             >It's all Set: A hands-on introduction to JuliaReach</a
         >
         </td>
@@ -200,7 +200,7 @@ Below you will find the workshop schedule along with the link to watch on YouTub
         <td>Monday July 26</td>
         <td>
         <a
-            href="https://pretalx.com/juliacon2021/talk/review/JBAB83AUDTS8VMGRJQXBY9C9AJMANSGU"
+            href="https://pretalx.com/juliacon2021/talk/J7BFBM/"
             >Introduction to Bayesian Data Analysis</a
         >
         </td>
@@ -214,7 +214,7 @@ Below you will find the workshop schedule along with the link to watch on YouTub
         <td>Tuesday July 27</td>
         <td>
         <a
-            href="https://pretalx.com/juliacon2021/talk/review/MJ7T9LXLXNDWHPW9WJN7SGTWU7L9QMJW"
+            href="https://pretalx.com/juliacon2021/talk/7SQHJH/"
             >Diffractor: Next-Gen AD for Julia</a
         >
         </td>
@@ -228,7 +228,7 @@ Below you will find the workshop schedule along with the link to watch on YouTub
         <td>Tuesday July 27</td>
         <td>
         <a
-            href="https://pretalx.com/juliacon2021/talk/review/ZEPFHE8Z3QWER8FWHQ8RTE3X7WA9VGXH"
+            href="https://pretalx.com/juliacon2021/talk/DWEMBV/"
             >Introduction to metaprogramming in Julia</a
         >
         </td>
