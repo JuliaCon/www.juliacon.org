@@ -243,5 +243,5 @@ Below you will find the workshop schedule along with the link to watch on YouTub
 ~~~
 
 ~~~
-<img src="/assets/2021/img/poster-workshops.png" alt="Poster for the JuliaCon 2021 workshop schedule" width="100%" height="400">
+<img src="/assets/2021/img/poster-workshops.png" alt="Poster for the JuliaCon 2021 workshop schedule" width="100%" height="auto">
 ~~~
