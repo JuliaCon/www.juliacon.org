@@ -111,6 +111,9 @@ top_subtitle = "(Workshops will start on the 20th, the week earlier)"
   \sponsor{name="QuEra Computing", link="https://www.quera-computing.com/", img="/assets/2021/img/sponsors/quera logo white.png", level=3}
   
   \sponsor{name="KAUST", link="https://www.kaust.edu.sa/en", img="/assets/2021/img/sponsors/kaust.png", level=3}
+  
+   \sponsor{name="DataChef", link="https://datachef.co/", img="/assets/2021/img/sponsors/datachef.png", level=3}
+
 
 
 \end{centered}
