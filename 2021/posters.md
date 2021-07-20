@@ -53,7 +53,6 @@ Use of Julia Language in the Forest Inventory|Claiton Nardini
 COBREXA.jl: COnstraint-Based Reconstruction & EXa-scale Analysis|Miroslav Kratochvíl
 ROS.jl beta release: The C++ Robot Operating System wrapper|George Stavrinos
 Three mini-utilities to manage computing resources|Colin Beckingham
-Virtual posters session|missing
 Scalable Material Simulations in a Julia Infrastructure|Jeremiah DeGreeff
 Building the BestX Event Risk Model using HawkesProcesses.jl|Dean Markwick
 In-Situ Inference for Exascale Simulations with Julia|Ayan Biswas, Earl Lawrence
