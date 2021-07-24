@@ -1,3 +1,5 @@
+The JuliaCon 2021 posters will be presented as part of a poster session which will happen synchronously on: July 30th from 16:30–18:00 UTC. You can find a calendar invite for the session here: [JuliaCon Poster Session on Pretalx](https://pretalx.com/juliacon2021/talk/NBER8M/)
+
 The following posters will be presented at JuliaCon2021:
 
 | **Title** | **Speaker names**|
