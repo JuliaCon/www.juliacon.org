@@ -212,6 +212,149 @@ The following posters will be presented at JuliaCon2021:
         <p>William Thompson</p>
         </td>
     </tr>
+    <tr>
+        <td>
+        <a
+            href="https://pretalx.com/juliacon2021/talk/AVZECZ/"
+            >Training deep learners and other iterative models with MLJ</a
+        >
+        </td>
+        <td>
+        <p>Anthony Blaom</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a
+            href="https://pretalx.com/juliacon2021/talk/BBDRQ3/"
+            >Fermi.jl: A modern design for quantum chemistry</a
+        >
+        </td>
+        <td>
+        <p>Gustavo Aroeira</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a
+            href="https://pretalx.com/juliacon2021/talk/BNUBRB/"
+            >Decomposition Physics-Informed Neural Networks (PINNs)</a
+        >
+        </td>
+        <td>
+        <p>Kirill Zubov</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a
+            href="https://pretalx.com/juliacon2021/talk/BRTTKB/"
+            >A new OpenStreetMap interface: LightOSM.jl</a
+        >
+        </td>
+        <td>
+        <p>Jack Chan</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a
+            href="https://pretalx.com/juliacon2021/talk/BXEZAQ/"
+            >Multiplying monochrome images as matrices: A*B and softmax</a
+        >
+        </td>
+        <td>
+        <p>Mishka (Michael Bukatin)</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a
+            href="https://pretalx.com/juliacon2021/talk/CMYWPV/"
+            >Bayesian network regression with applications to microbiome data</a
+        >
+        </td>
+        <td>
+        <p>Samuel Ozminkowski</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a
+            href="https://pretalx.com/juliacon2021/talk/D8E9HH/"
+            >HssMatrices.jl</a
+        >
+        </td>
+        <td>
+        <p>Boris Bonev</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a
+            href="https://pretalx.com/juliacon2021/talk/DV3UWZ/"
+            >Julia and Tensor Networks for Statistical Physics</a
+        >
+        </td>
+        <td>
+        <p>Afonso Rufino</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a
+            href="https://pretalx.com/juliacon2021/talk/DXEEDM/"
+            >GeoThermalCloud: Fusion of Big Data and Multi-Physics Models</a
+        >
+        </td>
+        <td>
+        <p>Velimir Vesselinov</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a
+            href="https://pretalx.com/juliacon2021/talk/E9PXP9/"
+            >Pebble games - Time and space to differentiate a program</a
+        >
+        </td>
+        <td>
+        <p>JinGuo Liu</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a
+            href="https://pretalx.com/juliacon2021/talk/EJASMD/"
+            >Build your own fast, multi-user Jupyter and Pluto server</a
+        >
+        </td>
+        <td>
+        <p>Bart Janssens</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a
+            href="https://pretalx.com/juliacon2021/talk/EWMZKD/"
+            >Vine-Copula package for the analysis of non-Gaussian processes</a
+        >
+        </td>
+        <td>
+        <p>Andrei Sarychev</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a
+            href="https://pretalx.com/juliacon2021/talk/FLLZNF/"
+            >1-D Finite element tool for gyroscopic systems</a
+        >
+        </td>
+        <td>
+        <p>Lysandros Anastasopoulos</p>
+        </td>
+    </tr>
     </tbody>
 </table>
 ~~~
