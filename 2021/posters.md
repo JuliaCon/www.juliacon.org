@@ -9,7 +9,7 @@ The following posters will be presented at JuliaCon2021:
     <thead>
     <tr>
         <th>Poster Title</th>
-        <th>Speaker names</th>
+        <th>Speaker Name(s)</th>
     </tr>
     </thead>
     <tbody>
