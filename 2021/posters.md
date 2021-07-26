@@ -474,4 +474,10 @@ Shuhei Kadowaki
 Jürgen Fuhrmann
 @@
 
+@@poster
+[Feasible nonlinear optimization with LFP-SQP](https://pretalx.com/juliacon2021/talk/9PXXFE/)
+
+Kevin Silmore
+@@
+
 @@
