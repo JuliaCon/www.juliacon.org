@@ -5,9 +5,6 @@ The JuliaCon 2021 posters will be presented as part of a poster session which wi
 The poster session will be held on Gathertown. Make sure to register in advance to get access to the session for Q/A and live interaction.
 
 The following posters will be presented at JuliaCon2021:
-
-**Note: the links below will 404 right now as the schedule is being finalized, stay tuned!**
-
 ~~~
 <style> .grid {
   display: grid;
