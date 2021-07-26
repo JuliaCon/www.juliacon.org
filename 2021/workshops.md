@@ -215,13 +215,11 @@ Below you will find the workshop schedule along with the link to watch on YouTub
         <td>
         <a
             href="https://pretalx.com/juliacon2021/talk/7SQHJH/"
-            >Diffractor: Next-Gen AD for Julia</a
+            >Diffractor: Next-Gen AD for Julia [Canceled] </a
         >
         </td>
         <td>
-        <a href="https://www.youtube.com/watch?v=XuTzJCvE62M"
-            >https://www.youtube.com/watch?v=XuTzJCvE62M</a
-        >
+        <p>[Canceled]</p>
         </td>
     </tr>
     <tr>
