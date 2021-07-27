@@ -4,7 +4,7 @@ title = "JuliaCon 2021, Everywhere on Earth"
 # top title + subtitle
 top_title = "Juliacon 2021 will be online and everywhere"
 top_date = "28th to 30th of July, 2021"
-top_subtitle = "(Workshops in the week earlier)"
+top_subtitle = "(Workshops will start on the 20th, the week earlier)"
 +++
 
 ~~~
@@ -38,7 +38,14 @@ top_subtitle = "(Workshops in the week earlier)"
     \avatar{name="Xiaoye (Sherry) Li ", affil="Lawrence Berkeley National Laboratory", link="https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/members/staff-members/xiaoye-li/", img="/assets/2021/img/li.jpg"}
 
   @@content-box-talk
-    Sherry Li is a Senior Scientist in the Computational Research Division, Lawrence Berkeley National Laboratory. She has worked on diverse problems in high performance scientific computations, including parallel computing, sparse matrix computations, high precision arithmetic, and combinatorial scientific computing. She has (co)authored over 120 publications, and contributed to several book chapters. She is the lead developer of SuperLU, a widely-used sparse direct solver, and has contributed to the development of several other mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. She has collaborated with many domain scientists to deploy the advanced mathematical software in their application codes, including those from accelerator engineering, chemical science, earth science, plasma fusion energy science, and materials science. She earned a Ph.D. in Computer Science from UC Berkeley in 1996. She has served on the editorial boards of the SIAM J. Scientific Comput. and ACM Trans. Math. Software, as well as many program committees of the scientific conferences. She is a SIAM Fellow and an ACM Senior Member.
+    Sherry Li is a Senior Scientist in the Computational Research Division,
+Lawrence Berkeley National Laboratory. She has worked on diverse problems
+in high performance scientific computations, including parallel computing,
+sparse matrix computations, high precision arithmetic, and combinatorial
+scientific computing. She is the lead developer of SuperLU, a widely-used
+sparse direct solver, and has contributed to the development of several other
+mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. She earned Ph.D. in Computer Science from UC Berkeley and B.S. in Computer Science from Tsinghua Univ. in China. She has served on the editorial boards of the SIAM J. Scientific Comput. and ACM Trans. Math. Software, as well as many program committees of the scientific conferences. She is a Fellow of SIAM and a Senior Member of ACM. 
+
   @@
 
     \avatar{name="Soumith Chintala ", affil="Facebook AI Research", link="https://soumith.ch/", img="/assets/2021/img/chintala.png"}
@@ -119,6 +126,9 @@ top_subtitle = "(Workshops in the week earlier)"
   \sponsor{name="QuEra Computing", link="https://www.quera-computing.com/", img="/assets/2021/img/sponsors/quera logo white.png", level=3}
   
   \sponsor{name="KAUST", link="https://www.kaust.edu.sa/en", img="/assets/2021/img/sponsors/kaust.png", level=3}
+  
+   \sponsor{name="DataChef", link="https://datachef.co/", img="/assets/2021/img/sponsors/datachef.png", level=3}
+
 
 
 \end{centered}
