@@ -21,6 +21,14 @@ top_subtitle = "(Workshops in the week earlier)"
 
 \begin{box}{title="Keynote Speakers", color="red"}
 
+
+    \avatar{name="William Kahan ", affil="UC Berkeley", link="https://people.eecs.berkeley.edu/~wkahan/", img="/assets/2021/img/kahan.jpg"}
+
+  @@content-box-talk
+    William "Velvel" Kahan was born in Canada and attended the University of Toronto for both his undergraduate and graduate studies in mathematics, and was eventually hired there as a professor. He joined the Berkeley faculty in 1968 with a joint appointment in the Math Department and as a member of the new Computer Science Department in the College of Letters and Science--before it merged with the EECS Department in the College of Engineering in 1973. He retired from the University in 2008. Kahan was instrumental in creating the IEEE 754-1985 standard for floating-point computation in the late 1970s and early 1980s. He developed a program called "paranoia' in the 1980s to test for potential floating point bugs and developed the Kaham summation algorithm which helps minimize errors introduced when adding a sequences of finite precision floating point numbers. Kahan won the ACM A.M. Turing Award in 1989. 
+  @@
+
+
   \avatar{name="Jan Vitek", affil="Northeastern University", link="http://janvitek.org/", img="/assets/2021/img/vitek.jpg"}
   
   @@content-box-talk
