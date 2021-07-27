@@ -1,10 +1,10 @@
 +++
-title = "JuliaCon 2021, Everywhere on Earth"
+title = "JuliaCon 2021 & JUMP-dev, Everywhere on Earth"
 
 # top title + subtitle
-top_title = "Juliacon 2021 will be online and everywhere"
+top_title = "Juliacon 2021 (with JUMP-dev) is online and everywhere"
 top_date = "28th to 30th of July, 2021"
-top_subtitle = "(Workshops will start on the 20th, the week earlier)"
+top_subtitle = "live.juliacon.org"
 +++
 
 ~~~
@@ -16,7 +16,7 @@ top_subtitle = "(Workshops will start on the 20th, the week earlier)"
   JuliaCon is back online in 2021. Tickets are free, but [registration](/2021/tickets/) is required.
   The main conference talks will be held between the 28th and 30th of July.
 
-  Workshops will be held in the previous week.
+  To view the talks online, visit [live.juliacon.org](http://live.juliacon.org)
 \end{box}
 
 \begin{box}{title="Keynote Speakers", color="red"}
