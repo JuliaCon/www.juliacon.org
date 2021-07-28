@@ -205,12 +205,6 @@ Niall Moran
 @@
 
 @@poster
-[GADM.jl : Julia Package for Polygon Provision from GADM Dataset](https://pretalx.com/juliacon2021/talk/KAJGA9/)
-
-Shivay Lamba
-@@
-
-@@poster
 [Faster scripts in Julia with DaemonMode.jl](https://pretalx.com/juliacon2021/talk/KJNRGA/)
 
 Daniel Molina
