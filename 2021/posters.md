@@ -292,6 +292,7 @@ Dr.Aftab Ara
 [Reproducibility, Julia, and Renku](https://pretalx.com/juliacon2021/talk/SBLEKM/)
 
 Chandrasekhar Ramakrishnan
+Gavin Lee
 @@
 
 @@poster
