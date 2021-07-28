@@ -114,6 +114,8 @@ top_subtitle = "(Workshops will start on the 20th, the week earlier)"
   
    \sponsor{name="DataChef", link="https://datachef.co/", img="/assets/2021/img/sponsors/datachef.png", level=3}
 
+   \sponsor{name="Jeffrey Sarnoff", link="https://github.com/JeffreySarnoff", img="/assets/2021/img/sponsors/sarnoff.png", level=3}
+
 
 
 \end{centered}
