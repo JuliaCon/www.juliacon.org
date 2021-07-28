@@ -67,6 +67,12 @@ Max Kapur
 @@
 
 @@poster
+[Introducing QXGraphDecompositions](https://pretalx.com/juliacon2021/talk/38TG38/)
+
+John Brennan
+@@
+
+@@poster
 [Soft Realtime Control of an Exoplanet Imaging Instrument](https://pretalx.com/juliacon2021/talk/ATNVGH/)
 
 William Thompson
