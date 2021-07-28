@@ -1,6 +1,6 @@
 # Experiences
 
-The JuliaCon 2021 experiences are a new type of presenataion for folks to share an experince they had using Julia.
+The JuliaCon 2021 experiences are a new type of presentation for folks to share an experience they had using Julia.
 
 The experiences session will take place on 2021-07-29, from 16:30–18:00, on the Purple track. You can find a calendar invite [on Pretalx](https://pretalx.com/juliacon2021/talk/MAUPF9/).
 
