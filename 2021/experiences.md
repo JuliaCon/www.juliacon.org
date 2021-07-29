@@ -29,122 +29,122 @@ The following experiences will be presented at JuliaCon2021:
 @@grid
 
 @@experience
-[Fitting Plate-reader Curves with Julia](https://pretalx.com/juliacon2021/talk/7VNJWV/)
+[Fitting Plate-reader Curves with Julia](https://pretalx.com/juliacon2021/talk/review/LVACM9WN7JVR9DXTPWVPZJXEKTWBLRHN)
 
 Thomas A. Poulsen
 @@
 
 @@experience
-[Probabilistic K-Nearest Neighbours](https://pretalx.com/juliacon2021/talk/7WWKSK/)
+[Probabilistic K-Nearest Neighbours](https://pretalx.com/juliacon2021/talk/review/CK3HWBSKMJBEG7ABVJNMNPS7DE9MJYLN)
 
 Gerardo Duran-Martin
 @@
 
 @@experience
-[Speeding up cosmological data analysis with Julia](https://pretalx.com/juliacon2021/talk/8ATSN3/)
+[Speeding up cosmological data analysis with Julia](https://pretalx.com/juliacon2021/talk/review/89SZRAKPK83PTDCZKLSBQUS7SFM89HJS)
 
 Marco Bonici
 @@
 
 @@experience
-[Julia for end to end financial analysis](https://pretalx.com/juliacon2021/talk/BYW9KR/)
+[Julia for end to end financial analysis](https://pretalx.com/juliacon2021/talk/review/XRCM9RNBFD9HJSHUULJT3KM8YTATVZCM)
 
 Mohamed Zahran
 @@
 
 @@experience
-[Musical Julia](https://pretalx.com/juliacon2021/talk/CMPNPF/)
+[Musical Julia](https://pretalx.com/juliacon2021/talk/review/PXYXCWDJFG7NWQSWYEZY3JPMLXN7K8AN)
 
 Radhika Ivaturi
 @@
 
 @@experience
-[Theory is (nearly) implementation with julia types](https://pretalx.com/juliacon2021/talk/CQ9F37/)
+[Theory is (nearly) implementation with julia types](https://pretalx.com/juliacon2021/talk/review/TZMFYFHQ7ZMW9YPNQUMPDKF77YXNRYEQ)
 
 Gregor Kappler
 @@
 
 @@experience
-[Processing Light-Sheet Microscopy Data Using Julia](https://pretalx.com/juliacon2021/talk/FRTBV8/)
+[Processing Light-Sheet Microscopy Data Using Julia](https://pretalx.com/juliacon2021/talk/review/NDZV9RTSTFQWY8ZVJS3PGKVQJXCDLHG9)
 
 Mark Kittisopikul, Ph.D.
 @@
 
 @@experience
-[Learning during the pandemic](https://pretalx.com/juliacon2021/talk/KTDNM8/)
+[Learning during the pandemic](https://pretalx.com/juliacon2021/talk/review/8SD9ESMDPX98BWG7SG8GFGXGUJWKV93Z)
 
 Krithika Natarajan
 @@
 
 @@experience
-[Strengths and Challenges of Julia for learning Linear Algebra](https://pretalx.com/juliacon2021/talk/KWNMHU/)
+[Strengths and Challenges of Julia for learning Linear Algebra](https://pretalx.com/juliacon2021/talk/review/HMJY97B8GZCEZFM9ZYBB9ZEBYNTQYUDR)
 
 John Woolverton
 @@
 
 @@experience
-[Jumping into the Julia Community via Advent Of Code](https://pretalx.com/juliacon2021/talk/LNPMBP/)
+[Jumping into the Julia Community via Advent Of Code](https://pretalx.com/juliacon2021/talk/review/PCRSQG78JYAHNRC87WH7EUE7PRVSCTYW)
 
 Jasmine Hughes
 @@
 
 @@experience
-[Applications of Julia for Network Science Text Analysis](https://pretalx.com/juliacon2021/talk/QNWEDW/)
+[Applications of Julia for Network Science Text Analysis](https://pretalx.com/juliacon2021/talk/review/BABBQMGKFHU3GVSLBEX8FAAULLEXTVKJ)
 
 Mira Tellegen
 @@
 
 @@experience
-[Multiplying monochrome images as matrices: A*B and softmax](https://pretalx.com/juliacon2021/talk/BXEZAQ/)
+[Multiplying monochrome images as matrices: A*B and softmax](https://pretalx.com/juliacon2021/talk/review/VDM9RXRBZQDG79XHCMKSJTHPYNE9TRLS)
 
 Mishka (Michael Bukatin)
 @@
 
 @@experience
-[Bootstrapping Data Science and Diversity](https://pretalx.com/juliacon2021/talk/R7G87P/)
+[Bootstrapping Data Science and Diversity](https://pretalx.com/juliacon2021/talk/review/JYPQAFXUSRVDXREKTUZ9MX3FA9S3UFMK)
 
 Matthew A Tillman-Hart
 Sam Urmy
 @@
 
 @@experience
-[Disrupting Esoteric Language Microbenchmarks with an 80-line JIT](https://pretalx.com/juliacon2021/talk/TCBRVL/)
+[Disrupting Esoteric Language Microbenchmarks with an 80-line JIT](https://pretalx.com/juliacon2021/talk/review/D3CRLTDZNRWBVARZXJGLTYSMGSVNMM8G)
 
 Seth Chapman
 @@
 
 @@experience
-[Julia & Healthcare Technology Assessment Analytics](https://pretalx.com/juliacon2021/talk/TLGXCD/)
+[Julia & Healthcare Technology Assessment Analytics](https://pretalx.com/juliacon2021/talk/review/WXWXYFB3NRTKUJVBCMR7AMHMZBKASYMJ)
 
 Erik J Dasbach
 @@
 
 @@experience
-[Simulation of additive manufacturing processes in Julia](https://pretalx.com/juliacon2021/talk/TQ8GS3/)
+[Simulation of additive manufacturing processes in Julia](https://pretalx.com/juliacon2021/talk/review/T7QCDAYXM7BBWVPFN8ZSHWEK7Q7DHKAB)
 
 Luca Lubeto
 @@
 
 @@experience
-[High Performance Tsunami Forecasting](https://pretalx.com/juliacon2021/talk/WJTAME/)
+[High Performance Tsunami Forecasting](https://pretalx.com/juliacon2021/talk/review/ENZRGEP8QUPWBLLWPNT78ZBUDGDABRKT)
 
 Tuomas Koskela
 @@
 
 @@experience
-[Sonification: Exploring streaming data using live music coding](https://pretalx.com/juliacon2021/talk/XKJKTB/)
+[Sonification: Exploring streaming data using live music coding](https://pretalx.com/juliacon2021/talk/review/TBJNPXRYYZDP7F8TVPBUBBQEQGCDBP3T)
 
 Nicki Cartlidge
 @@
 
 @@experience
-[Julia as a framework for a Theoretical Physics PhD](https://pretalx.com/juliacon2021/talk/Y7ENBL/)
+[Julia as a framework for a Theoretical Physics PhD](https://pretalx.com/juliacon2021/talk/review/LTB8QRJDQN3LMDEX3MCC8RVHZPDHPKSJ)
 
 Alejandro R. Urzúa
 @@
 
 @@experience
-[Awesome Computer Vision Done Quick](https://pretalx.com/juliacon2021/talk/ZHJ9SD/)
+[Awesome Computer Vision Done Quick](https://pretalx.com/juliacon2021/talk/review/Q33JM7PGZ8GNX3KVWTVL3VPAG3YDGYBB)
 
 Bishmer Sekaran
 @@
