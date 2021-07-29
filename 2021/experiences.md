@@ -47,12 +47,6 @@ Marco Bonici
 @@
 
 @@experience
-[The wonderfully helpful Julia community](https://pretalx.com/juliacon2021/talk/8KCB3E/)
-
-Kim Paolo Laberinto
-@@
-
-@@experience
 [Julia for end to end financial analysis](https://pretalx.com/juliacon2021/talk/BYW9KR/)
 
 Mohamed Zahran
@@ -141,12 +135,6 @@ Tuomas Koskela
 [Sonification: Exploring streaming data using live music coding](https://pretalx.com/juliacon2021/talk/XKJKTB/)
 
 Nicki Cartlidge
-@@
-
-@@experience
-[Yawipa: a comprehensive and extensible Wiktionary parser](https://pretalx.com/juliacon2021/talk/XR9MLU/)
-
-Winston Wu
 @@
 
 @@experience
