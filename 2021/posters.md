@@ -481,4 +481,9 @@ Jürgen Fuhrmann
 Kevin Silmore
 @@
 
+@@poster
+[75. Surrogate models of Multiscale Dynamical Systems](https://pretalx.com/juliacon2021/talk/7BDGGA/)
+
+Ranjan Anantharaman
+@@
 @@
