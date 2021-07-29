@@ -486,4 +486,11 @@ Kevin Silmore
 
 Ranjan Anantharaman
 @@
+
+@@poster
+[77. Auto-Parallelization at Cloud Scale with Banyan](https://pretalx.com/juliacon2021/talk/3CJQWH/)
+
+Caleb Winston 
+@@
+
 @@
