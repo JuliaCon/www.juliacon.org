@@ -65,8 +65,7 @@ mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. 
 \end{box}
 
 \begin{box}{title="Julia Community Prize", color="light-red"}
-  The annual Julia community prize recognises outstanding contributions to the Julia community, in code, documentation or community building.
-  The awards includes a certificate of accomplishment and a cash prize of \$1000. Please submit nominations [here](https://forms.gle/FhQnUSk8HxuWHS4t5).
+  The Julia Community Prize [has been announced](prize/). Congratulations to the winners. 
 \end{box}
 
 \begin{box}{title="Code of Conduct", color="dark-green"}
