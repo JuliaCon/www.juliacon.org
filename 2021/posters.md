@@ -494,8 +494,14 @@ Caleb Winston
 @@
 
 @@poster
-[78. Optimal control problems in chemical engineering with Julia]()
+[78. Optimal control problems in chemical engineering with Julia](https://pretalx.com/juliacon2021/talk/78L3MP/)
 
 Oswaldo Andres
+@@
+
+@@poster
+[79. ParameterHandling.jl](https://pretalx.com/juliacon2021/talk/3BFJZ7/)
+
+Will Tebbutt
 @@
 @@
