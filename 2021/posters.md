@@ -493,4 +493,9 @@ Ranjan Anantharaman
 Caleb Winston 
 @@
 
+@@poster
+[78. Optimal control problems in chemical engineering with Julia]()
+
+Oswaldo Andres
+@@
 @@
