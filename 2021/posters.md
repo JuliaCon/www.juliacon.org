@@ -352,7 +352,7 @@ Gael Forget
 @@poster
 [54. Optimization-based gap finding and filling in Julia](https://pretalx.com/juliacon2021/talk/review/8ZUJBSM8TWVWRZAYEF8JPKUYMH38R8ND)
 
-Peter Zhiping Zhang
+Ping Zhang
 @@
 
 @@poster
