@@ -2,9 +2,9 @@
 title = "JuliaCon 2021 & JuMP-dev, Everywhere on Earth"
 
 # top title + subtitle
-top_title = "Juliacon 2021 (with JuMP-dev) is online and everywhere"
+top_title = "Juliacon 2021 (with JuMP-dev) was online and virtual"
 top_date = "28th to 30th of July, 2021"
-top_subtitle = "live.juliacon.org"
+top_subtitle = "check out all the recorded talks on YouTube"
 +++
 
 ~~~
