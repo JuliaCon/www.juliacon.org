@@ -1,4 +1,4 @@
-# JuliaCon 2021 Organizing Committee
+# JuliaCon 2022 Organizing Committee
 
 * Jane Herriman, co-Chair
 * Avik Sengupta, co-Chair

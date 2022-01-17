@@ -4,7 +4,6 @@ The Julia Community Prize nominations will open soon.
 Winners will receive a certificate of accomplishment and a cash prize of \$1000.00 each has been awarded to:
 
 
-
 \vskip
 
 ## Awards Committee
