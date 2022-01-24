@@ -1,7 +1,10 @@
 # JuliaCon 2022 Organizing Committee
 
-* Jane Herriman, co-Chair
 * Avik Sengupta, co-Chair
+* Valentin Churavy, co-Chair
+* Katharine Hyatt, Program
+* Michael Herbst, Program
+* Oscar Dowson, Program (JuMP)
 * Ranjan Anantharaman, Finance
 * Kevin O'Brien, Media and Publicity
 * Logan Kilpatrick, Media and Publicity
