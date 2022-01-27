@@ -5,6 +5,7 @@
 * Katharine Hyatt, Program
 * Michael Herbst, Program
 * Oscar Dowson, Program (JuMP)
+* Kelly Shen, Diversity & Inclusion
 * Ranjan Anantharaman, Finance
 * Kevin O'Brien, Media and Publicity
 * Logan Kilpatrick, Media and Publicity
