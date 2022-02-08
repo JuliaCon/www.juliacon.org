@@ -164,7 +164,7 @@ Sie können uns bei allen Fragen und Anliegen unter juliacon@julialang.org errei
 # Verhaltenskodex der Konferenz
 JuliaCon ist bestrebt, allen Teilnehmern ein positives Konferenzerlebnis zu
 bieten, unabhängig von Geschlecht, Geschlechtsidentität,
-sexueller Orientierung, Behinderung, körperlichem Aussehen, Körpergröße, Rasse,
+sexueller Orientierung, Behinderung, körperlichem Aussehen, Körpergröße,
 Alter, Religion oder nationaler und ethnischer Herkunft. Wir fördern einen
 respektvollen und rücksichtsvollen Umgang zwischen den Teilnehmern und dulden
 keine Belästigung von Konferenzteilnehmern in irgendeiner Form. So sind
