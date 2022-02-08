@@ -1,6 +1,6 @@
 # JuliaCon2022 CFP (Call for Proposals) ¡en Español!
 * Esta convocatoria cierra el 2022-04-01 11:59 (UTC).*
-*Este documento está disponible en francés, alemán, chino, ... (¿Falta el tuyo? [Por favor manda un Pull Request](https://github.com/JuliaCon/www.juliacon.org/pulls))*
+*Este documento está disponible en francés, alemán, chino, ... (¿Falta su idioma? [Por favor mande un Pull Request](https://github.com/JuliaCon/www.juliacon.org/pulls))*
 
 Les invitamos a presentar una propuesta de plática en JuliaCon2022.
 
