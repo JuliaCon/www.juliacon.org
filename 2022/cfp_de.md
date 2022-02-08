@@ -1,5 +1,5 @@
 # JuliaCon 2022 CFP
-*Dieser Call for Proposals wurde am 2021-04-01 11:59 (UTC) beendet.*  
+*Dieser Aufruf zur Einreichung von Konferenzvorschlägen wurde am 2021-04-01 11:59 (UTC) beendet.*  
 
 Wie jedes Jahr, laden wir Sie auch in diesem Jahr herzlich dazu ein Vortragsvorschläge für die JuliaCon 2022 einzureichen.
 
@@ -9,9 +9,9 @@ Forschern aus der Industrie oder dem akademischen Bereich. Wenn Sie in der
 Vergangenheit mit Julia gearbeitet haben, ist die JuliaCon der beste Ort, um
 Ihre Arbeit mit anderen aus der Juliagemeinschaft zu teilen.
 
-Um einen genaueren Einblick in die üblichen Vortragsthemen zu bekommen,
-sei auf die Liste der Vorjahresvorträge, sowie die entsprechenden Vortragsaufnahmen
-verwiesen: ([2014](https://juliacon.org/2014),
+Einen genaueren Einblick in die üblichen Vortragsthemen geben die Listen der
+Vorjahresvorträge, sowie die entsprechenden Vortragsaufnahmen:
+([2014](https://juliacon.org/2014),
 [2015](https://juliacon.org/2015), [2016](https://juliacon.org/2016),
 [2017](https://juliacon.org/2017), [2018](https://juliacon.org/2018),
 [2019](https://juliacon.org/2019), [2020](https://juliacon.org/2020) und
@@ -72,7 +72,7 @@ Bei einem Workshop handelt es sich in der Regel um eine dreistündige
 interaktive praktische Veranstaltung, bei welcher der Vortragende live vor dem Publikum
 programmiert und den Code mit den Teilnehmern teilt, sodass diese leicht
 folgen können.  Die Workshops finden vor dem offiziellen Beginn der Konferenz
-statt (wie auch die Minisymposia). Zu den Themen dieser Schiene gehören beispielsweise
+statt (wie auch die Minisymposia). Zu den Themen dieser Kategorie gehören beispielsweise
 paketspezifische Tutorien oder fachspezifische Tutorien. *Hinweis:* Da dies das erste
 Jahr ist, in welchem die JuliaCon Vorschläge für nicht-englischsprachige Workshops
 akzeptiert, sollten nicht-englischsprachige Workshops eher einen einführenden
@@ -83,8 +83,8 @@ Da die JuliaCon in diesem Jahr eine reine Online-Konferenz ist, werden die
 Posterpräsentatoren keine physischen Poster vorbereiten. Stattdessen werden sie
 gebeten, dreiminütige Aufnahmen ihrer vorgeschlagenen Themen zu erstellen. Die
 Videos werden dann in speziellen Chaträumen zur Verfügung gestellt, sodass
-die neue Teilnehmer im Chatraum sich das Video schnell ansehen und sich direkt an
-der Diskussion beteiligen können.
+die dem Chatraum neu beitretenden Teilnehmer sich das Video schnell ansehen und
+direkt an der Diskussion beteiligen können.
 
 ### Birds of a Feather / Interessensgruppen
 Die "Birds of a Feather"-Sitzungen sind organisierte Diskussionen zu bestimmten Themen.
@@ -243,8 +243,8 @@ Die Nichteinhaltung dieser Kriterien führt zu einer niedrigeren Bewertung des B
    geeigneter Ort für Werbung oder Produktplatzierung.
 
 ## Benotung
-Im Folgenden sind die Kriterien aufgeführt, nach denen die Noten (1-5) vergeben
-werden sollten:
+Im Folgenden sind die Kriterien aufgeführt, nach denen die Noten von 1 (wenig erfüllt)
+bis 5 (voll erfüllt) vergeben werden sollten:
 
 1. Anwendbarkeit für die Juliagemeinschaft. Wären Julianutzer an diesem
    Vortrag interessiert, entweder wegen der Methoden oder wegen der Ergebnisse?
@@ -310,8 +310,8 @@ werden sollten:
   Ablehnungen veröffentlicht.
 
 - Ein spezielles Symposium ist reserviert für Blitzvorträge von
-  Google-Summer-of-Code-Studenten. Da die Genehmigung/Ablehnung von
-  JuliaCon-Beiträgen erfolgt bevor die Auswahl der GSoC-Studenten getroffen
+  Google-Summer-of-Code-Teilnehmern. Da die Genehmigung/Ablehnung von
+  JuliaCon-Beiträgen erfolgt bevor die Auswahl der GSoC-Teilnehmer getroffen
   wurde, wird dieses Symposium erst zu einem späteren Zeitpunkt gefüllt.
   Vorschläge für dieses Symposium werden direkt vom Prüfungsausschuss geprüft.
 
