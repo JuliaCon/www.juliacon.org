@@ -3,11 +3,11 @@
 
 Wie jedes Jahr, laden wir Sie auch in diesem Jahr herzlich dazu ein Vortragsvorschläge für die JuliaCon 2022 einzureichen.
 
-Die JuliaCon bietet traditionell eine Mischung an Vorträgen sowohl für Einsteiger, als auch
-für Fortgeschrittene, mit Themen aus verschiedenen Fachrichtungen, von Entwicklern,
-Forschern aus der Industrie oder dem akademischen Bereich. Wenn Sie in der
-Vergangenheit mit Julia gearbeitet haben, ist die JuliaCon der beste Ort, um
-Ihre Arbeit mit anderen aus der Juliagemeinschaft zu teilen.
+Die JuliaCon bietet traditionell eine Mischung an Vorträgen sowohl für Einsteiger:innen,
+als auch für Fortgeschrittene, mit Themen aus verschiedenen Fachrichtungen,
+von Entwickler:innen, Forscher:innen aus der Industrie oder dem akademischen Bereich.
+Wenn Sie in der Vergangenheit mit Julia gearbeitet haben, ist die JuliaCon der beste
+Ort, um Ihre Arbeit mit anderen aus der Juliagemeinschaft zu teilen.
 
 Einen genaueren Einblick in die üblichen Vortragsthemen geben die Listen der
 Vorjahresvorträge, sowie die entsprechenden Vortragsaufnahmen:
@@ -60,17 +60,18 @@ handelt.
 
 ### Minisymposia
 Ein Minisymposium ist eine "Konferenz innerhalb einer Konferenz", bei der die
-Organisatoren für die Planung von Rednern, Diskussion und Diskussionsrunden
+Organisator:innen für die Planung von Redner:innen, Diskussion und Diskussionsrunden
 nach eigenem Ermessen verantwortlich sind. Von den Veranstaltern eines
-Minisymposiums wird auch erwartet, dass sie einen Moderator oder Vorsitzenden
-stellen. Einem Minisymposium wird ein Zeitfenster von zwei bis drei Stunden zugewiesen.
+Minisymposiums wird auch erwartet, dass sie Moderatoren oder Vorsitzende
+für das Symposium stellen.
+Einem Minisymposium wird ein Zeitfenster von zwei bis drei Stunden zugewiesen.
 *Hinweis:* Im Gegensatz zur JuliaCon 2021 werden die Minisymposia vor dem offiziellen
 Beginn der Konferenz, also zusammen mit den Workshops stattfinden.
 
 ### Workshops
 Bei einem Workshop handelt es sich in der Regel um eine dreistündige
-interaktive praktische Veranstaltung, bei welcher der Vortragende live vor dem Publikum
-programmiert und den Code mit den Teilnehmern teilt, sodass diese leicht
+interaktive praktische Veranstaltung, bei welcher der/die Vortragende live vor dem Publikum
+programmiert und den Code mit den anderen Teilnehmenden teilt, sodass diese leicht
 folgen können.  Die Workshops finden vor dem offiziellen Beginn der Konferenz
 statt (wie auch die Minisymposia). Zu den Themen dieser Kategorie gehören beispielsweise
 paketspezifische Tutorien oder fachspezifische Tutorien. *Hinweis:* Da dies das erste
@@ -80,17 +81,17 @@ Charakter haben.
 
 ### Virtuelle Poster
 Da die JuliaCon in diesem Jahr eine reine Online-Konferenz ist, werden die
-Posterpräsentatoren keine physischen Poster vorbereiten. Stattdessen werden sie
+Posterpräsentator:innen keine physischen Poster vorbereiten. Stattdessen werden sie
 gebeten, dreiminütige Aufnahmen ihrer vorgeschlagenen Themen zu erstellen. Die
 Videos werden dann in speziellen Chaträumen zur Verfügung gestellt, sodass
-die dem Chatraum neu beitretenden Teilnehmer sich das Video schnell ansehen und
+die dem Chatraum neu beitretenden Teilnehmer:innen sich das Video schnell ansehen und
 direkt an der Diskussion beteiligen können.
 
 ### Birds of a Feather / Interessensgruppen
 Die "Birds of a Feather"-Sitzungen sind organisierte Diskussionen zu bestimmten Themen.
-Beispielsweise können Paketbetreuer diese Zeit nutzen, um ein Treffen mit Mitwirkenden
-zu organisieren und diese zu rekrutieren, eine Diskussionsgruppe könnte Erfahrungen
-mit auf Julia basierten Lehrmaterialien austauschen oder eine Arbeitsgemeinschaft
+Beispielsweise können Paketbetreuer:innen diese Zeit nutzen, um ein Treffen mit
+Mitwirkenden zu organisieren und diese zu rekrutieren, eine Diskussionsgruppe könnte
+Erfahrungen mit auf Julia basierten Lehrmaterialien austauschen oder eine Arbeitsgemeinschaft
 für Diversität in der Juliagemeinschaft könnte sich organisieren. Diese
 Sitzungen werden jeweils eine Stunde dauern und werden nicht aufgezeichnet.
 
@@ -102,25 +103,25 @@ Universitätskurs, oder ganz allgemein wie Julia sich gut in den persönlichen
 Arbeitsablauf integriert und diesen ergänzt. Da für diese Vortragskategorie
 keine Zeit für Fragen vorgesehen ist, ermutigen wir Sie im Besonderen
 Kontaktinformationen wie Ihren Twitter- oder Github-Nutzernamen
-oder Ihre E-Mail-Adresse auf Ihren Folien anzugeben, damit Zuseher Ihnen
+oder Ihre E-Mail-Adresse auf Ihren Folien anzugeben, damit Zuseher:innen Ihnen
 Fragen zukommen lassen können. Wir freuen uns besonders, wenn Julianeulinge
 mittels dieser Beitragskategorie ihre Eindrücke mit der Juliagemeinschaft teilen.
-Falls Sie als Lehrer oder Professor Julia in Ihren Kursen verwenden, möchten
-wir Sie bitten, Ihre Studenten einzuladen, bei dieser Kategorie Ihre Erfahrungen
+Falls Sie als Lehrer:in oder Professor:in Julia in Ihren Kursen verwenden, möchten
+wir Sie bitten, Ihre Student:innen einzuladen, bei dieser Kategorie Ihre Erfahrungen
 mit der Juliagemeinschaft zu teilen.
 
 # Details zur Einreichung und Begutachtung
 Wir verwenden ein anonymisiertes Begutachtungsverfahren um Auswahlverzerrungen
-in Bezug auf den Sprecher zu vermeiden. Obwohl ein Doppelblindverfahren nicht
-vollständig gewährleistet werden kann, da die meisten Einreichungen auf öffentlichen
+in Bezug auf den Sprecher / die Sprecherin zu vermeiden. Obwohl ein Doppelblindverfahren
+nicht vollständig gewährleistet werden kann, da die meisten Einreichungen auf öffentlichen
 Open-Source-Code verweisen, werden alle Anstrengungen unternommen, um eine
 unparteiische Prüfung der Einreichungen zu gewährleisten. In diesem Jahr können
 Sie Beiträge in einer Sprache Ihrer Wahl einreichen. Bei nicht-englischen Beiträgen
 fügen Sie bitte immer eine Version Ihres Beschreibungstextes in Englisch bei
 (eine maschinelle Übersetzung ist völlig in Ordnung). Wir werden immer versuchen,
-fließende Sprecher in der gewählten Sprache zu finden, um den Vorschlag
+fließende Sprecher:innen in der gewählten Sprache zu finden, um den Vorschlag
 zu begutachten. Sollte dies jedoch nicht möglich sein, werden wir auf die englische
-Übersetzung zurückgreifen, um den Vorschlag einem größeren Kreis von Gutachtern
+Übersetzung zurückgreifen, um den Vorschlag einem größeren Kreis von Gutachter:innen
 vorlegen zu können. Falls Sie Ihren Vortrag in einer anderen Sprache als Englisch halten
 möchten, vermerken Sie dies bitte in der Zusammenfassung selbst
 (z. B. "Dieser Workshop wird auf Thailändisch gehalten." oder
@@ -134,7 +135,7 @@ Raum günstigen Zeitpunkt stattfinden sollte.
 
 ### Aufzeichnungen und Vortragsmaterialien
 Die JuliaCon 2022 wird eine Online-Konferenz sein. Um die Planung der
-Konferenz zu erleichtern, werden wir unsere Redner bitten, eine aufgezeichnete
+Konferenz zu erleichtern, werden wir unsere Redner:innen bitten, eine aufgezeichnete
 Version ihres Vortrags vor der Konferenz einzureichen. Ebenfalls planen wir
 das gesamte aufgezeichnete Material nach der Konferenz öffentlich zugänglich zu
 machen. Wenn Sie es aus irgendeinem Grund vorziehen, dass Ihr Video privat
@@ -162,16 +163,16 @@ die JuliaCon 2022 eine reine Online-Konferenz ist, wird die Anmeldung kostenlos 
 Sie können uns bei allen Fragen und Anliegen unter juliacon@julialang.org erreichen.
 
 # Verhaltenskodex der Konferenz
-JuliaCon ist bestrebt, allen Teilnehmern ein positives Konferenzerlebnis zu
+JuliaCon ist bestrebt, allen Teilnehmer:innen ein positives Konferenzerlebnis zu
 bieten, unabhängig von Geschlecht, Geschlechtsidentität,
 sexueller Orientierung, Behinderung, körperlichem Aussehen, Körpergröße,
 Alter, Religion oder nationaler und ethnischer Herkunft. Wir fördern einen
-respektvollen und rücksichtsvollen Umgang zwischen den Teilnehmern und dulden
-keine Belästigung von Konferenzteilnehmern in irgendeiner Form. So sind
+respektvollen und rücksichtsvollen Umgang zwischen den Teilnehmenden und dulden
+keine Belästigung von Konferenzteilnehmer:innen in irgendeiner Form. So sind
 beispielsweise beleidigende oder sexuelle Ausdrücke und Bilder an keinem
 Konferenzort angebracht, auch nicht bei offiziellen Gesprächen und beim
-Plauschen zwischen den Sitzungen. Konferenzteilnehmer, die gegen diese
-Standards verstoßen, können nach Ermessen der Konferenzorganisatoren mit
+Plauschen zwischen den Sitzungen. Konferenzteilnehmer:innen, die gegen diese
+Standards verstoßen, können nach Ermessen der Konferenzorganisator:innen mit
 Sanktionen belegt oder von der Konferenz ausgeschlossen werden (ohne
 Rückerstattung). Unseren Verhaltenskodex finden Sie
 [hier](https://juliacon.org/2022/coc) (auf Englisch).
@@ -179,30 +180,30 @@ Rückerstattung). Unseren Verhaltenskodex finden Sie
 # Anhang
 
 ## Richtlinien und Verfahren der Begutachtung
-Nachfolgend finden Sie die Richtlinien und Verfahren, welche die Gutachter
+Nachfolgend finden Sie die Richtlinien und Verfahren, welche die Gutachter:innen
 bei der Beurteilung Ihrer Einreichung anwenden werden.
-Die Hauptaufgabe der Gutachter besteht darin, die Qualität der Inhalte
+Die Hauptaufgabe der Gutachter:innen besteht darin, die Qualität der Inhalte
 auf der JuliaCon zu gewährleisten.
 
 ## Interessenkonflikte
-Im Falle eines Interessenkonflikts verpflichtet sich der Gutachter, sich von
+Im Falle eines Interessenkonflikts verpflichtet sich der Begutachtende, sich von
 der Begutachtung zurückzuziehen und den Organisatoren mitzuteilen,
-dass ein Ersatz gefunden werden muss. Kein Gutachter sollte einen Vortrag
-begutachten, an dem er als Autor beteiligt ist oder in einem anderen
+dass ein Ersatz gefunden werden muss. Kein:e Gutachter:in sollte einen Vortrag
+begutachten, an dem er/sie als Autor:in beteiligt ist oder in einem anderen
 Interessenkonflikt steht. In den [PNAS-Richtlinien](https://www.pnas.org/page/authors/conflict-of-interest)
 (auf Englisch) finden Sie eine Definition und Beispiele. Ein solcher Konflikt
 ist insbesondere dann geboten, wenn die begutachtete Arbeit oder die beteiligten
-Autoren in einer Weise mit dem Gutachter verbunden sind,
+Autoren in einer Weise mit dem/der Gutachter:in verbunden sind,
 "die einen finanziellen oder intellektuellen Interessenkonflikt
 darstellt oder als solchen wahrgenommen werden könnte" (PNAS-Richtlinien oben).
 
 ## Verhaltensregeln
-Der/die Gutachter/in verpflichtet sich, den [Verhaltenskodex](https://juliacon.org/2022/coc)
+Der/die Gutachter:in verpflichtet sich, den [Verhaltenskodex](https://juliacon.org/2022/coc)
 (auf Englisch) der Konferenz bei der Bewertung und bei allen Mitteilungen
 während des Begutachtungsprozesses zu lesen und einzuhalten.
 
 Wenn eine eingereichte Zusammenfassung nicht mit dem Verhaltenskodex
-übereinstimmt, sollte der Gutachter dies dem Organisationskomitee anzeigen.
+übereinstimmt, sollte der/die Gutachter:in dies dem Organisationskomitee anzeigen.
 
 ## Begutachtungskriterien
 
@@ -224,16 +225,16 @@ Die Nichteinhaltung dieser Kriterien führt zu einer niedrigeren Bewertung des B
      - Finanzwesen und Wirtschaftswissenschaften
      - Allgemeine Datenverarbeitung
      - Industrielle Anwendungen
-     - Details zum Juliakompiler, zu Juliawerkzeugen und dem Juliaökosystem
+     - Details zum Juliakompilierer, zu Juliawerkzeugen und dem Juliaökosystem
      - Numerische und mathematische Optimierung
      - Wissenschaftliches Rechnen
-     - Bewährte Praktiken beim Software-Engineering
+     - Bewährte Praktiken in der Softwareentwicklung
      - Statistik, maschinelles Lernen und Künstliche Intelligenz
      - Computergestützte Geistes- und Sozialwissenschaften
 
 4. Falls das vom Autor vorgeschlagene Beitragsformat (Experience,
    Kurzvortrag, Vortrag, Workshop, Poster, Minisymposium, Birds of a Feather)
-   unpassend erscheint, kann der Gutachter dies anzeigen und ein anderes Format
+   unpassend erscheint, kann der/die Gutachter:in dies anzeigen und ein anderes Format
    vorschlagen.
 
 5. Anwendungen von Julia in einem Unternehmen sind generell von
@@ -246,29 +247,28 @@ Die Nichteinhaltung dieser Kriterien führt zu einer niedrigeren Bewertung des B
 Im Folgenden sind die Kriterien aufgeführt, nach denen die Noten von 1 (wenig erfüllt)
 bis 5 (voll erfüllt) vergeben werden sollten:
 
-1. Anwendbarkeit für die Juliagemeinschaft. Wären Julianutzer an diesem
+1. Anwendbarkeit für die Juliagemeinschaft. Wären Julianutzer:innen an diesem
    Vortrag interessiert, entweder wegen der Methoden oder wegen der Ergebnisse?
-   Höher bewertete Vorschläge sollten für Julianutzer von großem Interesse sein.
+   Höher bewertete Vorschläge sollten für Julianutzer:innen von großem Interesse sein.
 
 2. Beiträge für die Gemeinschaft. Handelt es sich um ein neues Paket, das
    andere nutzen können? Höher bewertete Vorschläge sollten Code oder Ideen
    sein, die andere nutzen können.
 
-3. Klarheit. Was ist der Zweck dieses Vortrags? Was werden die Teilnehmer
+3. Klarheit. Was ist der Zweck dieses Vortrags? Was werden die Teilnehmer:innen
    lernen? Vorschläge, die eine höhere Punktzahl erreichen, sollten eine
    klare Vortragsabsicht haben.
 
 4. Bedeutung für die Gemeinschaft. Handelt es sich um etwas, was die Art und
    Weise wie Julia oder das Paket-Ökosystem genutzt wird verändern wird?
-   Höher bewertete Vorschläge sollten für Julianutzer von
+   Höher bewertete Vorschläge sollten für Julianutzer:innen von
    größerer Bedeutung sein. Beachten Sie, dass dies keine wissenschaftliche
    Bedeutung erfordert, sondern nur die Bedeutung als Software oder Anleitung
-   für Julianutzer.
+   für Julianutzer:innen.
 
 5. Themenvielfalt. Als Gemeinschaft schätzen wir die Vielfalt der Anwendungen.
    Vorschläge, die auf neue Bereiche und Felder abzielen, die die
-   Juliagemeinschaft erweitern kann, sollten eine gewisse Anerkennung
-   erhalten.
+   Juliagemeinschaft erweitern kann, sollten eine gewisse Anerkennung erhalten.
 
 6. Fundiertheit. Die Vorschläge sollten technisch solide sein. Offensichtliche
    Unrichtigkeiten sollten hervorgehoben und berücksichtigt werden.
@@ -283,13 +283,13 @@ bis 5 (voll erfüllt) vergeben werden sollten:
   kohärenter Workshop-Zeitplan festgelegt.
 
 - Vorträge, Blitzvorträge, Poster und Minisymposia werden gemeinsam in zwei
-  Runden bewertet. In der ersten Runde erhalten alle Gutachter eine Auswahl von
+  Runden bewertet. In der ersten Runde erhalten alle Gutachter:innen eine Auswahl von
   X Vorschlägen zur Begutachtung, so dass jeder Vorschlag 3 Begutachtungen
   erhält. Jede Bewertung sollte eine Punktzahl und einen Kommentar enthalten,
-  der mindestens in einem Satz die Gedanken des Gutachters zu dem Vorschlag
-  zusammenfasst. Wenn ein Gutachter ausscheidet, wird in einer zweiten Runde
-  versucht weitere Gutachter für den Vorschlag zu finden, indem er erneut
-  an die aktiven Gutachter weiterverteilt wird. Nach dieser Runde wird der Ausschuss
+  der mindestens in einem Satz die Gedanken zu dem Vorschlag
+  zusammenfasst. Wenn ein:e Gutachter:in ausscheidet, wird in einer zweiten Runde
+  versucht weitere Gutachter:innen für den Vorschlag zu finden, indem er erneut
+  an die aktiven Gutachter:innen weiterverteilt wird. Nach dieser Runde wird der Ausschuss
   sicherstellen, dass jeder Vorschlag drei Begutachtungen erhalten hat.
 
 - Nach den beiden Prüfungsphasen folgt die Auswahlphase. Die besten Vorschläge
@@ -302,7 +302,7 @@ bis 5 (voll erfüllt) vergeben werden sollten:
   bedenkliche Kommentare vorbehalten.
 
 - In der zweiten Auswahlphase entscheidet der Programmausschuss anhand der
-  Bewertungen der Gutachter, der Kommentare und der Neueinstufungen über die
+  Bewertungen der Gutachter:innen, der Kommentare und der Neueinstufungen über die
   endgültige Annahme der Vorschläge. Abgelehnte Vorschläge werden im Hinblick
   auf eine Neueinstufung diskutiert, bevor eine vollständige Ablehnung erfolgt.
 
@@ -310,8 +310,8 @@ bis 5 (voll erfüllt) vergeben werden sollten:
   Ablehnungen veröffentlicht.
 
 - Ein spezielles Symposium ist reserviert für Blitzvorträge von
-  Google-Summer-of-Code-Teilnehmern. Da die Genehmigung/Ablehnung von
-  JuliaCon-Beiträgen erfolgt bevor die Auswahl der GSoC-Teilnehmer getroffen
+  Google-Summer-of-Code-Teilnehmer:innen. Da die Genehmigung/Ablehnung von
+  JuliaCon-Beiträgen erfolgt bevor die Auswahl der GSoC-Teilnehmer:innen getroffen
   wurde, wird dieses Symposium erst zu einem späteren Zeitpunkt gefüllt.
   Vorschläge für dieses Symposium werden direkt vom Prüfungsausschuss geprüft.
 
@@ -324,7 +324,7 @@ rechtfertigt. Ein Kommentar könnte zum Beispiel so lauten:
 
 - "Der Vorschlag scheint zwar auf dem neuesten Stand der Technik zu sein, aber
   die unfreie Verfügbarkeit und die Kosten der Software lassen den Vortrag nur für ein
-  kleines Zielpublikum und nicht für allgemeine Julianutzer
+  kleines Zielpublikum und nicht für allgemeine Julianutzer:innen
   interessant erscheinen. Wenn sich der Vortrag mehr auf die Erfahrungen mit
   Julia als auf das Produkt an sich konzentriert hätte, wäre er meiner Meinung nach
   besser für diese Konferenz geeignet."
