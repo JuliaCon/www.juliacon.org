@@ -2,10 +2,10 @@
 * Este Call for Proposals cierra el 2022-04-01 11:59 (UTC).*
 *Este documento está disponible en francés, alemán, chino, ... (¿Falta el tuyo? [Por favor manda un Pull Request](https://github.com/JuliaCon/www.juliacon.org/pulls))*
 
-Te invitamos a presentar una propuesta de plática en JuliaCon2022.
+Les invitamos a presentar una propuesta de plática en JuliaCon2022.
 
 JuliaCon tradicionalmente ha presentado pláticas desde introductorias hasta avanzadas, abarcando temas de todos los campos e involucrando desarrolladores e investigadores en la industria y la academia. 
-Si trabajaste o estás trabajando en Julia, JuliaCon es un excelente foro para compartir tu trabajo con la comunidad de Julia.
+Si usted ha trabajado o trabaja actualmente en Julia, JuliaCon es un excelente foro para compartir tu trabajo con la comunidad de Julia.
 
 Aceptamos contribuciones diversas, en campos como:
 * Biología, bioinformática, salud, medicina, y desigualdad de salud
@@ -24,7 +24,7 @@ Al final del día, el criterio de inclusión más importante es que el tema sea 
 
 
 # Tipos de propuestas
-Este año, tendremos 6 diferentos tipos de propuestas a los que puedes concursar. Todas las presentaciones serán pre-grabadas y entregadas para principios de Julio (fecha exacta por determinarse). Por primera vez, este año aceptaremos propuestas que no sean en español. Léase abajo para mayor detalle.
+Este año, tendremos 6 diferentos tipos de propuestas a los que puedes concursar. Todas las presentaciones serán pre-grabadas y entregadas para principios de Julio (fecha exacta por determinarse). Por primera vez, este año aceptaremos propuestas que no sean en inglés. Léase abajo para mayor detalle.
 
 ### Pláticas
 
@@ -34,7 +34,7 @@ Este año, tendremos 6 diferentos tipos de propuestas a los que puedes concursar
 
 ### Minisymposia
 
-Un minisymposium es una "conferencia dentro de una conferencia" donde los organizadores son responsables por coordinar a los ponentes, paneles y las discusiones como vean apropiado. Se espera que los organizadores de un minisymposium provean moderadores y organizadores para las sesiones como vean apropiado. Un minisymposium tiene asignado un horario de 2 a 3 horas consecutivas. *Nota*: En contraste con JuliaCon2021, los minisymposia sucederán antes de la fecha oficial de la conferencia, al paralelo de las conferencias.
+Un minisymposium es una "conferencia dentro de una conferencia" donde los organizadores son responsables por coordinar a los ponentes, páneles y las discusiones como vean apropiado. Se espera que los organizadores de un minisymposium provean moderadores y organizadores para las sesiones como vean apropiado. Un minisymposium tiene asignado un horario de 2 a 3 horas consecutivas. *Nota*: En contraste con JuliaCon2021, los minisymposia sucederán antes de la fecha oficial de la conferencia, al paralelo de los talleres (workshops).
 
 ### Workshops / Talleres
 
@@ -48,7 +48,7 @@ Las sesions de Birds of a Feather / Grupos de interés son sesiones dedicadas pa
 
 ### Experiences
 
-El propósito de este track es darle la bienvenida a miembros nuevos de la comunidad. Por ejemplo, se presentan temas como sus "features" favoritos de Julia, cómo Julia fue útil para resolver un cierto problema, o un problema interesante que resolvieron con Julia en universidad o preparatoria (¡o secundaria!) Éstas presentaciones duran 3 minutos cada una y serán interpuestas durante las distintas sesiones de la conferencia. Les invitamos cordialmente a que muestren su información de contacto, ya sea su usuario en twitter, github, o su correo en sus diapositivas de la presentación si aceptarían preguntas offline, pues no habrá tiempo asignado para que tomen preguntas de la audiencia en este tack. Especialmente le damos la bienvenida a principiantes y primerizos de la comunidad de Julia para que compartan sus impresiones con la comunidad usando este track. Si usted  usa Julia en sus materiales de clase, le invitamos a invitar a sus estudiantes a que metan sus propuestas y compartan sus experiencias con la comunidad de Julia.
+El propósito de este track es darle la bienvenida a miembros nuevos de la comunidad. Por ejemplo, se presentan temas como sus "features" favoritos de Julia, cómo Julia fue útil para resolver un cierto problema, o un problema interesante que resolvieron con Julia en universidad o preparatoria (¡o secundaria!) Éstas presentaciones duran 3 minutos cada una y serán interpuestas durante las distintas sesiones de la conferencia. Les invitamos cordialmente a que muestren su información de contacto, ya sea su usuario en twitter, github, o su correo, en sus diapositivas de la presentación si aceptarían preguntas offline, pues no habrá tiempo asignado para que tomen preguntas de la audiencia en este tack. Especialmente le damos la bienvenida a principiantes y primerizos de la comunidad de Julia para que compartan sus impresiones con la comunidad usando este track. Si usted usa Julia en sus materiales de clase, le invitamos a invitar a sus estudiantes a que metan sus propuestas y compartan sus experiencias con la comunidad de Julia.
 
 -----
 
@@ -56,9 +56,9 @@ Cuando uno postula una propuesta de plática (abstract), se pueden seleccionar u
 
 # Detalles de propuestas
 
-Usaremos un proceso de propuestas anonimizado para evitar sesgos en el proceso de selección de ponentes. Dado que es imposible seguir protocolos de doble ciego pues las propuestas van acompañadas de código abierto, se llevan a cabo todos los esfuerzos posibles para asegurar un juicio imparcial de sus propuestas. Si estás postulando una propuesta para una sesión no en inglés (puede ser en tu propio lenguaje), por favor añada una versión de la propuesta en inglés (traducción automatizada es aceptable). Siempre intentaremos encontrar hablantes nativos de tu lengua nativa para revisar la propuesta, pero, en caso que no sea posible, usaremos la traducción en inglés para poder usar un mayor número de jueces. En caso que elijas presentar en un lenguaje distinto al inglés, por favor anótelo explícitamente en el abstract (e.g. "Este taller será presentado en thai", ó "Esta Julia Experience será en checo.")
+Usaremos un proceso de propuestas anonimizado para evitar sesgos en el proceso de selección de ponentes. Dado que es imposible seguir protocolos de doble ciego pues las propuestas van acompañadas de código abierto, se llevan a cabo todos los esfuerzos posibles para asegurar un juicio imparcial de sus propuestas. Si estás postulando una propuesta para una sesión no en inglés (puede ser en tu propio lenguaje), por favor añada una versión de la propuesta en inglés (una traducción automatizada es aceptable). Siempre intentaremos encontrar hablantes nativos de su idioma para revisar la propuesta, pero, en caso que no sea posible, usaremos la traducción en inglés para poder usar un mayor número de jueces. En caso que usted elija presentar en un lenguaje distinto al inglés, por favor anótelo explícitamente en el abstract (e.g. "Este taller será presentado en thai", ó "Esta Julia Experience será en checo.")
 
-Si postulas una propuesta de taller o de una sesión Birds-of-a-feather que crees que se beneficiaría particularmente de llevarse a cabo en cierto horario, por favor escríbelo en tu propuesta. Por ejemplo, si quieres presentar una propuesta en mandarín, y quieres que sea en un horario conveniente para los ponentes en Asia, indica eso en el abstract.
+Si usted postula una propuesta de taller o de una sesión Birds-of-a-feather que cree que se beneficiaría particularmente de llevarse a cabo en cierto horario, por favor escríbalo en su propuesta. Por ejemplo, si quiere presentar una propuesta en mandarín, y que sea en un horario conveniente para los ponentes en Asia, indique eso en el abstract.
 
 ### Grabaciones y materiales
 
@@ -88,18 +88,17 @@ JuliaCon tiene un compromiso con ser una experiencia positiva de conferencia par
 
 ## Repaso de Lineamientos y Procesos
 
-
 Las guías y procedimientos para la revisión de propuestas de pláticas se encuentran a continuación como referencia.
 
 El rol de los jueces es asegurar la calidad del contenido presentado en JuliaCon.
 
 ## Conflictos de interés
 
-En casos de conflictos de interés, los jueces se comprometen a recusarse y señalárselo a los organizadores para encontrar un reemplazo rápidamente. Ningún juez debe emitir un juicio sobre una plática en donde sean autores o tengan cualquier otra forma o conflicto de interés. Véase las guías de [PNAS sobre conflicto de interés](https://www.pnas.org/page/authors/conflict-of-interest) para saber definiciones y ejemplos. Los conflictos de interés pueden incluir cualquier trabajo o autores con los cuales el juez haya tenido "cualquier asociación la cual podría percibirse como un conflicto de interés intelectual o financiero" (guía de PNAS anterior.)
+En casos de conflictos de interés, los jueces se comprometen a recusarse y señalárselo a los organizadores para encontrar un reemplazo rápidamente. Ningún juez debe emitir un juicio sobre una plática en donde sean autores o tengan cualquier otra forma o conflicto de interés. Véase las guías de [PNAS sobre conflicto de interés](https://www.pnas.org/page/authors/conflict-of-interest) para saber definiciones y ejemplos. Los conflictos de interés pueden incluir cualquier trabajo o autores con los cuales los jueces haya tenido "cualquier asociación la cual podría percibirse como un conflicto de interés intelectual o financiero" (guía de PNAS anterior.)
 
 ## Código de Conducta
 
-Los jueces se compromenten a leer y respetar el [Código de Conducta](https://juliacon.org/2021/coc) en sus asesorías y todas sus comunicaciones durante el proceso de juicio.
+Nuestros jueces se compromenten a leer y respetar el [Código de Conducta](https://juliacon.org/2021/coc) en sus asesorías y todas sus comunicaciones durante el proceso de revisión.
 
 Si un abstract de propuesta no cumple con el Código de Conducta, los jueces deben referirlo al comité organizador.
 
@@ -108,7 +107,7 @@ Si un abstract de propuesta no cumple con el Código de Conducta, los jueces deb
 No cumplir con los siguientes criterios disminuirá el puntaje de la propuesta.
 
 1. El abstract debe ser fácil de leer y entender para alguien no experto en el mismo tema. El título debe ser fácil de identificar por el tema al que se refiere.
-2. El abstract presentado debe ser técnicamente sólida hasta donde pueda entender su juez.
+2. El abstract presentado debe ser técnicamente sólida hasta donde puedan entender sus jueces.
 3. El tema debe ser de interés para JuliaCon, incluyendo pero no limitado a temas listados en el [Call for Proposals](https://pretalx.com/juliacon2021/cfp).
 
 * Biología, bioinformática, salud, medicina, y desigualdad de salud
@@ -132,9 +131,7 @@ No cumplir con los siguientes criterios disminuirá el puntaje de la propuesta.
 En cada uno de los siguientes criterios se asignarán calificaciones del 1 al 5:
 
 1. Aplicabilidad para la comunidad de Julia. ¿Estarán interesados los usuarios de Julia en ésta plática por sus métodos o resultados? Las propuestas con mayor calificación deberían ser de interés para usuarios de Julia.
-
 2. Contribuciones a la comunidad. ¿Esto es un nuevo paquete para la comunidad? Se asignará una mayor calificación a las propuestas con código o ideas que los demás puedan usar.
- 
 3. Claridad. ¿Cuál es el propósito de esta plática? ¿Qué aprenderá la gente? Las propuestas con mayor calificación deberían tener propósitos claros.
 4. Impacto en la comunidad. ¿Esta propuesta puede cambiar la manera que muchos otros usuarios usen Julia o su ecosistema? Las propuestas con mayor calificación deberían ser más significantes para usuarios de Julia. Observemos que esto no significa impacto científico, sólo impacto como software o tutorial a usuarios de Julia.
 5. Diversidad de temas. Como comunidad alentamos la diversidad de propuestas. Las propuestas que traigan temas o áreas nuevas para la comunidad de Julia tendrán mayor calificación.
@@ -146,7 +143,7 @@ En cada uno de los siguientes criterios se asignarán calificaciones del 1 al 5:
 
 - Las propuestas de talleres serán revisadas por el comité de programas. Todas las propuestas de talleres deberán satisfacer un cierto nivel de escrutinio y serán contactados para organizar un horario de talleres coherent basado en las propuestas.
 
-- Las Pláticas, pláticas rápidas, pósters y minisymposia serán juzgados de manera conjunta en 2 rondas. En la primera ronda, a los jueces se les asignará una selección de X propuestas a revisar, tal que cada propuesta tenga 3 juicios de valor. Cada juicio incluirá una calificación y un comentario, con al menos 1 oración de resumen sobre su perspectiva de la propuesta. Si algún juez es removido, tendremos una segunda ronda con más jueces para redistribuir dichas propuestas a jueces más activos. Después de estar ronda, el comité se asegurará que cada propuesta tenga 3 revisiones.
+- Las Pláticas, pláticas rápidas, pósters y minisymposia serán juzgados de manera conjunta en 2 rondas. En la primera ronda, a los jueces se les asignará una selección de X propuestas a revisar, tal que cada propuesta tenga 3 juicios de valor. Cada juicio incluirá una calificación y un comentario, con al menos 1 oración de resumen sobre su perspectiva de la propuesta. Si alguno de los jueces es removido, tendremos una segunda ronda con más jueces para redistribuir dichas propuestas a jueces más activos. Después de estar ronda, el comité se asegurará que cada propuesta tenga 3 revisiones.
 
 - Después de la 2 etapas de revisión es la etapa de selección. Las mejores propuestas serán aceptadas y las peores propuestas serán rechazadas o reclasificadas y contadas como propuestas intermedias. Todas las propuestas intermedias serán anotadas para consideración adicional. La cantidad de "mejores propuestas" de la primera etapa depende del número de horarios disponibles y el número de propuestas, y generalmente se reserva para calificaciones con score 4+ sin comentarios al respecto.
 
