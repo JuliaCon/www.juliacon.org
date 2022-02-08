@@ -238,7 +238,7 @@ Die Nichteinhaltung dieser Kriterien führt zu einer niedrigeren Bewertung des B
 
 5. Anwendungen von Julia in einem Unternehmen sind generell von
    Interesse für die Konferenz. Insbesondere Rückmeldungen zur
-   Produktentwicklung, die Julia und ihr Ökosystem nutzen oder mit ihnen
+   Produktentwicklung, die Julia und Julias Ökosystem nutzen oder mit ihnen
    interagieren, sind willkommen. Vorträge und Poster sind jedoch kein
    geeigneter Ort für Werbung oder Produktplatzierung.
 
