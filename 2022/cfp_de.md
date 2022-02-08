@@ -1,10 +1,10 @@
 # JuliaCon 2022 CFP
 *Dieser Call for Proposals wurde am 2021-04-01 11:59 (UTC) beendet.*  
 
-Wir laden Sie dazu ein Vortragsvorschläge für die JuliaCon 2022 einzureichen.
+Wie jedes Jahr, laden wir Sie auch in diesem Jahr herzlich dazu ein Vortragsvorschläge für die JuliaCon 2022 einzureichen.
 
-Die JuliaCon bietet traditionell eine Mischung von Vortragsthemen für Einsteiger,
-für Fortgeschrittene, Themen aus verschiedenen Fachrichtungen, von Entwicklern,
+Die JuliaCon bietet traditionell eine Mischung an Vorträgen sowohl für Einsteiger, als auch
+für Fortgeschrittene, mit Themen aus verschiedenen Fachrichtungen, von Entwicklern,
 Forschern aus der Industrie oder dem akademischen Bereich. Wenn Sie in der
 Vergangenheit mit Julia gearbeitet haben, ist die JuliaCon der beste Ort, um
 Ihre Arbeit mit anderen aus der Juliagemeinschaft zu teilen.
@@ -25,7 +25,7 @@ mit Julia zu tun haben. Mögliche Themen könnten sein:
 - Finanzwesen und Wirtschaftswissenschaften
 - Allgemeine Datenverarbeitung
 - Industrielle Anwendungen
-- Details zum Juliakompiler, zu Juliawerkzeugen und dem Juliaökosystem
+- Details zum Juliakompilierer, zu Juliawerkzeugen und dem Juliaökosystem
 - Numerische und mathematische Optimierung
 - Wissenschaftliches Rechnen
 - Bewährte Praktiken in der Softwareentwicklung
