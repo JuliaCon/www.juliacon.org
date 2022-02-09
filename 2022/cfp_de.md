@@ -70,7 +70,7 @@ Beginn der Konferenz, also zusammen mit den Workshops stattfinden.
 
 ### Workshops
 Bei einem Workshop handelt es sich in der Regel um eine dreistündige
-interaktive praktische Veranstaltung, bei welcher der/die Vortragende live vor dem Publikum
+interaktive praktische Veranstaltung, bei welcher der Vortragende live vor dem Publikum
 programmiert und den Code mit den anderen Teilnehmenden teilt, sodass diese leicht
 folgen können.  Die Workshops finden vor dem offiziellen Beginn der Konferenz
 statt (wie auch die Minisymposia). Zu den Themen dieser Kategorie gehören beispielsweise
@@ -107,12 +107,12 @@ oder Ihre E-Mail-Adresse auf Ihren Folien anzugeben, damit Zuseher:innen Ihnen
 Fragen zukommen lassen können. Wir freuen uns besonders, wenn Julianeulinge
 mittels dieser Beitragskategorie ihre Eindrücke mit der Juliagemeinschaft teilen.
 Falls Sie als Lehrer:in oder Professor:in Julia in Ihren Kursen verwenden, möchten
-wir Sie bitten, Ihre Student:innen einzuladen, bei dieser Kategorie Ihre Erfahrungen
+wir Sie bitten, Ihre Studierenden einzuladen, bei dieser Kategorie Ihre Erfahrungen
 mit der Juliagemeinschaft zu teilen.
 
 # Details zur Einreichung und Begutachtung
 Wir verwenden ein anonymisiertes Begutachtungsverfahren um Auswahlverzerrungen
-in Bezug auf den Sprecher / die Sprecherin zu vermeiden. Obwohl ein Doppelblindverfahren
+in Bezug auf den Vortragenden zu vermeiden. Obwohl ein Doppelblindverfahren
 nicht vollständig gewährleistet werden kann, da die meisten Einreichungen auf öffentlichen
 Open-Source-Code verweisen, werden alle Anstrengungen unternommen, um eine
 unparteiische Prüfung der Einreichungen zu gewährleisten. In diesem Jahr können
@@ -124,7 +124,7 @@ zu begutachten. Sollte dies jedoch nicht möglich sein, werden wir auf die engli
 Übersetzung zurückgreifen, um den Vorschlag einem größeren Kreis von Gutachter:innen
 vorlegen zu können. Falls Sie Ihren Vortrag in einer anderen Sprache als Englisch halten
 möchten, vermerken Sie dies bitte in der Zusammenfassung selbst
-(z. B. "Dieser Workshop wird auf Thailändisch gehalten." oder
+(z.B. "Dieser Workshop wird auf Thailändisch gehalten." oder
 "Ich werde einen Vortrag über meine Juliaerfahrungen auf Tschechisch halten.").
 
 Wenn Sie einen Workshop oder eine "Birds of a Feather"-Veranstaltung einreichen, die
@@ -189,21 +189,21 @@ auf der JuliaCon zu gewährleisten.
 Im Falle eines Interessenkonflikts verpflichtet sich der Begutachtende, sich von
 der Begutachtung zurückzuziehen und den Organisatoren mitzuteilen,
 dass ein Ersatz gefunden werden muss. Kein:e Gutachter:in sollte einen Vortrag
-begutachten, an dem er/sie als Autor:in beteiligt ist oder in einem anderen
+begutachten, an dem er:sie als Autor:in beteiligt ist oder in einem anderen
 Interessenkonflikt steht. In den [PNAS-Richtlinien](https://www.pnas.org/page/authors/conflict-of-interest)
 (auf Englisch) finden Sie eine Definition und Beispiele. Ein solcher Konflikt
 ist insbesondere dann geboten, wenn die begutachtete Arbeit oder die beteiligten
-Autoren in einer Weise mit dem/der Gutachter:in verbunden sind,
+Autoren in einer Weise mit dem:der Gutachter:in verbunden sind,
 "die einen finanziellen oder intellektuellen Interessenkonflikt
 darstellt oder als solchen wahrgenommen werden könnte" (PNAS-Richtlinien oben).
 
 ## Verhaltensregeln
-Der/die Gutachter:in verpflichtet sich, den [Verhaltenskodex](https://juliacon.org/2022/coc)
+Der Begutachtende verpflichtet sich, den [Verhaltenskodex](https://juliacon.org/2022/coc)
 (auf Englisch) der Konferenz bei der Bewertung und bei allen Mitteilungen
 während des Begutachtungsprozesses zu lesen und einzuhalten.
 
 Wenn eine eingereichte Zusammenfassung nicht mit dem Verhaltenskodex
-übereinstimmt, sollte der/die Gutachter:in dies dem Organisationskomitee anzeigen.
+übereinstimmt, sollte der:die Gutachter:in dies dem Organisationskomitee anzeigen.
 
 ## Begutachtungskriterien
 
@@ -234,7 +234,7 @@ Die Nichteinhaltung dieser Kriterien führt zu einer niedrigeren Bewertung des B
 
 4. Falls das vom Autor vorgeschlagene Beitragsformat (Experience,
    Kurzvortrag, Vortrag, Workshop, Poster, Minisymposium, Birds of a Feather)
-   unpassend erscheint, kann der/die Gutachter:in dies anzeigen und ein anderes Format
+   unpassend erscheint, kann der Begutachtende dies anzeigen und ein anderes Format
    vorschlagen.
 
 5. Anwendungen von Julia in einem Unternehmen sind generell von
