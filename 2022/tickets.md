@@ -5,7 +5,7 @@ Free registration will give you access to all the workshops and talks. We also a
 "Buy" a ticket which will serve as a donation to the project. Donations are not required but go to support initatives like 
 Julia Summer of Code, D&I, Infra, and much more!
 
-<!-- ~~~
+~~~
 <div id="eventbrite-widget-container-265892129517"></div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
@@ -30,7 +30,7 @@ Julia Summer of Code, D&I, Infra, and much more!
 <p style='font-size:14px'>
   <em>(Can't see the ticketing widget above? Please wait a few seconds, refesh your browser, or check if a plugin is preventing access. <a href="https://www.eventbrite.com/e/juliacon-2022-tickets-265892129517">Click here</a> if all else fails.)</em>
 </p>
-~~~ -->
+~~~
 
 ### Contact the Organizers
 
