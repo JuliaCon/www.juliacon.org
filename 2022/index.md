@@ -14,7 +14,6 @@ top_subtitle = "Tickets are free but registration is required"
 
 \begin{box}{title="JuliaCon 2022", color="purple"}
   JuliaCon is back online in 2022. Tickets are free, but [registration](/2022/tickets/) is required.
-  The main conference talks date are TBD.
 
   <!-- To view the talks online, visit [live.juliacon.org](http://live.juliacon.org) -->
 \end{box}
