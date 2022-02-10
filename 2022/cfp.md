@@ -56,7 +56,7 @@ When submitting your proposal (abstract), you may select multiple categories for
 
 We are using an anonymized submissions process, to avoid selection bias related to the speaker. While enforcing double blind is impossible since most submissions should link to public open source code, all efforts are made to ensure impartial review of submissions. If you are submitting a proposal for a non-English session, you may submit in the language of your choice. In addition please always provide an English version of your proposal (a machine translation is completely fine!). We will always attempt to find fluent speakers of your chosen language to review your proposal. However, in case this is not possible, we will fall back to the English translation in order to submit it to a wider reviewer pool. In case you choose to present in a different language than English, please note this in the abstract itself (e.g. "This workshop will be presented in Thai." or "I will be giving a Julia Experiences talk in Czech.").
 
-If you are submitting a workshop or birds-of-a-feather session that you think would particularly benefit from being held at a certain time, pleaset note this in your proposal. For example, if you would like to present a workshop in Mandarin, and want it to be held at a time convenient for attendees in Asia, indicate this in your abstract.
+If you are submitting a workshop or birds-of-a-feather session that you think would particularly benefit from being held at a certain time, please note this in your proposal. For example, if you would like to present a workshop in Mandarin, and want it to be held at a time convenient for attendees in Asia, indicate this in your abstract.
 
 ### Recordings and materials
 
