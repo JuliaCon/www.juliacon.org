@@ -70,7 +70,7 @@ Beginn der Konferenz, also zusammen mit den Workshops stattfinden.
 
 ### Workshops
 Bei einem Workshop handelt es sich in der Regel um eine dreistündige
-interaktive praktische Veranstaltung, bei welcher der Vortragende live vor dem Publikum
+interaktive praktische Veranstaltung, bei welcher die Vortragenden live vor dem Publikum
 programmiert und den Code mit den anderen Teilnehmenden teilt, sodass diese leicht
 folgen können.  Die Workshops finden vor dem offiziellen Beginn der Konferenz
 statt (wie auch die Minisymposia). Zu den Themen dieser Kategorie gehören beispielsweise
@@ -112,7 +112,7 @@ mit der Juliagemeinschaft zu teilen.
 
 # Details zur Einreichung und Begutachtung
 Wir verwenden ein anonymisiertes Begutachtungsverfahren um Auswahlverzerrungen
-in Bezug auf den Vortragenden zu vermeiden. Obwohl ein Doppelblindverfahren
+in Bezug auf die Vortragenden zu vermeiden. Obwohl ein Doppelblindverfahren
 nicht vollständig gewährleistet werden kann, da die meisten Einreichungen auf öffentlichen
 Open-Source-Code verweisen, werden alle Anstrengungen unternommen, um eine
 unparteiische Prüfung der Einreichungen zu gewährleisten. In diesem Jahr können
@@ -186,7 +186,7 @@ Die Hauptaufgabe der Gutachter:innen besteht darin, die Qualität der Inhalte
 auf der JuliaCon zu gewährleisten.
 
 ## Interessenkonflikte
-Im Falle eines Interessenkonflikts verpflichtet sich der Begutachtende, sich von
+Im Falle eines Interessenkonflikts verpflichten sich die Begutachtenden, sich von
 der Begutachtung zurückzuziehen und den Organisatoren mitzuteilen,
 dass ein Ersatz gefunden werden muss. Kein:e Gutachter:in sollte einen Vortrag
 begutachten, an dem er:sie als Autor:in beteiligt ist oder in einem anderen
@@ -198,7 +198,7 @@ Autoren in einer Weise mit dem:der Gutachter:in verbunden sind,
 darstellt oder als solchen wahrgenommen werden könnte" (PNAS-Richtlinien oben).
 
 ## Verhaltensregeln
-Der Begutachtende verpflichtet sich, den [Verhaltenskodex](https://juliacon.org/2022/coc)
+Die Begutachtenden verpflichten sich, den [Verhaltenskodex](https://juliacon.org/2022/coc)
 (auf Englisch) der Konferenz bei der Bewertung und bei allen Mitteilungen
 während des Begutachtungsprozesses zu lesen und einzuhalten.
 
@@ -234,7 +234,7 @@ Die Nichteinhaltung dieser Kriterien führt zu einer niedrigeren Bewertung des B
 
 4. Falls das vom Autor vorgeschlagene Beitragsformat (Experience,
    Kurzvortrag, Vortrag, Workshop, Poster, Minisymposium, Birds of a Feather)
-   unpassend erscheint, kann der Begutachtende dies anzeigen und ein anderes Format
+   unpassend erscheint, können die Begutachtenden dies anzeigen und ein anderes Format
    vorschlagen.
 
 5. Anwendungen von Julia in einem Unternehmen sind generell von
