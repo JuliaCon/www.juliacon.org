@@ -203,7 +203,7 @@ pour construire un programme d'ateliers diversifié et cohérent basé sur ces p
 
 - Un symposium est réservé aux interventions courtes des étudiants du programme Google Summer of Code (GSoC). Ces créneaux seront alloués ultérieurement dans le processus de revue puisque l'acceptation ou rejet des propositions de JuliaCon se tient avant que les étudiants GSoC ne soient acceptés. Ces propositions sont évaluées directement par le comité de revue.
 
-## Commentaires de revue
+### Commentaires de revue
 
 Chaque évaluateur doit inclure un commentaire qui justifie le score attribué à la proposition. Comme exemple de commentaire :
 - "Cette proposition est claire, elle présente une nouvelle application (à mes yeux) de Julia, elle introduit un package innovant qui pourrait selon moi être utile à beaucoup."
