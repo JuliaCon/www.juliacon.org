@@ -19,7 +19,7 @@ Nós estamos interessados em escutar sobre todos os tópicos que tem relação c
 - Computação científica;
 - Engenharia de *software* e boas práticas;
 - Estatística, aprendizagem de máquina e inteligência artificial;
-- Aplicação em ciências sociais e áreas de humanas.
+- Computação aplicada em ciências humanas e sociais.
  
 O critério mais importante é se o tópico pode ser interessante para a comunidade do Julia.
  
@@ -109,7 +109,7 @@ Se um resumo submetido não estiver de acordo com o Código de Conduta, o reviso
  
 ## Critérios para a avaliação
  
-Não alcançar os critérios abaixo resultará em escores baixos e eventual rejeição.
+Não alcançar os critérios abaixo resultará em notas menores.
  
 1. O resumo deve ser fácil de ler e compreensível para alguém que não trabalhe no mesmo tópico. O título deve tornar fácil de identificar o tópico abordado pelo conteúdo.
  
@@ -157,7 +157,7 @@ A seguir estão os critérios pelos quais serão atribuidas as notas (1-5):
  
 - Palestras, palestras relâmpago, pôsteres e minissimpósios serão avaliados conjuntamente em dois turnos. No primeiro turno, todos os revisores receberão uma seleção de X propostas para avaliar, de modo que cada proposta seja vista por 3 revisores. Cada avaliação deve incluir uma nota e comentário, com ao menos 1 frase com a percepção geral sobre a proposta. Se qualquer revisor desistir ou se declarar suspeito, teremos um segundo turno para redistribuir as propostas. Após essa rodada, o comitê certificará que cada proposta tenha 3 revisores.
  
-- Após a revisão de dois estágios temos os estágios de seleção. As propostas de maior nota serão aceitas e as de menor nota serão rejeitadas ou re-classificadas e contadas como propostas do meio. Todas as propostas do meio serão marcadas para uma avaliação extra. A quantidade de propostas de maior nota a serem consideradas no estágio 1 da seleção é dependente do número de vagas disponíveis para apresentação vs o número de propostas, e geralmente é reservado para aplicações com média 4+ sem comentários preocupantes.
+- Após a revisão de dois estágios temos os estágios de seleção. As propostas de maior nota serão aceitas e as de menor nota serão rejeitadas ou re-classificadas e contadas como propostas do meio. Todas as propostas do meio serão marcadas para uma avaliação extra. A quantidade de propostas de maior nota a serem consideradas no estágio 1 da seleção é dependente do número de vagas disponíveis para apresentação *versus* o número de propostas, e geralmente é reservado para aplicações com média 4+ sem comentários preocupantes.
  
 - No estágio 2 da seleção, o comitê de revisão tomará as notas e comentários dos revisores para decidir pela aceitação ou não da proposta. Propostas que não obtenham aceitação serão discutidas por uma reclassificação antes de serem totalmente rejeitadas.
  
