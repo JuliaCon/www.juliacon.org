@@ -7,7 +7,7 @@ Nous vous invitons à soumettre vos propositions d'interventions à JuliaCon 202
 La conférence offre typiquement un panel d'interventions s'adressant aux débutants comme confirmés dans un ensemble divers de domaines, de développeurs et chercheurs, d'universitaire comme du privé.
 Si vous avez travaillé sur Julia, JuliaCon est la conférence la plus adaptée pour diffuser vos travaux avec la communauté.
 
-Pour avoir une idée des présentations des années précédentes, vous pouvez consulter les programmes et interventions des années précédentes (2014, 2015, 2016, 2017, 2018, 2019, 2020, et 2021).
+Pour vous faire une idée des présentations des années précédentes, vous pouvez consulter les programmes et interventions des éditions antérieures (2014, 2015, 2016, 2017, 2018, 2019, 2020, et 2021).
 
 La conférence est potentiellement intéressée par tous les domaines de recherche autour de et utilisant Julia, notamment :
 - Biologie, bioinformatique, santé, médecine
