@@ -4,7 +4,7 @@ L'appel à communications se terminera le [TBD]
 
 Nous vous invitons à soumettre vos propositions d'interventions à JuliaCon 2022.
 
-La conférence offre typiquement un panel d'interventions s'adressant aux débutants comme confirmés dans un ensemble divers de domaines, de développeurs et chercheurs, d'universitaire comme du privé.
+La conférence offre typiquement un panel d'interventions de niveau débutant à confirmé, dans des domaines divers, assurées par des personnes issues du monde de la recherche, du développement logiciel et de l'industrie.
 Si vous avez travaillé sur Julia, JuliaCon est la conférence la plus adaptée pour diffuser vos travaux dans la communauté.
 
 Pour vous faire une idée des présentations des années précédentes, vous pouvez consulter les programmes et interventions des éditions antérieures (2014, 2015, 2016, 2017, 2018, 2019, 2020, et 2021).
