@@ -10,7 +10,7 @@ JuliaCon 的提案涉猎广泛，内容深度从基础介绍到前沿课题，�
 
 如果您想通过观摩以往的报告找找感觉，那么请看我们过去的流程安排和视频 ([2014](https://juliacon.org/2014), [2015](https://juliacon.org/2015), [2016](https://juliacon.org/2016), [2017](https://juliacon.org/2017), [2018](https://juliacon.org/2018), [2019](https://juliacon.org/2019), [2020](https://juliacon.org/2020), 和 [2021](https://juliacon.org/2021/)). 
 
-我们对任何的主题的提案都很欢迎，下面是一些例子:
+我们对任何主题的提案都很欢迎，下面是一些例子:
 
 - 生物学、生物信息学、健康、药理学和健康差异
 - 数据分析和可视化
