@@ -206,5 +206,5 @@ pour construire un programme d'ateliers diversifié et cohérent basé sur ces p
 ## Commentaires de revue
 
 Chaque évaluateur doit inclure un commentaire qui justifie le score attribué à la proposition. Comme exemple de commentaire :
-- "Cette proposition est claire, une nouvelle application (pour moi) de Julia, elle introduit un nouveau package qui je pense pourrait être utile à beaucoup."
+- "Cette proposition est claire, elle présente une nouvelle application (à mes yeux) de Julia, elle introduit un package innovant qui pourrait selon moi être utile à beaucoup."
 - "Bien que le logiciel présenté semble être à l'état de l'art, son caractère non open-source et son coût réduisent sa portée aux développeurs travaillant dans un contexte industriel, excluant ainsi une partie de la communauté Julia au sens large. Si la proposition se recentre sur l'expérience d'utilisation de Julia plus que leur produit logiciel, je la considérerai comme plus adaptée à JuliaCon".
