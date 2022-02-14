@@ -201,7 +201,7 @@ pour construire un programme d'ateliers diversifié et cohérent basé sur ces p
 
 - Après la classification de toutes les propositions, les décisions d'acceptation et de rejet seront diffusées.
 
-- Un symposium est réservé aux interventions courtes des étudiants du programme Google Summer of Code (GSoC). Ces créneaux seront alloués ultérieurement dans le processus de revue puisque l'acceptation ou rejet des propositions de JuliaCon se tient avant que les étudiants GSoC ne soient acceptés. Ces propositions sont évaluées directement par le comité de revue.
+- Un symposium est réservé aux interventions courtes des étudiant·es du programme Google Summer of Code (GSoC). Ces créneaux seront alloués ultérieurement dans le processus de revue, puisque l'acceptation ou rejet des propositions de JuliaCon se tient avant que les étudiants GSoC ne soient acceptés. Les propositions dans cette catégorie seront évaluées directement par le comité de revue.
 
 ### Commentaires de revue
 
