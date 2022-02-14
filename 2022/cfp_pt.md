@@ -1,5 +1,5 @@
 # JuliaCon 2022 CFP
-\*Este documento está traduzido em francês, alemão, espanhol, russo, chinês simplificado, ... (Falta o seu idioma? [Envie um PR](https://github.com/JuliaCon/www.juliacon.org/pulls))
+*Este documento está traduzido em francês, alemão, espanhol, russo, chinês simplificado, ... (Falta o seu idioma? [Envie um PR](https://github.com/JuliaCon/www.juliacon.org/pulls))*
  
 As inscrições para palestrantes na JuliaCon 2022 estão abertas e aguardamos a sua proposta.
  
@@ -17,7 +17,7 @@ Nós estamos interessados em escutar sobre todos os tópicos que tem relação c
 - Compilador, ferramental e ecossistema do Julia;
 - Otimização matemática;
 - Computação científica;
-- Engenharia de *software* e melhores práticas;
+- Engenharia de *software* e boas práticas;
 - Estatística, aprendizagem de máquina e inteligência artificial;
 - Aplicação em ciências sociais e áreas de humanas.
  
@@ -25,23 +25,23 @@ O critério mais importante é se o tópico pode ser interessante para a comunid
  
 # Tipos de proposta
  
-Esse ano terá 6 tipos diferentes de proposta que podem ser submetidas. Todas as apresentações serão pré-gravadas e enviadas até o começo de julho (a data exata será anunciada posteriormente). Oficinas e grupos de interesse espera-se que sejam ao vivo. Pela primeira vez aceitaremos propostas de trabalho que não estão em inglês. Veja abaixo para mais detalhes.
+Esse ano teremos 6 tipos diferentes de proposta que podem ser submetidas. Todas as apresentações serão pré-gravadas e enviadas até o começo de julho (a data exata será anunciada posteriormente). Espera-se que Oficinas e Grupos de Interesse sejam ao vivo. Pela primeira vez aceitaremos propostas de trabalho que não estão em Inglês. Veja abaixo para mais detalhes.
  
-### Palestras (*Talks*)
+### Palestras
  
 Esse tipo é dedicado primariamente ao compartilhamento de trabalhos técnicos com a comunidade do Julia, sejam trabalhos relacionados ao desenvolvimento de *software*, pesquisa ou aplicação em algum campo específico.
  
 - **Palestras** têm 30 minutos, incluindo 5 minutos alocados para perguntas do público.
 - **Palestras relâmpago** têm 10 minutos, incluindo 2 minutos alocados para perguntas do público.
-- Nesse ano, você poderá escolher se a sua palestra será em inglês ou outra língua.
+- Nesse ano, você poderá escolher se a sua palestra será em inglês, outra língua ou ambos.
  
 ### Minissimpósios
  
-Um minissimpósio é uma "conferência dentro de uma conferência", onde os organizadores são responsáveis por agendar painéis e discussões como acharem melhor. Espera-se que os organizadores de um minissimpósio forneçam um moderador ou presidente de mesa para a sessão. Um minissimpósio é alocado na agenda em um espaço de 2 ou 3 horas. **Nota:** Em contraste com a JuliaCon 2021, os minissimpósios serão agendados antes do começo oficial da conferência, juntamente às oficinas.
+Um minissimpósio é uma "conferência dentro de uma conferência", onde os organizadores são responsáveis por agendar palestrantes, painéis e discussões como acharem melhor. Espera-se que os organizadores de um minissimpósio forneçam um moderador ou presidente de mesa (*chair*) para a sessão. Um minissimpósio é alocado na agenda em um espaço de 2 ou 3 horas. **Nota:** Em contraste com a JuliaCon 2021, os minissimpósios serão agendados antes do começo oficial da conferência, juntamente aos minicursos.
  
-### Oficinas
+### Minicursos
  
-Uma oficina é usualmente uma sessão interativa de 3 horas, onde o apresentador programa ao vivo na frente da audiência e compartilha o código com o público para facilitar o acompanhamento. As oficinas ocorrerão antes do começo oficial da conferência. Exemplo de tópicos para esse tipo incluem tutoriais de pacotes específicos ou de campos de aplicação ou pesquisa. **Nota:** Como esse é o primeiro ano em que a JuliaCon aceitará propostas de oficinas em várias línguas, então pedimos que mantenham o nível da oficina mais próximo do introdutório se desejar realizá-la nas demais línguas que não o inglês.
+Um minicurso é usualmente uma sessão interativa de 3 horas, onde o apresentador programa ao vivo na frente da audiência e compartilha o código com o público para facilitar o acompanhamento. Os minicursos ocorrerão antes do começo oficial da conferência. Exemplo de tópicos para esse tipo de evento incluem tutoriais de pacotes específicos ou tutorials de um tópico específico. **Nota:** Como esse é o primeiro ano em que a JuliaCon aceitará propostas de minicursos em várias línguas, então pedimos que mantenham o nível do minicurso mais próximo do introdutório se a língua do minicurso não for o Inglês.
  
 ### Pôsteres Virtuais
  
@@ -57,13 +57,13 @@ O objetivo desse tipo é receber os novos membros da comunidade. Exemplo de tóp
  
 -----
  
-Quando submeter a proposta (resumo), você pode selecionar várias categorias para avaliação.
+Ao submeter sua proposta (resumo), você pode selecionar várias categorias para avaliação.
  
 # Detalhes da aplicação
  
-Nós usamos um processo de aplicação anonimizada para evitar viés de seleção relacionado ao candidato. Apesar de ser impossível forçar um duplo cego, dado que a maior parte das aplicações deve conter *links* para códigos-fonte abertos, todo o esforço será feito para uma avalição imparcial. Se você está submetendo uma proposta para sessão em outra língua que não em inglês, então a submissão pode ser ela mesma na língua de sua escolha. Adicionalmente, por favor sempre forneça uma versão em inglês da sua proposta (mesmo uma tradução de máquina está bom!). Nós iremos sempre buscar falantes nativos da língua de escolha para avaliar a proposta. No entanto, caso isso não seja possível, nós utilizaremos a tradução em inglês de modo a submeter para um grupo maior de avaliadores. Se escolher apresentar em uma língua diferente do inglês, por favor mencione isso no próprio resumo (p.e. "Essa oficina será apresentada em tailandês", ou "Eu farei uma exposição de Experiências em tcheco").
+Nós usamos um processo de aplicação anonimizada para evitar viés de seleção relacionado ao candidato. Apesar de ser impossível forçar um duplo cego, dado que a maior parte das aplicações deve conter *links* para códigos-fonte abertos, todo o esforço será feito para uma avalição imparcial. Se você está submetendo uma proposta para sessão em outra língua que não em inglês, então a submissão também pode ser na mesma língua escolhida. Adicionalmente, por favor sempre forneça uma versão em inglês da sua proposta (mesmo uma tradução de máquina está bom!). Nós iremos sempre buscar falantes nativos da língua de escolha para avaliar a proposta. No entanto, caso isso não seja possível, nós utilizaremos a tradução em inglês de modo a submeter para um grupo maior de avaliadores. Se escolher apresentar em uma língua diferente do Inglês, por favor mencione isso no próprio resumo (e.g. "Essa oficina será apresentada em Tailandês", ou "Eu farei uma exposição de Experiências em Tcheco").
  
-Se você está aplicando uma oficina ou grupo de interesse que acredita se beneficiar de ocorrer em um horário determinado, por favor indique isso na sua proposta. Por exemplo, se você quiser apresentar uma oficina em mandarim, e quer que ocorra em um horário conveniente para o público na Ásia, indique isso no seu resumo.
+Se você está aplicando uma oficina ou grupo de interesse que acredita se beneficiar de ocorrer em um horário determinado, por favor indique isso na sua proposta. Por exemplo, se você quiser apresentar uma oficina em Mandarim, e quer que ocorra em um horário conveniente para o público na Ásia, indique isso no seu resumo.
  
 ### Gravações e materiais
  
@@ -71,7 +71,7 @@ A JuliaCon 2022 será uma conferência *online*, e para facilitar o planejamento
  
 #### Transcrições
  
-De modo a melhorar a acessibilidade, nós exigimos transcrições como parte da aplicação. Atente ao seu e-mail usado na aplicação para maior detalhes sobre o processo.
+De modo a melhorar a acessibilidade, nós exigimos transcrições como parte da aplicação. Fique de olho no e-mail usado na aplicação para maior detalhes sobre o processo.
  
 ### Publicações nos Anais
  
@@ -129,7 +129,7 @@ Não alcançar os critérios abaixo resultará em escores baixos e eventual reje
 - Estatística, aprendizagem de máquina e inteligência artificial;
 - Aplicação em ciências sociais e áreas de humanas.
  
-4. Se o tipo de apresentação pedido pelo autor (experiência, palestra, oficina, pôster, minissimpósio, grupo de interesse) não parecer apropriado, o revisor pode sinalizar ao candidato e sugerir outro tipo.
+4. Se o tipo de apresentação pedido pelo autor (experiência, palestra, minicurso, pôster, minissimpósio, grupo de interesse) não parecer apropriado, o revisor pode sinalizar ao candidato e sugerir outro tipo.
  
 5. Casos de uso do Julia em ambientes da iniciativa privada são geralmente de interesse da conferência. Em particular, conteúdo sobre o desenvolvimento de produtos usando ou interagindo com o Julia e seu ecossistema são bem-vindos. No entanto, palestras e pôsteres não são lugares adequados para propaganda ou venda de produtos.
  
@@ -141,29 +141,29 @@ A seguir estão os critérios pelos quais serão atribuidas as notas (1-5):
  
 2. Contribuições para a comunidade. É um novo pacote para as pessoas usarem? Pospostas de código ou ideias que outros podem usar devem receber maiores notas.
  
-3. Claresa. Qual a finalidade dessa apresentação? O que as pessoas vão aprender? Propostas que sejam claras qunato ao seu objetivo devem recerber maiores notas.
+3. Clareza. Qual a finalidade dessa apresentação? O que as pessoas vão aprender? Propostas que sejam claras quanto ao seu objetivo devem recerber maiores notas.
  
-4. Significancia para a comunidade. Isso é algo que mudará a forma de várias outras pessoas usarem Julia ou seu ecossistema de pacotes? Propostas mais siginificantes para os usuários do Julia devm recerber maiores notas. Note que isso não requer siginificância cientifica, apenas significância como software ou tutorial para os usuários do Julia.
+4. Significância para a comunidade. Isso é algo que mudará a forma de várias outras pessoas usarem Julia ou seu ecossistema de pacotes? Propostas mais significantes para os usuários do Julia devem recerber maiores notas. Note que isso não requer significância científica, apenas significância como software ou tutorial para os usuários do Julia.
  
-5. Divercidade do tópico. Como uma comunidade nós valorizamos a diversidade de aplicações. Poropostas que são voltadas a novas áreas e campos para a comunidade do Julia expandir devem receber maiores notas.
+5. Diversidade de tópico. Como uma comunidade nós valorizamos a diversidade de aplicações. Poropostas que são voltadas a novas áreas e campos para a comunidade do Julia expandir devem receber maiores notas.
  
-6. Correção. Propostas devem ser tecnicamnete corretas. Erros grinates devem ser destacados e levados em consideração.
+6. Corretude. Propostas devem ser tecnicamente corretas. Erros gritantes devem ser destacados e levados em consideração.
  
 7. Classificação. Os critérios serão mais estritos para apresentações mais longas.
  
 ## Processo de revisão
  
-- Propostas de oficinas serão curateladas pelo comitê da programação. Todos os candidatos de oficinas com propostas que alcancem um certo nível de escrutínio serão contatados e o agendamento das oficinas será decidido com base nas aplicações.
+- Propostas de oficinas serão curadas pelo comitê da programação. Todos os candidatos de minicursos com propostas que alcancem um certo nível de escrutínio serão contatados e o agendamento dos minicursos será decidido com base nas aplicações.
  
 - Palestras, palestras relâmpago, pôsteres e minissimpósios serão avaliados conjuntamente em dois turnos. No primeiro turno, todos os revisores receberão uma seleção de X propostas para avaliar, de modo que cada proposta seja vista por 3 revisores. Cada avaliação deve incluir uma nota e comentário, com ao menos 1 frase com a percepção geral sobre a proposta. Se qualquer revisor desistir ou se declarar suspeito, teremos um segundo turno para redistribuir as propostas. Após essa rodada, o comitê certificará que cada proposta tenha 3 revisores.
  
-- Após a revisão de dois estágios temos os estágios de seleção. As propostas de maior nota serão aceitas e as de menor nota serão rejeitadas ou re-classificadas e contadas como propostas do meio. Todas as propostas do meio serão marcadas para uma avaliação extra. A quantidade de propostas de maior nota a serem consideradas no estágio 1 da seleção é dependente do número de vagas disponíveis para apresentação vis-à-vis o número de propostas, e geralmente é reservado para aplicações com média 4+ sem comentários que suscitem preocupação.
+- Após a revisão de dois estágios temos os estágios de seleção. As propostas de maior nota serão aceitas e as de menor nota serão rejeitadas ou re-classificadas e contadas como propostas do meio. Todas as propostas do meio serão marcadas para uma avaliação extra. A quantidade de propostas de maior nota a serem consideradas no estágio 1 da seleção é dependente do número de vagas disponíveis para apresentação vs o número de propostas, e geralmente é reservado para aplicações com média 4+ sem comentários preocupantes.
  
-- No estágio 2 da seleção, o comitê de revisão tomará as notas e comentários dos revisores para decidir pela aceitação ou não da proposta. Propostas que não obtenham aceitação serão discutidas por uma reclassificação antes de serem rejeitadas.
+- No estágio 2 da seleção, o comitê de revisão tomará as notas e comentários dos revisores para decidir pela aceitação ou não da proposta. Propostas que não obtenham aceitação serão discutidas por uma reclassificação antes de serem totalmente rejeitadas.
  
 - Após todas as propostas serem classificadas, as aceitações e rejeições serão anunciadas.
  
-- Um simpósio especial para o *Google Summer of Code* e palestras relâmpago para os participantes serão reservados. Isso será mantido por último no processo dado que a aprovação/rejeição de propostas ocorrerá antes dos estudantes do *GSoC* serem aceitos. Essas propostas serão avaliadas diretamente pelo comitê de revisão.
+- Um simpósio especial para o *Google Summer of Code* e palestras relâmpago para os participantes serão reservados. Isso será feito posteriormente no processo dado que a aprovação/rejeição de propostas ocorrerá antes dos estudantes do *GSoC* serem aceitos. Essas propostas serão avaliadas diretamente pelo comitê de revisão.
  
 ## Comentários de revisão
  
@@ -171,4 +171,4 @@ Cada revisão deve incluir um comentário que justifica as notas que foram dadas
  
 - "A proposta é clara, envolve uma aplicação nova do Julia (para mim) e introduz um novo pacote que eu acredito que outros acharam útil".
  
-- "Apesar de parecer ser do estado-da-arte, a hermeticidade e custo do *software* tornam a apresentação voltada somente para um público restrito e não o público geral de usuários do Julia. Se a proposta focasse mais na experiência usando o Julia ao invés do seu produto, eu veria a proposta como sendo mais adequada à conferência".
+- "Apesar de parecer ser do estado-da-arte, o custo do *software* e o fato de não ser código aberto tornam a apresentação voltada somente para um público restrito e não o público geral de usuários do Julia. Se a proposta focasse mais na experiência usando o Julia ao invés do seu produto, eu veria a proposta como sendo mais adequada à conferência".
