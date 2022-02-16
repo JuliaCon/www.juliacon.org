@@ -181,7 +181,7 @@ Les critères ci-dessous seront évalués de 1 à 5 pour chaque soumission :
 
 4. Importance pour la communauté. Est-ce que le contenu changerait potentiellement la façon dont les autres utiliseront Julia ou son écosystème de packages. Les scores hauts impliquent une plus grande importance pour la communauté. À noter, l'importance ici n'est pas nécessairement scientifique, mais peut être l'importance du logiciel ou du tutoriel pour les utilisateurs de Julia.
 
-5. Diversité des sujets. En tant que communauté, nous valorisons la diversité des applications. Les propositions qui visent de nouveaux domaines et disciplines qui étendent la communauté Julia doivent être reconnus.
+5. Diversité des sujets. En tant que communauté, nous valorisons la diversité des applications. Les propositions visant de nouveaux domaines et disciplines qui étendent la communauté Julia doivent être valorisées.
 
 6. Validité. Les propositions doivent être techniquement correctes. Des erreurs marquées doivent être soulignées et prises en compte.
 
