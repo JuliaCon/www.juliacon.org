@@ -93,7 +93,8 @@ il peut être préférable de trouver une plage horaire pratique pour l'audience
 
 ## Enregistrements et supports
 
-JuliaCon 2022 sera complètement en ligne, pour faciliter l'organisation de la conférence, nous demandons à tous les intervenants
+JuliaCon 2022 sera complètement en ligne, et pour faciliter l'organisation de la conférence, nous demandons que toutes les présentations soient pré-enregistrées avant la conférence.
+L'ensemble de ce contenu sera rendu public après la conférence. 
 de téléverser une version enregistrée de leur présentation avant la conférence, l'ensemble de ce contenu sera rendu public
 après la conférence. Si, pour quelque raison, vous ne souhaitez pas que votre enregistrement soit diffusé après la conférence,
 contactez-nous sur juliacon@julialang.org.
