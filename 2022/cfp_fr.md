@@ -55,7 +55,7 @@ Les ateliers auront lieu en amont du début officiel de la conférence.
 Ils peuvent porter sur un package en particulier ou sur un domaine d'application.
 Note : 2022 est la première édition de JuliaCon proposant des ateliers non anglophones. Si vous souhaitez proposer un atelier dans une langue hors anglais, concevez-le de façon accessible pour un niveau débutant.
 
-## Poster virtuel
+### Posters virtuels
 
 JuliaCon 2022 sera complètement en ligne, les personnes présentant un poster n'ont pas à en imprimer un physique.
 À la place, il leur est demandé de fournir un enregistrement de trois minutes sur leur sujet.
