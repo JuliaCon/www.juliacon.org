@@ -196,7 +196,7 @@ Toutes les personnes ayant proposé un atelier satisfaisant la qualité attendue
 
 - Une phase de sélection sera organisée après les deux tours de revue. Les "bonnes propositions", ayant reçu les scores les plus hauts, seront acceptées, Quant aux "propositions moyennes", qui ont reçu des scores plus bas, elles seront rejetées ou re-classifiées. Toutes les propositions moyennes seront mises de côté pour une discussion complémentaire. Le nombre de "bonnes propositions" directement acceptées après la première phase d'évaluation dépendra du nombre de créneaux horaires disponibles et du nombre de propositions. En général, les propositions acceptées sans deuxième phase seront celles ayant obtenu un score de 4+ sans remarque ou inquiétude dans l'évaluation.
 
-- Dans un deuxième temps, le comité de revue prendra en compte les scores des évaluateurs, commentaires et reclassification des propositions pour la décision finale d'acceptation. Les propositions rejetées seront discutées pour reclassification avant un rejet complet.
+- Dans la deuxième phase, le comité de revue prendra en compte les scores des évaluations, les commentaires et les reclassifications potentielles avant de formuler la décision finale d'acceptation. Les propositions rejetées seront considérées pour reclassification avant un rejet définitif.
 
 - Après la classification de toutes les propositions, les décisions d'acceptation et de rejet seront diffusées.
 
