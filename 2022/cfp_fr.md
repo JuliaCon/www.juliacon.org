@@ -138,7 +138,7 @@ Le rôle des reviewers est d'assurer la qualité du contenu présenté à JuliaC
 Dans tout cas de conflit d'intérêt parmi les reviewers d'une soumission, la personne concernée s'engage à se retirer du processus d'évaluation et à le signaler à l'équipe organisatrice pour trouver rapidement un remplacement.
 Les évaluateurs ne consulteront aucune évaluation en cours sur laquelle il/elle est auteur, impliqué de manière générale ou a toute forme de conflit d'intérêt,
 Se référer au guide PNAS https://www.pnas.org/page/authors/conflict-of-interest pour des définitions et exemples.
-Les conflits d'intérêts incluent tout travail ou auteurs avec qui l'évaluateur a "une association qui présente ou peut être perçue comme un conflit d'intérêt intellectuel ou financier" (guide PNAS ci-dessus).
+En particulier, les conflits d'intérêts incluent tout travail et toute personne avec qui existe "une association qui présente ou peut être perçue comme un conflit d'intérêt intellectuel ou financier" (cf guide PNAS ci-dessus).
 
 ## Code de Conduite
 
