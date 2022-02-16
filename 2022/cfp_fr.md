@@ -36,7 +36,7 @@ Pour la première fois, JuliaCon acceptera cette année des propositions d'inter
 
 Les présentations orales servent à partager vos travaux avec la communauté Julia, qu'ils soient liés à du développement logiciel, de la recherche ou des applications à un domaine spécifique.
 
-- Les interventions longues durent 30 minutes dont 5 minutes de questions
+- Les présentations longues durent 30 minutes dont 5 minutes de questions
 - Les présentations courtes durent 10 minutes dont 2 minutes de questions
 
 Cette année, vous pouvez choisir de donner votre intervention en anglais, une autre langue ou les deux.
