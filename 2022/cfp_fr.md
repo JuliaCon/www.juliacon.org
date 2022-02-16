@@ -151,7 +151,7 @@ Une proposition ne remplissant pas l'un des critères suivants se verra attribue
 
 1. L'abstract doit être facile à lire et à comprendre pour quelqu'un ne travaillant pas dans le même domaine. Le titre doit permettre d'identifier le sujet de l'intervention.
 
-2. L'abstract doit être correct et clair scientifiquement et techniquement.
+2. L'abstract doit être scientifiquement correct, pour autant que les reviewers puissent en juger.
 
 3. Le sujet doit être un des sujets d'intérêt pour JuliaCon dont ceux listés dans l'appel à communications.
 - Biologie, bioinformatique, santé, médecine
