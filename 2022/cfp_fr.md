@@ -121,7 +121,9 @@ Nous sommes joignables à l'adresse juliacon@julialang.org pour répondre à vos
 
 JuliaCon s'engage à proposer une expérience positive pour toute personne participante sans différence de genre, d'expression ou d'orientation sexuelle, de handicap, d'apparence physique, de morphologie, de race, d'âge, de religion, de nationalité ou d'origine ethnique.
 Nous encourageons fortement les interactions respectueuses et prévenantes entre les personnes qui participent, et ne tolérerons aucune forme de harcèlement.
-Par exemple, les propos ou images sexuels ou offensantes ne sont appropriées dans aucun des lieux virtuels, chat rooms, ni dans les parties formelles d'interventions ni dans les périodes de réseautage entre les sessions. Les personnes ne respectant pas ces conventions peuvent être sanctionnées ou expulsées de la conférence à la discrétion des organisateurs. Notre politique anti-harcèlement peut être trouvée ici : https://juliacon.org/2022/coc/.
+Par exemple, les propos ou images à caractère sexuel ou offensant ne sont appropriés dans aucun des lieux virtuels et espaces de discussion, ni dans les sessions formelles, ni dans les moments d'échange entre les sessions.
+Les personnes ne respectant pas ces conventions pourront être sanctionnées ou expulsées de la conférence à la discrétion de l'équipe organisatrice.
+Notre politique anti-harcèlement peut être consultée ici : https://juliacon.org/2022/coc/.
 
 # Annexes
 
