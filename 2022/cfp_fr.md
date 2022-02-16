@@ -66,7 +66,7 @@ Les sessions _Birds of a Feather_ permettent des discussions en plus petit comit
 Par exemple, elles peuvent servir aux gestionnaires d'un package pour rencontrer / recruter des collaborateurs et collaboratrices.
 Des membres de la communauté peuvent aussi les utiliser pour échanger sur l'enseignement de Julia ou les initiatives en faveur de la diversité.
 Ces sessions dureront une heure, et ne seront pas enregistrées.
-## Retours d'expérience
+### Retours d'expérience
 
 L'objectif des retours d'expérience est d'inclure de nouvelles personnes dans la communauté Julia.
 On peut lister comme exemples de sujets vos fonctionnalités préférées du langage,
