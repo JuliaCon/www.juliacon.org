@@ -10,7 +10,7 @@ Si vous avez travaillé sur Julia, JuliaCon est la conférence la plus adaptée 
 Pour vous faire une idée des présentations des années précédentes, vous pouvez consulter les programmes et interventions des éditions antérieures (2014, 2015, 2016, 2017, 2018, 2019, 2020, et 2021).
 
 La conférence est potentiellement intéressée par tous les domaines de recherche autour de et utilisant Julia, notamment :
-- Biologie, bioinformatique, santé, médecine
+- Biologie, bioinformatique, santé, médecine et santé publique
 - Analyse de données et visualisation
 - Finance et économie
 - Programmation
