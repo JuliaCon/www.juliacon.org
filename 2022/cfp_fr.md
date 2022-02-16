@@ -41,7 +41,7 @@ Les présentations orales servent à partager vos travaux avec la communauté Ju
 
 Cette année, vous pouvez choisir de donner votre intervention en anglais, une autre langue ou les deux.
 
-## Minisymposia
+### Minisymposia
 
 Un minisymposium est une conférence dans la conférence, pour laquelle les personnes chargées de l'organisation peuvent planifier les intervenant·e·s, panels et discussions à leur guise.
 de l'organisation et agencement des intervenants, panels et discussions comme ils ou elles l'entendent.
