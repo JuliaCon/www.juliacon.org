@@ -113,7 +113,7 @@ D'autres informations suivront.
 
 Les personnes qui interviennent doivent également s'inscrire pour participer à la conférence, qui sera en ligne et entièrement gratuite.
 
-## Nous contacter
+### Nous contacter
 
 Nous sommes joignables à l'adresse juliacon@julialang.org pour répondre à vos questions ou préoccupations.
 
