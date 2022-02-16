@@ -83,7 +83,7 @@ Bien qu'il soit difficile d'imposer un processus de revue en double aveugle (pui
 Si vous soumettez une proposition en langue non anglaise, vous pouvez utiliser le langage de votre choix.
 En complément, veuillez soumettre une traduction en anglais de votre proposition (une traduction automatique est acceptable).
 Nous tenterons systématiquement de trouver des personnes maîtrisant la langue choisie pour évaluer au mieux votre proposition.
-le cas échéant, nous utiliserons la version en anglais pour la transmettre à plus de personnes pour son évaluation.
+Cependant, si cela s'avère impossible, nous utiliserons la version en anglais afin d'agrandir l'ensemble des reviewers.
 Si vous choisissez de présenter dans une langue non anglaise, veuillez l'indiquer dans l'abstract directement
 ("cet atelier sera présenté en tchèque" ou "je donnerai cette présentation en espagnol").
 
