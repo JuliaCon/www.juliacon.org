@@ -153,7 +153,7 @@ Une proposition ne remplissant pas l'un des critères suivants se verra attribue
 
 2. L'abstract doit être scientifiquement correct, pour autant que les reviewers puissent en juger.
 
-3. Le sujet doit être un des sujets d'intérêt pour JuliaCon dont ceux listés dans l'appel à communications.
+3. Le sujet doit être un des sujets d'intérêt pour JuliaCon, ce qui inclut notamment (mais pas uniquement)  les domaines listés plus haut :
 - Biologie, bioinformatique, santé, médecine
 - Analyse de données et visualisation
 - Finance et économie
