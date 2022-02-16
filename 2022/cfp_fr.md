@@ -142,7 +142,7 @@ En particulier, les conflits d'intérêts incluent tout travail et toute personn
 
 ### Code de Conduite
 
-Les évaluateurs s'engagent à lire et respecter le Code de Conduite de la conférence dans leurs évaluations et communications tout au long du processus de revue.
+Les reviewers s'engagent à lire et respecter le Code de Conduite de la conférence dans leurs évaluations et communications, tout au long du processus de revue.
 Si un abstract soumis n'est pas conforme au Code de Conduite, l'évaluateur doit le faire savoir au comité d'organisation.
 
 ## Critères d'évaluation
