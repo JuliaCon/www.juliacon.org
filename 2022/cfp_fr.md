@@ -145,7 +145,7 @@ En particulier, les conflits d'intérêts incluent tout travail et toute personn
 Les reviewers s'engagent à lire et respecter le Code de Conduite de la conférence dans leurs évaluations et communications, tout au long du processus de revue.
 Si un abstract soumis n'est pas conforme au Code de Conduite, il est nécessaire d'en informer le comité d'organisation.
 
-## Critères d'évaluation
+### Critères d'évaluation
 
 Un manque dans un de ces critères résultera en un score plus bas.
 
