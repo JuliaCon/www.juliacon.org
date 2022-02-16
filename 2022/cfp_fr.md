@@ -173,7 +173,7 @@ Une proposition ne remplissant pas l'un des critères suivants se verra attribue
 ### Barème pour l'évaluation
 
 Les critères ci-dessous seront évalués de 1 à 5 pour chaque soumission :
-1. Applicabilité à la communauté Julia. Les personnes utilisant le langage seraient-elles intéressées par le contenu pour ses méthodes et/ou résultats ? Les scores les plus hauts sont d'intérêt pour une audience large des utilisateurs.
+1. Applicabilité à la communauté Julia. Les personnes utilisant le langage seront-elles intéressées par cette contribution, que ce soit pour ses méthodes ou pour ses résultats ? Les scores les plus hauts doivent traduire une large applicabilité à travers les centres d'intérêt de la communauté.
 
 2. Contributions à la communauté. Est-ce un nouveau package utilisable directement ? Les scores les plus hauts sont attribués à des travaux que d'autres peuvent utiliser.
 
