@@ -119,7 +119,7 @@ Nous sommes joignables à l'adresse juliacon@julialang.org pour répondre à vos
 
 # Code de Conduite de la conférence
 
-JuliaCon s'engage à proposer une expérience positive pour toute personne participante sans différence d'âge, de genre, d'expression ou d'orientation sexuelle, de handicap, d'apparence physique, de morphologie, de race, d'âge, de religion, de nationalité ou d'origine ethnique.
+JuliaCon s'engage à proposer une expérience positive pour toute personne participante sans différence de genre, d'expression ou d'orientation sexuelle, de handicap, d'apparence physique, de morphologie, de race, d'âge, de religion, de nationalité ou d'origine ethnique.
 Nous encourageons fortement les interactions respectueuses et considérées entre personnes et ne tolérerons aucune forme de harcèlement des participants.
 Par exemple, les propos ou images sexuels ou offensantes ne sont appropriées dans aucun des lieux virtuels, chat rooms, ni dans les parties formelles d'interventions ni dans les périodes de réseautage entre les sessions. Les personnes ne respectant pas ces conventions peuvent être sanctionnées ou expulsées de la conférence à la discrétion des organisateurs. Notre politique anti-harcèlement peut être trouvée ici : https://juliacon.org/2022/coc/.
 
