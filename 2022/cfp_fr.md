@@ -117,7 +117,7 @@ Les personnes qui interviennent doivent également s'inscrire pour participer à
 
 Nous sommes joignables à l'adresse juliacon@julialang.org pour répondre à vos questions ou préoccupations.
 
-# Code de Conduite de la conférence
+## Code de Conduite de la conférence
 
 JuliaCon s'engage à proposer une expérience positive pour toute personne participante sans différence de genre, d'expression ou d'orientation sexuelle, de handicap, d'apparence physique, de morphologie, de race, d'âge, de religion, de nationalité ou d'origine ethnique.
 Nous encourageons fortement les interactions respectueuses et prévenantes entre les personnes qui participent, et ne tolérerons aucune forme de harcèlement.
