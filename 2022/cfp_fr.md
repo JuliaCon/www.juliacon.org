@@ -69,7 +69,7 @@ Ces sessions dureront une heure, et ne seront pas enregistrées.
 ### Retours d'expérience
 
 L'objectif des retours d'expérience est d'accueillir de nouveaux membres dans la communauté Julia.
-On peut lister comme exemples de sujets vos fonctionnalités préférées du langage,
+On peut lister comme exemples de sujets vos fonctionnalités préférées du langage, comment Julia vous a aidé à résoudre un certain type de problèmes, ou plus généralement, comment vous avez intégré Julia à vos outils et processus.
 comment Julia vous a aidé à résoudre un certain type de problèmes ou plus généralement, comment
 vous avez intégré Julia à vos outils et processus.
 Ces présentations durent trois minutes chacune et seront intégrées à travers toutes les sessions au cours de la conférence.
