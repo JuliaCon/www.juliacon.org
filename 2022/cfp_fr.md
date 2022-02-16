@@ -127,7 +127,7 @@ Notre politique anti-harcèlement peut être consultée ici : https://juliacon.o
 
 ## Annexes
 
-## Processus et guide de revue de propositions
+### Processus et consignes pour la revue
 
 Vous trouverez ci-dessous le guide et le processus de revue et d'évaluation des propositions qui seront utilisés pour la vôtre.
 
