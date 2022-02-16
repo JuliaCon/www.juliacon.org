@@ -133,7 +133,7 @@ Vous trouverez ci-dessous le guide de revue et d'évaluation des propositions qu
 
 Le rôle des reviewers est d'assurer la qualité du contenu présenté à JuliaCon.
 
-## Conflit d'intérêt
+### Conflit d'intérêt
 
 Dans tout cas de conflit d'intérêt, l'évaluateur s'engage à se retirer d'une évaluation et à le signaler aux organisateurs pour trouver rapidement un remplacement.
 Les évaluateurs ne consulteront aucune évaluation en cours sur laquelle il/elle est auteur, impliqué de manière générale ou a toute forme de conflit d'intérêt,
