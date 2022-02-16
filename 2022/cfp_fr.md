@@ -97,7 +97,7 @@ JuliaCon 2022 sera complètement en ligne, et pour faciliter l'organisation de l
 L'ensemble de ce contenu sera rendu public après la conférence. 
 Si, pour une raison quelconque, vous ne souhaitez pas que votre enregistrement soit diffusé après la conférence, contactez-nous sur juliacon@julialang.org.
 contactez-nous sur juliacon@julialang.org.
-Nous vous demandons également de rendre votre contenu accessible sous une licence Creative Commons (default: no commercial reuse)
+Nous vous demandons également de rendre vos documents et enregistrements accessibles sous une licence _Creative Commons (default: no commercial reuse)_ ou une autre license open source.
 ou une autre licence open-source. Si vous souhaitez donner votre présentation en anglais et une autre langue, nous vous demanderons
 de soumettre les deux versions enregistrées.
 
