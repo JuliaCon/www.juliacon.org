@@ -149,7 +149,7 @@ Si un abstract soumis n'est pas conforme au Code de Conduite, il est nécessaire
 
 Une proposition ne remplissant pas l'un des critères suivants se verra attribuer un score plus bas :
 
-1. L'abstract doit être facile à lire et comprendre pour quelqu'un ne travaillant pas dans le même domaine. Le titre doit permettre d'identifier le sujet de l'intervention.
+1. L'abstract doit être facile à lire et à comprendre pour quelqu'un ne travaillant pas dans le même domaine. Le titre doit permettre d'identifier le sujet de l'intervention.
 
 2. L'abstract doit être correct et clair scientifiquement et techniquement.
 
