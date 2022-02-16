@@ -106,7 +106,7 @@ Restez attentif à vos courriels pour les détails sur le processus de soumissio
 
 ### Publication d'articles de conférence
 
-Nous offrons la possibilité aux intervenants de soumettre leurs travaux sous forme d'articles de conférence dans les publications de proceedings de la JuliaCon.
+Nous offrons la possibilité aux personnes qui présentent de soumettre également leurs travaux sous forme d'articles de conférence dans les publications de proceedings de la JuliaCon.
 D'autres informations suivront.
 
 ### Inscription
