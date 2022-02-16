@@ -72,7 +72,7 @@ L'objectif des retours d'expérience est d'accueillir de nouveaux membres dans l
 On peut lister comme exemples de sujets vos fonctionnalités préférées du langage, comment Julia vous a aidé à résoudre un certain type de problèmes, ou plus généralement, comment vous avez intégré Julia à vos outils et processus.
 Ces présentations durent trois minutes chacune et seront intégrées à travers toutes les sessions au cours de la conférence.
 Nous vous invitons à ajouter vos coordonnées (pseudo Twitter, GitHub, courriel) sur les slides si vous souhaitez recevoir des questions, puisqu'il n'y aura pas de temps d'échange dédié après la diffusion de votre présentation.
-Nous encourageons particulièrement les personnes nouvelles à la communauté à partager leurs impressions en utilisant ce format.
+Nous encourageons particulièrement les personnes qui viennent de rejoindre la communauté à partager leurs impressions en utilisant ce format.
 Si vous enseignez et utilisez Julia dans vos cours, nous vous encourageons à inviter vos étudiants à proposer leurs retours d'expériences.
 
 Lors de la soumission d'une proposition, plusieurs catégories d'interventions peuvent être suggérées.
