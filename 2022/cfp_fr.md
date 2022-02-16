@@ -125,7 +125,7 @@ Par exemple, les propos ou images à caractère sexuel ou offensant ne sont appr
 Les personnes ne respectant pas ces conventions pourront être sanctionnées ou expulsées de la conférence à la discrétion de l'équipe organisatrice.
 Notre politique anti-harcèlement peut être consultée ici : https://juliacon.org/2022/coc/.
 
-# Annexes
+## Annexes
 
 ## Processus et guide de revue de propositions
 
