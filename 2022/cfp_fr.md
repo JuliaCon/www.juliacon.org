@@ -51,7 +51,7 @@ Note : contrairement à JuliaCon 2021, en 2022 les minisymposia auront lieu avan
 ### Ateliers
 
 Un atelier est une session interactive de deux à trois heures orientée vers la pratique, durant laquelle du code source est écrit et partagé en direct avec le public pour lui permettre de suivre facilement l'exposé.
-Les ateliers auront lieu en amont du début officiel de la conférence. Des ateliers peuvent comprendre des tutoriels orientés sur
+Les ateliers auront lieu en amont du début officiel de la conférence.
 un package ou sur un domaine d'application.
 Note : 2022 est la première édition de JuliaCon proposant des ateliers non anglophones. Si vous souhaitez proposer un atelier dans une langue hors anglais, concevez un atelier plus orienté pour un niveau débutant.
 
