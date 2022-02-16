@@ -82,7 +82,7 @@ Nous utilisons un processus de revue en simple aveugle (l'identité des reviewer
 Bien qu'il soit difficile d'imposer un processus de revue en double aveugle (puisque la plupart des soumissions doivent contenir un lien vers du code public open source), tous les efforts seront mis en oeuvre pour garantir une évaluation impartiale.
 Si vous soumettez une proposition en langue non anglaise, vous pouvez utiliser le langage de votre choix.
 En complément, veuillez soumettre une traduction en anglais de votre proposition (une traduction automatique est acceptable).
-Nous tenterons systématiquement de trouver des personnes maîtrisant la langue pour évaluer votre proposition,
+Nous tenterons systématiquement de trouver des personnes maîtrisant la langue choisie pour évaluer au mieux votre proposition.
 le cas échéant, nous utiliserons la version en anglais pour la transmettre à plus de personnes pour son évaluation.
 Si vous choisissez de présenter dans une langue non anglaise, veuillez l'indiquer dans l'abstract directement
 ("cet atelier sera présenté en tchèque" ou "je donnerai cette présentation en espagnol").
