@@ -57,7 +57,7 @@ Note : 2022 est la première édition de JuliaCon proposant des ateliers non ang
 
 ### Posters virtuels
 
-JuliaCon 2022 sera complètement en ligne, les personnes présentant un poster n'ont pas à en imprimer un physique.
+JuliaCon 2022 ayant lieu complètement en ligne, les personnes présentant un poster n'ont besoin de l'imprimer sur papier.
 À la place, il leur est demandé de fournir un enregistrement de trois minutes sur leur sujet.
 Les contenus seront ensuite diffusés dans des salons de chat dédiés où les participants pourront visionner les vidéos et discuter du sujet.
 
