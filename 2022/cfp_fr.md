@@ -59,7 +59,7 @@ Note : 2022 est la première édition de JuliaCon proposant des ateliers non ang
 
 JuliaCon 2022 ayant lieu complètement en ligne, les personnes présentant un poster n'ont besoin de l'imprimer sur papier.
 À la place, il leur est demandé de fournir un enregistrement de trois minutes sur leur sujet.
-Les contenus seront ensuite diffusés dans des salons de chat dédiés où les participants pourront visionner les vidéos et discuter du sujet.
+Ces contenus seront ensuite diffusés dans des salons de chat dédiés, où les participant·e·s pourront venir visionner les vidéos et discuter du sujet.
 
 ## Retours d'expérience
 
