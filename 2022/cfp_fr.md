@@ -115,7 +115,7 @@ Les personnes qui interviennent doivent également s'inscrire pour participer à
 
 ## Nous contacter
 
-Nous sommes joignables pour vos questions ou préoccupations à juliacon@julialang.org.
+Nous sommes joignables à l'adresse juliacon@julialang.org pour répondre à vos questions ou préoccupations.
 
 # Code de Conduite de la conférence
 
