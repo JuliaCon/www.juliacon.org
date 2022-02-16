@@ -60,7 +60,12 @@ Note : 2022 est la première édition de JuliaCon proposant des ateliers non ang
 JuliaCon 2022 ayant lieu complètement en ligne, les personnes présentant un poster n'ont besoin de l'imprimer sur papier.
 À la place, il leur est demandé de fournir un enregistrement de trois minutes sur leur sujet.
 Ces contenus seront ensuite diffusés dans des salons de chat dédiés, où les participant·e·s pourront venir visionner les vidéos et discuter du sujet.
+### "Qui se ressemble s'assemble" (_Birds of a Feather_)
 
+Les sessions _Birds of a Feather_ permettent des discussions en plus petit comité autour d'un sujet spécifique.
+Par exemple, elles peuvent servir aux gestionnaires d'un package pour rencontrer / recruter des collaborateurs et collaboratrices.
+Des membres de la communauté peuvent aussi les utiliser pour échanger sur l'enseignement de Julia ou les initiatives en faveur de la diversité.
+Ces sessions dureront une heure, et ne seront pas enregistrées.
 ## Retours d'expérience
 
 L'objectif des retours d'expérience est d'inclure de nouvelles personnes dans la communauté Julia.
