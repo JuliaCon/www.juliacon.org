@@ -24,7 +24,7 @@ La conférence est potentiellement intéressée par tous les domaines de recherc
 
 La considération principale pour l'évaluation des propositions est l'intérêt potentiel pour la communauté Julia. 
 
-# Catégories d'interventions
+## Catégories d'interventions
 
 Cette année, 6 différentes catégories d'interventions sont accessibles.
 Lors de la soumission d'une proposition, plusieurs catégories d'interventions peuvent être suggérées.
