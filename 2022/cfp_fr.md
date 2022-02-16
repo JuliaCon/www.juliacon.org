@@ -98,7 +98,6 @@ L'ensemble de ce contenu sera rendu public après la conférence.
 Si, pour une raison quelconque, vous ne souhaitez pas que votre enregistrement soit diffusé après la conférence, contactez-nous sur juliacon@julialang.org.
 Nous vous demandons également de rendre vos documents et enregistrements accessibles sous une licence _Creative Commons (default: no commercial reuse)_ ou une autre license open source.
 Si vous souhaitez donner votre présentation en anglais et une autre langue, nous vous demanderons d'envoyer les deux versions enregistrées.
-de soumettre les deux versions enregistrées.
 
 Transcriptions vidéo
 
