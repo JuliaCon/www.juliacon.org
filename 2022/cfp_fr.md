@@ -48,7 +48,7 @@ L'équipe d'organisation d'un minisymposium doit proposer un modérateur ou une 
 Un minisymposium occupe deux à trois heures selon les possibilités de la conférence.
 Note : contrairement à JuliaCon 2021, en 2022 les minisymposia auront lieu avant le début officiel de la conférence, avec les ateliers.
 
-## Ateliers
+### Ateliers
 
 Un atelier est une session interactive et orientée pratique de deux à trois heures durant laquelle l'intervenant
 programme en direct devant l'audience et partage le code source pour permettre aux personnes de suivre au cours de l'exposé.
