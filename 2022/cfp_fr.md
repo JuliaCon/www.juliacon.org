@@ -101,7 +101,7 @@ Si vous souhaitez donner votre présentation en anglais et une autre langue, nou
 
 ### Transcriptions vidéo
 
-Pour améliorer l'accessibilité de la conférence, nous vous demanderons la transcription avec votre soumission.
+Pour améliorer l'accessibilité de la conférence, nous vous demanderons d'accompagner votre vidéo d'une transcription écrite.
 Restez attentif à vos courriels pour les détails sur le processus de soumission.
 
 ### Publication d'articles de conférence
