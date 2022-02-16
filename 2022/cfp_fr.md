@@ -75,7 +75,6 @@ Nous vous invitons à ajouter vos coordonnées (pseudo Twitter, GitHub, courriel
 Nous encourageons particulièrement les personnes qui viennent de rejoindre la communauté à partager leurs impressions en utilisant ce format.
 Si vous enseignez et utilisez Julia dans vos cours, nous vous encourageons à inviter vos étudiants à proposer leurs retours d'expériences.
 
-Lors de la soumission d'une proposition, plusieurs catégories d'interventions peuvent être suggérées.
 
 # Détails sur les soumissions
 
