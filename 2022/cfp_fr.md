@@ -78,7 +78,7 @@ Si vous enseignez et utilisez Julia dans vos cours, nous vous encourageons à in
 
 ## Détails sur les soumissions
 
-Nous utilisons un processus de revue anonymisé pour éviter des biais de sélection sur l'intervenant.
+Nous utilisons un processus de revue en simple aveugle (l'identité des reviewers est inconnue à la personne qui soumet une proposition), ceci afin de favoriser la sincérité des commentaires.
 Bien qu'il soit difficile d'imposer un processus de revue en double aveugle (puisque la plupart des soumissions doivent contenir un lien vers du code public open source), tous les efforts seront mis en oeuvre pour garantir une évaluation impartiale.
 un lien vers le code source public, tous les efforts sont mis en œuvre pour assurer un processus impartial de revue.
 Si vous soumettez une proposition en langue non anglaise, vous pouvez utiliser le langage de votre choix.
