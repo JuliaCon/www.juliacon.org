@@ -140,7 +140,7 @@ Les évaluateurs ne consulteront aucune évaluation en cours sur laquelle il/ell
 Se référer au guide PNAS https://www.pnas.org/page/authors/conflict-of-interest pour des définitions et exemples.
 En particulier, les conflits d'intérêts incluent tout travail et toute personne avec qui existe "une association qui présente ou peut être perçue comme un conflit d'intérêt intellectuel ou financier" (cf guide PNAS ci-dessus).
 
-## Code de Conduite
+### Code de Conduite
 
 Les évaluateurs s'engagent à lire et respecter le Code de Conduite de la conférence dans leurs évaluations et communications tout au long du processus de revue.
 Si un abstract soumis n'est pas conforme au Code de Conduite, l'évaluateur doit le faire savoir au comité d'organisation.
