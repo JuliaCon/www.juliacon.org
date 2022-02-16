@@ -76,7 +76,7 @@ Nous encourageons particulièrement les personnes qui viennent de rejoindre la c
 Si vous enseignez et utilisez Julia dans vos cours, nous vous encourageons à inviter vos étudiants à proposer leurs retours d'expériences.
 
 
-# Détails sur les soumissions
+## Détails sur les soumissions
 
 Nous utilisons un processus de revue anonymisé pour éviter des biais de sélection sur l'intervenant.
 Imposer un processus de revue en double anonymat serait compliqué puisque la plupart des propositions contiendront
