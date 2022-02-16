@@ -104,7 +104,7 @@ Si vous souhaitez donner votre présentation en anglais et une autre langue, nou
 Pour améliorer l'accessibilité de la conférence, nous vous demanderons la transcription avec votre soumission.
 Restez attentif à vos courriels pour les détails sur le processus de soumission.
 
-## Publication d'articles de conférence
+### Publication d'articles de conférence
 
 Nous offrons la possibilité aux intervenants de soumettre leurs travaux sous forme d'articles de conférence dans les publications de proceedings de la JuliaCon.
 D'autres informations suivront.
