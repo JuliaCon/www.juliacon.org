@@ -91,7 +91,7 @@ Par exemple, si vous souhaitez présenter en mandarin, il peut être préférabl
 Merci de l'indiquer dans l'abstract.
 il peut être préférable de trouver une plage horaire pratique pour l'audience participant depuis l'Asie, indiquez-le dans l'abstract.
 
-## Enregistrements et supports
+### Enregistrements et supports
 
 JuliaCon 2022 sera complètement en ligne, et pour faciliter l'organisation de la conférence, nous demandons que toutes les présentations soient pré-enregistrées avant la conférence.
 L'ensemble de ce contenu sera rendu public après la conférence. 
