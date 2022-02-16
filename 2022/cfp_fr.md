@@ -183,7 +183,7 @@ Les critères ci-dessous seront évalués de 1 à 5 pour chaque soumission :
 
 5. Diversité des sujets. En tant que communauté, nous valorisons la diversité des applications. Les propositions visant de nouveaux domaines et disciplines qui étendent la communauté Julia doivent être valorisées.
 
-6. Validité. Les propositions doivent être techniquement correctes. Des erreurs marquées doivent être soulignées et prises en compte.
+6. Validité. Les propositions doivent être techniquement et scientifiquement correctes. Des erreurs évidentes doivent être soulignées et prises en compte.
 
 7. Types de proposition. Les exigences seront plus élevées pour les formats plus longs.
 
