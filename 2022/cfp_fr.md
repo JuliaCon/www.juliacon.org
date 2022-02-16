@@ -86,7 +86,7 @@ Nous tenterons systématiquement de trouver des personnes maîtrisant la langue 
 Cependant, si cela s'avère impossible, nous utiliserons la version en anglais afin d'agrandir l'ensemble des reviewers.
 Si vous choisissez de présenter dans une langue non anglaise, veuillez l'indiquer dans l'abstract directement ("cet atelier sera présenté en tchèque" ou "je donnerai cette présentation en espagnol").
 
-Si vous soumettez un atelier ou une session d'échange de groupe et que vous pensez qu'il serait bénéfique que l'intervention
+Si vous soumettez un atelier ou une session _Birds of a Feather_ qui pourrait bénéficier d'un horaire spécifique, merci de le mentionner dans votre proposition.
 soit à un horaire particulier, veuillez l'indiquer dans votre proposition. Par exemple, si vous souhaitez présenter en mandarin,
 il peut être préférable de trouver une plage horaire pratique pour l'audience participant depuis l'Asie, indiquez-le dans l'abstract.
 
