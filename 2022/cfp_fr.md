@@ -28,7 +28,7 @@ La considération principale pour l'évaluation des propositions est l'intérêt
 
 Cette année, 6 différentes catégories d'interventions sont accessibles.
 Lors de la soumission d'une proposition, plusieurs catégories d'interventions peuvent être suggérées.
-Toutes les interventions seront préenregistrées et soumises début juillet (la date exacte sera communiquée ultérieurement).
+Toutes les interventions devront être préenregistrées et soumises début juillet (la date exacte sera communiquée ultérieurement).
 Les sessions d'échanges de groupe et les ateliers se tiendront en direct sans enregistrement.
 Pour la première fois, JuliaCon acceptera cette année des propositions d'intervention en langue non anglaise (voir ci-dessous).
 
