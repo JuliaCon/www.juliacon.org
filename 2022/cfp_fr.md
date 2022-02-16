@@ -187,7 +187,7 @@ Les critères ci-dessous seront évalués de 1 à 5 pour chaque soumission :
 
 7. Types de proposition. Les exigences seront plus élevées pour les formats plus longs.
 
-## Processus de revue
+### Processus de revue
 
 - Les propositions d'ateliers seront revues et sélectionnées par le comité de programme.
 Toutes les personnes ayant proposé un atelier satisfaisant la qualité attendue seront contactées pour construire un programme d'ateliers diversifié et cohérent basé sur ces propositions.
