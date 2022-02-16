@@ -190,7 +190,7 @@ Les critères ci-dessous seront évalués de 1 à 5 pour chaque soumission :
 ## Processus de revue
 
 - Les propositions d'ateliers seront revues et sélectionnées par le comité de programme.
-pour construire un programme d'ateliers diversifié et cohérent basé sur ces propositions.
+Toutes les personnes ayant proposé un atelier satisfaisant la qualité attendue seront contactées pour construire un programme d'ateliers diversifié et cohérent basé sur ces propositions.
 
 - Les interventions courtes et longues, posters et minisymposia seront jugés ensemble en deux tours de revue. Lors du premier tour, tous les évaluateurs recevront une sélection de X propositions à évaluer, tel que chaque proposition est évaluée par trois personnes. Chaque revue inclut un score et un commentaire, au moins une phrase de résumé de leur avis sur la proposition.Si au moins un évaluateur se retire d'une proposition, nous organiserons un deuxième tour de revue en réassignant les autres évaluateurs actifs. Après ce deuxième tour, le comité de revue s'assurera que chaque proposition a reçu au moins trois revues.
 
