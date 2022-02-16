@@ -168,7 +168,7 @@ Une proposition ne remplissant pas l'un des critères suivants se verra attribue
 
 4. Si le format demandé lors de la soumission (retour d'expérience, présentation longue ou courte, atelier, poster, minisymposium, _Birds of a Feather_) ne semble pas approprié au contenu présenté, les reviewers peuvent le signaler et en suggérer un autre.
 
-5. Les études de cas de Julia en entreprise sont généralement considéré d'intérêt pour la conférence. Plus spécifiquement, les retours d'expérience sur le développement de produit utilisant ou interagissant avec Julia et l'écosystème sont bienvenus.
+5. Les études de cas concernant Julia en entreprise sont généralement intéressantes pour la conférence. Plus spécifiquement, les retours d'expérience sur le développement de produits utilisant ou interagissant avec Julia et son écosystème sont bienvenus. Cependant, ils ne doivent pas donner lieu à du placement de produit.
 
 ### Barème pour l'évaluation
 
