@@ -111,7 +111,7 @@ D'autres informations suivront.
 
 ### Inscription
 
-Les intervenants doivent s'enregistrer pour la conférence qui sera en ligne et entièrement gratuite.
+Les personnes qui interviennent doivent également s'inscrire pour participer à la conférence, qui sera en ligne et entièrement gratuite.
 
 ## Nous contacter
 
