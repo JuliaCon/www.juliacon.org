@@ -32,7 +32,7 @@ Toutes les interventions devront être préenregistrées et soumises début juil
 Les sessions d'échanges de groupe et les ateliers se tiendront en direct sans enregistrement.
 Pour la première fois, JuliaCon acceptera cette année des propositions d'intervention en langue non anglaise (voir ci-dessous).
 
-## Interventions
+### Présentations orales
 
 Les présentations orales servent à partager vos travaux avec la communauté Julia, qu'ils soient liés à du développement logiciel, de la recherche ou des applications à un domaine spécifique.
 
