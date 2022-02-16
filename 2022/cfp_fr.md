@@ -109,7 +109,7 @@ Restez attentif à vos courriels pour les détails sur le processus de soumissio
 Nous offrons la possibilité aux intervenants de soumettre leurs travaux sous forme d'articles de conférence dans les publications de proceedings de la JuliaCon.
 D'autres informations suivront.
 
-## Inscription pour les intervenants
+### Inscription
 
 Les intervenants doivent s'enregistrer pour la conférence qui sera en ligne et entièrement gratuite.
 
