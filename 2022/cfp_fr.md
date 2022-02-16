@@ -175,7 +175,7 @@ Une proposition ne remplissant pas l'un des critères suivants se verra attribue
 Les critères ci-dessous seront évalués de 1 à 5 pour chaque soumission :
 1. Applicabilité à la communauté Julia. Les personnes utilisant le langage seront-elles intéressées par cette contribution, que ce soit pour ses méthodes ou pour ses résultats ? Les scores les plus hauts doivent traduire une large applicabilité à travers les centres d'intérêt de la communauté.
 
-2. Contributions à la communauté. Est-ce un nouveau package utilisable directement ? Les scores les plus hauts sont attribués à des travaux que d'autres peuvent utiliser.
+2. Apport à la communauté. S'agit-il d'un nouveau package, d'une nouvelle idée utilisable directement ? Les scores les plus hauts doivent être attribués à des travaux que d'autres peuvent utiliser.
 
 3. Clarté. Quel est l'objectif de l'intervention ? Que va apprendre l'audience ? Les interventions avec des scores hauts sont claires dans leurs propositions.
 
