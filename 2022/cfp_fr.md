@@ -131,7 +131,7 @@ Notre politique anti-harcèlement peut être consultée ici : https://juliacon.o
 
 Vous trouverez ci-dessous le guide de revue et d'évaluation des propositions qui sera utilisé à la réception de votre soumission.
 
-Le rôle des évaluateurs est d'assurer la qualité du contenu présenté à JuliaCon.
+Le rôle des reviewers est d'assurer la qualité du contenu présenté à JuliaCon.
 
 ## Conflit d'intérêt
 
