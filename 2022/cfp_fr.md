@@ -166,7 +166,7 @@ Une proposition ne remplissant pas l'un des critères suivants se verra attribue
 - Statistiques, apprentissage automatique et intelligence artificielle
 - Humanités et sciences sociales numériques
 
-4. Si le format demandé par l'auteur (retour d'expérience, intervention longue ou courte, atelier, poster, minisymposium, échanges de groupe) ne semble pas approprié au contenu présenté, l'évaluateur peut le signaler et en suggérer un autre.
+4. Si le format demandé lors de la soumission (retour d'expérience, présentation longue ou courte, atelier, poster, minisymposium, _Birds of a Feather_) ne semble pas approprié au contenu présenté, les reviewers peuvent le signaler et en suggérer un autre.
 
 5. Les études de cas de Julia en entreprise sont généralement considéré d'intérêt pour la conférence. Plus spécifiquement, les retours d'expérience sur le développement de produit utilisant ou interagissant avec Julia et l'écosystème sont bienvenus.
 
