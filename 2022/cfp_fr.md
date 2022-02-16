@@ -85,7 +85,6 @@ En complément, veuillez soumettre une traduction en anglais de votre propositio
 Nous tenterons systématiquement de trouver des personnes maîtrisant la langue choisie pour évaluer au mieux votre proposition.
 Cependant, si cela s'avère impossible, nous utiliserons la version en anglais afin d'agrandir l'ensemble des reviewers.
 Si vous choisissez de présenter dans une langue non anglaise, veuillez l'indiquer dans l'abstract directement ("cet atelier sera présenté en tchèque" ou "je donnerai cette présentation en espagnol").
-("cet atelier sera présenté en tchèque" ou "je donnerai cette présentation en espagnol").
 
 Si vous soumettez un atelier ou une session d'échange de groupe et que vous pensez qu'il serait bénéfique que l'intervention
 soit à un horaire particulier, veuillez l'indiquer dans votre proposition. Par exemple, si vous souhaitez présenter en mandarin,
