@@ -44,7 +44,7 @@ Cette année, vous pouvez choisir de donner votre intervention en anglais, une a
 ### Minisymposia
 
 Un minisymposium est une conférence dans la conférence, pour laquelle les personnes chargées de l'organisation peuvent planifier les intervenant·e·s, panels et discussions à leur guise.
-Les organisateurs d'un minisymposium doivent proposer un modérateur, modératrice pour la session.
+L'équipe d'organisation d'un minisymposium doit proposer un modérateur ou une modératrice pour la session.
 Un minisymposium occupe deux à trois heures selon les possibilités de la conférence.
 Note : contrairement à JuliaCon 2021, en 2022 les minisymposia auront lieu avant le début officiel de la conférence, avec les ateliers.
 
