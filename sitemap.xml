@@ -254,6 +254,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>2022/cfp_pt/index.html</loc>
+    <lastmod>2022-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>2022/cfp_zh/index.html</loc>
     <lastmod>2022-02-17</lastmod>
     <changefreq>monthly</changefreq>
