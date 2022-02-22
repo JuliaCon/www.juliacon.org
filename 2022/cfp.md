@@ -1,5 +1,5 @@
 # JuliaCon 2022 CFP
-*This document is available in French, German, Spanish, Russian, Simplified Chinese, ... (Missing your own? [Submit a PR](https://github.com/JuliaCon/www.juliacon.org/pulls))
+*This document is available in [French](/2022/cfp_fr/), [German](/2022/cfp_de/), [Spanish](/2022/cfp_es/), [Russian](/2022/cfp_ru/), [Simplified Chinese](/2022/cfp_zh/), and [Portuguese](/2022/cfp_pt/) ... (Missing your own? [Submit a PR](https://github.com/JuliaCon/www.juliacon.org/pulls))
 
 We invite you to submit proposals to give a talk at JuliaCon 2022.
 
