@@ -100,38 +100,21 @@ mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. 
   <div class="container sponsors">
     <h1 align="center">Sponsors</h1>
 ~~~
-<!-- \begin{centered}{title="Platinum"}
+<!---\begin{centered}{title="Platinum"}
 
-  \sponsor{name="Julia Computing", link="https://juliacomputing.com/", img="/assets/2021/img/sponsors/jclogo.png", level=2}
   
 \end{centered}
 
 \begin{centered}{title="Gold"}
 
-  \sponsor{name="Relational AI", link="https://www.relational.ai/", img="/assets/2021/img/sponsors/relational_ai.jpeg", level=2}
 
+\end{centered}-->
 
-\end{centered} -->
+\begin{centered}{title="Silver"}
 
-<!-- \begin{centered}{title="Silver"}
+  \sponsor{name="Beacon Biosignals", link="https://beacon.bio", img="/assets/2022/img/sponsors/beacon_logo.svg", level=2}
 
-  \sponsor{name="Pumas AI", link="https://pumas.ai", img="/assets/2021/img/sponsors/pumas-ai.png", level=3}
-
-  \sponsor{name="Conning", link="https://www.conning.com/", img="/assets/2021/img/sponsors/conning.png", level=3}
-
-  \sponsor{name="Invenia", link="https://www.invenia.ca/", img="/assets/2021/img/sponsors/invenia.png", level=3}
-  
-  \sponsor{name="QuEra Computing", link="https://www.quera-computing.com/", img="/assets/2021/img/sponsors/quera logo white.png", level=3}
-  
-  \sponsor{name="KAUST", link="https://www.kaust.edu.sa/en", img="/assets/2021/img/sponsors/kaust.png", level=3}
-  
-   \sponsor{name="DataChef", link="https://datachef.co/", img="/assets/2021/img/sponsors/datachef.png", level=3}
-
-   \sponsor{name="Jeffrey Sarnoff", link="https://github.com/JeffreySarnoff", img="/assets/2021/img/sponsors/sarnoff.png", level=3}
-
-
-
-\end{centered} -->
+\end{centered}
 
 <!-- \begin{centered}{title="Media Partners"}
 
@@ -144,7 +127,6 @@ mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. 
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
 
 \end{centered}
-
 ~~~
   </div>
 </div>
