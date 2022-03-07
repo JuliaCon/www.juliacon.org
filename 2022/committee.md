@@ -1,16 +1,16 @@
 # JuliaCon 2022 Organizing Committee
 
-* Avik Sengupta, co-Chair
-* Valentin Churavy, co-Chair
-* Katharine Hyatt, Program
+* Avik Sengupta, co-Chair [Twitter](https://twitter.com/aviksengupta)
+* Valentin Churavy, co-Chair [Twitter](https://twitter.com/vchuravy)
+* Katharine Hyatt, Program [Twitter](https://twitter.com/kslimes)
 * Michael Herbst, Program
 * Oscar Dowson, Program (JuMP)
 * Kelly Shen, Diversity & Inclusion
 * Ranjan Anantharaman, Finance
 * Kevin O'Brien, Media and Publicity
-* Logan Kilpatrick, Media and Publicity
+* Logan Kilpatrick, Media and Publicity [Twitter](https://twitter.com/OfficialLoganK)
 * Carsten Bauer, Proceedings Chair
-* Tom Kwong, Infrastructure
+* Tom Kwong, Infrastructure [Twitter](https://twitter.com/tomkwong)
 
 ## Proceedings Committee
 
