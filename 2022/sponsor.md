@@ -16,7 +16,7 @@ JuliaCon 2022 sponsorship comes with the following benefits:
 
 * Prominent mention of your organization and logo placement in JuliaCon registration packets, brochures, materials and website
 * Prominent mention of sponsorship before, after or during opening, closing and keynote addresses
-* A 15 minute live video presentation, immediately a􀀜ter the keynote address on the single track
+* A 15 minute live video presentation, immediately after the keynote address on the single track
 * Exclusive placement for platinum sponsors on social media headers
 * Special Birds of a Feather or Workshop session to help reach sponsor's specific target audience
 * Priority placement on the JuliaCon jobs board
