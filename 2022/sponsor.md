@@ -14,29 +14,34 @@ JuliaCon 2022 sponsorship comes with the following benefits:
 
 ### Platinum Sponsorship (\$30,000)
 
-* Prominent mention of your organization and logo placement in JuliaCon brochures, materials and website
-* Prominent mention of sponsorship before, after or during opening, closing and keynote addresses
-* Prominent mention of sponsorship before every talk video
-* Multiple entries in the JuliaCon job listing with priority placement
-* Access to private channel in conference chat system
-* A 15 minute live video presentation, immediately after the keynote address on the single track
+* Prominent mention of your organization and logo placement in JuliaCon registration
+packets, brochures, materials and website
+* Prominent mention of sponsorship before, a􀀜ter or during opening, closing and
+keynote addresses
+* A 15 minute live video presentation, immediately a􀀜ter the keynote address on the
+single track
+* Exclusive placement for platinum sponsors on social media headers
+* Special Birds of a Feather or Workshop session to help reach sponsor's specific
+target audience
+* Priority placement on the JuliaCon jobs board.
 
 ### Gold Sponsorship (\$15,000)
 
-* Prominent mention of your organization and logo placement in JuliaCon registration packets, brochures, materials and website
-* Prominent mention of sponsorship before, after or during opening, closing and keynote addresses
-* Prominent mention of sponsorship before every talk video
-* One entry in the JuliaCon job listing with priority placement
-* Access to private channel in conference chat system
+* Prominent mention of your organization and logo placement in JuliaCon registration
+packets, brochures, materials and website
+* Prominent mention of sponsorship before, a􀀜ter or during opening, closing and
+keynote addresses
 * A 10 minute live video presentation, during a single track period
+* Priority placement on the JuliaCon jobs board.
 
 ### Silver Sponsorship (\$5,000)
 
-* Prominent mention of your organization and logo placement in JuliaCon registration packets, brochures, materials and website
-* Prominent mention of sponsorship before every talk video
-* One entry in the JuliaCon job listing
-* Access to private channel in conference chat system
+* Prominent mention of your organization and logo placement in JuliaCon registration
+packets, brochures, materials and website
+* Prominent mention of sponsorship before, a􀀜ter or during opening, closing and
+keynote addresses
 * A 5 minute pre-recorded video presentation in one of the multi-track periods
+* Priority placement on the JuliaCon jobs board.
 
 \vskip
 
