@@ -116,11 +116,12 @@ mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. 
 
 \end{centered}
 
-<!-- \begin{centered}{title="Media Partners"}
+\begin{centered}{title="Media Partners"}
 
   \sponsor{name="Packt", link="https://www.packtpub.com/", img="/assets/2021/img/sponsors/packt.png", level=3}
+  \sponsor{name="Gather", link="https://www.gather.town", img="/assets/2022/img/sponsors/gather.png", level=3}
   
-\end{centered} -->
+\end{centered} 
 
 \begin{centered}{title="With the help of the Julia project’s fiscal sponsor:"}
 
