@@ -100,12 +100,14 @@ mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. 
   <div class="container sponsors">
     <h1 align="center">Sponsors</h1>
 ~~~
-<!---\begin{centered}{title="Platinum"}
+\begin{centered}{title="Platinum"}
 
+  \sponsor{name="Julia Computing", link="https://juliacomputing.com", img="/assets/2022/img/sponsors/jclogo.png", level=2}
+  \sponsor{name="Julius Tech", link="https://juliustech.co", img="/assets/2022/img/sponsors/juliustech.jpg", level=2}
   
 \end{centered}
 
-\begin{centered}{title="Gold"}
+<!---\begin{centered}{title="Gold"}
 
 
 \end{centered}-->
@@ -113,6 +115,9 @@ mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. 
 \begin{centered}{title="Silver"}
 
   \sponsor{name="Beacon Biosignals", link="https://beacon.bio", img="/assets/2022/img/sponsors/beacon_logo.svg", level=2}
+  \sponsor{name="Pumas AI", link="https://pumas.ai", img="/assets/2022/img/sponsors/pumas-ai.png", level=3}
+  \sponsor{name="QuEra Computing", link="https://www.quera-computing.com/", img="/assets/2022/img/sponsors/quera logo white.png", level=3}
+  \sponsor{name="Conning", link="https://conning.com", img="/assets/2022/img/sponsors/conning.png", level=3}
 
 \end{centered}
 
