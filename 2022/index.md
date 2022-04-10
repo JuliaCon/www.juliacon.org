@@ -118,6 +118,7 @@ mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. 
   \sponsor{name="Pumas AI", link="https://pumas.ai", img="/assets/2022/img/sponsors/pumas-ai.png", level=3}
   \sponsor{name="QuEra Computing", link="https://www.quera-computing.com/", img="/assets/2022/img/sponsors/quera logo white.png", level=3}
   \sponsor{name="Conning", link="https://conning.com", img="/assets/2022/img/sponsors/conning.png", level=3}
+  \sponsor{name="Invenia", link="https://www.invenia.ca/", img="/assets/2022/img/sponsors/invenia.png", level=3}
 
 \end{centered}
 
