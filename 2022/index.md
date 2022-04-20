@@ -132,6 +132,8 @@ mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. 
 \begin{centered}{title="Community Partners"}
 
   \sponsor{name="Data Umbrella", link="https://www.dataumbrella.org", img="/assets/2022/img/sponsors/data-umbrella.png", level=3}
+  \sponsor{name="WIMLDS", link="http://wimlds.org", img="/assets/2022/img/sponsors/wimlds.png", level=3}
+
   
 \end{centered} 
 
