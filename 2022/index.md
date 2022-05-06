@@ -103,7 +103,8 @@ mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. 
 \begin{centered}{title="Platinum"}
 
   \sponsor{name="Julia Computing", link="https://juliacomputing.com", img="/assets/2022/img/sponsors/jclogo.png", level=2}
-  \sponsor{name="Julius Tech", link="https://juliustech.co", img="/assets/2022/img/sponsors/juliustech.jpg", level=2}
+  \sponsor{name="Julius Tech", link="https://juliustech.co", img="/assets/2022/img/sponsors/juliustech.png", level=2}
+  \sponsor{name="Relational AI", link="https://relational.ai", img="/assets/2022/img/sponsors/rai-logo.svg", level=2}
   
 \end{centered}
 
@@ -119,6 +120,7 @@ mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. 
   \sponsor{name="QuEra Computing", link="https://www.quera-computing.com/", img="/assets/2022/img/sponsors/quera logo white.png", level=3}
   \sponsor{name="Conning", link="https://conning.com", img="/assets/2022/img/sponsors/conning.png", level=3}
   \sponsor{name="Invenia", link="https://www.invenia.ca/", img="/assets/2022/img/sponsors/invenia.png", level=3}
+  \sponsor{name="MetaLenz", link="https://www.metalenz.com/", img="/assets/2022/img/sponsors/metalenz-logo.png", level=3}
 
 \end{centered}
 
