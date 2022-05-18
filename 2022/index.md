@@ -121,6 +121,8 @@ mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. 
   \sponsor{name="Conning", link="https://conning.com", img="/assets/2022/img/sponsors/conning.png", level=3}
   \sponsor{name="Invenia", link="https://www.invenia.ca/", img="/assets/2022/img/sponsors/invenia.png", level=3}
   \sponsor{name="MetaLenz", link="https://www.metalenz.com/", img="/assets/2022/img/sponsors/metalenz-logo.png", level=3}
+  \sponsor{name="ASML", link="https://www.asml.com", img="/assets/2022/img/sponsors/asml.png", level=3}
+
 
 \end{centered}
 
