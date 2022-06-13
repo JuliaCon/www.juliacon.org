@@ -11,6 +11,7 @@
 * Logan Kilpatrick, Media and Publicity [Twitter](https://twitter.com/OfficialLoganK)
 * Carsten Bauer, Proceedings Chair
 * Tom Kwong, Infrastructure [Twitter](https://twitter.com/tomkwong)
+* Will Kimmerer, Local Meetups [Twitter](https://twitter.com/KimmererWill)
 
 ## Proceedings Committee
 
