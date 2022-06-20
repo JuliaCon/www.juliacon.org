@@ -24,9 +24,7 @@ top_subtitle = "Tickets are free but registration is required"
     \avatar{name="Jeremy Howard ", affil="fast.ai, University of Queensland, University of San Francisco", link="https://www.fast.ai/about/#jeremy", img="/assets/2022/img/jeremy.jpg"}
 
   @@content-box-talk
-    Jeremy Howard is a data scientist, researcher, developer, educator, and entrepreneur. Jeremy is a founding researcher at fast.ai, a research institute dedicated to making deep learning more accessible, and is an honorary professor at the University of Queensland. Previously, Jeremy was a Distinguished Research Scientist at the University of San Francisco, where he was the founding chair of the Wicklow Artifical Intelligence in Medical Research Initiative.
-    
-    Jeremy was the founding CEO of Enlitic, which was the first company to apply deep learning to medicine, and was selected as one of the world’s top 50 smartest companies by MIT Tech Review two years running. He was the President and Chief Scientist of the data science platform Kaggle, where he was the top ranked participant in international machine learning competitions 2 years running. He was the founding CEO of two successful Australian startups (FastMail, and Optimal Decisions Group–purchased by Lexis-Nexis). Before that, he spent 8 years in management consulting, at McKinsey & Co, and AT Kearney. Jeremy has invested in, mentored, and advised many startups, and contributed to many open source projects.
+    Jeremy Howard is a data scientist, researcher, developer, educator, and entrepreneur. Jeremy is a founding researcher at fast.ai, a research institute dedicated to making deep learning more accessible, and is an honorary professor at the University of Queensland. Previously, Jeremy was a Distinguished Research Scientist at the University of San Francisco, where he was the founding chair of the Wicklow Artifical Intelligence in Medical Research Initiative, the founding CEO of Enlitic, President and Chief Scientist of Kaggle, and CEO of FastMail as well as Optimal Decisions Group.
   @@
 
 
