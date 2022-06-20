@@ -21,7 +21,7 @@ top_subtitle = "Tickets are free but registration is required"
 \begin{box}{title="Keynote Speakers", color="red"}
 
 
-    \avatar{name="Jeremy Howard ", affil="fast.ai, University of Queensland, University of San Francisco", link="[https://people.eecs.berkeley.edu/~wkahan/](https://www.fast.ai/about/#jeremy)", img="/assets/2022/img/jeremy.jpg"}
+    \avatar{name="Jeremy Howard ", affil="fast.ai, University of Queensland, University of San Francisco", link="https://www.fast.ai/about/#jeremy", img="/assets/2022/img/jeremy.jpg"}
 
   @@content-box-talk
     Jeremy Howard is a data scientist, researcher, developer, educator, and entrepreneur. Jeremy is a founding researcher at fast.ai, a research institute dedicated to making deep learning more accessible, and is an honorary professor at the University of Queensland. Previously, Jeremy was a Distinguished Research Scientist at the University of San Francisco, where he was the founding chair of the Wicklow Artifical Intelligence in Medical Research Initiative.
