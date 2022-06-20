@@ -18,17 +18,19 @@ top_subtitle = "Tickets are free but registration is required"
   <!-- To view the talks online, visit [live.juliacon.org](http://live.juliacon.org) -->
 \end{box}
 
-<!-- \begin{box}{title="Keynote Speakers", color="red"}
+\begin{box}{title="Keynote Speakers", color="red"}
 
 
-    \avatar{name="William Kahan ", affil="UC Berkeley", link="https://people.eecs.berkeley.edu/~wkahan/", img="/assets/2021/img/kahan.jpg"}
+    \avatar{name="Jeremy Howard ", affil="fast.ai, University of Queensland, University of San Francisco", link="[https://people.eecs.berkeley.edu/~wkahan/](https://www.fast.ai/about/#jeremy)", img="/assets/2022/img/jeremy.jpg"}
 
   @@content-box-talk
-    William "Velvel" Kahan was born in Canada and attended the University of Toronto for both his undergraduate and graduate studies in mathematics, and was eventually hired there as a professor. He joined the Berkeley faculty in 1968 with a joint appointment in the Math Department and as a member of the new Computer Science Department in the College of Letters and Science--before it merged with the EECS Department in the College of Engineering in 1973. He retired from the University in 2008. Kahan was instrumental in creating the IEEE 754-1985 standard for floating-point computation in the late 1970s and early 1980s. He developed a program called "paranoia' in the 1980s to test for potential floating point bugs and developed the Kahan summation algorithm which helps minimize errors introduced when adding a sequences of finite precision floating point numbers. Kahan won the ACM A.M. Turing Award in 1989. 
+    Jeremy Howard is a data scientist, researcher, developer, educator, and entrepreneur. Jeremy is a founding researcher at fast.ai, a research institute dedicated to making deep learning more accessible, and is an honorary professor at the University of Queensland. Previously, Jeremy was a Distinguished Research Scientist at the University of San Francisco, where he was the founding chair of the Wicklow Artifical Intelligence in Medical Research Initiative.
+    
+    Jeremy was the founding CEO of Enlitic, which was the first company to apply deep learning to medicine, and was selected as one of the world’s top 50 smartest companies by MIT Tech Review two years running. He was the President and Chief Scientist of the data science platform Kaggle, where he was the top ranked participant in international machine learning competitions 2 years running. He was the founding CEO of two successful Australian startups (FastMail, and Optimal Decisions Group–purchased by Lexis-Nexis). Before that, he spent 8 years in management consulting, at McKinsey & Co, and AT Kearney. Jeremy has invested in, mentored, and advised many startups, and contributed to many open source projects.
   @@
 
 
-  \avatar{name="Jan Vitek", affil="Northeastern University", link="http://janvitek.org/", img="/assets/2021/img/vitek.jpg"}
+<!--   \avatar{name="Jan Vitek", affil="Northeastern University", link="http://janvitek.org/", img="/assets/2021/img/vitek.jpg"}
   
   @@content-box-talk
     Jan Vitek is a Professor of Computer Science at Northeastern University. He holds degrees from the University of Geneva and Victoria. He works on topics related to the design and implementation of programming languages. In the Ovm project, he led the implementation of the first real-time Java virtual machine to be successfully flight-tested. Together with Noble and Potter, he proposed a concept that became known as Ownership Types. He was one of the designers of the Thorn language. He worked on gaining a better understanding of the JavaScript language and is looking at how to support scalable data analysis in R. Prof. Vitek chaired ACM SIGPLAN; he was the Chief Scientist at Fiji Systems and the founding team at H2O.ai, a vice chair of AITO; a vice chair of IFIP WG 2.4, and chaired SPLASH, PLDI, ECOOP, ISMM and LCTES and was program chair of ESOP, ECOOP, VEE, Coordination, and TOOLS.
@@ -51,9 +53,9 @@ mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. 
 
   @@content-box-talk
     Soumith Chintala is a Researcher at Facebook AI Research, where he works on high-performance deep learning. Soumith co-created PyTorch, a deep learning framework that has traction among researchers. He works on computer vision, robotics and machine learning systems. He holds a Masters in CS from NYU.
-  @@
+  @@ -->
 
-\end{box} -->
+\end{box}
 
 <!-- \begin{box}{title="JuMP-dev", color="light-blue"}
   We are pleased to announce that JuMP-dev 2021 will be colocated with JuliaCon. We are excited to welcome the JuMP and the larger mathematical optimization communities to JuliaCon, the combination will create an oustanding experience for our speakers and participants. Please see further details and talk submission guidelines on the [jump.dev page](https://jump.dev/meetings/juliacon2021/), and [register for a free JuliaCon ticket](tickets/).
