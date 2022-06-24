@@ -28,13 +28,15 @@ top_subtitle = "Tickets are free but registration is required"
   @@
 
 
-<!--   \avatar{name="Jan Vitek", affil="Northeastern University", link="http://janvitek.org/", img="/assets/2021/img/vitek.jpg"}
+   \avatar{name="Erin LeDell", affil="H2O.ai, WIDMLDS, RLadiesGlobal", link="https://twitter.com/ledell", img="/assets/2022/img/erin.jpeg"}
   
   @@content-box-talk
-    Jan Vitek is a Professor of Computer Science at Northeastern University. He holds degrees from the University of Geneva and Victoria. He works on topics related to the design and implementation of programming languages. In the Ovm project, he led the implementation of the first real-time Java virtual machine to be successfully flight-tested. Together with Noble and Potter, he proposed a concept that became known as Ownership Types. He was one of the designers of the Thorn language. He worked on gaining a better understanding of the JavaScript language and is looking at how to support scalable data analysis in R. Prof. Vitek chaired ACM SIGPLAN; he was the Chief Scientist at Fiji Systems and the founding team at H2O.ai, a vice chair of AITO; a vice chair of IFIP WG 2.4, and chaired SPLASH, PLDI, ECOOP, ISMM and LCTES and was program chair of ESOP, ECOOP, VEE, Coordination, and TOOLS.
+    Dr. Erin LeDell is the Chief Machine Learning Scientist at H2O.ai, where she develops the open source, distributed machine learning platform, H2O, and is the founder of the H2O AutoML project. She has a Ph.D. in Biostatistics with a Designated Emphasis in Computational Science and Engineering from University of California, Berkeley. Her research focuses on automatic machine learning, ensemble machine learning and statistical computing. She also holds a B.S. and M.A. in Mathematics.
+    
+    Before joining H2O.ai, she was the Principal Data Scientist at [Wise.io](http://wise.io/) and Marvin Mobile Security, and the founder of DataScientific, Inc. She is also founder of the Women in Machine Learning and Data Science (WiMLDS) organization ([wimlds.org](http://wimlds.org/)) and co-founder of R-Ladies Global ([rladies.org](http://rladies.org/)).
   @@
 
-    \avatar{name="Xiaoye (Sherry) Li ", affil="Lawrence Berkeley National Laboratory", link="https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/members/staff-members/xiaoye-li/", img="/assets/2021/img/li.jpg"}
+    <!-- \avatar{name="Xiaoye (Sherry) Li ", affil="Lawrence Berkeley National Laboratory", link="https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/members/staff-members/xiaoye-li/", img="/assets/2021/img/li.jpg"}
 
   @@content-box-talk
     Sherry Li is a Senior Scientist in the Computational Research Division,
