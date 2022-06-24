@@ -2,7 +2,9 @@
 
 While JuliaCon remains online for 2022 we want the Julia community to have the opportunity to meet in person again. 
 
-Please check out the closest meetup location to you! If your local community is not on this list, and you're able to secure a venue, please reach out to Will Kimmerer on Slack or by email (kimmerer@mit.edu)
+Please check out the closest meetup location to you! Some are already scheduled, in which case the link will take you to that event. Others are still working out schedule and venue.
+
+If your local community is not on this list, and you're able to secure a venue, please reach out to Will Kimmerer on Slack or by email (kimmerer@mit.edu). 
 
 ## Locations
 
