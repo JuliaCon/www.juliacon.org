@@ -11,7 +11,7 @@ If your local community is not on this list, and you're able to secure a venue, 
 ![JuliaCon Local Meetup Locations](/assets/2022/img/meetupmap.png)
 
 ### United States
-- [Bay Area Julia Users (San Francisco, CA) | MeetUp](https://www.meetup.com/bay-area-julia-users/)
+- [Bay Area Julia Users (San Francisco, CA) | MeetUp](https://www.meetup.com/bay-area-julia-users/events/286589759/)
 - Houston Meetup (Link and schedule TBD)
 - [New York City Julia User Group (New York, New York) | MeetUp](https://www.meetup.com/julia-nyc/)
 - [Cambridge Area Julia Users Network - CAJUN (Cambridge, Massachusetts) | MeetUp](https://www.meetup.com/julia-cajun/)
