@@ -7,7 +7,7 @@ For posters, please upload the 3 minute video and the actual poster file in two 
 
 All talks for JuliaCon are recorded and will premier at a particular time during the conference. Speakers should be online during their talk while it is premiering (this is why you were asked your availability on pretalx) so that they can answer questions that come up in the YouTube chat as well as Discord (more details on Discord coming soon). The only talks that will be given live are the keynote addresses and a few other talks (we will reach out to those speakers ahead of time).
 
-Please upload the content by the 5th of July 2021.
+Please upload the content by the 4th of July 2022 (Anywhere on Earth).
 
 If you need to re-upload, please either use the same file name (it will override the first upload) or upload a second time and name sure the file name clearly states it is the second version. 
 
@@ -21,5 +21,4 @@ If the upload is successful, you will see the "Your upload was successful. Thank
 
 ### Contact the Organizers
 
-Please email \email if you have any problems using this facilty.
-#
+Please email \email if you have any problems using this upload tool.
