@@ -13,7 +13,7 @@ If you need to re-upload, please either use the same file name (it will override
 
 ~~~
 <div id="upload-container">
-  <iframe src="https://live.juliacon.org/upload" width='100%' height='430px'></iframe>
+  <iframe src="https://live.juliacon.org/upload" width='100%' height='580px'></iframe>
 </div>
 ~~~
 
