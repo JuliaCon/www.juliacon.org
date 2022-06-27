@@ -13,7 +13,7 @@ top_subtitle = "Tickets are free but registration is required"
 ~~~
 
 \begin{box}{title="JuliaCon 2022", color="purple"}
-  JuliaCon is back online in 2022. Tickets are free, but [registration](/2022/tickets/) is required.
+  JuliaCon is back online in 2022, and will be co-located with [JuMP-dev](https://jump.dev/meetings/juliacon2022/). Tickets are free, but [registration](/2022/tickets/) is required.
 
   <!-- To view the talks online, visit [live.juliacon.org](http://live.juliacon.org) -->
 \end{box}
@@ -36,24 +36,11 @@ top_subtitle = "Tickets are free but registration is required"
     Before joining H2O.ai, she was the Principal Data Scientist at Wise.io and Marvin Mobile Security, and the founder of DataScientific, Inc. She is also founder of the Women in Machine Learning and Data Science (WiMLDS) organization (wimlds.org) and co-founder of R-Ladies Global (rladies.org).
   @@
 
-    <!-- \avatar{name="Xiaoye (Sherry) Li ", affil="Lawrence Berkeley National Laboratory", link="https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/members/staff-members/xiaoye-li/", img="/assets/2021/img/li.jpg"}
+  \avatar{name="Husain Attarwala", affil="Moderna", link="https://scholar.google.com/citations?user=DvGvTvMAAAAJ&hl=en", img="/assets/2022/img/Husain_Attarwala.jpg"}
 
   @@content-box-talk
-    Sherry Li is a Senior Scientist in the Computational Research Division,
-Lawrence Berkeley National Laboratory. She has worked on diverse problems
-in high performance scientific computations, including parallel computing,
-sparse matrix computations, high precision arithmetic, and combinatorial
-scientific computing. She is the lead developer of SuperLU, a widely-used
-sparse direct solver, and has contributed to the development of several other
-mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. She earned Ph.D. in Computer Science from UC Berkeley and B.S. in Computer Science from Tsinghua Univ. in China. She has served on the editorial boards of the SIAM J. Scientific Comput. and ACM Trans. Math. Software, as well as many program committees of the scientific conferences. She is a Fellow of SIAM and a Senior Member of ACM. 
-
-  @@
-
-    \avatar{name="Soumith Chintala ", affil="Facebook AI Research", link="https://soumith.ch/", img="/assets/2021/img/chintala.png"}
-
-  @@content-box-talk
-    Soumith Chintala is a Researcher at Facebook AI Research, where he works on high-performance deep learning. Soumith co-created PyTorch, a deep learning framework that has traction among researchers. He works on computer vision, robotics and machine learning systems. He holds a Masters in CS from NYU.
-  @@ -->
+    Husain Attarwala is a clinical pharmacologist, pharmacometrician and a researcher in drug development. Currently, he is serving as Head of Clinical Pharmacology and Pharmacometrics at Moderna. His research focus on developing predictive models to guide clinical dose decisions for mRNA vaccines and therapeutics.  Previously, Husain was a Principal Scientist at Alnylam Pharmaceuticals where his research helped guide dose selection for various novel siRNA therapeutics, 5 of which have received global regulatory approvals. He has obtained PhD and MS degrees in Pharmaceutical Sciences and Drug Delivery Systems from Northeastern University, and a Bachelors in Pharmacy from Al-Ameen college of pharmacy.
+  @@ 
 
 \end{box}
 
