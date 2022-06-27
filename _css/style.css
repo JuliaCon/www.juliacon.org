@@ -619,9 +619,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sponsors { overflow: auto; padding: 20pt;}
-.sponsors_img_l1 { max-width: 350px; max-height: 200px; overflow: hidden; display: inline-block; }
-.sponsors_img_l2 { max-width: 300px; max-height: 80px; overflow: hidden; display: inline-block; }
+.sponsors_img_l1 { max-width: 300px; max-height: 90px; overflow: hidden; display: inline-block; }
+.sponsors_img_l2 { max-width: 225px; max-height: 60px; overflow: hidden; display: inline-block; }
 .sponsors_img_l3 { max-width: 150px; max-height: 40px; overflow: hidden; display: inline-block; }
+.sponsors_img_l4 { max-width: 120px; max-height: 30px; overflow: hidden; display: inline-block; }
 
 @media screen and (max-width: 600px) {
     #waving-flag{

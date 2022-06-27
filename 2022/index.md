@@ -3,7 +3,7 @@ title = "JuliaCon 2022, Everywhere on Earth"
 
 # top title + subtitle
 top_title = "JuliaCon 2022 will be online and virtual"
-top_date = "July 27th - 29th"
+top_date = "July 27th - 29th \n (Workshops in the week before)"
 top_subtitle = "Tickets are free but registration is required"
 +++
 
@@ -104,42 +104,43 @@ mathematical libraries, including ARPREC, LAPACK, PDSLin, STRUMPACK, and XBLAS. 
 ~~~
 \begin{centered}{title="Platinum"}
 
-  \sponsor{name="Julia Computing", link="https://juliacomputing.com", img="/assets/2022/img/sponsors/jclogo.png", level=2}
-  \sponsor{name="Julius Tech", link="https://juliustech.co", img="/assets/2022/img/sponsors/juliustech.png", level=2}
-  \sponsor{name="Relational AI", link="https://relational.ai", img="/assets/2022/img/sponsors/rai-logo.svg", level=2}
+  \sponsor{name="Julia Computing", link="https://juliacomputing.com", img="/assets/2022/img/sponsors/jclogo.png", level=1}
+  \sponsor{name="Julius Tech", link="https://juliustech.co", img="/assets/2022/img/sponsors/juliustech.png", level=1}
+  \sponsor{name="Relational AI", link="https://relational.ai", img="/assets/2022/img/sponsors/rai-logo.svg", level=1}
   
 \end{centered}
 
-<!---\begin{centered}{title="Gold"}
+\begin{centered}{title="Gold"}
 
+    \sponsor{name="Intel", link="https://intel.com", img="/assets/2022/img/sponsors/intel.png", level=2}
 
-\end{centered}-->
+\end{centered}
 
 \begin{centered}{title="Silver"}
 
-  \sponsor{name="Beacon Biosignals", link="https://beacon.bio", img="/assets/2022/img/sponsors/beacon_logo.svg", level=2}
+  \sponsor{name="Beacon Biosignals", link="https://beacon.bio", img="/assets/2022/img/sponsors/beacon_logo.svg", level=3}
   \sponsor{name="Pumas AI", link="https://pumas.ai", img="/assets/2022/img/sponsors/pumas-ai.png", level=3}
   \sponsor{name="QuEra Computing", link="https://www.quera-computing.com/", img="/assets/2022/img/sponsors/quera logo white.png", level=3}
   \sponsor{name="Conning", link="https://conning.com", img="/assets/2022/img/sponsors/conning.png", level=3}
-  \sponsor{name="Invenia", link="https://www.invenia.ca/", img="/assets/2022/img/sponsors/invenia.png", level=3}
+  \sponsor{name="Invenia", link="https://www.invenia.ca/", img="/assets/2022/img/sponsors/invenia.png", level=4}
   \sponsor{name="MetaLenz", link="https://www.metalenz.com/", img="/assets/2022/img/sponsors/metalenz-logo.png", level=3}
-  \sponsor{name="ASML", link="https://www.asml.com", img="/assets/2022/img/sponsors/asml.png", level=3}
-  \sponsor{name="GR Research OSS", link="https://www.gresearch.co.uk/", img="/assets/2022/img/sponsors/gross.png", level=2}
+  \sponsor{name="ASML", link="https://www.asml.com", img="/assets/2022/img/sponsors/asml.png", level=4}
+  \sponsor{name="GR Research OSS", link="https://www.gresearch.co.uk/", img="/assets/2022/img/sponsors/gross.png", level=3}
 
 
 \end{centered}
 
 \begin{centered}{title="Media Partners"}
 
-  \sponsor{name="Packt", link="https://www.packtpub.com/", img="/assets/2021/img/sponsors/packt.png", level=3}
-  \sponsor{name="Gather", link="https://www.gather.town", img="/assets/2022/img/sponsors/gather.png", level=2}
+  \sponsor{name="Packt", link="https://www.packtpub.com/", img="/assets/2021/img/sponsors/packt.png", level=4}
+  \sponsor{name="Gather", link="https://www.gather.town", img="/assets/2022/img/sponsors/gather.png", level=4}
   
 \end{centered}
 
 \begin{centered}{title="Community Partners"}
 
-  \sponsor{name="Data Umbrella", link="https://www.dataumbrella.org", img="/assets/2022/img/sponsors/data-umbrella.png", level=3}
-  \sponsor{name="WIMLDS", link="http://wimlds.org", img="/assets/2022/img/sponsors/wimlds.png", level=3}
+  \sponsor{name="Data Umbrella", link="https://www.dataumbrella.org", img="/assets/2022/img/sponsors/data-umbrella.png", level=4}
+  \sponsor{name="WIMLDS", link="http://wimlds.org", img="/assets/2022/img/sponsors/wimlds.png", level=4}
 
   
 \end{centered} 
