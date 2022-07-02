@@ -27,3 +27,5 @@ We think people should follow these rules outside event activities too!
 If you would like to report a CoC violation or discuss any incident that may have left you uncomfortable, please contact one of the Discord admins (usernames in red) or organizers (usernames in blue).
 They may involve other event staff to ensure your report is managed properly.
 You won't be asked to confront anyone and we won't tell anyone who you are without your permission.
+
+__Note that this CoC is under the [(CC BY-SA 4.0) license](https://creativecommons.org/licenses/by-sa/4.0/)__
