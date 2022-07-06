@@ -25,6 +25,6 @@ If your local community is not on this list, and you're able to secure a venue, 
 - [Warszawskie Forum Julia (Warsaw, Poland) | MeetUp](https://www.meetup.com/warszawskie-forum-julia/)
 
 ### Asia and Oceania
-- Bangalore, India Meetup (Link and schedule TBD)
+- [Bangalore Julia Language Meetup (Bangalore, India) | MeetUp](https://www.meetup.com/bangalore-julia-programming-language-meetup-group/events/287009886/)
 - [Brisbane Julia Language Meetup (Brisbane, Australia) | MeetUp](https://www.meetup.com/brisbane-julia-language-meetup/)
 - [Julia Users NZ (Auckland, New Zealand) | MeetUp](https://www.meetup.com/julia-users-nz/)
