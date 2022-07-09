@@ -24,7 +24,7 @@ top_subtitle = "Tickets are free but registration is required"
     \avatar{name="Jeremy Howard ", affil="fast.ai, University of Queensland, University of San Francisco", link="https://www.fast.ai/about/#jeremy", img="/assets/2022/img/jeremy.jpg"}
 
   @@content-box-talk
-    Jeremy Howard is a data scientist, researcher, developer, educator, and entrepreneur. Jeremy is a founding researcher at fast.ai, a research institute dedicated to making deep learning more accessible, and is an honorary professor at the University of Queensland. Previously, Jeremy was a Distinguished Research Scientist at the University of San Francisco, where he was the founding chair of the Wicklow Artifical Intelligence in Medical Research Initiative, the founding CEO of Enlitic, President and Chief Scientist of Kaggle, and CEO of FastMail as well as Optimal Decisions Group.
+    Jeremy Howard is a data scientist, researcher, developer, educator, and entrepreneur. Jeremy is a founding researcher at fast.ai, a research institute dedicated to making deep learning more accessible, and is an honorary professor at the University of Queensland. Previously, Jeremy was a Distinguished Research Scientist at the University of San Francisco, where he was the founding chair of the Wicklow Artificial Intelligence in Medical Research Initiative, the founding CEO of Enlitic, President and Chief Scientist of Kaggle, and CEO of FastMail as well as Optimal Decisions Group.
   @@
 
 
@@ -45,7 +45,7 @@ top_subtitle = "Tickets are free but registration is required"
 \end{box}
 
 <!-- \begin{box}{title="JuMP-dev", color="light-blue"}
-  We are pleased to announce that JuMP-dev 2021 will be colocated with JuliaCon. We are excited to welcome the JuMP and the larger mathematical optimization communities to JuliaCon, the combination will create an oustanding experience for our speakers and participants. Please see further details and talk submission guidelines on the [jump.dev page](https://jump.dev/meetings/juliacon2021/), and [register for a free JuliaCon ticket](tickets/).
+  We are pleased to announce that JuMP-dev 2021 will be colocated with JuliaCon. We are excited to welcome the JuMP and the larger mathematical optimization communities to JuliaCon, the combination will create an outstanding experience for our speakers and participants. Please see further details and talk submission guidelines on the [jump.dev page](https://jump.dev/meetings/juliacon2021/), and [register for a free JuliaCon ticket](tickets/).
 \end{box} -->
 
 \begin{box}{title="2021 videos", color="dark-purple"}

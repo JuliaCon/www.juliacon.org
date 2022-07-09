@@ -29,7 +29,7 @@ Julia Summer of Code, Diversity and Inclusion, and the Julia Community Prize!
 </script>
 
 <p style='font-size:14px'>
-  <em>(Can't see the ticketing widget above? Please wait a few seconds, refesh your browser, or check if a plugin is preventing access. <a href="https://www.eventbrite.com/e/juliacon-2022-tickets-265892129517">Click here</a> if all else fails.)</em>
+  <em>(Can't see the ticketing widget above? Please wait a few seconds, refresh your browser, or check if a plugin is preventing access. <a href="https://www.eventbrite.com/e/juliacon-2022-tickets-265892129517">Click here</a> if all else fails.)</em>
 </p>
 ~~~
 
