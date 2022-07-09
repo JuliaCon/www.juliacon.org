@@ -3,7 +3,7 @@
 Please upload your talk video, poster or presentation for your accepted session.
 Lightning talks should be less than 8 minutes long, and full talks should be less than 25 minutes.
 Experience reports and posters should be less than 3 minutes long.
-For posters, please upload the 3 minute video and the actual poster file in two seperate uploads with different file names.
+For posters, please upload the 3 minute video and the actual poster file in two separate uploads with different file names.
 
 All talks for JuliaCon are recorded and will premier at a particular time during the conference. Speakers should be online during their talk while it is premiering (this is why you were asked your availability on pretalx) so that they can answer questions that come up in the YouTube chat as well as Discord (more details on Discord coming soon). The only talks that will be given live are the keynote addresses and a few other talks (we will reach out to those speakers ahead of time).
 

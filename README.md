@@ -21,4 +21,4 @@ using Franklin
 serve()
 ```
 
-the [Franklin docs](https://franklinjl.org) as well as the `#franklin` Slack channel might prove useful if you're not familiar with the package.
+The [Franklin docs](https://franklinjl.org) as well as the `#franklin` Slack channel might prove useful if you're not familiar with the package.
