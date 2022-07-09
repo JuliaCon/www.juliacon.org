@@ -1,9 +1,10 @@
 # JuliaCon 2022: Registration
 
 Tickets will be free, but registration is required to access the conference.
-Free registration will give you access to all the workshops and talks. We also ask that if you have the means, you 
-"Buy" a ticket which will serve as a donation to the project. Donations are not required but go to support initiatives like 
-Julia Summer of Code, D&I, Infra, the Julia Community Prize, and much more!
+Free registration will give you access to all the workshops and talks. We also ask that if you have the means, you
+"buy" a ticket which will serve as a donation to the project. Donations are not required but they support, among other things,
+the infrastructure to test, build, and ship Julia, and initiatives like
+Julia Summer of Code, D&I, and the Julia Community Prize!
 
 ~~~
 <div id="eventbrite-widget-container-265892129517"></div>
