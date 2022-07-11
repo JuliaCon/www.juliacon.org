@@ -3,7 +3,7 @@ title = "JuliaCon 2022, Everywhere on Earth"
 
 # top title + subtitle
 top_title = "JuliaCon 2022 will be online and virtual"
-top_date = "July 27th - 29th \n (Workshops in the week before)"
+top_date = "July 27th - 29th - Times in UTC \n (Workshops in the week before)"
 top_subtitle = "Tickets are free but registration is required"
 +++
 
@@ -13,7 +13,7 @@ top_subtitle = "Tickets are free but registration is required"
 ~~~
 
 \begin{box}{title="JuliaCon 2022", color="purple"}
-  JuliaCon is back online in 2022, and will be co-located with [JuMP-dev](https://jump.dev/meetings/juliacon2022/). Tickets are free, but [registration](/2022/tickets/) is required.
+  JuliaCon is back online in 2022 (all times in UTC), and will be co-located with [JuMP-dev](https://jump.dev/meetings/juliacon2022/). Tickets are free, but [registration](/2022/tickets/) is required.
 
   <!-- To view the talks online, visit [live.juliacon.org](http://live.juliacon.org) -->
 \end{box}
