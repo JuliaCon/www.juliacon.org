@@ -122,6 +122,7 @@ top_subtitle = "Tickets are free but registration is required"
 
   \sponsor{name="Packt", link="https://www.packtpub.com/", img="/assets/2021/img/sponsors/packt.png", level=4}
   \sponsor{name="Gather", link="https://www.gather.town", img="/assets/2022/img/sponsors/gather.png", level=4}
+  \sponsor{name="Vercel", link="https://vercel.com/", img="/assets/2022/img/sponsors/vercel.png", level=4}
   
 \end{centered}
 
