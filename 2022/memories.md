@@ -1,7 +1,11 @@
 
 # Memories of Juliacon past
 
+### 2021
 
+Juliacon continued online in 2021, and so we again asked our attendees to upload a photo of their hometown. Here once again is a collage representing the world wide nature of the Julia community.
+
+![places of juliacon](/assets/shared/img/juliacon-2021.jpg)
 
 
 ### 2020

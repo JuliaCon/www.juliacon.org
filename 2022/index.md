@@ -15,7 +15,7 @@ top_subtitle = "Tickets are free but registration is required"
 \begin{box}{title="JuliaCon 2022", color="purple"}
   JuliaCon is back online in 2022 (all times in UTC), and will be co-located with [JuMP-dev](https://jump.dev/meetings/juliacon2022/). Tickets are free, but [registration](/2022/tickets/) is required.
 
-  <!-- To view the talks online, visit [live.juliacon.org](http://live.juliacon.org) -->
+  To view the talks online, visit [live.juliacon.org](http://live.juliacon.org)
 \end{box}
 
 \begin{box}{title="Keynote Speakers", color="red"}
