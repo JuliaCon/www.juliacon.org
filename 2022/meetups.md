@@ -20,6 +20,7 @@ If your local community is not on this list, and you're able to secure a venue, 
 - [All England Julia User Group (London, United Kingdom) | MeetUp](https://www.meetup.com/london-julia-user-group/events/286709344/)
 - [BeNeLux Julia User Group (Delft, Netherlands) | MeetUp](https://www.meetup.com/benelux-julia-user-group/events/286976282/)
 - [Julia User Group Munich (München, Germany) | MeetUp](https://www.meetup.com/julia-user-group-munich/events/287158700/)
+- [Dusseldorf/Cologne JuliaCon 2022 Meetup](https://discourse.julialang.org/t/juliacon-2022-meetup-in-duesseldorf-cologne/84038)
 - [Copenhagen Julia Meetup Group (Copenhagen, Denmark) | MeetUp](https://www.meetup.com/copenhagen-julia-meetup-group/events/286568526/)
 - [Warszawskie Forum Julia (Warsaw, Poland) | MeetUp](https://www.meetup.com/warszawskie-forum-julia/)
 - [Athens Julia Users Group (Athens, Greece) | MeetUp](https://www.meetup.com/juliacon-2022-athens-gr-meetup/events/287123194/)
