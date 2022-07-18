@@ -8,23 +8,20 @@ If your local community is not on this list, and you're able to secure a venue, 
 
 ## Locations
 
-![JuliaCon Local Meetup Locations](/assets/2022/img/meetupmap.png)
+![JuliaCon Local Meetup Locations](/assets/2022/img/MeetupMap_final.png)
 
 ### United States
-- [Bay Area Julia Users (San Francisco, CA) | MeetUp](https://www.meetup.com/bay-area-julia-users/events/286589759/)
-- Houston Meetup (Link and schedule TBD)
-- [New York City Julia User Group (New York, New York) | MeetUp](https://www.meetup.com/julia-nyc/)
+- [New York City Julia User Group (New York, New York) | MeetUp](https://www.meetup.com/julia-nyc/events/286933218/)
 - [Cambridge Area Julia Users Network - CAJUN (Cambridge, Massachusetts) | MeetUp](https://www.meetup.com/julia-cajun/)
-
+- [Julia for ORNL Science Workshop](https://ornl.github.io/events/jufos2022/)
+- [Seattle Area Julia Meetup](https://www.eventbrite.com/e/seattle-area-julia-meetup-for-juliacon-2022-tickets-385828402137)
 ### Europe
 - [Barcelona Julia Meetup (Barcelona, Spain) | MeetUp](https://www.meetup.com/barcelona-julia-meetup/events/286545534/)
 - [All England Julia User Group (London, United Kingdom) | MeetUp](https://www.meetup.com/london-julia-user-group/events/286709344/)
-- [BeNeLux Julia User Group (Delft, Netherlands) | MeetUp](https://www.meetup.com/BeNeLux-Julia-User-Group/)
-- [Julia User Group Munich (München, Germany) | MeetUp](https://www.meetup.com/julia-user-group-munich/)
+- [BeNeLux Julia User Group (Delft, Netherlands) | MeetUp](https://www.meetup.com/benelux-julia-user-group/events/286976282/)
+- [Julia User Group Munich (München, Germany) | MeetUp](https://www.meetup.com/julia-user-group-munich/events/287158700/)
 - [Copenhagen Julia Meetup Group (Copenhagen, Denmark) | MeetUp](https://www.meetup.com/copenhagen-julia-meetup-group/events/286568526/)
 - [Warszawskie Forum Julia (Warsaw, Poland) | MeetUp](https://www.meetup.com/warszawskie-forum-julia/)
-
+- [Athens Julia Users Group (Athens, Greece) | MeetUp](https://www.meetup.com/juliacon-2022-athens-gr-meetup/events/287123194/)
 ### Asia and Oceania
 - [Bangalore Julia Language Meetup (Bangalore, India) | MeetUp](https://www.meetup.com/bangalore-julia-programming-language-meetup-group/events/287009886/)
-- [Brisbane Julia Language Meetup (Brisbane, Australia) | MeetUp](https://www.meetup.com/brisbane-julia-language-meetup/)
-- [Julia Users NZ (Auckland, New Zealand) | MeetUp](https://www.meetup.com/julia-users-nz/)
