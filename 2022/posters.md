@@ -1,6 +1,6 @@
 # Posters
 
-The JuliaCon 2022 posters will be presented as part of a poster session which will happen synchronously on: July 27th, 2022, from 20:30–22:00 UTC. You can find a calendar invite for the session here: [JuliaCon Poster Session on Pretalx]([https://pretalx.com/juliacon2021/talk/NBER8M/](https://pretalx.com/juliacon-2022/schedule/#2022-07-27))
+The JuliaCon 2022 posters will be presented as part of a poster session which will happen synchronously on: July 27th, 2022, from 20:30–22:00 UTC. You can find a calendar invite for the session here: [JuliaCon Poster Session on Pretalx](https://pretalx.com/juliacon-2022/talk/M7JDGG/)
 
 07-27, 20:30–22:00 (UTC), Green
 
