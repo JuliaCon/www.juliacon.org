@@ -1,6 +1,6 @@
 # Julia Community Prize
 
-The Julia Community Prize 2022 nominations are open! Fill out the [form to nominate somone](https://forms.gle/Z4PjN24xHHnzTh3c8). 
+The Julia Community Prize 2022 nominations are open! Fill out the [form to nominate someone](https://forms.gle/Z4PjN24xHHnzTh3c8). 
 Winners will receive a certificate of accomplishment and a cash prize of \$1000.00 each.
 
 
