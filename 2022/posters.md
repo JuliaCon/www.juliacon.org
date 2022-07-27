@@ -3,7 +3,7 @@
 The JuliaCon 2022 posters will be presented as part of a poster session which will happen synchronously on: July 27th, 2022, from 18:00–19:30 UTC. You can find a calendar invite for the session here: [JuliaCon Poster Session on Pretalx](https://pretalx.com/juliacon-2022/talk/M7JDGG/)
 
 
-The poster session will be held on Gathertown. Make sure to register in advance to get access to the session for Q/A and live interaction.
+The poster session will be held on Gathertown. [Join the session on GatherTown](https://app.gather.town/invite?token=2ucLB9IpmCAXZIex4Dvh2VFCeR6QLEdP).
 
 The following posters will be presented at JuliaCon2022:
 ~~~
