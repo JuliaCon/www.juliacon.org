@@ -100,6 +100,8 @@ top_subtitle = "Tickets are free but registration is required"
 \begin{centered}{title="Gold"}
 
     \sponsor{name="Intel", link="https://intel.com", img="/assets/2022/img/sponsors/intel.png", level=2}
+    \sponsor{name="AWS", link="https://https://aws.amazon.com", img="/assets/2022/img/sponsors/intel.png", level=2}
+
 
 \end{centered}
 
