@@ -2,8 +2,8 @@
 title = "JuliaCon 2022, Everywhere on Earth"
 
 # top title + subtitle
-top_title = "JuliaCon 2022 will be online and virtual"
-top_date = "July 27th - 29th - Times in UTC \n (Workshops in the week before)"
+top_title = "JuliaCon 2022 is online and virtual right now!"
+top_date = "July 27th - 29th - Times in UTC \n"
 top_subtitle = "Tickets are free but registration is required"
 +++
 
