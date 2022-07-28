@@ -16,6 +16,8 @@ If your local community is not on this list, and you're able to secure a venue, 
 - [Julia for ORNL Science Workshop](https://ornl.github.io/events/jufos2022/)
 - [Seattle Area Julia Meetup](https://www.eventbrite.com/e/seattle-area-julia-meetup-for-juliacon-2022-tickets-385828402137)
 - [Washington, D.C. Greater Metro Area](https://discourse.julialang.org/t/washington-dc-greater-metro-area-meet-up-for-juliacon-2022/82736/16)
+- [Boulder, CO](https://www.meetup.com/julia5280-julia-programming-language/events/287417186/)
+
 ### Europe
 - [Barcelona Julia Meetup (Barcelona, Spain) | MeetUp](https://www.meetup.com/barcelona-julia-meetup/events/286545534/)
 - [All England Julia User Group (London, United Kingdom) | MeetUp](https://www.meetup.com/london-julia-user-group/events/286709344/)
