@@ -53,7 +53,7 @@ top_subtitle = "Tickets are free but registration is required"
 \end{box}
 
 \begin{box}{title="Julia Community Prize", color="light-red"}
-  The Julia Community Prize 2022 nominations are open. [Nominate a member of the Julia Community](/2022/prize/). 
+  The Julia Community Prize 2022 nominations are closed. [Check out the 2022 winners](/2022/prize/). 
 \end{box}
 
 \begin{box}{title="Code of Conduct", color="dark-green"}
