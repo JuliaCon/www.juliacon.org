@@ -4,7 +4,7 @@ The Julia Community Prize 2022 nominations are closed and the winners announced!
 
 ## 2022 Community Prize Winners: 
 
-### Morten Piibeleht, Michael Hatherly, Frederick Ekre, and Mauro Werner 
+### Morten Piibeleht, Michael Hatherly, Fredrik Ekre, and Mauro Werder 
 For their work on Documenter.jl and its ecosystem.
 
 ### Frames White 
