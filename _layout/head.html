@@ -35,6 +35,12 @@
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/style.css">
 
+  {{ispage /2023/*}}
+  <style>
+    .main-heading h2 { color: black; }
+    .main-menu { background-color: #389826}
+  </style>
+  {{end}}
 
   {{ispage /2022/*}}
   <style>
@@ -86,7 +92,7 @@
 
   {{insert nav_year.html}}
 
-  {{ispage /2022/index.html /2021/index.html /2020/index.html}}
+  {{ispage /2023/index.html /2022/index.html /2021/index.html /2020/index.html}}
     {{insert title_year.html}}
   {{end}}
 
