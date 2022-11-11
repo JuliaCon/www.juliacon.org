@@ -4,8 +4,8 @@ author = "JuliaCon"
 prepath = ""        # remove this when deploying
 
 # Used for the metadata (open graph)
-year       = "2022"
-location   = "Everywhere on Earth"
+year       = "2023"
+location   = "MIT, Cambridge"
 site_name  = "JuliaCon $year"
 site_descr = "JuliaCon $year, $location"
 site_url   = "https://juliacon.org/$year/"
