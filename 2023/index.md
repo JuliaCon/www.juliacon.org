@@ -13,7 +13,7 @@ top_subtitle = ""
 ~~~
 
 \begin{box}{title="JuliaCon 2023", color="purple"}
-JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Cambridge, MA. 
+JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Cambridge, MA. The [call for proposals](https://pretalx.com/juliacon2023/cfp) is now out. Please note the deadline for submitting proposals (18th December 2022). 
 
 \end{box}
 
