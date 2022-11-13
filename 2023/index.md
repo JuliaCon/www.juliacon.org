@@ -3,7 +3,7 @@ title = "JuliaCon 2023"
 
 # top title + subtitle
 top_title = "JuliaCon 2023\n"
-top_date = "July 24th - 29th, 2023 \n"
+top_date = "In-person July 24th - 29th, 2023 \n"
 top_subtitle = ""
 +++
 
