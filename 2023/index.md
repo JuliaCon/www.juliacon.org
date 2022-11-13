@@ -55,7 +55,7 @@ JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Ca
   <div class="container sponsors">
     <h1 align="center">Sponsors</h1>
 ~~~
-\begin{centered}{title="With the help of the Julia project’s fiscal sponsor:"}
+\begin{centered}{title="With the help of the Julia project’s fiscal host:"}
 
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
 
