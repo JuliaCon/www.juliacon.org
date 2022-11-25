@@ -62,7 +62,7 @@ JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Ca
 \end{box}
 
 \begin{box}{title="Committee", color="dark-blue"}
-  JuliaCon is [organized by a committee](/2022/committee/) composed entirely of volunteers, and can be reached at \email with any questions or comments.
+  JuliaCon is [organized by a committee](/2023/committee/) composed entirely of volunteers, and can be reached at \email with any questions or comments.
 \end{box}
 
 \begin{box}{title="Proceedings", color="green"}
