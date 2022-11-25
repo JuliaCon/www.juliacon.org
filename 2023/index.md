@@ -17,7 +17,8 @@ JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Ca
 
 \end{box}
 
-\begin{box}{title="Tickets", color="light-blue"}
+\begin{box}{title="In Person Tickets", color="light-blue"}
+  Sign up to be notified when tickets go live!
   ~~~
       <!-- Begin Mailchimp Signup Form -->
     <link href="https://cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -35,7 +36,7 @@ JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Ca
           <div class="response" id="mce-success-response" style="display:none"></div>
         </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
         <div style="position: absolute; left: -5000px; display: inline-block;" aria-hidden="true"><input type="text" name="b_d78e03c1818e29eeda84ff234_c17a203547" tabindex="-1" value="" style="display: inline-block;"></div>
-        <div class="clear" style="display: inline-block; display: flex; justify-content: center;"><h2 style="display: inline-block; margin-right: 15px;">Sign up to be notified when tickets go live!</h2><input type="email" value="" placeholder="Enter your email" name="EMAIL" class="required email" id="mce-EMAIL" style="margin-right: 15px; display: inline-block; align-self: center; line-height: 2em;"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="display: inline-block; align-self: center; margin: 0 5px 0 0;"></div>
+        <div class="clear" style="display: inline-block; display: flex; justify-content: left;"><h2 style="display: inline-block; margin-right: 15px;"></h2><input type="email" value="" placeholder="Enter your email" name="EMAIL" class="required email" id="mce-EMAIL" style="margin-right: 15px; display: inline-block; align-self: center; line-height: 2em;"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="display: inline-block; align-self: center; margin: 0 5px 0 0;"></div>
       </div>
       </form>
     </div>
