@@ -7,7 +7,7 @@
 * Avik Sengupta, Finance Chair [Twitter](https://twitter.com/aviksengupta)
 * Kevin O'Brien, Media and Publicity [Twitter](https://twitter.com/dragonflystats)
 * Carsten Bauer, Proceedings Chair 
-* Will Kimmerer, Local Meetups [Twitter](https://twitter.com/KimmererWill)
+* Will Kimmerer, Local Organization [GitHub](https://github.com/Wimmerer)
 
 ## Proceedings Committee
 
