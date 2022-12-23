@@ -3,8 +3,10 @@
 * Ranjan Anantharaman, co-Chair [Twitter](https://twitter.com/ranjan_ananth)
 * Logan Kilpatrick, co-Chair [Twitter](https://twitter.com/OfficialLoganK)
 * Katharine Hyatt, Program [Twitter](https://twitter.com/kslimes)
+* Michael Herbst, Program [Github](https://github.com/mfherbst)
+* Mark Kittisopikul, Finance [Twitter](https://twitter.com/markkitti)
 * Oscar Dowson, Program (JuMP)
-* Avik Sengupta, Finance Chair [Twitter](https://twitter.com/aviksengupta)
+* Avik Sengupta, Finance [Twitter](https://twitter.com/aviksengupta)
 * Kevin O'Brien, Media and Publicity [Twitter](https://twitter.com/dragonflystats)
 * Carsten Bauer, Proceedings Chair 
 * Will Kimmerer, Local Organization [GitHub](https://github.com/Wimmerer)
