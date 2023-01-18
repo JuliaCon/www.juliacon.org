@@ -24,6 +24,6 @@ Our review process will be similar to that of the Journal of Open Source Softwar
 
 Our virtual volunteers help keep the conference running smoothly by helping with items like registration, moderation, and AV support. Help us put on a great event for our community!
 
-### Organizing Committee Memebers
+### Organizing Committee Members
 
 If you want to spend more time and get involved as a committee member, please check out the [committee page](/2022/committee/) and feel free to reachout to a committee member on Slack / Twitter for details on what the experince is like.
