@@ -46,7 +46,7 @@ JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Ca
 \end{box}
 
 \begin{box}{title="2022 videos", color="dark-purple"}
-  JuliaCon 2022 has come to a close, but you can watch all of the conference's talks, workshops, and keynotes at [the Julia Language's YouTube channel](https://youtube.com/playlist?list=PLP8iPy9hna6Q343_8sSq4f306VGLW4TLK). We also have some [photographic memories from previous Juliacons](memories/). 
+  JuliaCon 2022 has come to a close, but you can watch all of the conference's talks, workshops, and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6TRg6qJaBLJ-FRMi9Cp7gSX). We also have some [photographic memories from previous Juliacons](memories/). 
 \end{box}
 
 \begin{box}{title="Julia Community Prize", color="light-red"}
