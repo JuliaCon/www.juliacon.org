@@ -1,13 +1,9 @@
-# JuliaCon 2022: Registration
+# JuliaCon 2023: Registration
 
-Tickets will be free, but registration is required to access the conference.
-Free registration will give you access to all the workshops and talks. We also ask that if you have the means, you
-"buy" a ticket which will serve as a donation to the project. Donations are not required but they support, among other things,
-the infrastructure to test, build, and ship Julia, and initiatives like
-Julia Summer of Code, Diversity and Inclusion, and the Julia Community Prize!
+JuliaCon 2023 is back in person at MIT, ticket prices are shown below for both Early Bird and Regular prices. Please only select a student ticket if you are a registered student. We have a limited number of student tickets and want to make the conference accessible to those who need them.
 
 ~~~
-<div id="eventbrite-widget-container-265892129517"></div>
+<div id="eventbrite-widget-container-454009814577"></div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -19,18 +15,14 @@ Julia Summer of Code, Diversity and Inclusion, and the Julia Community Prize!
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '265892129517',
-        iframeContainerId: 'eventbrite-widget-container-265892129517',
+        eventId: '454009814577',
+        iframeContainerId: 'eventbrite-widget-container-454009814577',
 
         // Optional
         iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
-
-<p style='font-size:14px'>
-  <em>(Can't see the ticketing widget above? Please wait a few seconds, refresh your browser, or check if a plugin is preventing access. <a href="https://www.eventbrite.com/e/juliacon-2022-tickets-265892129517">Click here</a> if all else fails.)</em>
-</p>
 ~~~
 
 ### Contact the Organizers
