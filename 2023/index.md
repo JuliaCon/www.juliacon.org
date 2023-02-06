@@ -13,7 +13,7 @@ top_subtitle = ""
 ~~~
 
 \begin{box}{title="JuliaCon 2023", color="purple"}
-JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Cambridge, MA. The [call for proposals](https://pretalx.com/juliacon2023/cfp) is now closed. Please note the deadline for submitting proposals was (15th January 2023). 
+JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Cambridge, MA. The [call for proposals](https://pretalx.com/juliacon2023/cfp) is now closed.
 
 \end{box}
 
@@ -26,7 +26,7 @@ JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Ca
 \end{box}
 
 \begin{box}{title="Julia Community Prize", color="light-red"}
-  The Julia Community Prize 2022 nominations are closed. [Check out the 2022 winners](/2022/prize/). 
+  The Julia Community Prize 2023 nominations are now open. [Nominate someone today](https://forms.gle/4oUEh3H5BRJo45nn7)!
 \end{box}
 
 \begin{box}{title="Code of Conduct", color="dark-green"}
