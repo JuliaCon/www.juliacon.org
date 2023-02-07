@@ -13,7 +13,9 @@ top_subtitle = ""
 ~~~
 
 \begin{box}{title="JuliaCon 2023", color="purple"}
-JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Cambridge, MA. The [call for proposals](https://pretalx.com/juliacon2023/cfp) is now closed.
+JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Cambridge, MA, USA. The conference will begin with a full day set of workshops on Tuesday, the 25th of July. Talks (and poster sessions) will be presented from Wednesday, the 26th to Friday the 28th of July. A hackathon for interested participants will be held on Saturday, the 29th of July.
+
+The [call for proposals](https://pretalx.com/juliacon2023/cfp) is now closed.
 
 \end{box}
 
