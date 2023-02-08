@@ -1,6 +1,6 @@
 # JuliaCon 2023: Registration
 
-JuliaCon 2023 is back in person at MIT, ticket prices are shown below for both Early Bird and Regular prices. Please only select a student ticket if you are a registered student. We have a limited number of student tickets and want to make the conference accessible to those who need them.
+JuliaCon 2023 is back in person at MIT, ticket prices are shown below for both Early Bird and Regular prices. Please only select a student ticket if you are a registered student. We have a limited number of student tickets and want to make the conference accessible to those who need them. Early bird prices will be honored for accepted speakers even if they are no longer open to the general public.
 
 ~~~
 <div id="eventbrite-widget-container-454009814577"></div>
