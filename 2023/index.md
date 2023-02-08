@@ -31,7 +31,7 @@ The [call for proposals](https://pretalx.com/juliacon2023/cfp) is now closed.
   - [Dr. Tim Davis](https://people.engr.tamu.edu/davis/welcome.html)
 \end{box}
 
-\begin{box}{title="Julia Community Prize", color="dark-red"}
+\begin{box}{title="Julia Community Prize", color="red"}
   The Julia Community Prize 2023 nominations are now open. [Nominate someone today](https://forms.gle/4oUEh3H5BRJo45nn7)!
 \end{box}
 
