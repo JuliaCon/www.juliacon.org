@@ -23,12 +23,20 @@ The [call for proposals](https://pretalx.com/juliacon2023/cfp) is now closed.
   Early Bird ticket sales are now live! [Order today](/2023/tickets/) at a reduced rate before prices go up!
 \end{box}
 
-\begin{box}{title="2022 videos", color="dark-purple"}
-  JuliaCon 2022 has come to a close, but you can watch all of the conference's talks, workshops, and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6TRg6qJaBLJ-FRMi9Cp7gSX). We also have some [photographic memories from previous Juliacons](memories/). 
+\begin{box}{title="Keynote Speakers", color="light-red"}
+  We are thrilled to have the following keynote speakers join us in 2023 (more details coming soon):
+  - [Dr. Stephen Wolfram](https://www.stephenwolfram.com)
+  - [Dr. Rumman Chowdhury](http://www.rummanchowdhury.com)
+  - [Dr. Christopher Rackauckas](https://chrisrackauckas.com)
+  - [Dr. Tim Davis](https://people.engr.tamu.edu/davis/welcome.html)
 \end{box}
 
 \begin{box}{title="Julia Community Prize", color="light-red"}
   The Julia Community Prize 2023 nominations are now open. [Nominate someone today](https://forms.gle/4oUEh3H5BRJo45nn7)!
+\end{box}
+
+\begin{box}{title="2022 videos", color="dark-purple"}
+  JuliaCon 2022 has come to a close, but you can watch all of the conference's talks, workshops, and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6TRg6qJaBLJ-FRMi9Cp7gSX). We also have some [photographic memories from previous Juliacons](memories/). 
 \end{box}
 
 \begin{box}{title="Code of Conduct", color="dark-green"}
