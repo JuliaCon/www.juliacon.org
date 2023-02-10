@@ -31,6 +31,11 @@ The [call for proposals](https://pretalx.com/juliacon2023/cfp) is now closed.
   - [Dr. Tim Davis](https://people.engr.tamu.edu/davis/welcome.html)
 \end{box}
 
+\begin{box}{title="Hotel Accomodations", color="blue"}
+  To make your reservations with our room block, please visit the [Hyatt website](https://www.hyatt.com/en-US/group-booking/BOSRC/G-NUMF).
+  If you need additional assistance, please contact Hyatt at `877-803-7534`.
+\end{box}
+
 \begin{box}{title="Julia Community Prize", color="red"}
   The Julia Community Prize 2023 nominations are now open. [Nominate someone today](https://forms.gle/4oUEh3H5BRJo45nn7)!
 \end{box}
