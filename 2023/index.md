@@ -3,8 +3,8 @@ title = "JuliaCon 2023"
 
 # top title + subtitle
 top_title = "JuliaCon 2023\n"
-top_date = "In-person July 25th - 29th, 2023 \n"
-top_subtitle = ""
+top_date = "Cambridge, USA. July 25th - 29th, 2023. \n"
+top_subtitle = "(co-located with JuMP-dev and SciMLCon)"
 +++
 
 ~~~
@@ -13,10 +13,9 @@ top_subtitle = ""
 ~~~
 
 \begin{box}{title="JuliaCon 2023", color="purple"}
-JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Cambridge, MA, USA. The conference will begin with a full day set of workshops on Tuesday, the 25th of July. Talks (and poster sessions) will be presented from Wednesday, the 26th to Friday the 28th of July. A hackathon for interested participants will be held on Saturday, the 29th of July.
+JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Cambridge, MA, USA. The conference will begin with a full day set of workshops on Tuesday, the 25th of July. Talks (and poster sessions) will be presented from Wednesday, the 26th, to Friday, the 28th of July. A hackathon for interested participants will be held on Saturday, the 29th of July.
 
-The [call for proposals](https://pretalx.com/juliacon2023/cfp) is now closed.
-
+JuliaCon will be co-located with JuMP-dev and SciMLCon this year. 
 \end{box}
 
 \begin{box}{title="In Person & Online Tickets", color="light-blue"}
