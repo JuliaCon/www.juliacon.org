@@ -30,7 +30,7 @@ JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
   - [Dr. Tim Davis](https://people.engr.tamu.edu/davis/welcome.html)
 \end{box}
 
-\begin{box}{title="Hotel Accomodations", color="green"}
+\begin{box}{title="Hotel Accommodations", color="green"}
   To make your reservations with our room block, please visit the [Hyatt website](https://www.hyatt.com/en-US/group-booking/BOSRC/G-NUMF).
   If you need additional assistance, please contact Hyatt at 877-803-7534.
 \end{box}
