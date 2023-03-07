@@ -22,6 +22,10 @@ JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
   Early Bird ticket sales are now live! [Order today](/2023/tickets/) at a reduced rate before prices go up!
 \end{box}
 
+\begin{box}{title="Financial Assistance"}
+  If you'd like to apply for travel funding or a ticket waiver to attend JuliaCon, please fill out the following form: https://forms.gle/QsMyAiB3gv4MCcoX9. The deadline is March 31, 2023. 
+\end{box}
+
 \begin{box}{title="Keynote Speakers", color="light-red"}
   We are thrilled to have the following keynote speakers join us in 2023 (more details coming soon):
   - [Dr. Stephen Wolfram](https://www.stephenwolfram.com)
