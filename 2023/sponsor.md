@@ -62,7 +62,7 @@ webpages.
 * Interact with conference attendees, MIT students, and staff.
 * Distribute brochures and marketing materials.
 * Sponsor multiple tables if you need more space.
-* Inludes a free ticket to the conference per table.
+* Includes a free ticket to the conference per table.
 
 To learn more about our sponsorship options, please [download the 2023 sponsor prospectus](https://drive.google.com/file/d/10nfuvtkXX9gbnSempt_JeUOofwmG5aOU/view).
 

@@ -26,4 +26,4 @@ Our virtual volunteers help keep the conference running smoothly by helping with
 
 ### Organizing Committee Members
 
-If you want to spend more time and get involved as a committee member, please check out the [committee page](/2023/committee/) and feel free to reachout to a committee member on Slack / Twitter for details on what the experince is like.
+If you want to spend more time and get involved as a committee member, please check out the [committee page](/2023/committee/) and feel free to reach out to a committee member on Slack / Twitter for details on what the experience is like.
