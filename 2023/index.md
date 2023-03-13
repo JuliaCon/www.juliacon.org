@@ -23,7 +23,7 @@ JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
 \end{box}
 
 \begin{box}{title="Financial Assistance"}
-  If you'd like to apply for travel funding or a ticket waiver to attend JuliaCon, please fill out the following form: https://forms.gle/QsMyAiB3gv4MCcoX9. The deadline is March 31, 2023. 
+  If you'd like to apply for travel funding or a ticket waiver to attend JuliaCon, please fill out the following form: [https://forms.gle/QsMyAiB3gv4MCcoX9](https://forms.gle/QsMyAiB3gv4MCcoX9). The deadline is March 31, 2023. 
 \end{box}
 
 \begin{box}{title="Keynote Speakers", color="light-red"}
