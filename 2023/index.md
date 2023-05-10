@@ -15,23 +15,27 @@ top_subtitle = "(co-located with JuMP-dev and SciMLCon)"
 \begin{box}{title="JuliaCon 2023", color="purple"}
 JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Cambridge, MA, USA. The conference will begin with a full day set of workshops on Tuesday, the 25th of July. Talks (and poster sessions) will be presented from Wednesday, the 26th, to Friday, the 28th of July. A hackathon for interested participants will be held on Saturday, the 29th of July.
 
-JuliaCon will be co-located with JuMP-dev and SciMLCon this year. 
+JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
 \end{box}
 
 \begin{box}{title="In Person & Online Tickets", color="light-blue"}
-  Early Bird ticket sales are now live! [Order today](/2023/tickets/) at a reduced rate before prices go up!
+  Ticket sales are now live! [Order yours](/2023/tickets/) today!
 \end{box}
 
-\begin{box}{title="Financial Assistance"}
-  If you'd like to apply for travel funding or a ticket waiver to attend JuliaCon, please fill out the following form: [https://forms.gle/QsMyAiB3gv4MCcoX9](https://forms.gle/QsMyAiB3gv4MCcoX9). The deadline is March 31, 2023. 
-\end{box}
-
-\begin{box}{title="Keynote Speakers", color="light-red"}
+\begin{box}{title="Keynote Speakers", color="red"}
   We are thrilled to have the following keynote speakers join us in 2023 (more details coming soon):
   - [Dr. Stephen Wolfram](https://www.stephenwolfram.com)
   - [Dr. Rumman Chowdhury](http://www.rummanchowdhury.com)
   - [Dr. Christopher Rackauckas](https://chrisrackauckas.com)
   - [Dr. Tim Davis](https://people.engr.tamu.edu/davis/welcome.html)
+\end{box}
+
+\begin{box}{title="Venue", color="light-red"}
+  The conference will be held in the Ray and Maria Stata Center at the Massachusetts Institute of Technology, 32 Vassar Street, Cambridge, MA 02139, USA:
+
+  ~~~
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.092680326567!2d-71.09313752317132!3d42.36186407119264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370a95cb1e19b%3A0xa9dc1ab3c8bedd1e!2sRay%20and%20Maria%20Stata%20Center!5e0!3m2!1sen!2sus!4v1683675736967!5m2!1sen!2sus" width="100%" height="320" frameborder="0" style="border:0" allowfullscreen></iframe>
+  ~~~
 \end{box}
 
 \begin{box}{title="Hotel Accommodations", color="green"}
@@ -44,7 +48,7 @@ JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
 \end{box}
 
 \begin{box}{title="2022 videos", color="dark-purple"}
-  JuliaCon 2022 has come to a close, but you can watch all of the conference's talks, workshops, and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6TRg6qJaBLJ-FRMi9Cp7gSX). We also have some [photographic memories from previous Juliacons](memories/). 
+  JuliaCon 2022 has come to a close, but you can watch all of the conference's talks, workshops, and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6TRg6qJaBLJ-FRMi9Cp7gSX). We also have some [photographic memories from previous JuliaCons](memories/).
 \end{box}
 
 \begin{box}{title="Code of Conduct", color="dark-green"}
