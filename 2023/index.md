@@ -82,6 +82,7 @@ JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
     <h1 align="center">Sponsors</h1>
     <p style="margin-bottom:3ex;"></p>
 ~~~
+
 \begin{centered}{title="Platinum"}
   \sponsor{name="JuliaHub", link="https://juliahub.com", img="/assets/2023/img/sponsors/juliahub-logo.svg", level=1}
 \end{centered}
@@ -91,7 +92,7 @@ JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
 ~~~
 
 \begin{centered}{title="Gold"}
-  \sponsor{name="ASML", link="https://pumas.ai", img="/assets/2023/img/sponsors/asml.png", level=1}
+  \sponsor{name="ASML", link="https://www.asml.com", img="/assets/2023/img/sponsors/asml-logo.png", level=3}
 \end{centered}
 
 ~~~
@@ -99,10 +100,9 @@ JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
 ~~~
 
 \begin{centered}{title="Silver"}
-  \sponsor{name="Pumas AI", link="https://pumas.ai", img="/assets/2023/img/sponsors/pumas-ai.png", level=1}
-  \sponsor{name="QuEra Computing", link="https://www.quera-computing.com/", img="/assets/2023/img/sponsors/quera-logo.png", level=1}
-  \sponsor{name="Relational AI", link="https://relational.ai", img="/assets/2023/img/sponsors/rai-logo.svg", level=1}
-
+  \sponsor{name="Pumas AI", link="https://pumas.ai", img="/assets/2023/img/sponsors/pumas-ai-logo.png", level=3}
+  \sponsor{name="QuEra Computing", link="https://www.quera-computing.com/", img="/assets/2023/img/sponsors/quera-logo.png", level=3}
+  \sponsor{name="Relational AI", link="https://relational.ai", img="/assets/2023/img/sponsors/rai-logo.svg", level=3}
 \end{centered}
 
 ~~~
@@ -110,19 +110,17 @@ JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
 ~~~
 
 \begin{centered}{title="Bronze"}
-
-  \sponsor{name="Jolin.io", link="https://jolin.io", img="/assets/2023/img/sponsors/jolin-logo.png", level=3}
-
+  \sponsor{name="Jolin.io", link="https://jolin.io", img="/assets/2023/img/sponsors/jolin-logo.png", level=4}
 \end{centered}
+
 ~~~
 <p style="margin-bottom:3ex;"></p>
 ~~~
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
-
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
-
 \end{centered}
+
 ~~~
   </div>
 </div>
