@@ -23,11 +23,33 @@ JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
 \end{box}
 
 \begin{box}{title="Keynote Speakers", color="red"}
-  We are thrilled to have the following keynote speakers join us in 2023 (more details coming soon):
-  - [Dr. Stephen Wolfram](https://www.stephenwolfram.com)
-  - [Dr. Rumman Chowdhury](http://www.rummanchowdhury.com)
-  - [Dr. Christopher Rackauckas](https://chrisrackauckas.com)
-  - [Dr. Tim Davis](https://people.engr.tamu.edu/davis/welcome.html)
+
+  \avatar{name="Dr. Stephen Wolfram", affil="Wolfram Research, Inc.", link="https://www.stephenwolfram.com", img="/assets/2023/img/Wolfram.png"}
+
+  @@content-box-talk
+    Stephen Wolfram is the creator of Mathematica, Wolfram|Alpha and the Wolfram Language; the author of A New Kind of Science; the originator of the Wolfram Physics Project; and the founder and CEO of Wolfram Research. Over the course of more than four decades, he has been a pioneer in the development and application of computational thinking—and has been responsible for many discoveries, inventions and innovations in science, technology and business.
+  @@
+
+  \avatar{name="Dr. Rumman Chowdhury", affil="Parity Consulting", link="http://www.rummanchowdhury.com", img="/assets/2023/img/Chowdhury.jpg"}
+
+  @@content-box-talk
+    Dr. Chowdhury currently runs Parity Consulting, Parity Responsible Innovation Fund, and is a Responsible AI Fellow at the Berkman Klein Center for Internet & Society at Harvard University. She is also a Research Affiliate at the Minderoo Center for Democracy and Technology at Cambridge University and a visiting researcher at the NYU Tandon School of Engineering.
+
+    She is a pioneer in the field of applied algorithmic ethics, creating cutting-edge socio-technical solutions for ethical, explainable and transparent AI. She is an active contributor to discourse around responsible technology with bylines in the Atlantic, Forbes, Harvard Business Review, Sloan Management Review, MIT Technology Review and VentureBeat.
+  @@
+
+  \avatar{name="Dr. Christopher Rackauckas", affil="JuliaHub, Pumas AI, MIT", link="https://chrisrackauckas.com", img="/assets/2023/img/Rackauckas.png"}
+
+  @@content-box-talk
+    Chris' research and software is focused on Scientific Machine Learning (SciML): the integration of domain models with artificial intelligence techniques like machine learning. By utilizing the structured scientific (differential equation) models together with the unstructured data-driven models of machine learning, our simulators can be accelerated, our science can better approximate the true systems, all while enjoying the robustness and explainability of mechanistic dynamical models.
+  @@
+
+  \avatar{name="Dr. Tim Davis", affil="Texas A&M University", link="https://people.engr.tamu.edu/davis/welcome.html", img="/assets/2023/img/Davis.jpg"}
+
+  @@content-box-talk
+    Timothy A. Davis, PhD, is a Professor in the Computer Science and Engineering Department at Texas A&M University, and a Fellow of SIAM, ACM, and IEEE.  He serves as an associate editor for the ACM Transactions on Mathematical Software.  In 2018 he was awarded the Walston Chubb Award for Innovation, by Sigma Xi.
+  @@
+
 \end{box}
 
 \begin{box}{title="Venue", color="light-red"}
