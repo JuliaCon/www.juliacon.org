@@ -24,10 +24,12 @@ JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
 
 \begin{box}{title="Keynote Speakers", color="red"}
 
-  \avatar{name="Dr. Stephen Wolfram", affil="Wolfram Research, Inc.", link="https://www.stephenwolfram.com", img="/assets/2023/img/Wolfram.png"}
+  \avatar{name="Dr. Stephen Wolfram", affil="Wolfram Research", link="https://www.stephenwolfram.com", img="/assets/2023/img/Wolfram.png"}
 
   @@content-box-talk
-    Stephen Wolfram is the creator of Mathematica, Wolfram|Alpha and the Wolfram Language; the author of A New Kind of Science; the originator of the Wolfram Physics Project; and the founder and CEO of Wolfram Research. Over the course of more than four decades, he has been a pioneer in the development and application of computational thinking—and has been responsible for many discoveries, inventions and innovations in science, technology and business.
+    Dr. Stephen Wolfram is the creator of Mathematica, Wolfram|Alpha and the Wolfram Language; the author of A New Kind of Science; the originator of the Wolfram Physics Project; and the founder and CEO of Wolfram Research. Over the course of more than four decades, he has been a pioneer in the development and application of computational thinking—and has been responsible for many discoveries, inventions and innovations in science, technology and business.  Based on both his practical and theoretical thinking, Dr. Wolfram has emerged as an authority on the implications of computation and artificial intelligence for society and the future, and the importance of computational language as a bridge between the capabilities of computation and human objectives.
+
+    Dr. Wolfram has been president and CEO of Wolfram Research since its founding in 1987. In addition to his corporate leadership, Wolfram is deeply involved in the development of the company's technology, personally overseeing the functional design of the company's core products on a daily basis, and constantly introducing new ideas and directions.
   @@
 
   \avatar{name="Dr. Rumman Chowdhury", affil="Parity Consulting", link="http://www.rummanchowdhury.com", img="/assets/2023/img/Chowdhury.jpg"}
