@@ -110,7 +110,7 @@ JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
 ~~~
 
 \begin{centered}{title="Bronze"}
-  \sponsor{name="Jolin.io", link="https://jolin.io", img="/assets/2023/img/sponsors/jolin-logo.png", level=4}
+  \sponsor{name="Jolin.io", link="https://www.jolin.io", img="/assets/2023/img/sponsors/jolin-logo.png", level=4}
 \end{centered}
 
 ~~~
