@@ -117,6 +117,14 @@ JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
 <p style="margin-bottom:3ex;"></p>
 ~~~
 
+\begin{centered}{title="Academic Partners"}
+  \sponsor{name="NAWA", link="https://nawa.gov.pl/en", img="/assets/2023/img/sponsors/nawa-logo.png", level=4}
+\end{centered}
+
+~~~
+<p style="margin-bottom:3ex;"></p>
+~~~
+
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
 \end{centered}
