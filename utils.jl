@@ -54,10 +54,11 @@ function hfun_previous_editions()
         """
 end
 
-@env function centered(md; title="Gold")
+@env function centered(md; title="Title", margin_bottom="auto")
+    class = "d-flex flex-wrap justify-content-center align-items-center"
     return html("""
         <h2 align="center">$title</h2>
-        <div class="d-flex flex-wrap justify-content-center align-items-center">
+        <div class="$class" style="margin-bottom: $margin_bottom">
         """) * md * html("""
         </div>
         """)
