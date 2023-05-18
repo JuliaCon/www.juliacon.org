@@ -83,54 +83,34 @@ JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
     <p style="margin-bottom:3ex;"></p>
 ~~~
 
-\begin{centered}{title="Platinum"}
+\begin{centered}{title="Platinum", margin_bottom="3ex"}
   \sponsor{name="JuliaHub", link="https://juliahub.com", img="/assets/2023/img/sponsors/juliahub-logo.svg", level=1}
 \end{centered}
 
-~~~
-<p style="margin-bottom:3ex;"></p>
-~~~
-
-\begin{centered}{title="Gold"}
+\begin{centered}{title="Gold", margin_bottom="3ex"}
   \sponsor{name="ASML", link="https://www.asml.com", img="/assets/2023/img/sponsors/asml-logo.png", level=3}
 \end{centered}
 
-~~~
-<p style="margin-bottom:3ex;"></p>
-~~~
-
-\begin{centered}{title="Silver"}
+\begin{centered}{title="Silver", margin_bottom="3ex"}
   \sponsor{name="Pumas AI", link="https://pumas.ai", img="/assets/2023/img/sponsors/pumas-ai-logo.png", level=3}
   \sponsor{name="QuEra Computing", link="https://www.quera-computing.com/", img="/assets/2023/img/sponsors/quera-logo.png", level=3}
   \sponsor{name="Relational AI", link="https://relational.ai", img="/assets/2023/img/sponsors/rai-logo.svg", level=3}
 \end{centered}
 
-~~~
-<p style="margin-bottom:3ex;"></p>
-~~~
-
-\begin{centered}{title="Bronze"}
+\begin{centered}{title="Bronze", margin_bottom="3ex"}
   \sponsor{name="Jolin.io", link="https://www.jolin.io", img="/assets/2023/img/sponsors/jolin-logo.png", level=4}
 \end{centered}
 
-~~~
-<p style="margin-bottom:3ex;"></p>
-~~~
-
-\begin{centered}{title="Academic Partners"}
+\begin{centered}{title="Academic Partners", margin_bottom="3ex"}
   \sponsor{name="NAWA", link="https://nawa.gov.pl/en", img="/assets/2023/img/sponsors/nawa-logo.png", level=4}
 \end{centered}
-
-~~~
-<p style="margin-bottom:3ex;"></p>
-~~~
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
 \end{centered}
 
 ~~~
-  </div>
-</div>
+  </div>  <!-- container sponsors -->
+</div>  <!-- container-fluid -->
 <div style="height:20px;display:block;"></div>
 ~~~
