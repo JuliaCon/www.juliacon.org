@@ -10,6 +10,7 @@
 * Kevin O'Brien, Media and Publicity [Twitter](https://twitter.com/dragonflystats)
 * Carsten Bauer, Proceedings Chair [GitHub](https://github.com/carstenbauer)
 * Will Kimmerer, Local Organization [GitHub](https://github.com/Wimmerer)
+* Pablo Zubieta, Web [Github](https://github.com/pabloferz)
 
 ## Proceedings Committee
 
