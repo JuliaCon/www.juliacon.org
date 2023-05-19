@@ -50,6 +50,8 @@ JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
 
   @@content-box-talk
     Timothy A. Davis, PhD, is a Professor in the Computer Science and Engineering Department at Texas A&M University, and a Fellow of SIAM, ACM, and IEEE.  He serves as an associate editor for the ACM Transactions on Mathematical Software.  In 2018 he was awarded the Walston Chubb Award for Innovation, by Sigma Xi.
+
+    Davis is a world leader in the creation of innovative algorithms and widely-used software for solving large sparse matrix problems that arise in a vast range of real-world technological and social applications.
   @@
 
 \end{box}
