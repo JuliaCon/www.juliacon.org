@@ -37,15 +37,15 @@ JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
   @@content-box-talk
     Dr. Chowdhury currently runs Parity Consulting, Parity Responsible Innovation Fund, and is a Responsible AI Fellow at the Berkman Klein Center for Internet & Society at Harvard University. She is also a Research Affiliate at the Minderoo Center for Democracy and Technology at Cambridge University and a visiting researcher at the NYU Tandon School of Engineering.
 
-    Chowdhury’s passion lies at the intersection of artificial intelligence and humanity. She is a pioneer in the field of applied algorithmic ethics, creating cutting-edge socio-technical solutions for ethical, explainable and transparent AI. She is an active contributor to discourse around responsible technology with bylines in the Atlantic, Forbes, Harvard Business Review, Sloan Management Review, MIT Technology Review and VentureBeat.
+    Dr.Chowdhury’s passion lies at the intersection of artificial intelligence and humanity. She is a pioneer in the field of applied algorithmic ethics, creating cutting-edge socio-technical solutions for ethical, explainable and transparent AI. She is an active contributor to discourse around responsible technology with bylines in the Atlantic, Forbes, Harvard Business Review, Sloan Management Review, MIT Technology Review and VentureBeat.
   @@
 
   \avatar{name="Dr. Christopher Rackauckas", affil="JuliaHub, Pumas AI, MIT", link="https://chrisrackauckas.com", img="/assets/2023/img/Rackauckas.png"}
 
   @@content-box-talk
-    Dr. Rackauckas is a Research Affiliate and Co-PI of the Julia Lab at the Massachusetts Institute of Technology, Director of Modeling and Simulation at JuliaHub and Creator / Lead Developer of JuliaSim. He's also the Director of Scientific Research at Pumas-AI and Creator / Lead Developer of Pumas, and Lead Developer of the SciML Open Source Software Organization.
+    Dr. Rackauckas is a Research Affiliate and Co-PI of the Julia Lab at the Massachusetts Institute of Technology, VP of Modeling and Simulation at JuliaHub and Creator / Lead Developer of JuliaSim. He's also the Director of Scientific Research at Pumas-AI and Creator / Lead Developer of Pumas, and Lead Developer of the SciML Open Source Software Organization.
 
-    Chris' research and software is focused on Scientific Machine Learning (SciML): the integration of domain models with artificial intelligence techniques like machine learning. By utilizing the structured scientific (differential equation) models together with the unstructured data-driven models of machine learning, our simulators can be accelerated, our science can better approximate the true systems, all while enjoying the robustness and explainability of mechanistic dynamical models.
+    Dr. Rackauckas's research and software is focused on Scientific Machine Learning (SciML): the integration of domain models with artificial intelligence techniques like machine learning. By utilizing the structured scientific (differential equation) models together with the unstructured data-driven models of machine learning, our simulators can be accelerated, our science can better approximate the true systems, all while enjoying the robustness and explainability of mechanistic dynamical models.
   @@
 
   \avatar{name="Dr. Tim Davis", affil="Texas A&M University", link="https://people.engr.tamu.edu/davis/welcome.html", img="/assets/2023/img/Davis.jpg"}
@@ -53,7 +53,7 @@ JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
   @@content-box-talk
     Timothy A. Davis, PhD, is a Professor in the Computer Science and Engineering Department at Texas A&M University, and a Fellow of SIAM, ACM, and IEEE.  He serves as an associate editor for the ACM Transactions on Mathematical Software.  In 2018 he was awarded the Walston Chubb Award for Innovation, by Sigma Xi.
 
-    Davis is a world leader in the creation of innovative algorithms and widely-used software for solving large sparse matrix problems that arise in a vast range of real-world technological and social applications.
+    Prof. Davis is a world leader in the creation of innovative algorithms and widely-used software for solving large sparse matrix problems that arise in a vast range of real-world technological and social applications. He is the author of Suitesparse
   @@
 
 \end{box}
