@@ -2,9 +2,11 @@
 title = "JuliaCon 2023"
 
 # top title + subtitle
+insert_title_year = true
 top_title = "JuliaCon 2023\n"
 top_date = "Cambridge, USA. July 25th - 29th, 2023. \n"
 top_subtitle = "(co-located with JuMP-dev and SciMLCon)"
+top_title_heading = "../assets/2023/img/boston_768.png 768w, ../assets/2023/img/boston_1400.png 1400w, ../assets/2023/img/boston_2800.png 2800w"
 +++
 
 ~~~

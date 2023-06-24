@@ -32,26 +32,70 @@ end
 
 # NAV_YEAR tools
 
-curyear() = parse(Int, match(r"^[\/|\\]?(20\d{2})[\/||\\]", locvar(:fd_rpath)::String).captures[1])
+configyear() = parse(Int, locvar(:year)::String)
+function curyear() 
+  m = match(r"^[\/|\\]?(20\d{2})[\/||\\]", locvar(:fd_rpath)::String)
+  # fallback in case if the link does not have a year in it
+  # may happen for local juliacons
+  if !isnothing(m) && !isempty(m.captures)
+    return parse(Int, m.captures[1])
+  else
+    return configyear()
+  end
+end
 
 function hfun_curyear()
     return "$(curyear())"
 end
 
 function hfun_previous_editions()
+    config_year = configyear()
     year = curyear()
-    pre_years = year-1:-1:2014
-    io = IOBuffer()
-    for (i, y) in enumerate(pre_years)
-        write(io, """<a href="/$y/">$y</a>""")
-        i == length(pre_years) || write(io, "/")
+   
+    post_years = config_year:-1:(year + 1)
+    io_post = IOBuffer()
+    for (i, y) in enumerate(post_years)
+      write(io_post, """<a href="/$y/">$y</a>""")
+      i == length(post_years) || write(io_post, "/")
     end
-    prevs = String(take!(io))
+
+    pre_years = (year - 1):-1:2014
+    io_prev = IOBuffer()
+    for (i, y) in enumerate(pre_years)
+        write(io_prev, """<a href="/$y/">$y</a>""")
+        i == length(pre_years) || write(io_prev, "/")
+    end
+
+    post = String(take!(io_post))
+    prev = String(take!(io_prev))
+
+    html_post = ifelse(!isempty(post), """<span style="padding-left: 10px">Future: $post</span>""", "")
+    html_prev = ifelse(!isempty(prev), """<span style="padding-left: 10px">Previously: $prev</span>""", "")
+
     return """
         <div class="u-futura u-uppercase previous-editions-menu" style="margin:auto">
-          Previously: $prevs
+          $html_post
+          $html_prev
         </div>
         """
+end
+
+function hfun_navbar()
+  io = IOBuffer()
+  header = locvar(:header)
+  entries = keys(header)
+  rpath = locvar(:fd_rpath)::String
+
+  for (prefix, entries) in pairs(header)
+    if startswith(rpath, prefix)
+      for (title, link) in entries 
+        write(io, """<li class="nav-item"><a class="nav-link" href="$link">$title</a></li>""")
+      end
+    end
+  end
+
+  html = String(take!(io))
+  return html
 end
 
 @env function centered(md; title="Title", margin_bottom="auto")

@@ -2,9 +2,11 @@
 title = "JuliaCon 2021 & JuMP-dev, Everywhere on Earth"
 
 # top title + subtitle
+insert_title_year = true
 top_title = "Juliacon 2021 (with JuMP-dev) was online and virtual"
 top_date = "28th to 30th of July, 2021"
 top_subtitle = "check out all the recorded talks on YouTube"
+top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
 ~~~

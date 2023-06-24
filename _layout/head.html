@@ -95,8 +95,10 @@
 
   {{insert nav_year.html}}
 
-  {{ispage /2023/index.html /2022/index.html /2021/index.html /2020/index.html}}
-    {{insert title_year.html}}
+  {{isdef insert_title_year}}
+    {{if insert_title_year}}
+      {{insert title_year.html}}
+    {{end}}
   {{end}}
 
   {{insert nav.html}}
