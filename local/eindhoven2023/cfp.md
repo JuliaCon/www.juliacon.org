@@ -1,0 +1,50 @@
+# Call for Talks: JuliaCon Local Eindhoven 2023
+
+Do you have a fascinating topic related to Julia that you're passionate about? We invite you to submit your talk proposals for JuliaCon Local Eindhoven 2023! This is your chance to share your knowledge, insights, and experiences with the vibrant Julia community.
+
+**Speakers will receive a free ticket to the entire event.**
+
+## What We're Looking For
+
+We welcome talk submissions on a wide range of topics, including, but not limited to:
+
+- Julia language features and advancements
+- Julia in scientific computing and data science
+- Julia for machine learning and artificial intelligence
+- Julia for web development and deployment
+- Julia for parallel and distributed computing
+- Julia packages and ecosystem
+- Industry use cases and success stories
+- Julia community projects and collaborations
+- Teaching and learning Julia
+-  Julia for interdisciplinary research
+
+We encourage talks that cater to different skill levels, from beginner-friendly introductions to advanced technical discussions. If you have a unique perspective, an innovative approach, or a compelling story related to Julia, we want to hear from you!
+
+## Submission Guidelines
+To submit your talk proposal, please follow these guidelines:
+
+- **Title**: Provide a clear and concise title for your talk.
+- **Abstract**: Write a brief abstract summarizing the content of your talk.
+- **Duration**: Specify the preferred duration of your talk (e.g., 20 minutes, 30 minutes, or 45 minutes).
+- **Level**: Indicate the intended skill level of the audience (e.g., beginner, intermediate, advanced).
+
+## How to Submit
+
+Please use the Talk Submission Form to submit your talk proposal. Make sure to provide all the requested information accurately and completely. Multiple talk submissions are welcome if you have more than one compelling topic to share.
+
+# Proposal Deadline | November 1, 2023
+
+~~~
+<div style="text-align: center">
+    <a class="btn" style="width: 49%;" href="https://eindhoven2023.pydata.org/juliacon/">SUBMIT A PROPOSAL FOR JULIACON LOCAL EINDHOVEN</a>
+    <a class="btn" style="width: 49%;" href="https://eindhoven2023.pydata.org/pydata/">SUBMIT A PROPOSAL FOR PYDATA EINDHOVEN</a>
+</div>
+~~~
+
+#
+
+If you have any questions or need further clarification, please don't hesitate to reach out to us. You can contact the JuliaCon Local Eindhoven 2023 organizing team at \email or at the dedicated Discord channel, and we will be happy to assist you.
+We appreciate your interest in sharing your knowledge and contributing to the success of JuliaCon Local Eindhoven 2023. We look forward to receiving your exciting talk proposals and creating an exceptional conference program together!
+We look forward to reading your proposal and appreciate you being a part of the community!
+
