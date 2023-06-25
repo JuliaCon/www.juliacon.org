@@ -31,7 +31,7 @@ To submit your talk proposal, please follow these guidelines:
 
 ## How to Submit
 
-Please use the Talk Submission Form to submit your talk proposal. Make sure to provide all the requested information accurately and completely. Multiple talk submissions are welcome if you have more than one compelling topic to share.
+Please use the Talk Submission Form to submit your talk proposal. Make sure to provide all the requested information accurately and completely. Multiple talk submissions are welcome if you have more than one compelling topic to share. Please note that JuliaCon Local Eindhoven 2023 is a joint conference with PyData, providing a unique opportunity to submit your talks to both events and engage with a diverse community of Julia and Python enthusiasts.
 
 # Proposal Deadline | November 1, 2023
 
