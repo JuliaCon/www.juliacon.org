@@ -15,11 +15,11 @@ top_title_heading = "../../../assets/2023/img/boston_768.png 768w, ../../../asse
 ~~~
 
 \begin{box}{title="JuliaCon Local Eindhoven 2023", color="purple"}
-Save the Date: December 1, 2023!
+**Save the Date: December 1, 2023!**
 
-JuliaCon 2023 will be in-person at the [Location to be announced soon], Eindhoven, the Netherlands. The conference will take a full day of talks on Friday, the 1st of December.
+JuliaCon 2023 will be in-person at the [High Tech Campus Conference Center](https://hightechcampus.com/conference-center) in Eindhoven in the Netherlands. The conference will take a full day of talks on **Friday, the 1st of December**.
 
-At our co-located event with PyData, which occurs on November 30, you'll experience the unique convergence of two vibrant communities, amplifying the possibilities for cross-pollination and collaboration. Connect with like-minded professionals, expand your network, and explore synergies that bridge the gap between Python and Julia.
+At our co-located event with [PyData Eindhoven 2023](https://pydata.org/eindhoven2023/), which occurs on** November 30**, you'll experience the unique convergence of two vibrant communities, amplifying the possibilities for cross-pollination and collaboration. Connect with like-minded professionals, expand your network, and explore synergies that bridge the gap between Python and Julia.
 \end{box}
 
 \begin{box}{title="Tickets", color="light-blue"}
@@ -51,27 +51,34 @@ JuliaCon thrives on the support of a passionate volunteer community. We invite y
     <p style="margin-bottom:3ex;"></p>
 ~~~
 
+\begin{centered}{title="Host", margin_bottom="3ex"}
+  \sponsor{name="High Tech Campus", link="https://hightechcampus.com", img="/assets/local/eindhoven2023/img/sponsors/Logo-High-Tech-Campus.png", level=1}
+\end{centered}
+
 \begin{centered}{title="Platinum", margin_bottom="3ex"}
   \sponsor{name="JuliaHub", link="https://juliahub.com", img="/assets/2023/img/sponsors/juliahub-logo.svg", level=1}
+  \sponsor{name="ASML", link="https://www.asml.com", img="/assets/2023/img/sponsors/asml-logo.png", level=1}
 \end{centered}
 
 \begin{centered}{title="Gold", margin_bottom="3ex"}
-  \sponsor{name="ASML", link="https://www.asml.com", img="/assets/2023/img/sponsors/asml-logo.png", level=3}
+  <!---\sponsor{name="ASML", link="https://www.asml.com", img="/assets/2023/img/sponsors/asml-logo.png", level=3}-->
 \end{centered}
 
 \begin{centered}{title="Silver", margin_bottom="3ex"}
   <!-- \sponsor{name="Pumas AI", link="https://pumas.ai", img="/assets/2023/img/sponsors/pumas-ai-logo.png", level=3}
   \sponsor{name="QuEra Computing", link="https://www.quera-computing.com/", img="/assets/2023/img/sponsors/quera-logo.png", level=3}
   \sponsor{name="Relational AI", link="https://relational.ai", img="/assets/2023/img/sponsors/rai-logo.svg", level=3} -->
+  
 \end{centered}
 
-\begin{centered}{title="Bronze", margin_bottom="3ex"}
+\begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
   <!-- \sponsor{name="Jolin.io", link="https://www.jolin.io", img="/assets/2023/img/sponsors/jolin-logo.png", level=4}
   \sponsor{name="Beacon Biosignals", link="https://beacon.bio", img="/assets/2023/img/sponsors/beacon-logo.svg", level=3} -->
+  \sponsor{name="VersionBay", link="https://www.versionbay.com", img="/assets/local/eindhoven2023/img/sponsors/VersionBay-Logo.png", level=3}
 \end{centered}
 
-\begin{centered}{title="Academic Partners", margin_bottom="3ex"}
-  <!-- \sponsor{name="NAWA", link="https://nawa.gov.pl/en", img="/assets/2023/img/sponsors/nawa-logo.png", level=4} -->
+\begin{centered}{title="Community Partners", margin_bottom="3ex"}
+  \sponsor{name="PyData Eindhoven", link="https://pydata.org/eindhoven2023/", img="/assets/local/eindhoven2023/img/sponsors/pydata-logo.png", level=4}
 \end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
