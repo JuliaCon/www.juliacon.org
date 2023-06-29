@@ -37,16 +37,16 @@ Whether you're a seasoned programmer, a curious beginner, or a visionary researc
 Secure your spot today and unlock a world of infinite possibilities with Julia!
 ~~~
 <div style="text-align: center">
-    <a href="local/eindhoven2023/tickets/">ORDER TODAY</a>
+    <a href="/local/eindhoven2023/tickets/">ORDER TODAY</a>
 </div>
 ~~~
 \end{box}
 
-\begin{box}{title="Venue", color="light-green"}
+\begin{box}{title="Venue", color="dark-blue"}
 JuliaCon Local Eindhoven will be hosted at High Tech Campus in Eindhoven. There are over 200 companies located on one square km. These technical companies employ over 12,000 engineers and scientists. It is 20m by bus from the Eindhoven Station with FREE parking.
 ~~~
 <div style="text-align: center">
-    <a href="local/eindhoven2023/venue/">Check out Venue</a>
+    <a href="/local/eindhoven2023/venue/">MORE INFORMATION</a>
 </div>
 ~~~
 \end{box}
