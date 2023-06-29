@@ -1,6 +1,6 @@
 # JuliaCon Local Eindhoven 2023: Registration
 
-Welcome to the registration page for JuliaCon 2023! We're thrilled to announce that this year's conference will be held in person at MIT, bringing together a vibrant community of Julia enthusiasts, industry experts, and thought leaders. Below you'll find the ticket prices for this exciting event.
+Welcome to the registration page for JuliaCon 2023! We're thrilled to announce that this year's conference will be held in person at High Tech Campus, bringing together a vibrant community of Julia enthusiasts, industry experts, and thought leaders. Below you'll find the ticket prices for this exciting event.
 
 # Ticket Prices
 

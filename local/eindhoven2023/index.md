@@ -26,7 +26,7 @@ At our co-located event with [PyData Eindhoven 2023](https://pydata.org/eindhove
 
 ~~~
 <div style="text-align: center">
-    <a class="btn" style="width: 99%; href="/local/eindhoven2023/cfp/">SUBMIT YOUR 30m TALK</a>
+    <a href="/local/eindhoven2023/cfp/">SUBMIT YOUR 30m TALK</a>
 </div>
 ~~~
 \end{box}
@@ -37,13 +37,22 @@ Whether you're a seasoned programmer, a curious beginner, or a visionary researc
 Secure your spot today and unlock a world of infinite possibilities with Julia!
 ~~~
 <div style="text-align: center">
-    <a class="btn" style="width: 99%; href="/local/eindhoven2023/tickets/">ORDER TODAY</a>
+    <a href="local/eindhoven2023/tickets/">ORDER TODAY</a>
+</div>
+~~~
+\end{box}
+
+\begin{box}{title="Venue", color="light-green"}
+JuliaCon Local Eindhoven will be hosted at High Tech Campus in Eindhoven. There are over 200 companies located on one square km. These technical companies employ over 12,000 engineers and scientists. It is 20m by bus from the Eindhoven Station with FREE parking.
+~~~
+<div style="text-align: center">
+    <a href="local/eindhoven2023/venue/">Check out Venue</a>
 </div>
 ~~~
 \end{box}
 
 \begin{box}{title="Code of Conduct", color="dark-green"}
-JuliaCon is dedicated to providing a positive and inclusive conference experience for all attendees. We have zero tolerance for any form of harassment or discrimination. Offensive language, imagery, or disrespectful behavior will not be tolerated. Violators may be sanctioned or expelled from the conference without a refund. For more information, please refer to our [Code of Conduct](/local/eindhoven2023/coc/) available on our website.
+JuliaCon Local Eindhoven is dedicated to providing a positive and inclusive conference experience for all attendees. We have zero tolerance for any form of harassment or discrimination. Offensive language, imagery, or disrespectful behavior will not be tolerated. Violators may be sanctioned or expelled from the conference without a refund. For more information, please refer to our [Code of Conduct](/local/eindhoven2023/coc/) available on our website.
 \end{box}
 
 \begin{box}{title="Committee", color="dark-blue"}
