@@ -78,7 +78,9 @@ JuliaCon thrives on the support of a passionate volunteer community. We invite y
 \end{centered}
 
 \begin{centered}{title="Community Partners", margin_bottom="3ex"}
-  \sponsor{name="PyData Eindhoven", link="https://pydata.org/eindhoven2023/", img="/assets/local/eindhoven2023/img/sponsors/pydata-logo.png", level=4}
+  \sponsor{name="PyData Eindhoven 2023", link="https://pydata.org/eindhoven2023/", img="/assets/local/eindhoven2023/img/sponsors/pydata-logo.png", level=4}
+  \sponsor{name="JuliaLang Eindhoven Meetup", link="https://www.meetup.com/julialang-eindhoven/", img="/assets/local/eindhoven2023/img/sponsors/JuliaEindhovenLogo.png", level=4}
+  \sponsor{name="PyData Eindhoven Meetup", link="https://www.meetup.com/PyData-Eindhoven/", img="/assets/local/eindhoven2023/img/sponsors/PyData Eindhoven Logo - 2.png", level=4}
 \end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
