@@ -22,10 +22,24 @@ JuliaCon 2023 will be in-person at the [High Tech Campus Conference Center](http
 At our co-located event with [PyData Eindhoven 2023](https://pydata.org/eindhoven2023/), which occurs on** November 30**, you'll experience the unique convergence of two vibrant communities, amplifying the possibilities for cross-pollination and collaboration. Connect with like-minded professionals, expand your network, and explore synergies that bridge the gap between Python and Julia.
 \end{box}
 
+\begin{box}{title="Call For Proposals (CFP)", color="light-blue"}
+
+~~~
+<div style="text-align: center">
+    <a class="btn" style="width: 99%; href="/local/eindhoven2023/cfp/">SUBMIT YOUR 30m TALK</a>
+</div>
+~~~
+\end{box}
+
 \begin{box}{title="Tickets", color="light-blue"}
 Whether you're a seasoned programmer, a curious beginner, or a visionary researcher, this event offers a golden opportunity to elevate your skills, broaden your horizons, and shape the future of technology. Don't miss your chance to be at the forefront of the Julia revolution.
 
-Secure your spot today and unlock a world of infinite possibilities with Julia! [Order yours tickets](/local/eindhoven2023/tickets/) today!
+Secure your spot today and unlock a world of infinite possibilities with Julia!
+~~~
+<div style="text-align: center">
+    <a class="btn" style="width: 99%; href="/local/eindhoven2023/tickets/">ORDER TODAY</a>
+</div>
+~~~
 \end{box}
 
 \begin{box}{title="Code of Conduct", color="dark-green"}
