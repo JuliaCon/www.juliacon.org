@@ -3,4 +3,4 @@
 The JuliaCon Local Eindhoven 2023 program is currently being finalized and will be available soon. 
 We are curating a diverse and engaging lineup of talks, workshops, panels, and networking sessions that cater to all levels of Julia expertise and interests.
 Keep an eye on our website and social media channels for the latest updates on the JuliaCon Local 2023 program.
-We look forward to sharing the finalized program with you and welcoming you to an unforgettable conference experience at JuliaCon 2023!
+We look forward to sharing the finalized program with you and welcoming you to an unforgettable conference experience at JuliaCon Local Eindhovne 2023!
