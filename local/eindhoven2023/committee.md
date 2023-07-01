@@ -3,6 +3,8 @@ top_logo_custom="/assets/local/eindhoven2023/img/juliacon_local_eindhoven_logo.p
 top_logo_link="/local/eindhoven2023"
 
 top_navbar_custom_flag="/assets/local/eindhoven2023/img/vibes.png"
+footer_hide_signup_form = true
+footer_hide_social_media = true
 +++
 
 # Volunteer at JuliaCon Local Eindhoven 2023
