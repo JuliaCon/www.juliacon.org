@@ -1,3 +1,10 @@
++++
+top_logo_custom="/assets/local/eindhoven2023/img/juliacon_local_eindhoven_logo.png"
+top_logo_link="/local/eindhoven2023"
+
+top_navbar_custom_flag="/assets/local/eindhoven2023/img/vibes.png"
++++
+
 # JuliaCon Local Eindhoven 2023: Registration
 
 Welcome to the registration page for JuliaCon 2023! We're thrilled to announce that this year's conference will be held in person at High Tech Campus, bringing together a vibrant community of Julia enthusiasts, industry experts, and thought leaders. Below you'll find the ticket prices for this exciting event.

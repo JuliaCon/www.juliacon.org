@@ -1,3 +1,10 @@
++++
+top_logo_custom="/assets/local/eindhoven2023/img/juliacon_local_eindhoven_logo.png"
+top_logo_link="/local/eindhoven2023"
+
+top_navbar_custom_flag="/assets/local/eindhoven2023/img/vibes.png"
++++
+
 # Volunteer at JuliaCon Local Eindhoven 2023
 
 Be part of the exciting JuliaCon Local Eindhoven 2023 experience by volunteering your time and skills! We are actively seeking enthusiastic individuals like you who are passionate about Julia and want to contribute to the success of the conference. No matter your background or level of expertise, there are various opportunities available for you to get involved and make a meaningful impact.
@@ -6,7 +13,7 @@ Be part of the exciting JuliaCon Local Eindhoven 2023 experience by volunteering
 Volunteering at JuliaCon Local Eindhoven 2023 is an excellent opportunity to connect with the vibrant Julia community, meet like-minded individuals, and gain valuable experience in event organization. By joining our volunteer team, you'll have a chance to contribute to the smooth running of the conference, assist with various tasks, and help create a memorable experience for all attendees.
 
 # How to Get Involved
-If you're interested in volunteering at JuliaCon Local Eindhoven 2023, we would love to hear from you! Please email us at [eindhoven@julialang.org](eindhoven@julialang.org) and let us know that you're interested in volunteering. We will provide you with further information about available volunteer roles and responsibilities. We are actively looking for help:
+If you're interested in volunteering at JuliaCon Local Eindhoven 2023, we would love to hear from you! Please email us at [eindhoven@julialang.org](mailto:eindhoven@julialang.org) and let us know that you're interested in volunteering. We will provide you with further information about available volunteer roles and responsibilities. We are actively looking for help:
 - volunteers during the day
 - event organizers
 - social media addicts

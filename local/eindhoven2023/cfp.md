@@ -1,8 +1,26 @@
++++
+top_logo_custom="/assets/local/eindhoven2023/img/juliacon_local_eindhoven_logo.png"
+top_logo_link="/local/eindhoven2023"
+
+top_navbar_custom_flag="/assets/local/eindhoven2023/img/vibes.png"
++++
+
 # Call for Talks: JuliaCon Local Eindhoven 2023
 
 Do you have a fascinating topic related to Julia that you're passionate about? We invite you to submit your talk proposals for JuliaCon Local Eindhoven 2023! This is your chance to share your knowledge, insights, and experiences with the vibrant Julia community.
 
-**Speakers will receive a free ticket to the entire event.**
+# Proposal Deadline | November 1, 2023
+
+~~~
+<p style="font-weight: bold">Speakers will receive a free ticket to the entire event.</p>
+<div style="text-align: center">
+    <a class="btn" style="width: 49%;" href="https://eindhoven2023.pydata.org/juliacon/cfp">SUBMIT A PROPOSAL FOR JULIACON LOCAL EINDHOVEN</a>
+    <a class="btn" style="width: 49%;" href="https://eindhoven2023.pydata.org/pydata/cfp">SUBMIT A PROPOSAL FOR PYDATA EINDHOVEN</a>
+</div>
+<br>
+~~~
+
+****
 
 ## What We're Looking For
 
@@ -21,24 +39,14 @@ We welcome talk submissions on a wide range of topics, including, but not limite
 
 We encourage talks that cater to different skill levels, from beginner-friendly introductions to advanced technical discussions. If you have a unique perspective, an innovative approach, or a compelling story related to Julia, we want to hear from you!
 
-## Submission Guidelines
-To submit your talk proposal, please follow these guidelines:
+## How to Submit
+
+Please use the [Talk Submission Form](https://eindhoven2023.pydata.org/juliacon/cfp) to submit your talk proposal. All talks should be 30 minutes long. Make sure to provide all the requested information accurately and completely. 
 
 - **Title**: Provide a clear and concise title for your talk.
 - **Abstract**: Write a brief abstract summarizing the content of your talk.
 
-## How to Submit
-
-Please use the Talk Submission Form to submit your talk proposal. Make sure to provide all the requested information accurately and completely. Multiple talk submissions are welcome if you have more than one compelling topic to share. Please note that JuliaCon Local Eindhoven 2023 is a joint conference with PyData, providing a unique opportunity to submit your talks to both events and engage with a diverse community of Julia and Python enthusiasts.
-
-# Proposal Deadline | November 1, 2023
-
-~~~
-<div style="text-align: center">
-    <a class="btn" style="width: 49%;" href="https://eindhoven2023.pydata.org/juliacon/">SUBMIT A PROPOSAL FOR JULIACON LOCAL EINDHOVEN</a>
-    <a class="btn" style="width: 49%;" href="https://eindhoven2023.pydata.org/pydata/">SUBMIT A PROPOSAL FOR PYDATA EINDHOVEN</a>
-</div>
-~~~
+Multiple talk submissions are welcome if you have more than one compelling topic to share. Please note that JuliaCon Local Eindhoven 2023 is a joint conference with PyData, providing a unique opportunity to submit your talks to both events and engage with a diverse community of Julia and Python enthusiasts.
 
 #
 

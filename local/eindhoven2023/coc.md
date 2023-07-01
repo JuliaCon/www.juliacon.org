@@ -1,3 +1,10 @@
++++
+top_logo_custom="/assets/local/eindhoven2023/img/juliacon_local_eindhoven_logo.png"
+top_logo_link="/local/eindhoven2023"
+
+top_navbar_custom_flag="/assets/local/eindhoven2023/img/vibes.png"
++++
+
 # Code of Conduct
 
 JuliaCon is committed to providing a positive and inclusive conference experience for all attendees. We believe in fostering a respectful and considerate environment where everyone feels welcome, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or national and ethnic origin.

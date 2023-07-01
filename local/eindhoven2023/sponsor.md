@@ -1,9 +1,16 @@
++++
+top_logo_custom="/assets/local/eindhoven2023/img/juliacon_local_eindhoven_logo.png"
+top_logo_link="/local/eindhoven2023"
+
+top_navbar_custom_flag="/assets/local/eindhoven2023/img/vibes.png"
++++
+
 # Sponsorshp Opportunities
 
 Eindhoven, Netherlands December 1, 2023
 ~~~
 <div style="text-align: center">
-    <a class="btn" style="width: 99%; href="/local/eindhoven2023/pdf/JuliaCon_Local_Eindhoven_2023_Sponsorship_Prospectus_-_FINAL.pdf">Sponsorship Opportunities</a>
+    <a class="btn" style="width: 99%" href="/assets/local/eindhoven2023/pdf/JuliaCon_Local_Eindhoven_2023_Sponsorship_Prospectus_-_FINAL.pdf">Sponsorship Opportunities</a>
 </div>
 ~~~
 
@@ -18,61 +25,61 @@ Eindhoven, Netherlands December 1, 2023
   </thead>
   <tbody>
     <tr>
-      <td>✓ Logo on Event Website and Sponsor Banner</td>
-      <td>✓ Logo on Event Website and Sponsor Banner</td>
-      <td>✓ Logo on Event Website and Sponsor Banner</td>
+      <td><span style="color: green">✓</span> Logo on Event Website and Sponsor Banner</td>
+      <td><span style="color: green">✓</span> Logo on Event Website and Sponsor Banner</td>
+      <td><span style="color: green">✓</span> Logo on Event Website and Sponsor Banner</td>
       
       
     </tr>
     <tr>
-      <td>✓ Promo materials inside goody bag</td>
-      <td>✓ Promo materials inside goody bag</td>
-      <td>✓ Promo materials inside goody bag</td>
+      <td><span style="color: green">✓</span> Promo materials inside goody bag</td>
+      <td><span style="color: green">✓</span> Promo materials inside goody bag</td>
+      <td><span style="color: green">✓</span> Promo materials inside goody bag</td>
     </tr>
     <tr>
-      <td>✓ Job Board Listing</td>
-      <td>✓ Job Board Listing</td>
-      <td>✓ Job Board Listing</td>
+      <td><span style="color: green">✓</span> Job Board Listing</td>
+      <td><span style="color: green">✓</span> Job Board Listing</td>
+      <td><span style="color: green">✓</span> Job Board Listing</td>
     </tr>
     <tr>
-      <td>✓ Links to Attendee Submitted LinkedIn/Resumes/Websites</td>
-      <td>✓ Links to Attendee Submitted LinkedIn/Resumes/Websites</td>
-      <td>✓ Links to Attendee Submitted LinkedIn/Resumes/Websites</td>
+      <td><span style="color: green">✓</span> Links to Attendee Submitted LinkedIn/Resumes/Websites</td>
+      <td><span style="color: green">✓</span> Links to Attendee Submitted LinkedIn/Resumes/Websites</td>
+      <td><span style="color: green">✓</span> Links to Attendee Submitted LinkedIn/Resumes/Websites</td>
     </tr>
     <tr>
-      <td>✓ Expo Booth</td>
-      <td>✓ Expo Booth</td>
-      <td>x Expo Booth</td>
+      <td><span style="color: green">✓</span> Expo Booth</td>
+      <td><span style="color: green">✓</span> Expo Booth</td>
+      <td><span style="color: red">𐄂</span> Expo Booth</td>
     </tr>
     <tr>
-      <td>✓ Sponsored Talk</td>
-      <td>x Sponsored Talk</td>
-      <td>x Sponsored Talk</td>
+      <td><span style="color: green">✓</span> Sponsored Talk</td>
+      <td><span style="color: red">𐄂</span> Sponsored Talk</td>
+      <td><span style="color: red">𐄂</span> Sponsored Talk</td>
     </tr>
     <tr>
-      <td>✓ Premium Logo Placement</td>
-      <td>x Premium Logo Placement</td>
-      <td>x Premium Logo Placement</td>
+      <td><span style="color: green">✓</span> Premium Logo Placement</td>
+      <td><span style="color: red">𐄂</span> Premium Logo Placement</td>
+      <td><span style="color: red">𐄂</span> Premium Logo Placement</td>
     </tr>
     <tr>
-      <td>✓ Prime Logo Placement on Event Videos</td>
-      <td>✓ Prime Logo Placement on Event Videos</td>
-      <td>x Prime Logo Placement on Event Videos</td>
+      <td><span style="color: green">✓</span> Prime Logo Placement on Event Videos</td>
+      <td><span style="color: green">✓</span> Prime Logo Placement on Event Videos</td>
+      <td><span style="color: red">𐄂</span> Prime Logo Placement on Event Videos</td>
     </tr>
     <tr>
-      <td>✓ Access to Attendee List</td>
-      <td>x Access to Attendee List</td>
-      <td>x Access to Attendee List</td>
+      <td><span style="color: green">✓</span> Access to Attendee List</td>
+      <td><span style="color: red">𐄂</span> Access to Attendee List</td>
+      <td><span style="color: red">𐄂</span> Access to Attendee List</td>
     </tr>
     <tr>
-      <td>✓ 3 Diversity Scholars Awarded in Your Name</td>
-      <td>✓ 2 Diversity Scholars Awarded in Your Name</td>
-      <td>✓ 1 Diversity Scholars Awarded in Your Name</td>
+      <td><span style="color: green">✓</span> 3 Diversity Scholars Awarded in Your Name</td>
+      <td><span style="color: green">✓</span> 2 Diversity Scholars Awarded in Your Name</td>
+      <td><span style="color: green">✓</span> 1 Diversity Scholars Awarded in Your Name</td>
     </tr>
     <tr>
-      <td>✓ 6 General Session Passes</td>
-      <td>✓ 3 General Session Passes</td>
-      <td>✓ 2 General Session Passes</td>
+      <td><span style="color: green">✓</span> 6 General Session Passes</td>
+      <td><span style="color: green">✓</span> 3 General Session Passes</td>
+      <td><span style="color: green">✓</span> 2 General Session Passes</td>
     </tr>
 
   </tbody>

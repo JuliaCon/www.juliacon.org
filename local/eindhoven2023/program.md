@@ -1,3 +1,10 @@
++++
+top_logo_custom="/assets/local/eindhoven2023/img/juliacon_local_eindhoven_logo.png"
+top_logo_link="/local/eindhoven2023"
+
+top_navbar_custom_flag="/assets/local/eindhoven2023/img/vibes.png"
++++
+
 # JuliaCon Local Eindhoven 2023 Program
 
 The JuliaCon Local Eindhoven 2023 program is currently being finalized and will be available soon. 

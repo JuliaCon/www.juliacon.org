@@ -7,7 +7,11 @@
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
           <li id="waving-flag">
-            <img src="/assets/shared/img/waving-flag.gif" style="position: relative; top: 10pt; height: 64pt; margin-top: -42pt;" alt="">
+            {{isdef top_navbar_custom_flag}}
+              <img src="{{ top_navbar_custom_flag }}" style="height: 32pt" alt="">
+            {{else}}
+              <img src="/assets/shared/img/waving-flag.gif" style="position: relative; top: 10pt; height: 64pt; margin-top: -42pt;" alt="">
+            {{end}}
           </li>
           {{navbar}}
           <li class="nav-item">

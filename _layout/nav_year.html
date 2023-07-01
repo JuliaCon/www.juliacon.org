@@ -1,5 +1,10 @@
 <div class="u-rows-1 u-hbox u-items-center u-justify-space-between container-fluid u-center">
   <div class="u-title-medium u-hpad u-hbox u-items-center u-cols-4" style="margin:auto">
+    {{isdef top_logo_custom}}
+    <a href="{{ top_logo_link }}">
+      <img src="{{ top_logo_custom }}" style="width: 200px; height: auto" title="JuliaCon">
+    </a>
+    {{else}}
     <a href="/{{curyear}}/">
         <img src="/assets/shared/img/logo_20.svg" style="width: 200px; height: auto" title="JuliaCon">
     </a>
@@ -7,6 +12,7 @@
     <a href="/{{curyear}}/" class="link-color-inherit" style="text-decoration: none;">
         <sup class="u-title-large u-futura badge" style="font-size:22px; margin-top: 8px;">{{curyear}}</sup>
     </a>
+    {{end}}
   </div>
   {{previous_editions}}
 </div>
