@@ -38,3 +38,120 @@ We appreciate the time and effort our volunteers contribute, and we will ensure 
 # Join the JuliaCon Volunteer Team Today!
 Don't miss this chance to be part of JuliaCon Local Eindhoven 2023 success. Whether you're a seasoned Julia expert or just starting your journey, your contribution as a volunteer is highly valued. Help us make JuliaCon an exceptional event for the entire community.\
 To express your interest in volunteering, please reach us at the dedicated [Discord JuliaLang Eindhoven](https://discord.gg/BAvxt75D). We can't wait to welcome you to the JuliaCon Local Eindhoven 2023 volunteer team and embark on this exciting journey together!
+
+# JuliaCon Local Eindhoven 2023 Organizing Committee
+
+~~~
+<div class="u-vskip-3"></div>
+<div class="header-talks avatar-talks">
+  <a href="https://www.linkedin.com/in/g-thomas/">
+    <img class="avatar-circle-talks" src="/assets/local/eindhoven2023/img/committee/gareth.jpeg">
+  </a>
+  <div class="speaker-talks">
+    <a href="https://www.linkedin.com/in/g-thomas/" style="text-decoration:none;">Gareth Thomas</a>
+    <p class="affiliation" style="font-weight: bold">
+        Co-Founder at VersionBay
+    </p>
+    <p class="affiliation">
+     Gareth Thomas is a Co-Founder of VersionBay, a visionary leader dedicated to helping companies optimize their software stacks. With a strong focus on Business Development, Sales, and Marketing, Gareth drives the growth and success of VersionBay. His unwavering passion for technology is fueled by a constant stream of innovative ideas and forward-thinking. 
+    </p>
+  </div>
+</div>
+<div class="u-vskip-3"></div>
+~~~
+
+~~~
+<div class="u-vskip-3"></div>
+<div class="header-talks avatar-talks">
+  <a href="https://www.linkedin.com/in/matthijscox/">
+    <img class="avatar-circle-talks" src="/assets/local/eindhoven2023/img/committee/matthijs.jpeg">
+  </a>
+  <div class="speaker-talks">
+    <a href="https://www.linkedin.com/in/matthijscox/" style="text-decoration:none;">Matthijs Cox</a>
+    <p class="affiliation" style="font-weight: bold">
+        Metrology Architect at ASML
+    </p>
+    <p class="affiliation">
+     After more than a decade of experience in science and software development, I know the struggles of uniting these fields. I now want to grow a community of like-minded scientific coders in the Eindhoven region and beyond, to help each other with our deep knowledge of scientific computing.
+    </p>
+  </div>
+</div>
+<div class="u-vskip-3"></div>
+~~~
+
+~~~
+<div class="u-vskip-3"></div>
+<div class="header-talks avatar-talks">
+  <a href="https://www.linkedin.com/in/bvdmitri/">
+    <img class="avatar-circle-talks" src="/assets/local/eindhoven2023/img/committee/dmitry.jpeg">
+  </a>
+  <div class="speaker-talks">
+    <a href="https://www.linkedin.com/in/bvdmitri/" style="text-decoration:none;">Dmitry Bagaev</a>
+    <p class="affiliation" style="font-weight: bold">
+        PhD candidate
+    </p>
+    <p class="affiliation">
+        My PhD journey has been one big Julia adventure! From unraveling the mysteries of algorithms to creating elegant code, Julia has been my trusty companion all the way.
+        And when it comes to the Julia community, we're not just growing; we're exponentiating faster than an optimized algorithm!
+    </p>
+  </div>
+</div>
+<div class="u-vskip-3"></div>
+~~~
+
+~~~
+<div class="u-vskip-3"></div>
+<div class="header-talks avatar-talks">
+  <a href="https://www.linkedin.com/in/jorge-vieyra-76280542/">
+    <img class="avatar-circle-talks" src="/assets/local/eindhoven2023/img/committee/jorge.jpeg">
+  </a>
+  <div class="speaker-talks">
+    <a href="https://www.linkedin.com/in/jorge-vieyra-76280542/" style="text-decoration:none;">Jorge Vieyra</a>
+    <p class="affiliation" style="font-weight: bold">
+        Senior Design Engineer at ASML
+    </p>
+    <p class="affiliation">
+        After trying every programming language on the planet, I believe Julia is the least bad of them all. So I have decided to use Julia for all my computational work. That's why I am committed to helping the Julia technology and community grow.
+    </p>
+  </div>
+</div>
+<div class="u-vskip-3"></div>
+~~~
+
+~~~
+<div class="u-vskip-3"></div>
+<div class="header-talks avatar-talks">
+  <a href="https://www.linkedin.com/in/tom-lemmens-285346185/">
+    <img class="avatar-circle-talks" src="/assets/local/eindhoven2023/img/committee/tom.jpeg">
+  </a>
+  <div class="speaker-talks">
+    <a href="https://www.linkedin.com/in/tom-lemmens-285346185/" style="text-decoration:none;">Tom Lemmens</a>
+    <p class="affiliation" style="font-weight: bold">
+        Mathware engineer at Sioux Technologies
+    </p>
+  </div>
+</div>
+<div class="u-vskip-3"></div>
+~~~
+
+~~~
+<div class="u-vskip-3"></div>
+<div class="header-talks avatar-talks">
+  <a href="https://www.linkedin.com/in/nicholasshindler/">
+    <img class="avatar-circle-talks" src="/assets/local/eindhoven2023/img/committee/nicholas.jpg">
+  </a>
+  <div class="speaker-talks">
+    <a href="https://www.linkedin.com/in/nicholasshindler/" style="text-decoration:none;">Nicholas (J.) Shindler</a>
+    <p class="affiliation" style="font-weight: bold">
+        Software Developer
+    </p>
+  </div>
+</div>
+<div class="u-vskip-3"></div>
+~~~
+
+
+
+~~~
+<div class="u-vskip-3"></div>
+~~~

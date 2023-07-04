@@ -6,7 +6,7 @@ insert_title_year = true
 top_title = "JuliaCon Local Eindhoven 2023\n"
 top_date = "Eindhoven, Netherlands. December 1, 2023. \n"
 top_subtitle = "Co-host with PyData Eindhoven 2023"
-top_title_heading = "../../../assets/2023/img/boston_768.png 768w, ../../../assets/2023/img/boston_1400.png 1400w, ../../../assets/2023/img/boston_2800.png 2800w"
+top_title_heading = "/assets/local/eindhoven2023/img/Eindhoven_Skyline.png"
 
 top_logo_custom="/assets/local/eindhoven2023/img/juliacon_local_eindhoven_logo.png"
 top_logo_link="/local/eindhoven2023"
