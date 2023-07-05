@@ -2,7 +2,7 @@
 title = "JuliaCon 2020, Everywhere on Earth"
 
 # top title + subtitle
-insert_title_year = true
+insert_top_title = true
 top_title = "Juliacon 2020 was live and online"
 top_date = "Wednesday 29th to Friday 31st of July, 2020"
 top_subtitle = "(Workshops: 24th to 28th July)"
