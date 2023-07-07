@@ -8,6 +8,7 @@
 * Oscar Dowson, Program (JuMP)
 * Avik Sengupta, Finance [Twitter](https://twitter.com/aviksengupta)
 * Kevin O'Brien, Media and Publicity [Twitter](https://twitter.com/dragonflystats)
+* Steven Kell, Media and Publicity [GitHub](https://github.com/StevenKell)
 * Carsten Bauer, Proceedings Chair [GitHub](https://github.com/carstenbauer)
 * Will Kimmerer, Local Organization [GitHub](https://github.com/Wimmerer)
 * Pablo Zubieta, Web [Github](https://github.com/pabloferz)
