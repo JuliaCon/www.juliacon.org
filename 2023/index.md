@@ -127,7 +127,8 @@ JuliaCon will be co-located with JuMP-dev and SciMLCon this year.
 
 \begin{centered}{title="Bronze", margin_bottom="3ex"}
   \sponsor{name="Jolin.io", link="https://www.jolin.io", img="/assets/2023/img/sponsors/jolin-logo.png", level=4}
-  \sponsor{name="Beacon Biosignals", link="https://beacon.bio", img="/assets/2023/img/sponsors/beacon-logo.svg", level=3}
+  \sponsor{name="Beacon Biosignals", link="https://beacon.bio", img="/assets/2023/img/sponsors/beacon-logo.svg", level=4}
+  \sponsor{name="MIT CSAIL", link="https://www.csail.mit.edu", img="/assets/2023/img/sponsors/mit-csail-logo.svg", level=4}
 \end{centered}
 
 \begin{centered}{title="Academic Partners", margin_bottom="3ex"}
