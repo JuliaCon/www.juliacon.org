@@ -54,7 +54,7 @@ JuliaCon Local Eindhoven is dedicated to providing a positive and inclusive conf
 \end{box}
 
 \begin{box}{title="Committee", color="dark-green"}
-JuliaCon thrives on the support of a passionate volunteer community. We invite you to join us in making this event a resounding success! Whether you have a few hours to spare or want to contribute your expertise, your involvement is invaluable. Our dedicated committee, composed entirely of volunteers, is here to assist you and answer any questions or comments you may have. Together, let's create an extraordinary conference experience. To get involved, please [reach us out](/local/eindhoven2023/committee).
+JuliaCon thrives on the support of a passionate volunteer community. We invite you to join us in making this event a resounding success! Whether you have a few hours to spare or want to contribute your expertise, your involvement is invaluable. Our dedicated committee, composed entirely of volunteers, is here to assist you and answer any questions or comments you may have. Together, let's create an extraordinary conference experience. To get involved, please [reach out to us](/local/eindhoven2023/committee).
 \end{box}
 
 \begin{box}{title="Sponsor", color="red"}
