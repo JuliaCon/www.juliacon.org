@@ -21,6 +21,6 @@ If a participant engages in harassing behavior, the event organizers retain the 
 
 ## Reporting
 
-If you experience or witness a violation of the Code of Conduct or would like to discuss an incident that has made you uncomfortable, please contact one of the Discord admins or organizers, or use the email \email. They may involve other event staff to ensure that your report is handled appropriately. We want to assure you that you will not be asked to confront anyone, and we will not disclose your identity without your permission.
+If you experience or witness a violation of the Code of Conduct or would like to discuss an incident that has made you uncomfortable, please contact one of the [Discord](https://discord.gg/UYnze8wcG) admins or organizers, or use the email \email. They may involve other event staff to ensure that your report is handled appropriately. We want to assure you that you will not be asked to confront anyone, and we will not disclose your identity without your permission.
 
 __Note that this CoC is under the [(CC BY-SA 4.0) license](https://creativecommons.org/licenses/by-sa/4.0/)__

@@ -52,7 +52,7 @@ Multiple talk submissions are welcome if you have more than one compelling topic
 
 #
 
-If you have any questions or need further clarification, please don't hesitate to reach out to us. You can contact the JuliaCon Local Eindhoven 2023 organizing team at [eindhoven@julialang.org](mailto: eindhoven@julialang.org) or at the dedicated [JuliaLang Eindhoven Discord channel](https://discord.gg/BAvxt75D), and we will be happy to assist you.
+If you have any questions or need further clarification, please don't hesitate to reach out to us. You can contact the JuliaCon Local Eindhoven 2023 organizing team at [eindhoven@julialang.org](mailto: eindhoven@julialang.org) or at the dedicated [JuliaLang Eindhoven Discord channel](https://discord.gg/UYnze8wcG), and we will be happy to assist you.
 We appreciate your interest in sharing your knowledge and contributing to the success of JuliaCon Local Eindhoven 2023. We look forward to receiving your exciting talk proposals and creating an exceptional conference program together!
 We look forward to reading your proposal and appreciate you being a part of the community!
 
