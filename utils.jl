@@ -80,6 +80,22 @@ function hfun_previous_editions()
         """
 end
 
+navbar_entry(io, entry::Pair) = navbar_entry(io, entry[1], entry[2])
+
+# Generates a single title -> url entry
+function navbar_entry(io, title::String, link::String)
+  write(io, """<li class="nav-item"><a class="nav-link" href="$link">$title</a></li>""")
+end
+
+# Generates a sub-menu with title -> [ subtitle -> url, ... ] structure
+function navbar_entry(io, title::String, subentries::Vector{Pair{String, String}})
+  write(io, """<li class="nav-item-dropdown"><a class="nav-link" href="#">$title</a><div class="dropdown-content">""")
+  for (subtitle, link) in subentries
+    write(io, """<a href="$link">$subtitle</a>""")
+  end
+  write(io, """</div></li>""")
+end
+
 function hfun_navbar()
   io = IOBuffer()
   header = locvar(:header)
@@ -88,9 +104,7 @@ function hfun_navbar()
 
   for (prefix, entries) in pairs(header)
     if startswith(rpath, prefix)
-      for (title, link) in entries 
-        write(io, """<li class="nav-item"><a class="nav-link" href="$link">$title</a></li>""")
-      end
+      foreach((entry) -> navbar_entry(io, entry), entries)
     end
   end
 

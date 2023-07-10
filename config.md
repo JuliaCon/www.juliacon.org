@@ -17,6 +17,9 @@ content_tag = ""
 
 keep_path = ["2019/", "2018/", "2017/", "2016/", "2015/", "2014/"]
 
+# Used to generate the links in the navbar for various events
+# Each entry can be either "Link Title"::String => "Link Url"::String
+#                       or "Link Title"::String => "SubMenu"::Vector{Pair{String, String}}
 header = Dict(
     "2020" => [ "Sponsor" => "/2020/sponsor", "Register" => "/2020/tickets", "Live Schedule!" => "https://live.juliacon.org", "Volunteer" => "/2020/volunteer", "Accessibility" => "/2020/accessibility", "FAQ" => "/2020/faq", "Upload" => "/2020/upload" ],
     "2021" => [ "Sponsor" => "/2021/sponsor", "Register" => "/2021/tickets", "Live Schedule!" => "https://live.juliacon.org", "Volunteer" => "/2021/volunteer", "Accessibility" => "/2021/accessibility", "FAQ" => "/2021/faq", "Upload" => "/2021/upload" ],
