@@ -7,74 +7,14 @@
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
           <li id="waving-flag">
-            <img src="/assets/shared/img/waving-flag.gif" style="position: relative; top: 10pt; height: 64pt; margin-top: -42pt;" alt="">
+            {{isdef top_navbar_custom_flag}}
+              <img src="{{ top_navbar_custom_flag }}" style="height: 32pt" alt="">
+            {{else}}
+              <img src="/assets/shared/img/waving-flag.gif" style="position: relative; top: 10pt; height: 64pt; margin-top: -42pt;" alt="">
+            {{end}}
           </li>
-          {{ispage /2023/*}}
-          <li class="nav-item">
-            <a class="nav-link" href="/2023/volunteer">Volunteer</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/2023/tickets">Tickets</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://pretalx.com/juliacon2023/schedule/">Full Schedule</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/2023/sponsor">Sponsor</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/2023/upload">Upload</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/2023/coc/">Code of Conduct</a>
-          </li>
-          {{end}}
-          {{ispage /2022/*}}
-          <li class="nav-item">
-            <a class="nav-link" href="/2022/tickets/">Register</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://pretalx.com/juliacon-2022/schedule/">Full Schedule</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://live.juliacon.org/agenda/">Watch Live</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/2022/volunteer">Volunteer</a>
-          </li>
-          <!-- <li class="nav-item">
-            <a class="nav-link" href="/2022/upload">Upload</a>
-          </li> -->
-          <li class="nav-item">
-            <a class="nav-link" href="/2022/meetups/">Local Meetups</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/2022/coc/">Code of Conduct</a>
-          </li>
-          {{end}}
-          {{ispage /2020/*}}
-          <li class="nav-item">
-            <a class="nav-link" href="/2020/sponsor/">Sponsor</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/2020/tickets/">Register</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://live.juliacon.org">Live Schedule!</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/2020/volunteer/">Volunteer</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/2020/accessibility/">Accessibility</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/2020/faq/">FAQ</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/2020/upload/">Upload</a>
-          </li>
-          {{end}}
+          <!-- Add custom entries to the navbar in the `config.md` file -->
+          {{navbar}}
           <li class="nav-item">
             <a class="nav-link" href="https://proceedings.juliacon.org/">Proceedings</a>
           </li>

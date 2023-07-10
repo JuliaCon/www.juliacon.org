@@ -2,10 +2,12 @@
 title = "JuliaCon 2020, Everywhere on Earth"
 
 # top title + subtitle
+insert_top_title = true
 top_title = "Juliacon 2020 was live and online"
 top_date = "Wednesday 29th to Friday 31st of July, 2020"
 top_subtitle = "(Workshops: 24th to 28th July)"
 top_link = "https://live.juliacon.org/agenda/2020-07-25"
+top_title_heading = "../assets/2020/img/world_768.png 768w, ../assets/2020/img/world_1400.png 1400w, ../assets/2020/img/world_2800.png 2800w"
 +++
 
 ~~~

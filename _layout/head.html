@@ -63,7 +63,6 @@
   </style>
   {{end}}
 
-
   <!-- misc scripts -->
   <script src="https://use.typekit.net/orl3mkt.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
@@ -95,8 +94,10 @@
 
   {{insert nav_year.html}}
 
-  {{ispage /2023/index.html /2022/index.html /2021/index.html /2020/index.html}}
-    {{insert title_year.html}}
+  {{isdef insert_top_title}}
+    {{if insert_top_title}}
+      {{insert title_year.html}}
+    {{end}}
   {{end}}
 
   {{insert nav.html}}
