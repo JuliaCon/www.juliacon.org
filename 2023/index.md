@@ -17,7 +17,7 @@ top_title_heading = "../assets/2023/img/boston_768.png 768w, ../assets/2023/img/
 \begin{box}{title="JuliaCon 2023", color="purple"}
 JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Cambridge, MA, USA. The conference will begin with a full day set of workshops on Tuesday, the 25th of July. Talks (and poster sessions) will be presented from Wednesday, the 26th, to Friday, the 28th of July. A hackathon for interested participants will be held on Saturday, the 29th of July.
 
-JuliaCon will be co-located with [JuMP-dev](https://jump.dev/meetings/jumpdev2023/), SciMLCon and [Alan Edelman's 60th Birthday Celebration (ASE60)](https://math.mit.edu/events/ase60celebration/)*
+JuliaCon will be co-located with [JuMP-dev](https://jump.dev/meetings/jumpdev2023/), SciMLCon and [Professor Alan Edelman's 60th Birthday Celebration (ASE60)](https://math.mit.edu/events/ase60celebration/)*
 \end{box}
 
 \begin{box}{title="In Person & Online Tickets", color="light-blue"}
