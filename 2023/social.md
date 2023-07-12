@@ -1,7 +1,7 @@
 # Social Events
 
 We have prepared a range of social activities for JuliaCon 2023. In addition to the
-banquet on Wednesday evening, this includes:
+posters and appetizers session on Wednesday evening, this includes:
 
  - Monday: Guided city tour
  - Tuesday: Organised small group cafe and bar visits.
