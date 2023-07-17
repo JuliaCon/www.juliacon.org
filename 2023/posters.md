@@ -104,6 +104,12 @@ Alex Friedrichsen
 E. Russell
 @@
 
+@@poster 
+[13. JuliaHealth's Tools for Patient-Level Predictions: Strengthening Capacity and Innovation](https://pretalx.com/juliacon2023/talk/QLUH7A/)
+
+Fareeda Abdelazeez
+@@
+
 ~~~
 <!-- Close the grid -->
 ~~~
