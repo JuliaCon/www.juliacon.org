@@ -56,7 +56,7 @@ header = Dict(
             "Food Options" => "/2023/food",
             "Social Events" => "/2023/social",
         ],
-        "Posters" => "/2023/posters/",
+        "Posters" => "/2023/posters",
         "Sponsor" => "/2023/sponsor",
         "Upload" => "/2023/upload",
         "Code of Conduct" => "/2023/coc"
