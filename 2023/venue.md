@@ -12,5 +12,19 @@ Below you can find different maps highlighting the rooms where the conference wi
 held.
 
 ~~~
-<img src="/assets/2023/img/map-32-1.svg" style="width: 640px; height: auto" title="MIT 32 - 1 & 2">
+<style>
+  .img-p {
+    margin-bottom: 5em;
+  }
+</style>
+
+<p class="img-p">
+  <img src="/assets/2023/img/map-32-1.svg" style="width: auto; height: 640px" title="MIT 32 - 1 & 2">
+</p>
+<p class="img-p">
+  <img src="/assets/2023/img/map-32-4.svg" style="width: auto; height: 640px" title="MIT 32 - 4">
+</p>
+<p class="img-p">
+  <img src="/assets/2023/img/map-26-100.svg" style="width: auto; height: 640px" title="MIT 26 - 100">
+</p>
 ~~~
