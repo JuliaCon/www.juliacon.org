@@ -139,7 +139,7 @@ JuliaCon will be co-located with [JuMP-dev](https://jump.dev/meetings/jumpdev202
 \end{centered}
 
 \begin{centered}{title="Local Partner", margin_bottom="3ex"}
-  \sponsor{name="NAWA", link="https://postmates.com", img="/assets/2023/img/sponsors/PM_horz.png", level=4}
+  \sponsor{name="Postmates", link="https://postmates.com", img="/assets/2023/img/sponsors/postmates-logo.svg", level=4}
 \end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
