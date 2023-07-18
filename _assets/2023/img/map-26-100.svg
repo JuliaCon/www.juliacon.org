@@ -12,8 +12,10 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs5355">
+  <defs id="defs5355">
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Atkinson Hyperlegible");
+    </style>
     <marker
        style="overflow:visible"
        id="DotM"
