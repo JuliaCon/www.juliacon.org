@@ -15,7 +15,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
      id="namedview343"
      pagecolor="#ffffff"
      bordercolor="#999999"
@@ -39,8 +40,12 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#d1d1d1" /><defs
-     id="defs140"><marker
+     inkscape:deskcolor="#d1d1d1" />
+  <defs id="defs140">
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Atkinson Hyperlegible");
+    </style>
+    <marker
        style="overflow:visible"
        id="DotM"
        refX="0"
