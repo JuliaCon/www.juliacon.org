@@ -138,6 +138,10 @@ JuliaCon will be co-located with [JuMP-dev](https://jump.dev/meetings/jumpdev202
   \sponsor{name="NAWA", link="https://nawa.gov.pl/en", img="/assets/2023/img/sponsors/nawa-logo.png", level=4}
 \end{centered}
 
+\begin{centered}{title="Local Partner", margin_bottom="3ex"}
+  \sponsor{name="NAWA", link="https://postmates.com", img="/assets/2023/img/sponsors/PM-horz.png", level=4}
+\end{centered}
+
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
 \end{centered}
