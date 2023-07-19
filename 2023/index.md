@@ -132,6 +132,7 @@ JuliaCon will be co-located with [JuMP-dev](https://jump.dev/meetings/jumpdev202
   \sponsor{name="Beacon Biosignals", link="https://beacon.bio", img="/assets/2023/img/sponsors/beacon-logo.svg", level=4}
   \sponsor{name="MIT CSAIL", link="https://www.csail.mit.edu", img="/assets/2023/img/sponsors/mit-csail-logo.svg", level=4}
   \sponsor{name="Boeing", link="https://www.boeing.com", img="/assets/2023/img/sponsors/boeing-logo.svg", level=4}
+  \sponsor{name="Jeffrey Sarnoff", link="https://github.com/JeffreySarnoff", img="/assets/2023/img/sponsors/sarnoff.png", level=4}
 \end{centered}
 
 \begin{centered}{title="Academic Partners", margin_bottom="3ex"}
