@@ -89,7 +89,7 @@ end
 
 # Generates a sub-menu with title -> [ subtitle -> url, ... ] structure
 function navbar_entry(io, title::String, subentries::Vector{Pair{String, String}})
-  write(io, """<li class="nav-item-dropdown"><a class="nav-link" href="#">$title</a><div class="dropdown-content">""")
+  write(io, """<li class="nav-item-dropdown"><a class="nav-link" href="javascript:void(0)">$title</a><div class="dropdown-content">""")
   for (subtitle, link) in subentries
     write(io, """<a href="$link">$subtitle</a>""")
   end
