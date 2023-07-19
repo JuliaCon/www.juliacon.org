@@ -1,11 +1,11 @@
 # Upload your files
 
-Please upload your talk vide for your accepted online talk.
+Please upload your talk video for your accepted online talk.
 Lightning talks should be less than 8 minutes long, and full talks should be less than 25 minutes.
 
 Please upload the content by the 23th of June 2023 (Anywhere on Earth).
 
-If you need to re-upload, please either use the same file name (it will override the first upload) or upload a second time and name sure the file name clearly states it is the second version. 
+If you need to re-upload, please either use the same file name (it will override the first upload) or upload a second time and make sure the file name clearly states it is the second version. 
 
 ~~~
 <div id="upload-container">
