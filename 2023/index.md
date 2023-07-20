@@ -125,6 +125,7 @@ JuliaCon will be co-located with [JuMP-dev](https://jump.dev/meetings/jumpdev202
   \sponsor{name="Pumas AI", link="https://pumas.ai", img="/assets/2023/img/sponsors/pumas-ai-logo.png", level=3}
   \sponsor{name="QuEra Computing", link="https://www.quera-computing.com/", img="/assets/2023/img/sponsors/quera-logo.png", level=3}
   \sponsor{name="Relational AI", link="https://relational.ai", img="/assets/2023/img/sponsors/rai-logo.svg", level=3}
+  \sponsor{name="Jeffrey Sarnoff", link="https://github.com/JeffreySarnoff", img="/assets/2023/img/sponsors/sarnoff.png", level=3}
 \end{centered}
 
 \begin{centered}{title="Bronze", margin_bottom="3ex"}
@@ -132,7 +133,6 @@ JuliaCon will be co-located with [JuMP-dev](https://jump.dev/meetings/jumpdev202
   \sponsor{name="Beacon Biosignals", link="https://beacon.bio", img="/assets/2023/img/sponsors/beacon-logo.svg", level=4}
   \sponsor{name="MIT CSAIL", link="https://www.csail.mit.edu", img="/assets/2023/img/sponsors/mit-csail-logo.svg", level=4}
   \sponsor{name="Boeing", link="https://www.boeing.com", img="/assets/2023/img/sponsors/boeing-logo.svg", level=4}
-  \sponsor{name="Jeffrey Sarnoff", link="https://github.com/JeffreySarnoff", img="/assets/2023/img/sponsors/sarnoff.png", level=4}
 \end{centered}
 
 \begin{centered}{title="Academic Partners", margin_bottom="3ex"}
