@@ -14,15 +14,26 @@ top_title_heading = "../assets/2023/img/boston_768.png 768w, ../assets/2023/img/
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
 
+
+
+
 \begin{box}{title="JuliaCon 2023", color="purple"}
 JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Cambridge, MA, USA. The conference will begin with a full day set of workshops on Tuesday, the 25th of July. Talks (and poster sessions) will be presented from Wednesday, the 26th, to Friday, the 28th of July. A hackathon for interested participants will be held on Saturday, the 29th of July.
 
 JuliaCon will be co-located with [JuMP-dev](https://jump.dev/meetings/jumpdev2023/), SciMLCon and [Professor Alan Edelman's 60th Birthday Celebration (ASE60)](https://math.mit.edu/events/ase60celebration/)*
 \end{box}
 
+\begin{box}{Title = "Welcome to JuliaCon!", color="purple"}
+Attendees, welcome to Cambridge! Note that the registration desk for the conference will open on Tuesday on the ground floor of the Stata Center, right next to the Forbes family cafe. Just enter the Stata Centre from any entrance and walk towards the centre, and you'll be able to find it. 
+
+Also, remember that you can get to MIT for free from the airport. Just take the SL1 bus from the airport, get off at South Station and take the red line towards Alewife. Get off at Kendall/MIT. 
+\end{box}
+
 \begin{box}{title="In Person & Online Tickets", color="light-blue"}
   Ticket sales are now live! [Order yours](/2023/tickets/) today!
 \end{box}
+
+
 
 \begin{box}{title="Keynote Speakers", color="red"}
 
