@@ -23,7 +23,7 @@ JuliaCon 2023 will be in-person at the Massachusetts Institute of Technology, Ca
 JuliaCon will be co-located with [JuMP-dev](https://jump.dev/meetings/jumpdev2023/), SciMLCon and [Professor Alan Edelman's 60th Birthday Celebration (ASE60)](https://math.mit.edu/events/ase60celebration/)*
 \end{box}
 
-\begin{box}{Title = "Welcome to JuliaCon!", color="purple"}
+\begin{box}{title = "Welcome to JuliaCon!", color="purple"}
 Attendees, welcome to Cambridge! Note that the registration desk for the conference will open on Tuesday on the ground floor of the Stata Center, right next to the Forbes family cafe. Just enter the Stata Centre from any entrance and walk towards the centre, and you'll be able to find it. 
 
 Also, remember that you can get to MIT for free from the airport. Just take the SL1 bus from the airport, get off at South Station and take the red line towards Alewife. Get off at Kendall/MIT. 
