@@ -12,19 +12,9 @@ Below you can find different maps highlighting the rooms where the conference wi
 held.
 
 ~~~
-<p class="img-p" style="margin-bottom: 5ex">
-  <object data="/assets/2023/img/map-32-1.svg" type="image/svg+xml" width="auto" height="640px">
-    <img src="/assets/2023/img/map-32-1.svg" title="MIT 32 - 1 & 2">
-  </object>
-</p>
-<p class="img-p" style="margin-bottom: 5ex">
-  <object data="/assets/2023/img/map-32-4.svg" type="image/svg+xml" width="auto" height="640px">
-    <img src="/assets/2023/img/map-32-4.svg" title="MIT 32 - 4">
-  </object>
-</p>
 <p class="img-p">
-  <object data="/assets/2023/img/map-26-100.svg" type="image/svg+xml" width="auto" height="640px">
-    <img src="/assets/2023/img/map-26-100.svg" title="MIT 26 - 100">
+  <object data="/assets/2023/img/maps.svg" type="image/svg+xml" width="100%" height="auto">
+    <img src="/assets/2023/img/maps.svg" title="JuliaCon 2023 Maps">
   </object>
 </p>
 ~~~
