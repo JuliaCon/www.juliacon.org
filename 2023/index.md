@@ -27,6 +27,8 @@ JuliaCon will be co-located with [JuMP-dev](https://jump.dev/meetings/jumpdev202
 Attendees, welcome to Cambridge! Note that the registration desk for the conference will open on Tuesday on the ground floor of the Stata Center, right next to the Forbes family cafe. Just enter the Stata Centre from any entrance and walk towards the centre, and you'll be able to find it. 
 
 Also, remember that you can get to MIT for free from the airport. Just take the SL1 bus from the airport, get off at South Station and take the red line towards Alewife. Get off at Kendall/MIT. 
+
+Online attendees, you can follow the livestreamed talks at live.juliacon.org from Wednesday through Friday. 
 \end{box}
 
 \begin{box}{title="In Person & Online Tickets", color="light-blue"}
