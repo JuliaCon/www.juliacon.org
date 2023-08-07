@@ -106,6 +106,8 @@ We invite you to be a part of JuliaCon 2023 as a valued sponsor. This conference
   \sponsor{name="PyData Eindhoven 2023", link="https://pydata.org/eindhoven2023/", img="/assets/local/eindhoven2023/img/sponsors/pydata-logo.png", level=4}
   \sponsor{name="JuliaLang Eindhoven Meetup", link="https://www.meetup.com/julialang-eindhoven/", img="/assets/local/eindhoven2023/img/sponsors/JuliaEindhovenLogo.png", level=4}
   \sponsor{name="PyData Eindhoven Meetup", link="https://www.meetup.com/PyData-Eindhoven/", img="/assets/local/eindhoven2023/img/sponsors/PyData Eindhoven Logo - 2.png", level=4}
+  \sponsor{name="AI Innovation Center Brainport", link="https://aiinnovationcenter.nl/?utm_medium=website&utm_source=pydatajulia", img="/assets/local/eindhoven2023/img/sponsors/aicenter.png", level=4}
+  \sponsor{name="Prodrive Technologies", link="https://prodrive-technologies.com/", img="/assets/local/eindhoven2023/img/sponsors/prodrive.png", level=4}
 \end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
