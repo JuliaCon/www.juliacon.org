@@ -3,12 +3,8 @@ author = "JuliaCon"
 
 prepath = ""        # remove this when deploying
 
-# Used for the metadata (open graph)
-year       = "2023"
-location   = "MIT, Cambridge"
-site_name  = "JuliaCon $year"
-site_descr = "JuliaCon $year, $location"
-site_url   = "https://juliacon.org/$year/"
+# Current year
+year = "2023"
 
 generate_rss = false
 mintoclevel = 2
@@ -17,59 +13,106 @@ content_tag = ""
 
 keep_path = ["2019/", "2018/", "2017/", "2016/", "2015/", "2014/"]
 
-# Used to generate the links in the navbar for various events
-# Each entry can be either "Link Title"::String => "Link Url"::String
-#                       or "Link Title"::String => "SubMenu"::Vector{Pair{String, String}}
-header = Dict(
-    "2020" => [
-        "Sponsor" => "/2020/sponsor",
-        "Register" => "/2020/tickets",
-        "Live Schedule!" => "https://live.juliacon.org",
-        "Volunteer" => "/2020/volunteer",
-        "Accessibility" => "/2020/accessibility",
-        "FAQ" => "/2020/faq",
-        "Upload" => "/2020/upload"
-    ],
-    "2021" => [
-        "Sponsor" => "/2021/sponsor",
-        "Register" => "/2021/tickets",
-        "Live Schedule!" => "https://live.juliacon.org",
-        "Volunteer" => "/2021/volunteer",
-        "Accessibility" => "/2021/accessibility",
-        "FAQ" => "/2021/faq",
-        "Upload" => "/2021/upload"
-    ],
-    "2022" => [
-        "Register" => "/2022/tickets/",
-        "Full Schedule" => "https://pretalx.com/juliacon-2022/schedule/",
-        "Watch Live" => "https://live.juliacon.org/agenda/",
-        "Volunteer" => "/2022/volunteer",
-        "Local Meetups" => "/2022/meetups",
-        "Code of Conduct" => "/2022/coc"
-    ],
-    "2023" => [
-        "Volunteer" => "/2023/volunteer",
-        "Tickets" => "/2023/tickets",
-        "Full Schedule" => "https://pretalx.com/juliacon2023/schedule/",
-        "Local" => [
-            "Venue" => "/2023/venue",
-            "Food Options" => "/2023/food",
-            "Social Events" => "/2023/social",
-        ],
-        "Posters" => "/2023/posters",
-        "Sponsor" => "/2023/sponsor",
-        "Upload" => "/2023/upload",
-        "Code of Conduct" => "/2023/coc"
-    ],
-    "local/eindhoven2023" => [
-        "Volunteer" => "/local/eindhoven2023/committee",
-        "Tickets" => "/local/eindhoven2023/tickets",
-        "Sponsor" => "/local/eindhoven2023/sponsor",
-        "Venue" => "/local/eindhoven2023/venue",
-        "Program" => "/local/eindhoven2023/program",
-        "Submit your talk" => "/local/eindhoven2023/cfp",
-        "Code of Conduct" => "/local/eindhoven2023/coc"
-    ]
+# Global configuration per event
+# The `alert` displays the message on the top of the website
+# For the `header` each entry can be either "Link Title"::String => "Link Url"::String
+#                                        or "Link Title"::String => "SubMenu"::Vector{Pair{String, String}}
+# Use `header_color` to adjust the color of the `header` for an event.
+# Use `main_heading_color` to adjust the color of the text in the main heading.
+# The `site_name`, `site_descr` and `site_rul` are used in open graph
+# The `site_thumbnail` is used in open graph to show an image in social medias, e.g. twitter or discord
+configuration = Dict(
+    "2020" => Dict(
+        "alert" => """Check out the JuliaCon 2020 <a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR">videos</a>""",
+        "site_name" => "JuliaCon 2020",
+        "site_descr" => "JuliaCon 2020",
+        "site_url" => "https://juliacon.org/2020/",
+        "main_heading_color" => "#4366d0",
+        "header_color" => "#9558b2",
+        "header" => [
+            "Sponsor" => "/2020/sponsor",
+            "Register" => "/2020/tickets",
+            "Live Schedule!" => "https://live.juliacon.org",
+            "Volunteer" => "/2020/volunteer",
+            "Accessibility" => "/2020/accessibility",
+            "FAQ" => "/2020/faq",
+            "Upload" => "/2020/upload"
+        ]
+    ),
+    "2021" => Dict(
+        "alert" => """<a href="/2021/prize/">Community Prize</a> | <a href="https://live.juliacon.org">Watch the talks</a> | <a href="https://discourse.julialang.org/t/juliacon-2021-t-shirts-and-stickers-on-sale-now/62060">Order a JuliaCon T-shirt</a>""",
+        "site_name" => "JuliaCon 2021",
+        "site_descr" => "JuliaCon 2021",
+        "site_url" => "https://juliacon.org/2021/",
+        "main_heading_color" => "black",
+        "header_color" => "#389826",
+        "header" => [
+            "Sponsor" => "/2021/sponsor",
+            "Register" => "/2021/tickets",
+            "Live Schedule!" => "https://live.juliacon.org",
+            "Volunteer" => "/2021/volunteer",
+            "Accessibility" => "/2021/accessibility",
+            "FAQ" => "/2021/faq",
+            "Upload" => "/2021/upload"
+        ]
+    ),
+    "2022" => Dict(
+        "alert" => """<a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6TRg6qJaBLJ-FRMi9Cp7gSX">Watch the recorded JuliaCon 2022 talks!</a>""",
+        "site_name" => "JuliaCon 2022",
+        "site_descr" => "JuliaCon 2022",
+        "site_url" => "https://juliacon.org/2022/",
+        "main_heading_color" => "black",
+        "header_color" => "#389826",
+        "header" => [
+            "Register" => "/2022/tickets/",
+            "Full Schedule" => "https://pretalx.com/juliacon-2022/schedule/",
+            "Watch Live" => "https://live.juliacon.org/agenda/",
+            "Volunteer" => "/2022/volunteer",
+            "Local Meetups" => "/2022/meetups",
+            "Code of Conduct" => "/2022/coc"
+        ]
+    ),
+    "2023" => Dict(
+        "alert" => """<a href="https://live.juliacon.org">Online attendees, follow the live stream here!</a>""",
+        "site_name" => "JuliaCon 2023",
+        "site_descr" => "JuliaCon 2023, MIT, Cambridge",
+        "site_url" => "https://juliacon.org/2023/",
+        "site_thumbnail" => "../assets/JuliaCon-2023-opengraph.png",
+        "main_heading_color" => "black",
+        "header_color" => "#389826",
+        "header" => [
+            "Volunteer" => "/2023/volunteer",
+            "Tickets" => "/2023/tickets",
+            "Full Schedule" => "https://pretalx.com/juliacon2023/schedule/",
+            "Local" => [
+                "Venue" => "/2023/venue",
+                "Food Options" => "/2023/food",
+                "Social Events" => "/2023/social",
+            ],
+            "Posters" => "/2023/posters",
+            "Sponsor" => "/2023/sponsor",
+            "Upload" => "/2023/upload",
+            "Code of Conduct" => "/2023/coc"
+        ]
+    ),
+    "local/eindhoven2023" => Dict(
+        "alert" => """Submit your talk now for <a href="https://eindhoven2023.pydata.org/juliacon/cfp">JuliaCon Local Eindhoven</a> or <a href="https://eindhoven2023.pydata.org/pydata/cfp">PyData Eindhoven</a>!""",
+        "site_name" => "JuliaCon Local Eindhoven 2023",
+        "site_descr" => "JuliaCon Local Eindhoven 2023, Eindhoven, High Tech Campus",
+        "site_url" => "https://juliacon.org/local/eindhoven2023/",
+        "site_thumbnail" => "../../assets/local/eindhoven2023/img/juliacon_local_eindhoven_logo.png",
+        "main_heading_color" => "3857bd",
+        "header_color" => "#389826",
+        "header" => Dict(
+            "Volunteer" => "/local/eindhoven2023/committee",
+            "Tickets" => "/local/eindhoven2023/tickets",
+            "Sponsor" => "/local/eindhoven2023/sponsor",
+            "Venue" => "/local/eindhoven2023/venue",
+            "Program" => "/local/eindhoven2023/program",
+            "Submit your talk" => "/local/eindhoven2023/cfp",
+            "Code of Conduct" => "/local/eindhoven2023/coc"
+        )
+    )
 )
 +++
 

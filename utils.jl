@@ -80,6 +80,26 @@ function hfun_previous_editions()
         """
 end
 
+function get_from_config(key; default = "")
+  rpath = locvar(:fd_rpath)::String
+  for (prefix, eventconfig) in pairs(locvar(:configuration))
+    if startswith(rpath, prefix) && haskey(eventconfig, key)
+      return eventconfig[key]
+    end
+  end
+  return default
+end
+
+
+# Configuration entries
+hfun_alert_text() = get_from_config("alert"; default = "")
+hfun_main_heading_color() = get_from_config("main_heading_color"; default = "black")
+hfun_navbar_color() = get_from_config("header_color"; default = "#389826")
+hfun_site_name() = get_from_config("site_name"; default = "JuliaCon")
+hfun_site_descr() = get_from_config("site_descr"; default = "JuliaCon")
+hfun_site_url() = get_from_config("site_url"; default = "https://juliacon.org/")
+hfun_site_thumbnail() = get_from_config("site_thumbnail"; default = "../assets/shared/img/JuliaConGitHubPreview.png")
+
 navbar_entry(io, entry::Pair) = navbar_entry(io, entry[1], entry[2])
 
 # Generates a single title -> url entry
@@ -98,13 +118,11 @@ end
 
 function hfun_navbar()
   io = IOBuffer()
-  header = locvar(:header)
-  entries = keys(header)
   rpath = locvar(:fd_rpath)::String
 
-  for (prefix, entries) in pairs(header)
-    if startswith(rpath, prefix)
-      foreach((entry) -> navbar_entry(io, entry), entries)
+  for (prefix, eventconfig) in pairs(locvar(:configuration))
+    if startswith(rpath, prefix) && haskey(eventconfig, "header")
+      foreach((entry) -> navbar_entry(io, entry), eventconfig["header"])
     end
   end
 
