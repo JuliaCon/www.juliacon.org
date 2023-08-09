@@ -17,7 +17,7 @@ For their relentless work on Pkg.jl including package extensions
 ### Yingbo Ma
 For his work on the SciML Ecosystem.
 
-![Yingbo Ma](/assets/2023/img/IMG_7359.jpeg)
+![Yingbo Ma](/assets/2023/img/prize/IMG_7359.jpeg)
 
 ## Awards Committee
 
