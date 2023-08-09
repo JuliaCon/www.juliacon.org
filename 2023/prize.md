@@ -12,7 +12,7 @@ For their work on Enzyme.jl
 ### Ian Butterworth and Kristoffer Carlsson
 For their relentless work on Pkg.jl including package extensions
 
-![Ian and Kristoffer](/assets/2023/img/IMG_7356.jpg)
+![Ian and Kristoffer](/assets/2023/img/prize/IMG-7356.jpg)
 
 ### Yingbo Ma
 For his work on the SciML Ecosystem.
