@@ -7,7 +7,7 @@ The Julia Community Prize 2023 nominations are closed and the winners announced!
 ### Valentin Churavy and William Moses
 For their work on Enzyme.jl
 
-![Valentin Churavy](/assets/2023/img/IMG_7354.jpeg)
+![Valentin Churavy](/assets/2023/img/prize/IMG_7354.jpeg)
 
 ### Ian Butterworth and Kristoffer Carlsson
 For their relentless work on Pkg.jl including package extensions
