@@ -7,10 +7,11 @@
 * Mark Kittisopikul, Finance [Twitter](https://twitter.com/markkitti)
 * Oscar Dowson, Program (JuMP)
 * Avik Sengupta, Finance [Twitter](https://twitter.com/aviksengupta)
+* Torkel Loman, Social [Github](https://github.com/TorkelE)
 * Kevin O'Brien, Media and Publicity [Twitter](https://twitter.com/dragonflystats)
 * Steven Kell, Media and Publicity [GitHub](https://github.com/StevenKell)
 * Carsten Bauer, Proceedings Chair [GitHub](https://github.com/carstenbauer)
-* Will Kimmerer, Local Organization [GitHub](https://github.com/Wimmerer)
+* Raye Kimmerer, Local Organization [GitHub](https://github.com/Wimmerer)
 * Pablo Zubieta, Web [Github](https://github.com/pabloferz)
 
 ## Proceedings Committee
