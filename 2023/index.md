@@ -14,28 +14,15 @@ top_title_heading = "../assets/2023/img/boston_768.png 768w, ../assets/2023/img/
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
 
-
-
-
 \begin{box}{title="JuliaCon 2023", color="purple"}
-JuliaCon 2023 will be in-person at the Ray and Maria Stata Centre at the Massachusetts Institute of Technology, Cambridge, MA, USA. The conference will begin with a full day set of workshops on Tuesday, the 25th of July. Talks (and poster sessions) will be presented from Wednesday, the 26th, to Friday, the 28th of July. A hackathon for interested participants will be held on Saturday, the 29th of July.
+JuliaCon 2023 was held in-person at the Ray and Maria Stata Centre at the Massachusetts Institute of Technology, Cambridge, MA, USA. The conference began with a full day set of workshops on Tuesday, the 25th of July. Talks (and poster sessions) were presented from Wednesday, the 26th, to Friday, the 28th of July. A hackathon for interested participants was held on Saturday, the 29th of July.
 
-JuliaCon will be co-located with [JuMP-dev](https://jump.dev/meetings/jumpdev2023/), SciMLCon and [Professor Alan Edelman's 60th Birthday Celebration (ASE60)](https://math.mit.edu/events/ase60celebration/)*
+JuliaCon was co-located with [JuMP-dev](https://jump.dev/meetings/jumpdev2023/), SciMLCon and [Professor Alan Edelman's 60th Birthday Celebration (ASE60)](https://math.mit.edu/events/ase60celebration/)*
 \end{box}
 
-\begin{box}{title = "Welcome to JuliaCon!", color="dark-blue"}
-Attendees, welcome to Cambridge! Note that the registration desk for the conference will open on Tuesday on the ground floor of the Stata Center, right next to the Forbes family cafe. Just enter the Stata Centre from any entrance and walk towards the centre, and you'll be able to find it. 
-
-Also, remember that you can get to MIT for free from the airport. Just take the SL1 bus from the airport, get off at South Station and take the red line towards Alewife. Get off at Kendall/MIT. 
-
-Online attendees, you can follow the livestreamed talks at live.juliacon.org from Wednesday through Friday. 
+\begin{box}{title="JuliaCon Local Eindhoven, 2023", color="light-blue"}
+  [JuliaCon Local Eindhoven](https://juliacon.org/local/eindhoven2023/) will be a one day conference on 1 December, 2023. Colocated with Pydata Eindhoven, it will be held in-person at the High Tech Campus Conference Center in Eindhoven in the Netherlands
 \end{box}
-
-\begin{box}{title="In Person & Online Tickets", color="light-blue"}
-  Ticket sales are now live! [Order yours](/2023/tickets/) today!
-\end{box}
-
-
 
 \begin{box}{title="Keynote Speakers", color="red"}
 
@@ -81,13 +68,8 @@ Online attendees, you can follow the livestreamed talks at live.juliacon.org fro
   ~~~
 \end{box}
 
-\begin{box}{title="Hotel Accommodations", color="green"}
-  To make your reservations with our room block, please visit the [Hyatt website](https://www.hyatt.com/en-US/group-booking/BOSRC/G-NUMF).
-  If you need additional assistance, please contact Hyatt at 877-803-7534.
-\end{box}
-
 \begin{box}{title="Julia Community Prize", color="red"}
-  The Julia Community Prize 2023 nominations are closed. [Check out the 2023 winners](/2023/prize/).
+  The Julia Community Prize 2023 has been announced. [Check out the 2023 winners](/2023/prize/).
 \end{box}
 
 \begin{box}{title="2022 videos", color="dark-purple"}
@@ -104,10 +86,6 @@ Online attendees, you can follow the livestreamed talks at live.juliacon.org fro
 
 \begin{box}{title="Committee", color="dark-blue"}
   JuliaCon is [organized by a committee](/2023/committee/) composed entirely of volunteers, and can be reached at \email with any questions or comments.
-\end{box}
-
-\begin{box}{title="Proceedings", color="green"}
-  JuliaCon is complemented by the [JuliaCon proceedings](https://proceedings.juliacon.org), an open journal with a formal peer review process for articles that supplement JuliaCon contributions.
 \end{box}
 
 
