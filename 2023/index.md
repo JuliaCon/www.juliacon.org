@@ -87,7 +87,7 @@ Online attendees, you can follow the livestreamed talks at live.juliacon.org fro
 \end{box}
 
 \begin{box}{title="Julia Community Prize", color="red"}
-  The Julia Community Prize 2023 nominations are now open. [Nominate someone today](https://forms.gle/4oUEh3H5BRJo45nn7)!
+  The Julia Community Prize 2023 nominations are closed. [Check out the 2023 winners](/2023/prize/).
 \end{box}
 
 \begin{box}{title="2022 videos", color="dark-purple"}
