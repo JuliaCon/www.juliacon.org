@@ -23,7 +23,7 @@ keep_path = ["2019/", "2018/", "2017/", "2016/", "2015/", "2014/"]
 # The `site_thumbnail` is used in open graph to show an image in social medias, e.g. twitter or discord
 configuration = Dict(
     "2020" => Dict(
-        "alert" => """Check out the JuliaCon 2020 <a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR">videos</a>""",
+        "alert" => """<a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR">Check out the JuliaCon 2020 videos</a>""",
         "site_name" => "JuliaCon 2020",
         "site_descr" => "JuliaCon 2020",
         "site_url" => "https://juliacon.org/2020/",
@@ -40,7 +40,7 @@ configuration = Dict(
         ]
     ),
     "2021" => Dict(
-        "alert" => """Check out the JuliaCon 2021 <a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6Q343_8sSq4f306VGLW4TLK"videos</a> | <a href="/2021/prize/">Community Prize</a>""",
+        "alert" => """<a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6Q343_8sSq4f306VGLW4TLK">Check out the JuliaCon 2021 videos</a> | <a href="/2021/prize/">Community Prize</a>""",
         "site_name" => "JuliaCon 2021",
         "site_descr" => "JuliaCon 2021",
         "site_url" => "https://juliacon.org/2021/",
@@ -57,7 +57,7 @@ configuration = Dict(
         ]
     ),
     "2022" => Dict(
-        "alert" => """<a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6TRg6qJaBLJ-FRMi9Cp7gSX">Watch the recorded JuliaCon 2022 talks!</a>""",
+        "alert" => """<a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6TRg6qJaBLJ-FRMi9Cp7gSX">Check out the JuliaCon 2022 videos</a>""",
         "site_name" => "JuliaCon 2022",
         "site_descr" => "JuliaCon 2022",
         "site_url" => "https://juliacon.org/2022/",
@@ -73,7 +73,7 @@ configuration = Dict(
         ]
     ),
     "2023" => Dict(
-        "alert" => """<a href="https://live.juliacon.org">Online attendees, follow the live stream here!</a>""",
+        "alert" => """<a href="https://youtube.com/playlist?list=PLP8iPy9hna6Q5tiN8gX1wMgBGdqRT_ZTE">Check out the JuliaCon 2023 videos</a>""",
         "site_name" => "JuliaCon 2023",
         "site_descr" => "JuliaCon 2023, MIT, Cambridge",
         "site_url" => "https://juliacon.org/2023/",
