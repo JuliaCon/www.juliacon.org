@@ -40,7 +40,7 @@ configuration = Dict(
         ]
     ),
     "2021" => Dict(
-        "alert" => """<a href="/2021/prize/">Community Prize</a> | <a href="https://live.juliacon.org">Watch the talks</a> | <a href="https://discourse.julialang.org/t/juliacon-2021-t-shirts-and-stickers-on-sale-now/62060">Order a JuliaCon T-shirt</a>""",
+        "alert" => """Check out the JuliaCon 2021 <a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6Q343_8sSq4f306VGLW4TLK"videos</a> | <a href="/2021/prize/">Community Prize</a>""",
         "site_name" => "JuliaCon 2021",
         "site_descr" => "JuliaCon 2021",
         "site_url" => "https://juliacon.org/2021/",
@@ -77,7 +77,6 @@ configuration = Dict(
         "site_name" => "JuliaCon 2023",
         "site_descr" => "JuliaCon 2023, MIT, Cambridge",
         "site_url" => "https://juliacon.org/2023/",
-        "site_thumbnail" => "../assets/JuliaCon-2023-opengraph.png",
         "main_heading_color" => "black",
         "header_color" => "#389826",
         "header" => [
