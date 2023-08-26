@@ -14,6 +14,9 @@ content_tag = ""
 keep_path = ["2019/", "2018/", "2017/", "2016/", "2015/", "2014/"]
 
 # Global configuration per event
+# The key in the configuration represents the link address, and might be different from the year, 
+# the `year` is storead as configuration entry instead
+# The `global = false` events are showns as `Local events in $year` at the top of the page for a given year.
 # The `alert` displays the message on the top of the website
 # For the `header` each entry can be either "Link Title"::String => "Link Url"::String
 #                                        or "Link Title"::String => "SubMenu"::Vector{Pair{String, String}}
@@ -23,6 +26,9 @@ keep_path = ["2019/", "2018/", "2017/", "2016/", "2015/", "2014/"]
 # The `site_thumbnail` is used in open graph to show an image in social medias, e.g. twitter or discord
 configuration = Dict(
     "2020" => Dict(
+        "global" => true,
+        "year" => 2020,
+        "location" => "Online",
         "alert" => """<a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR">Check out the JuliaCon 2020 videos</a>""",
         "site_name" => "JuliaCon 2020",
         "site_descr" => "JuliaCon 2020",
@@ -40,6 +46,9 @@ configuration = Dict(
         ]
     ),
     "2021" => Dict(
+        "global" => true,
+        "year" => 2021,
+        "location" => "Online",
         "alert" => """<a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6Q343_8sSq4f306VGLW4TLK">Check out the JuliaCon 2021 videos</a> | <a href="/2021/prize/">Community Prize</a>""",
         "site_name" => "JuliaCon 2021",
         "site_descr" => "JuliaCon 2021",
@@ -57,6 +66,9 @@ configuration = Dict(
         ]
     ),
     "2022" => Dict(
+        "global" => true,
+        "year" => 2022,
+        "location" => "Online",
         "alert" => """<a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6TRg6qJaBLJ-FRMi9Cp7gSX">Check out the JuliaCon 2022 videos</a>""",
         "site_name" => "JuliaCon 2022",
         "site_descr" => "JuliaCon 2022",
@@ -73,6 +85,9 @@ configuration = Dict(
         ]
     ),
     "2023" => Dict(
+        "global" => true,
+        "year" => 2023,
+        "location" => "Boston",
         "alert" => """<a href="https://youtube.com/playlist?list=PLP8iPy9hna6Q5tiN8gX1wMgBGdqRT_ZTE">Check out the JuliaCon 2023 videos</a>""",
         "site_name" => "JuliaCon 2023",
         "site_descr" => "JuliaCon 2023, MIT, Cambridge",
@@ -95,6 +110,9 @@ configuration = Dict(
         ]
     ),
     "local/eindhoven2023" => Dict(
+        "global" => false,
+        "year" => 2023,
+        "location" => "Eindhoven",
         "alert" => """Submit your talk now for <a href="https://eindhoven2023.pydata.org/juliacon/cfp">JuliaCon Local Eindhoven</a> or <a href="https://eindhoven2023.pydata.org/pydata/cfp">PyData Eindhoven</a>!""",
         "site_name" => "JuliaCon Local Eindhoven 2023",
         "site_descr" => "JuliaCon Local Eindhoven 2023, Eindhoven, High Tech Campus",
@@ -111,7 +129,7 @@ configuration = Dict(
             "Submit your talk" => "/local/eindhoven2023/cfp",
             "Code of Conduct" => "/local/eindhoven2023/coc"
         )
-    )
+    ),
 )
 +++
 

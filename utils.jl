@@ -48,7 +48,7 @@ function hfun_curyear()
     return "$(curyear())"
 end
 
-function hfun_previous_editions()
+function hfun_julia_editions()
     config_year = configyear()
     year = curyear()
    
@@ -66,16 +66,31 @@ function hfun_previous_editions()
         i == length(pre_years) || write(io_prev, "/")
     end
 
+    io_local = IOBuffer()
+    local_events = filter(pairs(locvar(:configuration))) do (prefix, eventconfig)
+        return !get(eventconfig, "global", true) && isequal(get(eventconfig, "year", ""), year)
+    end
+
+    for (i, (prefix, eventconfig)) in enumerate(local_events)
+        site_url = eventconfig["site_url"]
+        location = eventconfig["location"]
+        write(io_local, """<a href="$site_url">$location</a>""")
+        (length(local_events) === 1 || i == length(local_events)) || write(io_local, "/")
+    end
+
     post = String(take!(io_post))
     prev = String(take!(io_prev))
+    locevents = String(take!(io_local))
 
     html_post = ifelse(!isempty(post), """<span style="padding-left: 10px">Future: $post</span>""", "")
     html_prev = ifelse(!isempty(prev), """<span style="padding-left: 10px">Previously: $prev</span>""", "")
+    html_local = ifelse(!isempty(locevents), """<br><span style="padding-left: 10px">More Events in $year: $locevents</span>""", "")
 
     return """
         <div class="u-futura u-uppercase previous-editions-menu" style="margin:auto">
           $html_post
           $html_prev
+          $html_local
         </div>
         """
 end
