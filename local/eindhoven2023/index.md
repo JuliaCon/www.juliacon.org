@@ -5,7 +5,7 @@ title = "JuliaCon Local Eindhoven 2023"
 insert_top_title = true
 top_title = "JuliaCon Local Eindhoven 2023\n"
 top_date = "Eindhoven, Netherlands. December 1, 2023. \n"
-top_subtitle = "Co-host with PyData Eindhoven 2023"
+top_subtitle = """Co-host with <a style="color: #4366d0; text-decoration: underline" href="https://pydata.org/eindhoven2023/">PyData Eindhoven 2023</a>"""
 top_title_heading = "/assets/local/eindhoven2023/img/Eindhoven_Skyline.png"
 
 top_logo_custom="/assets/local/eindhoven2023/img/juliacon_local_eindhoven_logo.png"
