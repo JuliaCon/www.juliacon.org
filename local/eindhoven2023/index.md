@@ -16,6 +16,12 @@ footer_hide_signup_form = true
 footer_hide_social_media = true
 +++
 
+\begin{centered}{title="", margin_bottom="3ex"}
+~~~
+  <img width=100% src="/assets/local/eindhoven2023/img/julia-packages-in-region.png">
+~~~
+\end{centered}
+
 ~~~
 <div class="container">
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
@@ -66,7 +72,6 @@ We invite you to be a part of JuliaCon 2023 as a valued sponsor. This conference
   </div>
 </div>
 ~~~
-
 
 ~~~
 <div style="height:30px;display:block;"></div>
