@@ -37,9 +37,28 @@ We appreciate the time and effort our volunteers contribute, and we will ensure 
 
 # Join the JuliaCon Volunteer Team Today!
 Don't miss this chance to be part of JuliaCon Local Eindhoven 2023 success. Whether you're a seasoned Julia expert or just starting your journey, your contribution as a volunteer is highly valued. Help us make JuliaCon an exceptional event for the entire community.\
-To express your interest in volunteering, please reach us at the dedicated [Discord JuliaLang Eindhoven](https://discord.gg/UYnze8wcG). We can't wait to welcome you to the JuliaCon Local Eindhoven 2023 volunteer team and embark on this exciting journey together!
+To express your interest in volunteering, please reach us at the dedicated [Discord JuliaLang Eindhoven](https://discord.gg/UYnze8wcG) or join our [LinkedIn page](https://www.linkedin.com/company/julialang-eindhoven/). We can't wait to welcome you to the JuliaCon Local Eindhoven 2023 volunteer team and embark on this exciting journey together!
 
 # JuliaCon Local Eindhoven 2023 Organizing Committee
+
+~~~
+<div class="u-vskip-3"></div>
+<div class="header-talks avatar-talks">
+  <a href="https://www.linkedin.com/company/julialang-eindhoven/">
+    <img class="avatar-circle-talks" src="/assets/local/eindhoven2023/img/committee/JuliaLang.jpeg">
+  </a>
+  <div class="speaker-talks">
+    <a href="https://www.linkedin.com/company/julialang-eindhoven/" style="text-decoration:none;">JuliaLang Eindhoven <img height="15px" src="/assets/local/eindhoven2023/img/committee/LI-In-Bug.png"></a>
+    <p class="affiliation" style="font-weight: bold">
+        Embracing Change
+    </p>
+    <p class="affiliation">
+     This is a place where people who are passionate about Julia the programming language can come together and share experiences in the Eindhoven region. No sales, no marketing, no recruiting, just technical people sharing how they solve technical problems with Julia.
+    </p>
+  </div>
+</div>
+<div class="u-vskip-3"></div>
+~~~
 
 ~~~
 <div class="u-vskip-3"></div>
@@ -48,7 +67,7 @@ To express your interest in volunteering, please reach us at the dedicated [Disc
     <img class="avatar-circle-talks" src="/assets/local/eindhoven2023/img/committee/gareth.jpeg">
   </a>
   <div class="speaker-talks">
-    <a href="https://www.linkedin.com/in/g-thomas/" style="text-decoration:none;">Gareth Thomas</a>
+    <a href="https://www.linkedin.com/in/g-thomas/" style="text-decoration:none;">Gareth Thomas <img height="15px" src="/assets/local/eindhoven2023/img/committee/LI-In-Bug.png"></a>
     <p class="affiliation" style="font-weight: bold">
         Co-Founder at VersionBay
     </p>
@@ -67,7 +86,7 @@ To express your interest in volunteering, please reach us at the dedicated [Disc
     <img class="avatar-circle-talks" src="/assets/local/eindhoven2023/img/committee/matthijs.jpeg">
   </a>
   <div class="speaker-talks">
-    <a href="https://www.linkedin.com/in/matthijscox/" style="text-decoration:none;">Matthijs Cox</a>
+    <a href="https://www.linkedin.com/in/matthijscox/" style="text-decoration:none;">Matthijs Cox <img height="15px" src="/assets/local/eindhoven2023/img/committee/LI-In-Bug.png"></a>
     <p class="affiliation" style="font-weight: bold">
         Metrology Architect at ASML
     </p>
@@ -86,9 +105,9 @@ To express your interest in volunteering, please reach us at the dedicated [Disc
     <img class="avatar-circle-talks" src="/assets/local/eindhoven2023/img/committee/dmitry.jpeg">
   </a>
   <div class="speaker-talks">
-    <a href="https://www.linkedin.com/in/bvdmitri/" style="text-decoration:none;">Dmitry Bagaev</a>
+    <a href="https://www.linkedin.com/in/bvdmitri/" style="text-decoration:none;">Dmitry Bagaev <img height="15px" src="/assets/local/eindhoven2023/img/committee/LI-In-Bug.png"></a>
     <p class="affiliation" style="font-weight: bold">
-        PhD candidate
+        PhD candidate, co-founder at LazyDynamics
     </p>
     <p class="affiliation">
         My PhD journey has been one big Julia adventure! From unraveling the mysteries of algorithms to creating elegant code, Julia has been my trusty companion all the way.
@@ -106,7 +125,7 @@ To express your interest in volunteering, please reach us at the dedicated [Disc
     <img class="avatar-circle-talks" src="/assets/local/eindhoven2023/img/committee/jorge.jpeg">
   </a>
   <div class="speaker-talks">
-    <a href="https://www.linkedin.com/in/jorge-vieyra-76280542/" style="text-decoration:none;">Jorge Vieyra</a>
+    <a href="https://www.linkedin.com/in/jorge-vieyra-76280542/" style="text-decoration:none;">Jorge Vieyra <img height="15px" src="/assets/local/eindhoven2023/img/committee/LI-In-Bug.png"></a>
     <p class="affiliation" style="font-weight: bold">
         Senior Design Engineer at ASML
     </p>
@@ -125,7 +144,7 @@ To express your interest in volunteering, please reach us at the dedicated [Disc
     <img class="avatar-circle-talks" src="/assets/local/eindhoven2023/img/committee/tom.jpeg">
   </a>
   <div class="speaker-talks">
-    <a href="https://www.linkedin.com/in/tom-lemmens-285346185/" style="text-decoration:none;">Tom Lemmens</a>
+    <a href="https://www.linkedin.com/in/tom-lemmens-285346185/" style="text-decoration:none;">Tom Lemmens <img height="15px" src="/assets/local/eindhoven2023/img/committee/LI-In-Bug.png"></a>
     <p class="affiliation" style="font-weight: bold">
         Mathware engineer at Sioux Technologies
     </p>
@@ -141,7 +160,7 @@ To express your interest in volunteering, please reach us at the dedicated [Disc
     <img class="avatar-circle-talks" src="/assets/local/eindhoven2023/img/committee/nicholas.jpg">
   </a>
   <div class="speaker-talks">
-    <a href="https://www.linkedin.com/in/nicholasshindler/" style="text-decoration:none;">Nicholas (J.) Shindler</a>
+    <a href="https://www.linkedin.com/in/nicholasshindler/" style="text-decoration:none;">Nicholas (J.) Shindler <img height="15px" src="/assets/local/eindhoven2023/img/committee/LI-In-Bug.png"></a>
     <p class="affiliation" style="font-weight: bold">
         Software Developer
     </p>
@@ -149,8 +168,6 @@ To express your interest in volunteering, please reach us at the dedicated [Disc
 </div>
 <div class="u-vskip-3"></div>
 ~~~
-
-
 
 ~~~
 <div class="u-vskip-3"></div>
