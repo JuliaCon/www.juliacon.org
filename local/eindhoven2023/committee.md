@@ -37,7 +37,7 @@ We appreciate the time and effort our volunteers contribute, and we will ensure 
 
 # Join the JuliaCon Volunteer Team Today!
 Don't miss this chance to be part of JuliaCon Local Eindhoven 2023 success. Whether you're a seasoned Julia expert or just starting your journey, your contribution as a volunteer is highly valued. Help us make JuliaCon an exceptional event for the entire community.\
-To express your interest in volunteering, please reach us at the dedicated [Discord JuliaLang Eindhoven](https://discord.gg/UYnze8wcG) or join our [LinkedIn page](https://www.linkedin.com/company/julialang-eindhoven/). We can't wait to welcome you to the JuliaCon Local Eindhoven 2023 volunteer team and embark on this exciting journey together!
+To express your interest in volunteering, please reach us at the dedicated [Discord JuliaLang Eindhoven](https://discord.gg/hYeUhkPKfD) or join our [LinkedIn page](https://www.linkedin.com/company/julialang-eindhoven/). We can't wait to welcome you to the JuliaCon Local Eindhoven 2023 volunteer team and embark on this exciting journey together!
 
 # JuliaCon Local Eindhoven 2023 Organizing Committee
 
