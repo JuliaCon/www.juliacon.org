@@ -99,8 +99,8 @@ We invite you to be a part of JuliaCon 2023 as a valued sponsor. This conference
 \end{centered}
 
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
-  \sponsor{name="VersionBay", link="https://www.versionbay.com", img="/assets/local/eindhoven2023/img/sponsors/VersionBay-Logo.png", level=3}
-  \sponsor{name="LazyDynamics", link="https://lazydynamics.com/", img="/assets/local/eindhoven2023/img/sponsors/lazydynamics_logo.png", level=3}
+  \sponsor{name="VersionBay", link="https://www.versionbay.com", img="/assets/local/eindhoven2023/img/sponsors/VersionBay-Logo.png", level=2}
+  \sponsor{name="LazyDynamics", link="https://lazydynamics.com/", img="/assets/local/eindhoven2023/img/sponsors/lazydynamics_logo.png", level=2}
 \end{centered}
 
 \begin{centered}{title="Community Partners", margin_bottom="3ex"}
@@ -111,6 +111,7 @@ We invite you to be a part of JuliaCon 2023 as a valued sponsor. This conference
   \sponsor{name="Prodrive Technologies", link="https://prodrive-technologies.com/", img="/assets/local/eindhoven2023/img/sponsors/prodrive.png", level=4}
   \sponsor{name="HighTechXL", link="https://hightechxl.com/", img="/assets/local/eindhoven2023/img/sponsors/HTXL_logo_black.png", level=4}
   \sponsor{name="Julia Smooth Optimizers", link="https://jso.dev/", img="/assets/local/eindhoven2023/img/sponsors/jso-banner-transparent.png", level=4}
+  \sponsor{name="LUMO labs", link="https://lumolabs.io/", img="/assets/local/eindhoven2023/img/sponsors/lumolabs.png", level=4}
 \end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
