@@ -1,7 +1,7 @@
 # JuliaCon 2023 Organizing Committee
 
 * Ranjan Anantharaman, co-Chair [Twitter](https://twitter.com/ranjan_ananth)
-* Logan Kilpatrick, co-Chair [Twitter](https://twitter.com/OfficialLoganK)
+* Raye Kimmerer, co-Chair & Local Chair [Twitter](https://twitter.com/OfficialLoganK)
 * Katharine Hyatt, Program [Twitter](https://twitter.com/kslimes)
 * Michael Herbst, Program [Github](https://github.com/mfherbst)
 * Mark Kittisopikul, Finance [Twitter](https://twitter.com/markkitti)
@@ -11,7 +11,6 @@
 * Kevin O'Brien, Media and Publicity [Twitter](https://twitter.com/dragonflystats)
 * Steven Kell, Media and Publicity [GitHub](https://github.com/StevenKell)
 * Carsten Bauer, Proceedings Chair [GitHub](https://github.com/carstenbauer)
-* Raye Kimmerer, Local Organization [GitHub](https://github.com/Wimmerer)
 * Pablo Zubieta, Web [Github](https://github.com/pabloferz)
 
 ## Proceedings Committee
