@@ -27,6 +27,6 @@ Welcome to the registration page for JuliaCon 2023! We're thrilled to announce t
 
 # Contact the Organizers
 
-We're here to assist you every step of the way. If you have any questions, comments, or suggestions, please feel free to reach out to our dedicated team. You can email us [eindhoven@julialang.org](mailto: eindhoven@julialang.org) or join our [Discord](https://discord.gg/UYnze8wcG) server and we'll be happy to help.
+We're here to assist you every step of the way. If you have any questions, comments, or suggestions, please feel free to reach out to our dedicated team. You can email us [eindhoven@julialang.org](mailto: eindhoven@julialang.org) or join our [Discord](https://discord.gg/hYeUhkPKfD) server and we'll be happy to help.
 
 Thank you for your interest in JuliaCon Local Eindhoven 2023! We can't wait to welcome you to this incredible gathering of Julia enthusiasts. Get ready to immerse yourself in the world of Julia and be part of an unforgettable conference experience!

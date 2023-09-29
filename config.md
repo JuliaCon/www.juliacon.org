@@ -88,7 +88,7 @@ configuration = Dict(
         "global" => true,
         "year" => 2023,
         "location" => "Boston",
-        "alert" => """<a href="https://youtube.com/playlist?list=PLP8iPy9hna6Q5tiN8gX1wMgBGdqRT_ZTE">Check out the JuliaCon 2023 videos</a>""",
+        "alert" => """<a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC">Check out the JuliaCon 2023 videos</a>""",
         "site_name" => "JuliaCon 2023",
         "site_descr" => "JuliaCon 2023, MIT, Cambridge",
         "site_url" => "https://juliacon.org/2023/",

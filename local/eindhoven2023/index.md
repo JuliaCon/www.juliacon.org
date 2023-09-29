@@ -5,7 +5,7 @@ title = "JuliaCon Local Eindhoven 2023"
 insert_top_title = true
 top_title = "JuliaCon Local Eindhoven 2023\n"
 top_date = "Eindhoven, Netherlands. December 1, 2023. \n"
-top_subtitle = "Co-host with PyData Eindhoven 2023"
+top_subtitle = """Co-host with <a style="color: #4366d0; text-decoration: underline" href="https://pydata.org/eindhoven2023/">PyData Eindhoven 2023</a>"""
 top_title_heading = "/assets/local/eindhoven2023/img/Eindhoven_Skyline.png"
 
 top_logo_custom="/assets/local/eindhoven2023/img/juliacon_local_eindhoven_logo.png"
@@ -15,6 +15,12 @@ top_navbar_custom_flag="/assets/local/eindhoven2023/img/vibes.png"
 footer_hide_signup_form = true
 footer_hide_social_media = true
 +++
+
+\begin{centered}{title="", margin_bottom="3ex"}
+~~~
+  <img width=100% src="/assets/local/eindhoven2023/img/julia-packages-in-region.png">
+~~~
+\end{centered}
 
 ~~~
 <div class="container">
@@ -67,7 +73,6 @@ We invite you to be a part of JuliaCon 2023 as a valued sponsor. This conference
 </div>
 ~~~
 
-
 ~~~
 <div style="height:30px;display:block;"></div>
 <div class="container-fluid">
@@ -81,25 +86,21 @@ We invite you to be a part of JuliaCon 2023 as a valued sponsor. This conference
 \end{centered}
 
 \begin{centered}{title="Platinum", margin_bottom="3ex"}
-  
+  \sponsor{name="ASML", link="https://www.asml.com", img="/assets/local/eindhoven2023/img/sponsors/asml-logo.png", level=1}
+  \sponsor{name="JuliaHub", link="https://juliahub.com/", img="/assets/local/eindhoven2023/img/sponsors/JuliaHub_Logo.png", level=1}
 \end{centered}
 
 \begin{centered}{title="Gold", margin_bottom="3ex"}
-  <!-- \sponsor{name="JuliaHub", link="https://juliahub.com", img="/assets/2023/img/sponsors/juliahub-logo.svg", level=1}
-  \sponsor{name="ASML", link="https://www.asml.com", img="/assets/2023/img/sponsors/asml-logo.png", level=1} -->
+  \sponsor{name="Jolin.io", link="https://www.jolin.io", img="/assets/local/eindhoven2023/img/sponsors/jolin-logo.png", level=2}
 \end{centered}
 
 \begin{centered}{title="Silver", margin_bottom="3ex"}
-  <!-- \sponsor{name="Pumas AI", link="https://pumas.ai", img="/assets/2023/img/sponsors/pumas-ai-logo.png", level=3}
-  \sponsor{name="QuEra Computing", link="https://www.quera-computing.com/", img="/assets/2023/img/sponsors/quera-logo.png", level=3}
-  \sponsor{name="Relational AI", link="https://relational.ai", img="/assets/2023/img/sponsors/rai-logo.svg", level=3} -->
   
 \end{centered}
 
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
-  <!-- \sponsor{name="Jolin.io", link="https://www.jolin.io", img="/assets/2023/img/sponsors/jolin-logo.png", level=4}
-  \sponsor{name="Beacon Biosignals", link="https://beacon.bio", img="/assets/2023/img/sponsors/beacon-logo.svg", level=3} -->
-  \sponsor{name="VersionBay", link="https://www.versionbay.com", img="/assets/local/eindhoven2023/img/sponsors/VersionBay-Logo.png", level=3}
+  \sponsor{name="VersionBay", link="https://www.versionbay.com", img="/assets/local/eindhoven2023/img/sponsors/VersionBay-Logo.png", level=2}
+  \sponsor{name="LazyDynamics", link="https://lazydynamics.com/", img="/assets/local/eindhoven2023/img/sponsors/lazydynamics_logo.png", level=2}
 \end{centered}
 
 \begin{centered}{title="Community Partners", margin_bottom="3ex"}
@@ -108,6 +109,11 @@ We invite you to be a part of JuliaCon 2023 as a valued sponsor. This conference
   \sponsor{name="PyData Eindhoven Meetup", link="https://www.meetup.com/PyData-Eindhoven/", img="/assets/local/eindhoven2023/img/sponsors/PyData Eindhoven Logo - 2.png", level=4}
   \sponsor{name="AI Innovation Center Brainport", link="https://aiinnovationcenter.nl/?utm_medium=website&utm_source=pydatajulia", img="/assets/local/eindhoven2023/img/sponsors/aicenter.png", level=4}
   \sponsor{name="Prodrive Technologies", link="https://prodrive-technologies.com/", img="/assets/local/eindhoven2023/img/sponsors/prodrive.png", level=4}
+  \sponsor{name="HighTechXL", link="https://hightechxl.com/", img="/assets/local/eindhoven2023/img/sponsors/HTXL_logo_black.png", level=4}
+  \sponsor{name="Julia Smooth Optimizers", link="https://jso.dev/", img="/assets/local/eindhoven2023/img/sponsors/jso-banner-transparent.png", level=4}
+  \sponsor{name="LUMO labs", link="https://lumolabs.io/", img="/assets/local/eindhoven2023/img/sponsors/lumolabs.png", level=4}
+  \sponsor{name="The Gate", link="https://brainporteindhoven.com/the-gate/en/", img="/assets/local/eindhoven2023/img/sponsors/The-Gate-Logo.jpg", level=4}
+  \sponsor{name="KickstartAI", link="https://www.kickstart.ai/", img="/assets/local/eindhoven2023/img/sponsors/kickstartai.png", level=4}
 \end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
