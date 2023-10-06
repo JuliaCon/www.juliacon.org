@@ -88,10 +88,12 @@ We invite you to be a part of JuliaCon 2023 as a valued sponsor. This conference
 \begin{centered}{title="Platinum", margin_bottom="3ex"}
   \sponsor{name="ASML", link="https://www.asml.com", img="/assets/local/eindhoven2023/img/sponsors/asml-logo.png", level=1}
   \sponsor{name="JuliaHub", link="https://juliahub.com/", img="/assets/local/eindhoven2023/img/sponsors/JuliaHub_Logo.png", level=1}
+  \sponsor{name="Sioux Technologies", link="https://www.sioux.eu/", img="/assets/local/eindhoven2023/img/sponsors/Sioux-logo-corporate.png", level=1}
 \end{centered}
 
 \begin{centered}{title="Gold", margin_bottom="3ex"}
   \sponsor{name="Jolin.io", link="https://www.jolin.io", img="/assets/local/eindhoven2023/img/sponsors/jolin-logo.png", level=2}
+  \sponsor{name="MapXact", link="https://mapxact.com/", img="/assets/local/eindhoven2023/img/sponsors/mapxact-retina.png", level=2}
 \end{centered}
 
 \begin{centered}{title="Silver", margin_bottom="3ex"}
