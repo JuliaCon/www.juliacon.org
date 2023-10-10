@@ -43,7 +43,7 @@ We encourage talks that cater to different skill levels, from beginner-friendly 
 
 ## How to Submit
 
-Please use the [Talk Submission Form](https://eindhoven2023.pydata.org/juliacon/cfp) to submit your talk proposal. All talks should be 30 minutes long. Make sure to provide all the requested information accurately and completely. 
+Please use the [Talk Submission Form](https://eindhoven2023.pydata.org/juliacon/cfp) to submit your talk proposal. All talks should be 30 minutes long including a Q&A session (at about 5 minutes). Make sure to provide all the requested information accurately and completely. 
 
 - **Title**: Provide a clear and concise title for your talk.
 - **Abstract**: Write a brief abstract summarizing the content of your talk.
