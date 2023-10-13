@@ -1,8 +1,8 @@
-# Appel à communications JuliaCon 2022
+# Appel à communications JuliaCon 2024
 
 L'appel à communications se terminera le [TBD]
 
-Nous vous invitons à soumettre vos propositions d'interventions à JuliaCon 2022.
+Nous vous invitons à soumettre vos propositions d'interventions à JuliaCon 2024.
 
 La conférence offre typiquement un panel d'interventions de niveau débutant à confirmé, dans des domaines divers, assurées par des personnes issues du monde de la recherche, du développement logiciel et de l'industrie.
 Si vous avez travaillé sur Julia, JuliaCon est la conférence la plus adaptée pour diffuser vos travaux dans la communauté.
@@ -46,18 +46,18 @@ Cette année, vous pouvez choisir de donner votre intervention en anglais, une a
 Un minisymposium est une conférence dans la conférence, pour laquelle les personnes chargées de l'organisation peuvent planifier les intervenant·e·s, panels et discussions à leur guise.
 L'équipe d'organisation d'un minisymposium doit proposer un modérateur ou une modératrice pour la session.
 Un minisymposium occupe deux à trois heures selon les possibilités de la conférence.
-Note : contrairement à JuliaCon 2021, en 2022 les minisymposia auront lieu avant le début officiel de la conférence, avec les ateliers.
+Note : contrairement à JuliaCon 2023, en 2024 les minisymposia auront lieu avant le début officiel de la conférence, avec les ateliers.
 
 ### Ateliers
 
 Un atelier est une session interactive de deux à trois heures orientée vers la pratique, durant laquelle du code source est écrit et partagé en direct avec le public pour lui permettre de suivre facilement l'exposé.
 Les ateliers auront lieu en amont du début officiel de la conférence.
 Ils peuvent porter sur un package en particulier ou sur un domaine d'application.
-Note : 2022 est la première édition de JuliaCon proposant des ateliers non anglophones. Si vous souhaitez proposer un atelier dans une langue hors anglais, concevez-le de façon accessible pour un niveau débutant.
+Note : 2024 est la première édition de JuliaCon proposant des ateliers non anglophones. Si vous souhaitez proposer un atelier dans une langue hors anglais, concevez-le de façon accessible pour un niveau débutant.
 
 ### Posters virtuels
 
-JuliaCon 2022 ayant lieu complètement en ligne, les personnes présentant un poster n'ont besoin de l'imprimer sur papier.
+JuliaCon 2024 ayant lieu complètement en ligne, les personnes présentant un poster n'ont besoin de l'imprimer sur papier.
 À la place, il leur est demandé de fournir un enregistrement de trois minutes sur leur sujet.
 Ces contenus seront ensuite diffusés dans des salons de chat dédiés, où les participant·e·s pourront venir visionner les vidéos et discuter du sujet.
 ### "Qui se ressemble s'assemble" (_Birds of a Feather_)
@@ -93,7 +93,7 @@ il peut être préférable de trouver une plage horaire pratique pour l'audience
 
 ### Enregistrements et supports
 
-JuliaCon 2022 sera complètement en ligne, et pour faciliter l'organisation de la conférence, nous demandons que toutes les présentations soient pré-enregistrées avant la conférence.
+JuliaCon 2024 sera complètement en ligne, et pour faciliter l'organisation de la conférence, nous demandons que toutes les présentations soient pré-enregistrées avant la conférence.
 L'ensemble de ce contenu sera rendu public après la conférence. 
 Si, pour une raison quelconque, vous ne souhaitez pas que votre enregistrement soit diffusé après la conférence, contactez-nous sur juliacon@julialang.org.
 Nous vous demandons également de rendre vos documents et enregistrements accessibles sous une licence _Creative Commons (default: no commercial reuse)_ ou une autre license open source.
@@ -111,7 +111,7 @@ D'autres informations suivront.
 
 ### Inscription
 
-Les personnes qui interviennent doivent également s'inscrire pour participer à la conférence, qui sera en ligne et entièrement gratuite.
+Les personnes qui interviennent doivent également s'inscrire pour participer à la conférence.
 
 ### Nous contacter
 
@@ -123,7 +123,7 @@ JuliaCon s'engage à proposer une expérience positive pour toute personne parti
 Nous encourageons fortement les interactions respectueuses et prévenantes entre les personnes qui participent, et ne tolérerons aucune forme de harcèlement.
 Par exemple, les propos ou images à caractère sexuel ou offensant ne sont appropriés dans aucun des lieux virtuels et espaces de discussion, ni dans les sessions formelles, ni dans les moments d'échange entre les sessions.
 Les personnes ne respectant pas ces conventions pourront être sanctionnées ou expulsées de la conférence à la discrétion de l'équipe organisatrice.
-Notre politique anti-harcèlement peut être consultée ici : https://juliacon.org/2022/coc/.
+Notre politique anti-harcèlement peut être consultée ici : https://juliacon.org/2024/coc/.
 
 ## Annexes
 

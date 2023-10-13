@@ -1,8 +1,8 @@
-# JuliaCon2022 CFP (Call for Proposals) ¡en Español!
-* Esta convocatoria cierra el 2022-04-01 11:59 (UTC).*
+# JuliaCon 2024 CFP (Call for Proposals) ¡en Español!
+* Esta convocatoria cierra el 2024-04-01 11:59 (UTC).*
 *Este documento está disponible en francés, alemán, chino, ... (¿Falta su idioma? [Por favor mande un Pull Request](https://github.com/JuliaCon/www.juliacon.org/pulls))*
 
-Les invitamos a presentar una propuesta de plática en JuliaCon2022.
+Les invitamos a presentar una propuesta de plática en JuliaCon 2024.
 
 JuliaCon tradicionalmente ha presentado pláticas desde introductorias hasta avanzadas abarcando temas de todos los campos e involucrando desarrolladores e investigadores en la industria y la academia. 
 Si usted ha trabajado o trabaja actualmente en o con Julia, JuliaCon es un excelente foro para compartir su trabajo con la comunidad de Julia.
@@ -62,7 +62,7 @@ Si usted postula una propuesta de taller o de una sesión Birds-of-a-feather que
 
 ### Grabaciones y materiales
 
-JuliaCon 2022 será una conferencia online, y para facilitar la organización de la conferencia, le hemos pedido a los ponentes enviar una versión pre-grabada de su plática antes de la conferencia. Planeamos subir todo el material para que esté públicamente disponible después de la conferencia. Si por cualquier razón, usted prefiere que su video permanezca privado y no sea almacenado, por favor contáctenos en juliacon@julialang.org. Finalmente, le pedimos que sus materiales y grabación sean disponibles bajo una licencia de Creative Commons (por default sin uso comercial) u otra licencia de open source. Si usted quiere dar su plática en inglés y otro lenguaje, le pediremos que grabe 2 versiones de su plática,  una en en cada lenguaje.
+JuliaCon 2024 será una conferencia presencial, y para facilitar la organización de la conferencia, le hemos pedido a los ponentes enviar una versión pre-grabada de su plática antes de la conferencia. Planeamos subir todo el material para que esté públicamente disponible después de la conferencia. Si por cualquier razón, usted prefiere que su video permanezca privado y no sea almacenado, por favor contáctenos en juliacon@julialang.org. Finalmente, le pedimos que sus materiales y grabación sean disponibles bajo una licencia de Creative Commons (por default sin uso comercial) u otra licencia de open source. Si usted quiere dar su plática en inglés y otro lenguaje, le pediremos que grabe 2 versiones de su plática,  una en en cada lenguaje.
 
 ### Transcripciones
 
@@ -74,7 +74,7 @@ Este año le ofrecemos a los participantes la oportunidad de publicar su trabajo
 
 ### Registro de ponentes
 
-Se espera que los ponentes se registren para la conferencia. Dado que JuliaCon 2022 es totalmente virtual, el registro será gratis.
+Se espera que los ponentes se registren para la conferencia.
 
 ### Cómo contactarnos
 
@@ -82,7 +82,7 @@ Nos pueden contactar con dudas, comentarios o sugerencias en juliacon@julialang.
 
 ### Código de conducta para la Conferencia
 
-JuliaCon tiene un compromiso con ser una experiencia positiva de conferencia para todos sus asistentes, independientemente de su género, identidad o expresión de género, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, edad, religión, u origen nacional o étnico. Alentamos las interacciones respetuosas y consideradas entre asistentes y no toleramos el acoso de participantes en la conferencia en cualquiera de sus foros, incluidos pláticas formales y discusiones entre ellas. Los participantes que violen estos acuerdos serán sancionados o expulsados de la conferencia (sin reembolso) a la discreción de los organizadores de la conferencia. Nuestra política anti-acoso se encuentra [aquí](https://juliacon.org/2022/coc).
+JuliaCon tiene un compromiso con ser una experiencia positiva de conferencia para todos sus asistentes, independientemente de su género, identidad o expresión de género, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, edad, religión, u origen nacional o étnico. Alentamos las interacciones respetuosas y consideradas entre asistentes y no toleramos el acoso de participantes en la conferencia en cualquiera de sus foros, incluidos pláticas formales y discusiones entre ellas. Los participantes que violen estos acuerdos serán sancionados o expulsados de la conferencia (sin reembolso) a la discreción de los organizadores de la conferencia. Nuestra política anti-acoso se encuentra [aquí](https://juliacon.org/2024/coc).
 
 # Apéndice
 

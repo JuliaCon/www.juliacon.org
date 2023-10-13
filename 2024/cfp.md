@@ -1,1 +1,1 @@
-# JuliaCon 2023 CFP
+# JuliaCon 2024 CFP

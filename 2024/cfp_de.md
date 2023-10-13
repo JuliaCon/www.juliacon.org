@@ -1,7 +1,7 @@
-# JuliaCon 2022 CFP
+# JuliaCon 2024 CFP
 *Dieser Aufruf zur Einreichung von Konferenzvorschlägen wurde am 2021-04-01 11:59 (UTC) beendet.*  
 
-Wie jedes Jahr, laden wir Sie auch in diesem Jahr herzlich dazu ein Vortragsvorschläge für die JuliaCon 2022 einzureichen.
+Wie jedes Jahr, laden wir Sie auch in diesem Jahr herzlich dazu ein Vortragsvorschläge für die JuliaCon 2024 einzureichen.
 
 Die JuliaCon bietet traditionell eine Mischung an Vorträgen sowohl für Einsteiger:innen,
 als auch für Fortgeschrittene, mit Themen aus verschiedenen Fachrichtungen,
@@ -14,8 +14,9 @@ Vorjahresvorträge, sowie die entsprechenden Vortragsaufnahmen:
 ([2014](https://juliacon.org/2014),
 [2015](https://juliacon.org/2015), [2016](https://juliacon.org/2016),
 [2017](https://juliacon.org/2017), [2018](https://juliacon.org/2018),
-[2019](https://juliacon.org/2019), [2020](https://juliacon.org/2020) und
-[2021](https://juliacon.org/2021)).
+[2019](https://juliacon.org/2019), [2020](https://juliacon.org/2020),
+[2019](https://juliacon.org/2011), [2020](https://juliacon.org/2022) und
+[2021](https://juliacon.org/2023)).
 
 Wir sind an allen Vorträgen interessiert, die in irgendeiner Form
 mit Julia zu tun haben. Mögliche Themen könnten sein:
@@ -134,7 +135,7 @@ Mandarin abhalten möchten, geben Sie gerne an, dass dieser zu einem für den as
 Raum günstigen Zeitpunkt stattfinden sollte.
 
 ### Aufzeichnungen und Vortragsmaterialien
-Die JuliaCon 2022 wird eine Online-Konferenz sein. Um die Planung der
+Die JuliaCon 2024 wird eine Online-Konferenz sein. Um die Planung der
 Konferenz zu erleichtern, werden wir unsere Redner:innen bitten, eine aufgezeichnete
 Version ihres Vortrags vor der Konferenz einzureichen. Ebenfalls planen wir
 das gesamte aufgezeichnete Material nach der Konferenz öffentlich zugänglich zu
@@ -157,7 +158,7 @@ Teil der JuliaCon Proceedings zu veröffentlichen. Weitere Details werden folgen
 
 ### Registrierung für Vortragende
 Wir erwarten von unseren Vortragenden, dass sie sich für die Konferenz registrieren. Da
-die JuliaCon 2022 eine reine Online-Konferenz ist, wird die Anmeldung kostenlos sein.
+die JuliaCon 2024 eine reine Online-Konferenz ist, wird die Anmeldung kostenlos sein.
 
 ### Kontakt
 Sie können uns bei allen Fragen und Anliegen unter juliacon@julialang.org erreichen.
@@ -175,7 +176,7 @@ Plauschen zwischen den Sitzungen. Konferenzteilnehmer:innen, die gegen diese
 Standards verstoßen, können nach Ermessen der Konferenzorganisator:innen mit
 Sanktionen belegt oder von der Konferenz ausgeschlossen werden (ohne
 Rückerstattung). Unseren Verhaltenskodex finden Sie
-[hier](https://juliacon.org/2022/coc) (auf Englisch).
+[hier](https://juliacon.org/2024/coc) (auf Englisch).
 
 # Anhang
 
@@ -198,7 +199,7 @@ Autoren in einer Weise mit dem:der Gutachter:in verbunden sind,
 darstellt oder als solchen wahrgenommen werden könnte" (PNAS-Richtlinien oben).
 
 ## Verhaltensregeln
-Die Begutachtenden verpflichten sich, den [Verhaltenskodex](https://juliacon.org/2022/coc)
+Die Begutachtenden verpflichten sich, den [Verhaltenskodex](https://juliacon.org/2024/coc)
 (auf Englisch) der Konferenz bei der Bewertung und bei allen Mitteilungen
 während des Begutachtungsprozesses zu lesen und einzuhalten.
 
@@ -218,7 +219,7 @@ Die Nichteinhaltung dieser Kriterien führt zu einer niedrigeren Bewertung des B
 
 3. Das Thema sollte für die JuliaCon und die Juliagemeinschaft interessant sein.
    Beispielsweise kommen die Themen
-   des [Call for Proposals](https://pretalx.com/juliacon2022/cfp) in Frage,
+   des [Call for Proposals](https://pretalx.com/juliacon2024/cfp) in Frage,
    welche sind:
      - Biologie, Bioinformatik, Gesundheitswesen, Medizin, Medizinsoziologie
      - Datenanalyse und Datenvisualisierung
