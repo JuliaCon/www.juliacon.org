@@ -27,11 +27,11 @@ If you think you may require a closer parking space or accommodations, please em
 ### Accommodation Options: 
 
 - Hotel The Match [2.9km from High Tech Campus]
-- Kleine berg 43, 5611 JS Eindhoven
+  Kleine berg 43, 5611 JS Eindhoven
 - Hotel la Reine [3km from High Tech Campus]
-- Wilhelminaplein 3, 5611 HE Eindhoven
+  Wilhelminaplein 3, 5611 HE Eindhoven
 - Boutique Hotel Lumière [3.2km from High Tech Campus]
-- Hooghuisstraat 31A, 5611 GS Eindhoven
+  Hooghuisstraat 31A, 5611 GS Eindhoven
 
 ### Transportation:
 Visitors can enter the street name ‘High Tech Campus’ or the relevant postcode into their navigation system.
