@@ -4,7 +4,7 @@ author = "JuliaCon"
 prepath = ""        # remove this when deploying
 
 # Current year
-year = "2023"
+year = "2024"
 
 generate_rss = false
 mintoclevel = 2
@@ -133,8 +133,8 @@ configuration = Dict(
     "2024" => Dict(
         "global" => true,
         "year" => 2024,
-        "location" => "Europe",
-        "alert" => """Submit you talk now for JuliaCon 2024</a>""",
+        "location" => "Europe (Venue TBD)",
+        "alert" => """Stay tuned.</a>""",
         "site_name" => "JuliaCon 2024",
         "site_descr" => "JuliaCon 2024, Europe",
         "site_url" => "https://juliacon.org/2024/",
@@ -142,9 +142,6 @@ configuration = Dict(
         "header_color" => "#389826",
         "header" => [
             "Volunteer" => "/2024/volunteer",
-            "Full Schedule" => "https://pretalx.com/juliacon2024/schedule/",
-            "Sponsor" => "/2024/sponsor",
-            "Upload" => "/2024/upload",
             "Code of Conduct" => "/2024/coc"
         ]
     ),

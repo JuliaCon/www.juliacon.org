@@ -6,7 +6,7 @@ insert_top_title = true
 top_title = "JuliaCon 2024\n"
 top_date = "Europe, 2024. \n"
 top_subtitle = "Co-Located with JuMP-dev and SciMLCon"
-top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2024/img/world_2800.png 2800w"
+top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
 ~~~
@@ -26,7 +26,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 ~~~
 
 \begin{box}{title="Venue", color="light-red"}
-  The conference will be in Europe.
+  The conference venue is still TBD. Stay tuned. 
 
   ~~~
   <!--iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.092680326567!2d-71.09313752317132!3d42.36186407119264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370a95cb1e19b%3A0xa9dc1ab3c8bedd1e!2sRay%20and%20Maria%20Stata%20Center!5e0!3m2!1sen!2sus!4v1683675736967!5m2!1sen!2sus" width="100%" height="320" frameborder="0" style="border:0" allowfullscreen></iframe-->
