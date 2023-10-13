@@ -130,6 +130,24 @@ configuration = Dict(
             "Code of Conduct" => "/local/eindhoven2023/coc"
         )
     ),
+    "2024" => Dict(
+        "global" => true,
+        "year" => 2024,
+        "location" => "Eindhoven",
+        "alert" => """Submit you talk now for JuliaCon 2024</a>""",
+        "site_name" => "JuliaCon 2024",
+        "site_descr" => "JuliaCon 2024, Eindhoven",
+        "site_url" => "https://juliacon.org/2024/",
+        "main_heading_color" => "black",
+        "header_color" => "#389826",
+        "header" => [
+            "Volunteer" => "/2024/volunteer",
+            "Full Schedule" => "https://pretalx.com/juliacon2024/schedule/",
+            "Sponsor" => "/2024/sponsor",
+            "Upload" => "/2024/upload",
+            "Code of Conduct" => "/2024/coc"
+        ]
+    ),
 )
 +++
 
