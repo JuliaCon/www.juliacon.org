@@ -116,6 +116,7 @@ We invite you to be a part of JuliaCon 2023 as a valued sponsor. This conference
   \sponsor{name="LUMO labs", link="https://lumolabs.io/", img="/assets/local/eindhoven2023/img/sponsors/lumolabs.png", level=4}
   \sponsor{name="The Gate", link="https://brainporteindhoven.com/the-gate/en/", img="/assets/local/eindhoven2023/img/sponsors/The-Gate-Logo.jpg", level=4}
   \sponsor{name="KickstartAI", link="https://www.kickstart.ai/", img="/assets/local/eindhoven2023/img/sponsors/kickstartai.png", level=4}
+  \sponsor{name="AI-hub Brainport", link="https://brainporteindhoven.com/en/business-and-innovation/technologies/artificial-intelligence/ai-hub-brainport", img="/assets/local/eindhoven2023/img/sponsors/AI-hub-logo.jpg", level=4}
 \end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
