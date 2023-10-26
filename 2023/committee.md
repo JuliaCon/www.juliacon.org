@@ -12,7 +12,8 @@
 * Steven Kell, Media and Publicity [GitHub](https://github.com/StevenKell)
 * Carsten Bauer, Proceedings Chair [GitHub](https://github.com/carstenbauer)
 * Pablo Zubieta, Web [Github](https://github.com/pabloferz)
-
+* Flemming Holtorf, Accessibility [Github](https://github.com/fholtorf)
+ 
 ## Proceedings Committee
 
 * Carsten Bauer
