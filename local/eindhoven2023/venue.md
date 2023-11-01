@@ -47,3 +47,25 @@ From NS Station Eindhoven, you can take the direct bus connection line 407 (or 4
 - [Bus Schedule](https://9292.nl/en)
 - [Train Schedule](https://www.ns.nl/en)
 - [Bike Rentals](https://www.ns.nl/en/door-to-door/ov-fiets)
+
+## Childcare 
+
+In the area provided, De Blokkendoos will set up a comprehensive childcare program for
+babies and toddlers, which included: cribs, play pens and adapted furniture. The area will be 
+transformed into a cozy playroom with lots of colorful toys, tricycles, toy cars, blocks, puzzles,
+books for story time and a doll area where the child can pretend to play mom and dad.
+
+In addition the arts & crafts with the youngest children such as:
+- Drawing, cutting and pasting, colouring
+- Create your own party hat
+- Balloon decorating
+- And much more!
+
+For the older children De Blokkendoos will set up arts & crafts activities.
+You can email us [eindhoven@julialang.org](mailto: eindhoven@julialang.org) or 
+join our [Discord](https://discord.gg/hYeUhkPKfD) server and we'll be happy to answer 
+your further questions about the provided childcare.
+
+### Relevant links
+
+- [De BlokkenDoos](https://www.blokkendoos.nl)

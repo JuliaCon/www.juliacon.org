@@ -25,6 +25,10 @@ Welcome to the registration page for JuliaCon 2023! We're thrilled to announce t
 <a class="btn" href="https://www.tickettailor.com/checkout/view-event/id/2695671/chk/d255/?modal_widget=true&widget=true">Buy Tickets</a>
 ~~~
 
+# Childcare 
+
+In the area provided, a comprehensive [childcare program](/local/eindhoven2023/venue/) will be in place.
+
 # Contact the Organizers
 
 We're here to assist you every step of the way. If you have any questions, comments, or suggestions, please feel free to reach out to our dedicated team. You can email us [eindhoven@julialang.org](mailto: eindhoven@julialang.org) or join our [Discord](https://discord.gg/hYeUhkPKfD) server and we'll be happy to help.
