@@ -50,7 +50,7 @@ Whether you're a seasoned programmer, a curious beginner, or a visionary researc
 
 \begin{box}{title="Venue", color="red"}
 ~~~
-JuliaCon Local Eindhoven will be hosted at <a href="/local/eindhoven2023/venue/">High Tech Campus in Eindhoven</a>. There are over 200 companies located on one square km. These technical companies employ over 12,000 engineers and scientists. It is 20m by bus from the Eindhoven Station with FREE parking.
+JuliaCon Local Eindhoven will be hosted at <a href="/local/eindhoven2023/venue/">High Tech Campus in Eindhoven</a>. There are over 200 companies located on one square km. These technical companies employ over 12,000 engineers and scientists. It is 20m by bus from the Eindhoven Station with FREE parking. In the area provided, a comprehensive <a href="/local/eindhoven2023/venue/">childcare program</a> will be in place.
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2488.585148057453!2d5.453350188854983!3d51.41067690000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d9b8ce4e1b1d%3A0x496bf1ef05c6cf3!2sDe%20Strip!5e0!3m2!1sen!2snl!4v1688200981116!5m2!1sen!2snl" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ~~~
 \end{box}
@@ -117,6 +117,7 @@ We invite you to be a part of JuliaCon 2023 as a valued sponsor. This conference
   \sponsor{name="The Gate", link="https://brainporteindhoven.com/the-gate/en/", img="/assets/local/eindhoven2023/img/sponsors/The-Gate-Logo.jpg", level=4}
   \sponsor{name="KickstartAI", link="https://www.kickstart.ai/", img="/assets/local/eindhoven2023/img/sponsors/kickstartai.png", level=4}
   \sponsor{name="AI-hub Brainport", link="https://brainporteindhoven.com/en/business-and-innovation/technologies/artificial-intelligence/ai-hub-brainport", img="/assets/local/eindhoven2023/img/sponsors/AI-hub-logo.jpg", level=4}
+  \sponsor{name="DeBlokkenDoos", link="https://www.blokkendoos.nl/", img="/assets/local/eindhoven2023/img/sponsors/LogoDeBlokkendoos.jpg", level=4}
 \end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
