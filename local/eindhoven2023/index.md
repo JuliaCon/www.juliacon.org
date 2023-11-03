@@ -35,14 +35,14 @@ JuliaCon 2023 will be in-person at the [High Tech Campus Conference Center](http
 At our co-located event with [PyData Eindhoven 2023](https://pydata.org/eindhoven2023/), which occurs on **November 30**, you'll experience the unique convergence of two vibrant communities, amplifying the possibilities for cross-pollination and collaboration. 
 \end{box}
 
-\begin{box}{title="Pluto Workshop", color="purple"}
+<!-- \begin{box}{title="Pluto Workshop", color="purple"}
 ~~~
   <img width=100% src="/assets/local/eindhoven2023/img/pluto.png">
 ~~~
 We have something extraordinary in store for you at the upcoming PyData & JuliaCon 2023 conference in Eindhoven. Get ready for the Pluto Workshop, which will take place a day before the JuliaCon Local conference!
 [Stay tuned](/local/eindhoven2023/pluto/) for more information, and don't miss out on this cosmic opportunity to learn, grow, and have fun! 
 Secure your spot at the Pluto Workshop, where the possibilities are as limitless as the universe itself 🎈
-\end{box}
+\end{box} -->
 
 \begin{box}{title="Tickets", color="dark-green"}
 **Secure early bird tickets!**
