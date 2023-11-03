@@ -4,8 +4,8 @@ title = "JuliaCon 2024"
 # top title + subtitle
 insert_top_title = true
 top_title = "JuliaCon 2024\n"
+top_description = "Join the largest annual conference organized around the Julia programming language\n(co-Located with JUMP-dev and SciMLCon)"
 top_date = "Europe, 2024. \n"
-top_subtitle = "Co-Located with JuMP-dev and SciMLCon"
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
