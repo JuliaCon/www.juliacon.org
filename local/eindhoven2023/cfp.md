@@ -14,13 +14,21 @@ Do you have a fascinating topic related to Julia that you're passionate about? W
 # Proposal Deadline | November 1, 2023
 
 ~~~
+<div style="text-align: center">
+~~~
+> :warning: **The CFP is closed**
+~~~
+</div>
+~~~
+
+<!-- ~~~
 <p style="font-weight: bold">Speakers will receive a free ticket to the entire event.</p>
 <div style="text-align: center">
     <a class="btn" style="width: 49%;" href="https://eindhoven2023.pydata.org/juliacon/cfp">SUBMIT A PROPOSAL FOR JULIACON LOCAL EINDHOVEN</a>
     <a class="btn" style="width: 49%;" href="https://eindhoven2023.pydata.org/pydata/cfp">SUBMIT A PROPOSAL FOR PYDATA EINDHOVEN</a>
 </div>
 <br>
-~~~
+~~~ -->
 
 ****
 

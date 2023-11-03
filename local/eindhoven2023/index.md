@@ -35,11 +35,16 @@ JuliaCon 2023 will be in-person at the [High Tech Campus Conference Center](http
 At our co-located event with [PyData Eindhoven 2023](https://pydata.org/eindhoven2023/), which occurs on **November 30**, you'll experience the unique convergence of two vibrant communities, amplifying the possibilities for cross-pollination and collaboration. 
 \end{box}
 
-\begin{box}{title="Call For Proposals (CFP)", color="dark-green"}
-Do you have a fascinating topic related to Julia that you're passionate about? We invite you to [submit your talk](/local/eindhoven2023/cfp/) proposals for JuliaCon Local Eindhoven 2023! This is your chance to share your knowledge, insights, and experiences with the vibrant Julia community.
+\begin{box}{title="Pluto Workshop", color="purple"}
+~~~
+  <img width=100% src="/assets/local/eindhoven2023/img/pluto.png">
+~~~
+We have something extraordinary in store for you at the upcoming PyData & JuliaCon 2023 conference in Eindhoven. Get ready for the Pluto Workshop, which will take place a day before the JuliaCon Local conference!
+[Stay tuned](/local/eindhoven2023/pluto/) for more information, and don't miss out on this cosmic opportunity to learn, grow, and have fun! 
+Secure your spot at the Pluto Workshop, where the possibilities are as limitless as the universe itself 🎈
 \end{box}
 
-\begin{box}{title="Tickets", color="purple"}
+\begin{box}{title="Tickets", color="dark-green"}
 **Secure early bird tickets!**
 
 Don't miss your chance to be at the forefront of the Julia revolution.
@@ -94,6 +99,7 @@ We invite you to be a part of JuliaCon 2023 as a valued sponsor. This conference
 \begin{centered}{title="Gold", margin_bottom="3ex"}
   \sponsor{name="Jolin.io", link="https://www.jolin.io", img="/assets/local/eindhoven2023/img/sponsors/jolin-logo.png", level=2}
   \sponsor{name="MapXact", link="https://mapxact.com/", img="/assets/local/eindhoven2023/img/sponsors/mapxact-retina.png", level=2}
+  \sponsor{name="DAF", link="https://www.daf.com/nl-nl", img="/assets/local/eindhoven2023/img/sponsors/DAF-logo-events.jpeg", level=2}
 \end{centered}
 
 \begin{centered}{title="Silver", margin_bottom="3ex"}
