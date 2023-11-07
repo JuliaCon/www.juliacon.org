@@ -4,7 +4,7 @@ author = "JuliaCon"
 prepath = ""        # remove this when deploying
 
 # Current year
-year = "2023"
+year = "2024"
 
 generate_rss = false
 mintoclevel = 2
@@ -128,6 +128,21 @@ configuration = Dict(
             "Program" => "/local/eindhoven2023/program",
             "Code of Conduct" => "/local/eindhoven2023/coc"
         )
+    ),
+    "2024" => Dict(
+        "global" => true,
+        "year" => 2024,
+        "location" => "Europe (Venue TBD)",
+        "alert" => """Stay tuned.</a>""",
+        "site_name" => "JuliaCon 2024",
+        "site_descr" => "JuliaCon 2024, Europe",
+        "site_url" => "https://juliacon.org/2024/",
+        "main_heading_color" => "black",
+        "header_color" => "#389826",
+        "header" => [
+            "Volunteer" => "/2024/volunteer",
+            "Code of Conduct" => "/2024/coc"
+        ]
     ),
 )
 +++
