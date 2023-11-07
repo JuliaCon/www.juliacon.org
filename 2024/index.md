@@ -5,7 +5,7 @@ title = "JuliaCon 2024"
 insert_top_title = true
 top_title = "JuliaCon 2024\n"
 top_description = "Join the largest annual conference organized around the Julia programming language\n(co-Located with JUMP-dev and SciMLCon)"
-top_date = "Europe, 2024. \n"
+top_date = "Philips Stadion, Eindhoven. \n"
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
@@ -15,7 +15,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 ~~~
 
 \begin{box}{title="JuliaCon 2024", color="purple"}
-  JuliaCon 2024 will be held in Europe.
+  JuliaCon 2024 will be held at the [Philips Stadion](https://www.psv.nl/english-psv/club/philips-stadium.htm) in Eindhoven, Netherlands.
 \end{box}
 
 ~~~
