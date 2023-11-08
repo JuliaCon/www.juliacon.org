@@ -13,11 +13,9 @@ Welcome to the registration page for JuliaCon 2023! We're thrilled to announce t
 
 # Ticket Prices
 
-- Early Bird: Corporate Admission: **€ 96.00**
-- Early Bird: Individual: **€ 64.00**
-- Early Bird: Student Ticket: **€ 32.00** (limited availability, valid student identification required)
-
-**Note**: Early Bird sales end once program is announced.
+- Corporate Admission: **€ 120.00**
+- Individual: **€ 80.00**
+- Student Ticket: **€ 40.00** (limited availability, valid student identification required)
 
 **Note**: Ticket sales for JuliaCon Local Eindhoven 2023 are being managed through a separate website hosted by PyData. To secure your tickets, we use PyData Ticketing Website. This dedicated platform will streamline the registration process and ensure a smooth experience for all attendees.
 

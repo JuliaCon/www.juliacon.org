@@ -113,7 +113,7 @@ configuration = Dict(
         "global" => false,
         "year" => 2023,
         "location" => "Eindhoven",
-        "alert" => """The CFP is closed! The <a href="https://juliacon.org/local/eindhoven2023/program/">program</a> will be announced soon!""",
+        "alert" => """The <a href="https://juliacon.org/local/eindhoven2023/program/">program</a> is ready! Also, check out our <a href="https://juliacon.org/local/eindhoven2023/pluto/">Pluto workshop</a>!""",
         "site_name" => "JuliaCon Local Eindhoven 2023",
         "site_descr" => "JuliaCon Local Eindhoven 2023, Eindhoven, High Tech Campus",
         "site_url" => "https://juliacon.org/local/eindhoven2023/",
@@ -126,6 +126,7 @@ configuration = Dict(
             "Sponsor" => "/local/eindhoven2023/sponsor",
             "Venue" => "/local/eindhoven2023/venue",
             "Program" => "/local/eindhoven2023/program",
+            "Diversity Scholarship" => "/local/eindhoven2023/diversity",
             "Code of Conduct" => "/local/eindhoven2023/coc"
         )
     ),
