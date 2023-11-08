@@ -35,14 +35,14 @@ JuliaCon 2023 will be in-person at the [High Tech Campus Conference Center](http
 At our co-located event with [PyData Eindhoven 2023](https://pydata.org/eindhoven2023/), which occurs on **November 30**, you'll experience the unique convergence of two vibrant communities, amplifying the possibilities for cross-pollination and collaboration. 
 \end{box}
 
-<!-- \begin{box}{title="Pluto Workshop", color="purple"}
+\begin{box}{title="Pluto Workshop", color="purple"}
 ~~~
   <img width=100% src="/assets/local/eindhoven2023/img/pluto.png">
 ~~~
 We have something extraordinary in store for you at the upcoming PyData & JuliaCon 2023 conference in Eindhoven. Get ready for the Pluto Workshop, which will take place a day before the JuliaCon Local conference!
-[Stay tuned](/local/eindhoven2023/pluto/) for more information, and don't miss out on this cosmic opportunity to learn, grow, and have fun! 
+Click [here](/local/eindhoven2023/pluto/) for more information, and don't miss out on this cosmic opportunity to learn, grow, and have fun! 
 Secure your spot at the Pluto Workshop, where the possibilities are as limitless as the universe itself 🎈
-\end{box} -->
+\end{box}
 
 \begin{box}{title="Tickets", color="dark-green"}
 
@@ -50,6 +50,13 @@ Don't miss your chance to be at the forefront of the Julia revolution.
 Whether you're a seasoned programmer, a curious beginner, or a visionary researcher, this event offers a golden opportunity to elevate your skills, broaden your horizons, and shape the future of technology. 
 
 [Order your tickets](/local/eindhoven2023/tickets/) today and unlock a world of infinite possibilities with Julia!
+\end{box}
+
+\begin{box}{title="Diversity scholarship", color="dark-blue"}
+
+For JuliaCon Local Eindhoven 2023, we are offering scholarship opportunities, including networking events with our sponsoring companies, to individuals from underrepresented groups who might otherwise face barriers to attending the conference.
+
+Apply for [the diversity scholarship](/local/eindhoven2023/diversity/) today!
 \end{box}
 
 \begin{box}{title="Venue", color="red"}
