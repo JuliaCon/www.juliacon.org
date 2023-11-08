@@ -5,7 +5,7 @@ title = "JuliaCon 2024"
 insert_top_title = true
 top_title = "JuliaCon 2024\n"
 top_description = "Join the largest annual conference organized around the Julia programming language\n(co-Located with JUMP-dev and SciMLCon)"
-top_date = "Europe, 2024. \n"
+top_date = "Philips Stadion, Eindhoven. \n"
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
@@ -15,7 +15,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 ~~~
 
 \begin{box}{title="JuliaCon 2024", color="purple"}
-  JuliaCon 2024 will be held in Europe.
+  JuliaCon 2024 will be held at the [Philips Stadion](https://www.psv.nl/english-psv/club/philips-stadium.htm) in Eindhoven, Netherlands.
 \end{box}
 
 ~~~
@@ -26,10 +26,10 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 ~~~
 
 \begin{box}{title="Venue", color="light-red"}
-  The conference venue is still TBD. Stay tuned. 
+  The conference venue will be the [Philips Stadion](https://www.psv.nl/english-psv/club/philips-stadium.htm) in Eindhoven, Netherlands.
 
   ~~~
-  <!--iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.092680326567!2d-71.09313752317132!3d42.36186407119264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370a95cb1e19b%3A0xa9dc1ab3c8bedd1e!2sRay%20and%20Maria%20Stata%20Center!5e0!3m2!1sen!2sus!4v1683675736967!5m2!1sen!2sus" width="100%" height="320" frameborder="0" style="border:0" allowfullscreen></iframe-->
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2486.8943504147705!2d5.4648729!3d51.4417341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d911c386b16f%3A0x943ec8f52a067b30!2sPhilips%20Stadium!5e0!3m2!1sen!2sus!4v1699467736901!5m2!1sen!2sus" width="100%" height="320" style="border:0;" allowfullscreen></iframe>
   ~~~
 \end{box}
 
