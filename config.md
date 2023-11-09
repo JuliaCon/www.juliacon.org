@@ -126,6 +126,7 @@ configuration = Dict(
             "Sponsor" => "/local/eindhoven2023/sponsor",
             "Venue" => "/local/eindhoven2023/venue",
             "Program" => "/local/eindhoven2023/program",
+            "Pluto Workshop" => "/local/eindhoven2023/pluto",
             "Diversity Scholarship" => "/local/eindhoven2023/diversity",
             "Code of Conduct" => "/local/eindhoven2023/coc"
         )

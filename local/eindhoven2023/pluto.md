@@ -9,8 +9,27 @@ footer_hide_social_media = true
 
 # Pluto Workshop
 
-The program for Pluto Workshop, is in its final stages of preparation and will be revealed shortly.
-Mark your calendars, as the Pluto Workshop is tentatively scheduled for Thursday, October 30th.
-Stay tuned and keep a close watch on our website and social media channels for the latest updates regarding the JuliaCon Local 2023 program.
-We are eagerly anticipating the opportunity to share the completed program with you and extend a warm welcome, 
-as we prepare for an unforgettable conference experience at JuliaCon Local Eindhoven 2023!
+~~~
+<div style="text-align: center">
+  <img width=50% src="/assets/local/eindhoven2023/img/pluto.png">
+</div>
+~~~
+ 
+The Pluto Workshop will be hosted on **Thursday the 30th of November** with official start at **11:00** as part of the local JuliaCon 2023 in Eindhoven. Please register for JuliaCon and fill out the form - you will get a special ticket for PyData to be able to access the workshop and get food on Thursday.
+
+~~~
+<div style="text-align: center">
+    <a class="btn" style="width: 40%;" href="https://forms.gle/UPJFHNfnDELThw3m9">Signup for the Pluto Workshop</a>
+</div>
+<br>
+~~~
+
+Open Pluto barcamp and hackathon 
+
+- almost the whole day
+- join a discussion table on the topic you are interested in 
+- or raise your own topic in a 30 seconds pitch to invite others to your table
+- or prepare a cool Pluto notebook -> maybe it becomes featured
+- or just join your developer friends to hack a new Pluto feature
+
+If you have further questions, please contact one of the [Discord](https://discord.gg/hYeUhkPKfD) admins or organizers, or use the email at [eindhoven@julialang.org](mailto:eindhoven@julialang.org).

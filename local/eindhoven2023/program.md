@@ -17,8 +17,28 @@ To view the detailed schedule, simply scroll down or visit [this website](https:
 
 ~~~
 <script type="text/javascript" src="https://eindhoven2023.pydata.org/juliacon/schedule/widget/v2.en.js"></script>
-
 <pretalx-schedule event-url="https://eindhoven2023.pydata.org/juliacon/" locale="en" format="grid" style="--pretalx-clr-primary: #4C9CB4"></pretalx-schedule>
+
+<script type="text/javascript">
+// Hack the pretalx viewer, since they don't provide an easy way to set the width
+document.addEventListener("DOMContentLoaded", function() {
+  // Add a small delay (e.g., 100 milliseconds) to ensure the element is available
+  setTimeout(function() {
+    // Find the element "pretalx-schedule"
+    var scheduleRoot = document.querySelector("pretalx-schedule");
+
+    // Query its shadow root
+    var scheduleElement = scheduleRoot.shadowRoot.querySelector(".pretalx-schedule")
+
+    // Calculate 80% of the current browser view width
+    var maxWidth = Math.min(window.innerWidth * 0.8, 1378);
+
+    // Change the style setting "--schedule-max-width"
+    scheduleElement.style.setProperty("--schedule-max-width", maxWidth + "px");
+  }, 250);
+});
+</script>
+
 <noscript>
    <div class="pretalx-widget">
         <div class="pretalx-widget-info-message">
