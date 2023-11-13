@@ -15,7 +15,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 ~~~
 
 \begin{box}{title="JuliaCon 2024", color="purple"}
-  JuliaCon 2024 will be held at the [Philips Stadion](https://www.psv.nl/english-psv/club/philips-stadium.htm) in Eindhoven, Netherlands.
+  JuliaCon 2024 will be held at the [Philips Stadion](https://www.psv.nl/english-psv/club/philips-stadium.htm) in Eindhoven, Netherlands. The [call for proposals](https://pretalx.com/juliacon2024/cfp) is now out. Please note the deadline for submitting proposals (15th January 2023).
 \end{box}
 
 ~~~
