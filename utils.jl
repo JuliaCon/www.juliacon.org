@@ -33,15 +33,16 @@ end
 # NAV_YEAR tools
 
 configyear() = parse(Int, locvar(:year)::String)
-function curyear() 
-  m = match(r"^[\/|\\]?(20\d{2})[\/||\\]", locvar(:fd_rpath)::String)
-  # fallback in case if the link does not have a year in it
-  # may happen for local juliacons
-  if !isnothing(m) && !isempty(m.captures)
-    return parse(Int, m.captures[1])
-  else
-    return configyear()
-  end
+
+function curyear()
+    m = match(r"[^\d]?(20\d{2})[\/||\\]", locvar(:fd_rpath)::String)
+    # fallback in case if the link does not have a year in it
+    # may happen for local juliacons
+    if !isnothing(m) && !isempty(m.captures)
+        return parse(Int, m.captures[1])
+    else
+        return configyear()
+    end
 end
 
 function hfun_curyear()
@@ -49,9 +50,11 @@ function hfun_curyear()
 end
 
 function hfun_julia_editions()
+    rpath = locvar(:fd_rpath)::String
     config_year = configyear()
     year = curyear()
-   
+    current_year_is_latest = config_year == year
+
     post_years = config_year:-1:(year + 1)
     io_post = IOBuffer()
     for (i, y) in enumerate(post_years)
@@ -68,13 +71,17 @@ function hfun_julia_editions()
 
     io_local = IOBuffer()
     local_events = filter(pairs(locvar(:configuration))) do (prefix, eventconfig)
-        return !get(eventconfig, "global", true) && isequal(get(eventconfig, "year", ""), year)
+        return !get(eventconfig, "global", true) && !startswith(rpath, prefix) && (
+            isequal(get(eventconfig, "year", ""), year) ||
+            current_year_is_latest && get(eventconfig, "advertise_in_landing", false)
+        )
     end
 
     for (i, (prefix, eventconfig)) in enumerate(local_events)
-        site_url = eventconfig["site_url"]
+        site_url = replace(eventconfig["site_url"], "https://juliacon.org" => "")
         location = eventconfig["location"]
-        write(io_local, """<a href="$site_url">$location</a>""")
+        year_info = current_year_is_latest ? " ($(eventconfig["year"]))" : ""
+        write(io_local, """<a href="$site_url">$location</a>$year_info""")
         (length(local_events) === 1 || i == length(local_events)) || write(io_local, "/")
     end
 
@@ -82,12 +89,13 @@ function hfun_julia_editions()
     prev = String(take!(io_prev))
     locevents = String(take!(io_local))
 
-    html_post = ifelse(!isempty(post), """<span style="padding-left: 10px">Future: $post</span>""", "")
+    year_info = current_year_is_latest ? "" : " in $year"
+    html_post = ifelse(!isempty(post), """<span style="padding-left: 10px">Next: $post</span>""", "")
     html_prev = ifelse(!isempty(prev), """<span style="padding-left: 10px">Previously: $prev</span>""", "")
-    html_local = ifelse(!isempty(locevents), """<br><span style="padding-left: 10px">More Events in $year: $locevents</span>""", "")
+    html_local = ifelse(!isempty(locevents), """<br><span style="padding-left: 10px">Other Events$year_info: $locevents</span>""", "")
 
     return """
-        <div class="u-futura u-uppercase previous-editions-menu" style="margin:auto">
+        <div class="u-futura u-uppercase previous-editions-menu" style="margin:auto; text-align:right">
           $html_post
           $html_prev
           $html_local

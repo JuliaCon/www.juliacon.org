@@ -14,10 +14,11 @@ content_tag = ""
 keep_path = ["2019/", "2018/", "2017/", "2016/", "2015/", "2014/"]
 
 # Global configuration per event
-# The key in the configuration represents the link address, and might be different from the year, 
+# The key in the configuration represents the link address, and might be different from the year,
 # the `year` is storead as configuration entry instead
 # The `global = false` events are showns as `Local events in $year` at the top of the page for a given year.
 # The `alert` displays the message on the top of the website
+# The `advertise_in_landing = true` local events are linked from the landing page even if the year does not match the latest.
 # For the `header` each entry can be either "Link Title"::String => "Link Url"::String
 #                                        or "Link Title"::String => "SubMenu"::Vector{Pair{String, String}}
 # Use `header_color` to adjust the color of the `header` for an event.
@@ -112,6 +113,7 @@ configuration = Dict(
     "local/eindhoven2023" => Dict(
         "global" => false,
         "year" => 2023,
+        "advertise_in_landing" => true,
         "location" => "Eindhoven",
         "alert" => """The <a href="https://juliacon.org/local/eindhoven2023/program/">program</a> is ready! Also, check out our <a href="https://juliacon.org/local/eindhoven2023/pluto/">Pluto workshop</a>!""",
         "site_name" => "JuliaCon Local Eindhoven 2023",
