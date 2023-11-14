@@ -137,7 +137,7 @@ configuration = Dict(
         "global" => true,
         "year" => 2024,
         "location" => "Eindhoven",
-        "alert" => """Stay tuned.</a>""",
+        "alert" => """<a href="https://pretalx.com/juliacon2024/cfp">CFP open.</a>""",
         "site_name" => "JuliaCon 2024",
         "site_descr" => "JuliaCon 2024, Eindhoven, Philips Stadion",
         "site_url" => "https://juliacon.org/2024/",
@@ -145,7 +145,8 @@ configuration = Dict(
         "header_color" => "#389826",
         "header" => [
             "Volunteer" => "/2024/volunteer",
-            "Code of Conduct" => "/2024/coc"
+            "Code of Conduct" => "/2024/coc",
+            "Call for Proposals" => "https://pretalx.com/juliacon2024/cfp"
         ]
     ),
 )
