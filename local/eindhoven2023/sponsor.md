@@ -7,7 +7,7 @@ footer_hide_signup_form = true
 footer_hide_social_media = true
 +++
 
-# Sponsorshp Opportunities
+# Sponsorship Opportunities
 
 Eindhoven, Netherlands December 1, 2023
 ~~~
