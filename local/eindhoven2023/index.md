@@ -44,15 +44,15 @@ Click [here](/local/eindhoven2023/pluto/) for more information, and don't miss o
 Secure your spot at the Pluto Workshop, where the possibilities are as limitless as the universe itself 🎈
 \end{box}
 
-\begin{box}{title="Tickets", color="dark-green"}
+<!-- \begin{box}{title="Tickets", color="dark-green"}
 
 Don't miss your chance to be at the forefront of the Julia revolution.
 Whether you're a seasoned programmer, a curious beginner, or a visionary researcher, this event offers a golden opportunity to elevate your skills, broaden your horizons, and shape the future of technology. 
 
 [Order your tickets](/local/eindhoven2023/tickets/) today and unlock a world of infinite possibilities with Julia!
-\end{box}
+\end{box} -->
 
-\begin{box}{title="Diversity scholarship", color="dark-blue"}
+\begin{box}{title="Diversity scholarship", color="dark-green"}
 
 For JuliaCon Local Eindhoven 2023, we are offering scholarship opportunities, including networking events with our sponsoring companies, to individuals from underrepresented groups who might otherwise face barriers to attending the conference.
 
