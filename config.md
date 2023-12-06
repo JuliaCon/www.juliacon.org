@@ -115,7 +115,7 @@ configuration = Dict(
         "year" => 2023,
         "advertise_in_landing" => true,
         "location" => "Eindhoven",
-        "alert" => """The <a href="https://juliacon.org/local/eindhoven2023/program/">program</a> is ready! Also, check out our <a href="https://juliacon.org/local/eindhoven2023/pluto/">Pluto workshop</a>!""",
+        "alert" => """Check out the next <a href="https://juliacon.org/2024/">JuliaCon</a>!""",
         "site_name" => "JuliaCon Local Eindhoven 2023",
         "site_descr" => "JuliaCon Local Eindhoven 2023, Eindhoven, High Tech Campus",
         "site_url" => "https://juliacon.org/local/eindhoven2023/",

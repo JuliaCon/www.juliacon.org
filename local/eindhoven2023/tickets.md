@@ -20,7 +20,11 @@ Welcome to the registration page for JuliaCon 2023! We're thrilled to announce t
 **Note**: Ticket sales for JuliaCon Local Eindhoven 2023 are being managed through a separate website hosted by PyData. To secure your tickets, we use PyData Ticketing Website. This dedicated platform will streamline the registration process and ensure a smooth experience for all attendees.
 
 ~~~
-<a class="btn" href="https://www.tickettailor.com/checkout/view-event/id/2695671/chk/d255/?modal_widget=true&widget=true">Buy Tickets</a>
+<div style="text-align: center">
+~~~
+> :warning: **The registration is closed**
+~~~
+</div>
 ~~~
 
 # Childcare 

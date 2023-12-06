@@ -19,10 +19,12 @@ The Pluto Workshop will be hosted on **Thursday the 30th of November** with offi
 
 ~~~
 <div style="text-align: center">
-    <a class="btn" style="width: 40%;" href="https://forms.gle/UPJFHNfnDELThw3m9">Signup for the Pluto Workshop</a>
-</div>
-<br>
 ~~~
+> :warning: **The registration is closed**
+~~~
+</div>
+~~~
+
 
 Open Pluto barcamp and hackathon 
 
