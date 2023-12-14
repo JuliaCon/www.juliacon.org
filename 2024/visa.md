@@ -8,6 +8,7 @@ If you need an invitation letter for your visa application, please send an email
 [juliacon@julialang.org](mailto:juliacon@julialang.org). Please include your full name
 (your name as it appears on your passport).
 
-## Visa Requirements
+## Visa Application
 
-Please check the [schengenvisainfo.com](https://www.schengenvisainfo.com/).
+Please check the [Netherlands Worldwide](https://www.netherlandsworldwide.nl/visa-the-netherlands/schengen-visa)
+and [schengenvisainfo.com](https://www.schengenvisainfo.com/).
