@@ -4,7 +4,7 @@ title = "JuliaCon 2024"
 # top title + subtitle
 insert_top_title = true
 top_title = "JuliaCon 2024\n"
-top_description = "Join the largest annual conference organized around the Julia programming language.\n(Co-located with SciMLCon)"
+top_description = "Join the largest annual conference organized around the Julia programming language.\n"
 top_date = "Philips Stadion, Eindhoven. July 9th–12th, 2024."
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
@@ -26,7 +26,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 ~~~
 
 \begin{box}{title="Venue", color="light-red"}
-  The conference venue will be the [Philips Stadion](https://www.psv.nl/english-psv/club/philips-stadium.htm), the home of the [PSV Eindhoven](https://www.psv.nl/english-psv/english-psv.htm) football club, in Eindhoven, Netherlands.
+  The conference venue will be the [Philips Stadion](https://www.psv.nl/english-psv/club/philips-stadium.htm), the home of the [PSV Eindhoven](https://www.psv.nl/english-psv/english-psv.htm) football club, in Eindhoven, Netherlands. Read more about the venue and traveling information [here](/2024/venue).
 
   ~~~
   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2486.8943504147705!2d5.4648729!3d51.4417341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d911c386b16f%3A0x943ec8f52a067b30!2sPhilips%20Stadium!5e0!3m2!1sen!2sus!4v1699467736901!5m2!1sen!2sus" width="100%" height="320" style="border:0;" allowfullscreen></iframe>
