@@ -1,6 +1,6 @@
 # Venue
 
-JuliaCon 2024, the annual conference for the Julia programming language enthusiasts, is set to take place at the iconic PSV Stadium in Eindhoven, the Netherlands. Notably, the PSV Stadium, also known as Philips Stadion, is not only a renowned sports venue but also stands as the home ground of PSV Eindhoven, one of the most successful football clubs in Dutch history. This unique choice of venue adds an exciting blend of technology and sports to the conference experience, offering attendees the chance to immerse themselves in the dynamic atmosphere of both the programming world and the vibrant sporting legacy of the city.
+JuliaCon 2024, the annual conference for the Julia programming language enthusiasts, is set to take place at the iconic [PSV Stadium](https://www.philipsstadion.nl/en/) in Eindhoven, the Netherlands. Notably, the PSV Stadium, also known as Philips Stadion, is not only a renowned sports venue but also stands as the home ground of [PSV Eindhoven](https://www.psv.nl/english-psv/english-psv.htm), one of the most successful football clubs in Dutch history. This unique choice of venue adds an exciting blend of technology and sports to the conference experience, offering attendees the chance to immerse themselves in the dynamic atmosphere of both the programming world and the vibrant sporting legacy of the city.
 
 ~~~
 <div style="width: 100%; ">
