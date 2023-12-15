@@ -16,9 +16,11 @@ JuliaCon 2024, the annual conference for the Julia programming language enthusia
 
 ## Accessibility
 
-In Eindhoven, the most common way for people to get around is by bicycle or on foot. The PSV Stadium is located close to the city centre, and is available within 10 minutes walking from the city center and the central train station.
+In Eindhoven, the most common way for people to get around is by bicycle or on foot. 
+Additional information on travel advice for individuals with disabilities can be found [below](#travel-with-a-disability).
+The PSV Stadium is located close to the city centre, and is available within 10 minutes walking from the city center and the central train station.
 
-If you think you may require a closer parking space or accommodations, please email [juliacon@julialang.org](mailto:juliacon@julialang.org).
+If you think you may require a closer parking space, accommodations or extra assistance, please email [juliacon@julialang.org](mailto:juliacon@julialang.org).
 
 ## Reaching Eindhoven
 
@@ -54,6 +56,20 @@ Known for its extensive network of bike routes, the Netherlands offers a highly 
 ### Electric scooters rental
 
 The city has various options for renting an electric scooter, such as [Go sharing](https://nl.go-sharing.com/en/) or [Check](https://ridecheck.app/en).
+
+### Travel with a disability
+
+Dutch cities are committed to supporting passengers with physical disabilities, wheelchair users, as well as those with hearing and sight impairments. Notable features include removable bridges for wheelchairs, guidelines for the visually impaired, and plug-in sockets for hearing aids at ticket counters (just a heads up, the connecting cord is not provided; users need to get their own).
+
+If you use a wheelchair, you're in for smooth travels across all public transportation in the Netherlands. Bus and trams stops are equipped with ramps, making them more accessible. To check the accessibility of specific stops, head to [haltescan.nl](https://www.mobiliteitslab.nl/haltescan/) (select Eindhoven under Wegbeheerder). In addition, free wheelchairs are available at Eindhoven Airport for those who have difficulties walking within the airport. 
+
+The NS website provides [comprehensive information](https://www.ns.nl/en/travel-information/traveling-with-a-disability) in English about services and facilities catering to passengers with disabilities.
+
+- [Travelling with a motor disability](https://www.ns.nl/en/travel-information/traveling-with-a-disability/motor-disability)
+- [Travelling with a visual impairment](https://www.ns.nl/en/travel-information/traveling-with-a-disability/visual-disability)
+- [Travelling with a hearing impairment](https://www.ns.nl/en/travel-information/traveling-with-a-disability/hearing-impairment)
+- [NS travel assistance](https://www.ns.nl/en/travel-information/traveling-with-a-disability/ns-travel-assistance.html)
+- [International travel with a disability](https://www.ns.nl/en/travel-information/traveling-with-a-disability/international-travel-with-a-disability.html)
 
 ## Tourism in Eindhoven
 
