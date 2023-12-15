@@ -147,7 +147,8 @@ configuration = Dict(
             "Volunteer" => "/2024/volunteer",
             "Venue" => "/2024/venue",
             "Code of Conduct" => "/2024/coc",
-            "Call for Proposals" => "https://pretalx.com/juliacon2024/cfp"
+            "Call for Proposals" => "https://pretalx.com/juliacon2024/cfp",
+            "Venue" => "/2024/venue",
         ]
     ),
 )
