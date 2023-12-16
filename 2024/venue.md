@@ -1,6 +1,6 @@
 # Venue
 
-JuliaCon 2024, the annual conference for the Julia programming language enthusiasts, is set to take place at the iconic PSV Stadium in Eindhoven, the Netherlands. Notably, the PSV Stadium, also known as Philips Stadion, is not only a renowned sports venue but also stands as the home ground of PSV Eindhoven, one of the most successful football clubs in Dutch history. This unique choice of venue adds an exciting blend of technology and sports to the conference experience, offering attendees the chance to immerse themselves in the dynamic atmosphere of both the programming world and the vibrant sporting legacy of the city.
+JuliaCon 2024, the annual conference for the Julia programming language enthusiasts, is set to take place at the iconic [PSV Stadium](https://www.philipsstadion.nl/en/) in Eindhoven, the Netherlands. Notably, the PSV Stadium, also known as Philips Stadion, is not only a renowned sports venue but also stands as the home ground of [PSV Eindhoven](https://www.psv.nl/english-psv/english-psv.htm), one of the most successful football clubs in Dutch history. This unique choice of venue adds an exciting blend of technology and sports to the conference experience, offering attendees the chance to immerse themselves in the dynamic atmosphere of both the programming world and the vibrant sporting legacy of the city.
 
 ~~~
 <div style="width: 100%; ">
@@ -13,6 +13,21 @@ JuliaCon 2024, the annual conference for the Julia programming language enthusia
 ~~~
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4397.298998411391!2d5.467720455317504!3d51.441632404662606!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d911c386b16f%3A0x943ec8f52a067b30!2sPhilips%20Stadium!5e0!3m2!1sen!2snl!4v1702571784118!5m2!1sen!2snl" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ~~~
+
+## Visa Info
+
+The Netherlands is part of the Schengen Area. If you need a visa to enter the Schengen Area, you will need a visa to enter the Netherlands. JuliaCon 2024 will provide invitation letters to attendees who need a visa to enter the Netherlands. Please note that we cannot provide any financial support for your visa application.
+
+### Invitation Letter
+
+If you need an invitation letter for your visa application, please send an email to
+[juliacon@julialang.org](mailto:juliacon@julialang.org). Please include your full name
+(your name as it appears on your passport).
+
+### Visa Application
+
+Please check the [Netherlands Worldwide](https://www.netherlandsworldwide.nl/visa-the-netherlands/schengen-visa)
+and [schengenvisainfo.com](https://www.schengenvisainfo.com/).
 
 ## Accessibility
 
