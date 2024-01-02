@@ -16,6 +16,9 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 
 \begin{box}{title="JuliaCon 2024", color="purple"}
   JuliaCon 2024 will be held at the [Philips Stadion](https://www.philipsstadion.nl/en/) in Eindhoven, Netherlands. The [call for proposals](https://pretalx.com/juliacon2024/cfp) is now out. Please note the deadline for submitting proposals (15th January 2024).
+
+  ## Thinking about submitting a proposal?
+  Looking to submit a proposal for JuliaCon 2024 but don’t know how? JuliaCon DEI Committee is holding two workshop + office hour events to get you started on Sunday, January 7th hosted on GatherTown! For more information: [https://forms.gle/V7sD95iEvC3Q6RZ5A](https://forms.gle/V7sD95iEvC3Q6RZ5A)
 \end{box}
 
 ~~~
@@ -42,12 +45,20 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   We also have some [photographic memories from previous JuliaCons](memories/).
 \end{box}
 
+\begin{box}{title="Help me attend", color="purple"}
+
+We aim to provide limited tickets and travel grants for members of [underepresented communities](/2024/dei), as well as on-site childcare.
+
+If you are traveling from outside the shengen area you may need [a visa](/2024/venue/#visa_info).
+
+\end{box}
+
 \begin{box}{title="Code of Conduct", color="dark-green"}
   JuliaCon is dedicated to providing a positive conference experience for all attendees, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or national and ethnic origin.
   We encourage respectful and considerate interactions between attendees and do not tolerate harassment of conference participants in any form.
   For example, offensive or sexual language and imagery is not appropriate for any conference venue, including formal talks and networking between sessions.
   Conference  participants violating these standards may be sanctioned or expelled from the conference (without a refund) at the discretion of the conference organizers.
-  Our anti-harassment policy and information about who to contact if you have an issue you'd like to discuss can be found on our [Code of Conduct](/2022/coc/).
+  Our anti-harassment policy and information about who to contact if you have an issue you'd like to discuss can be found on our [Code of Conduct](/2024/coc/).
 \end{box}
 
 \begin{box}{title="Committee", color="dark-blue"}
