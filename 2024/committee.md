@@ -1,4 +1,4 @@
-# JuliaCon 2023 Organizing Committee
+# JuliaCon 2024 Organizing Committee
 
 * Ranjan Anantharaman, co-Chair [Twitter](https://twitter.com/ranjan_ananth)
 * Raye Kimmerer, co-Chair & Local Chair [Twitter](https://twitter.com/OfficialLoganK)
@@ -12,6 +12,8 @@
 * Steven Kell, Media and Publicity [GitHub](https://github.com/StevenKell)
 * Carsten Bauer, Proceedings Chair [GitHub](https://github.com/carstenbauer)
 * Pablo Zubieta, Web [Github](https://github.com/pabloferz)
+* Gareth Thomas, Local organizer [LinkedIn](https://www.linkedin.com/in/g-thomas/)
+* Jorge Vieyra, Local organizer [LinkedIn](https://www.linkedin.com/in/jorge-vieyra-76280542/)
 
 ## Proceedings Committee
 

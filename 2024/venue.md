@@ -45,8 +45,6 @@ Eindhoven has its own airport, well-linked to other European cities. Getting fro
 
 ### Amsterdam airport (Schiphol)
 
-Eindhoven is easily reachable from Amsterdam Airport by train. Check out the [NS path planner](https://www.ns.nl/en) for schedule details, but generally, you can catch a train to Eindhoven every 30 minutes. The journey from Schiphol to Eindhoven usually takes about 1 hour and 30 minutes.
-
 Eindhoven can be easily reached from Amsterdam airport by train. Refer to the official [NS path planner](https://www.ns.nl/en) to find available trains, but generally you can expect at least one train going in the direction to Eindhoven about every 30 minutes. The trip from Schiphol to Eindhoven takes about 1 hour 30 minutes.
 
 **Note:** Keep in mind that trains in the Netherlands don't run at night and stop operating earlier during the weekends, so plan your Amsterdam trip accordingly.
