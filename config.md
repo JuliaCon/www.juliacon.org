@@ -1,8 +1,7 @@
 +++
 author = "JuliaCon"
 
-prepath = get(ENV, "PREVIEW_FRANKLIN_PREPATH", "")
-website_url = get(ENV, "PREVIEW_FRANKLIN_WEBSITE_URL", "juliacon.org")
+prepath = ""        # remove this when deploying
 
 # Current year
 year = "2024"
