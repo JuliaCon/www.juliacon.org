@@ -37,7 +37,7 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         target-folder: "previews/PR${{ github.event.number }}" # The website preview is going to be stored in the previews subfolder
     - name: Deploy (main)
-      if: github.event_name == 'push' && github.ref == 'refs/heads/dev'
+      if: github.event_name == 'push' && github.ref == 'refs/heads/franklin'
       uses: JamesIves/github-pages-deploy-action@releases/v4
       with:
           branch: main # Replace here the branch where your website is deployed
