@@ -11,7 +11,7 @@ Last year, JuliaCon was held at MIT in Boston, USA. This year, we are thrilled t
 Eindhoven, Netherlands July 9th - 12th, 2024
 ~~~
 <div style="text-align: center">
-    <a class="btn" style="width: 99%" href="/assets/local/eindhoven2023/pdf/JuliaCon_Local_Eindhoven_2023_Sponsorship_Prospectus_-_FINAL.pdf">Sponsorship Opportunities</a>
+    <a class="btn" style="width: 99%" >Sponsorship Opportunities</a>
 </div>
 ~~~
 
@@ -46,6 +46,7 @@ Eindhoven, Netherlands July 9th - 12th, 2024
       <td><span style="color: green">✓</span> Promo materials inside goodie bag</td>
       <td><span style="color: green">✓</span> Promo materials inside goodie bag</td>
       <td><span style="color: green">✓</span> Promo materials inside goodie bag</td>
+      <td><span style="color: green">✓</span> Promo materials inside goodie bag</td>
     </tr>
     <tr>
       <td><span style="color: green">✓</span> Job Board Listing</td>
@@ -63,31 +64,31 @@ Eindhoven, Netherlands July 9th - 12th, 2024
       <td><span style="color: green">✓</span> Logo on T-shirt</td>
       <td><span style="color: green">✓</span> Logo on T-shirt</td>
       <td><span style="color: green">✓</span> Logo on T-shirt</td>
-      <td><span style="color: green">✓</span> Logo on T-shirt</td>
+      <td><span style="color: red">𐄂</span> Logo on T-shirt</td>
     </tr>
     <tr>
       <td><span style="color: green">✓</span> Exhibition Table (2m x 2m)</td>
       <td><span style="color: green">✓</span> Exhibition Table (2m x 2m)</td>
-      <td><span style="color: red">𐄂</span> Exhibition Table (2m x 2m)</td>
-      <td><span style="color: red">𐄂</span> Exhibition Table (2m x 2m)</td>
-      <td><span style="color: red">𐄂</span> Exhibition Table (2m x 2m)</td>
-      <td><span style="color: red">𐄂</span> Exhibition Table (2m x 2m)</td>
+      <td><span style="color: green">✓</span> Exhibition Table (2m x 2m)</td>
+      <td><span style="color: green">✓</span> Exhibition Table (2m x 2m)</td>
+      <td><span style="color: green">✓</span> Exhibition Table (2m x 2m)</td>
+      <td><span style="color: green">✓</span> Exhibition Table (2m x 2m)</td>
       <td><span style="color: red">𐄂</span> Exhibition Table (2m x 2m)</td>
     </tr>
     <tr>
       <td><span style="color: green">✓</span> Expo Booth (with A/V, TV, etc)</td>
       <td><span style="color: green">✓</span> Expo Booth (with A/V, TV, etc)</td>
-      <td><span style="color: red">𐄂</span> Expo Booth (with A/V, TV, etc)</td>
-      <td><span style="color: red">𐄂</span> Expo Booth (with A/V, TV, etc)</td>
-      <td><span style="color: red">𐄂</span> Expo Booth (with A/V, TV, etc)</td>
+      <td><span style="color: green">✓</span> Expo Booth (with A/V, TV, etc)</td>
+      <td><span style="color: green">✓</span> Expo Booth (with A/V, TV, etc)</td>
+      <td><span style="color: green">✓</span> Expo Booth (with A/V, TV, etc)</td>
       <td><span style="color: red">𐄂</span> Expo Booth (with A/V, TV, etc)</td>
       <td><span style="color: red">𐄂</span> Expo Booth (with A/V, TV, etc)</td>
     </tr>
     <tr>
       <td><span style="color: green">✓</span> Sponsored Talk, in a room, 5m talk</td>
-      <td><span style="color: red">𐄂</span> Sponsored Talk, in a room, 5m talk</td>
-      <td><span style="color: red">𐄂</span> Sponsored Talk, in a room, 5m talk</td>
-      <td><span style="color: red">𐄂</span> Sponsored Talk, in a room, 5m talk</td>
+      <td><span style="color: green">✓</span> Sponsored Talk, in a room, 5m talk</td>
+      <td><span style="color: green">✓</span> Sponsored Talk, in a room, 5m talk</td>
+      <td><span style="color: green">✓</span> Sponsored Talk, in a room, 5m talk</td>
       <td><span style="color: red">𐄂</span> Sponsored Talk, in a room, 5m talk</td>
       <td><span style="color: red">𐄂</span> Sponsored Talk, in a room, 5m talk</td>
       <td><span style="color: red">𐄂</span> Sponsored Talk, in a room, 5m talk</td>
@@ -95,25 +96,25 @@ Eindhoven, Netherlands July 9th - 12th, 2024
     <tr>
       <td><span style="color: green">✓</span> Prime Logo Placement on Event Videos</td>
       <td><span style="color: green">✓</span> Prime Logo Placement on Event Videos</td>
-      <td><span style="color: red">𐄂</span> Prime Logo Placement on Event Videos</td>
-      <td><span style="color: red">𐄂</span> Prime Logo Placement on Event Videos</td>
+      <td><span style="color: green">✓</span> Prime Logo Placement on Event Videos</td>
+      <td><span style="color: green">✓</span> Prime Logo Placement on Event Videos</td>
       <td><span style="color: red">𐄂</span> Prime Logo Placement on Event Videos</td>
       <td><span style="color: red">𐄂</span> Prime Logo Placement on Event Videos</td>
       <td><span style="color: red">𐄂</span> Prime Logo Placement on Event Videos</td>
     </tr>
     <tr>
-      <td><span style="color: green">✓</span> Tour and visit of Changing Room (10 people, 30min)</td>
-      <td><span style="color: green">✓</span> Tour and visit of Changing Room (10 people, 30min)</td>
-      <td><span style="color: red">𐄂</span> Tour and visit of Changing Room (10 people, 30min)</td>
-      <td><span style="color: red">𐄂</span> Tour and visit of Changing Room (10 people, 30min)</td>
+      <td><span style="color: green">6x</span> Tour and visit of Changing Room (10 people, 30min)</td>
+      <td><span style="color: green">3x</span> Tour and visit of Changing Room (10 people, 30min)</td>
+      <td><span style="color: green">2x</span> Tour and visit of Changing Room (10 people, 30min)</td>
+      <td><span style="color: green">1x</span> Tour and visit of Changing Room (10 people, 30min)</td>
       <td><span style="color: red">𐄂</span> Tour and visit of Changing Room (10 people, 30min)</td>
       <td><span style="color: red">𐄂</span> Tour and visit of Changing Room (10 people, 30min)</td>
       <td><span style="color: red">𐄂</span> Tour and visit of Changing Room (10 people, 30min)</td>
     </tr>
     <tr>
       <td><span style="color: green">✓</span> Sponsored Talk, on the pitch, 5-10m talk</td>
-      <td><span style="color: red">𐄂</span> Sponsored Talk, on the pitch, 5-10m talk</td>
-      <td><span style="color: red">𐄂</span> Sponsored Talk, on the pitch, 5-10m talk</td>
+      <td><span style="color: green">✓</span> Sponsored Talk, on the pitch, 5-10m talk</td>
+      <td><span style="color: green">✓</span> Sponsored Talk, on the pitch, 5-10m talk</td>
       <td><span style="color: red">𐄂</span> Sponsored Talk, on the pitch, 5-10m talk</td>
       <td><span style="color: red">𐄂</span> Sponsored Talk, on the pitch, 5-10m talk</td>
       <td><span style="color: red">𐄂</span> Sponsored Talk, on the pitch, 5-10m talk</td>
@@ -121,7 +122,7 @@ Eindhoven, Netherlands July 9th - 12th, 2024
     </tr>
     <tr>
       <td><span style="color: green">✓</span> Marketing LEDs</td>
-      <td><span style="color: red">𐄂</span> Marketing LEDs</td>
+      <td><span style="color: green">✓</span> Marketing LEDs</td>
       <td><span style="color: red">𐄂</span> Marketing LEDs</td>
       <td><span style="color: red">𐄂</span> Marketing LEDs</td>
       <td><span style="color: red">𐄂</span> Marketing LEDs</td>
@@ -130,7 +131,7 @@ Eindhoven, Netherlands July 9th - 12th, 2024
     </tr>
     <tr>
       <td><span style="color: green">✓</span> Access to Attendee List</td>
-      <td><span style="color: red">𐄂</span> Access to Attendee List</td>
+      <td><span style="color: green">✓</span> Access to Attendee List</td>
       <td><span style="color: red">𐄂</span> Access to Attendee List</td>
       <td><span style="color: red">𐄂</span> Access to Attendee List</td>
       <td><span style="color: red">𐄂</span> Access to Attendee List</td>
@@ -138,40 +139,40 @@ Eindhoven, Netherlands July 9th - 12th, 2024
       <td><span style="color: red">𐄂</span> Access to Attendee List</td>
     </tr>
     <tr>
-      <td><span style="color: green">✓</span> 40 tickets with 20% discount</td>
-      <td><span style="color: red">𐄂</span> 30 tickets with 20% discount</td>
-      <td><span style="color: red">𐄂</span> 20 tickets with 20% discount</td>
-      <td><span style="color: red">𐄂</span> 5 tickets with 20% discount</td>
-      <td><span style="color: red">𐄂</span> 0 tickets with 20% discount</td>
-      <td><span style="color: red">𐄂</span> 0 tickets with 20% discount</td>
-      <td><span style="color: red">𐄂</span> 0 tickets with 20% discount</td>
+      <td><span style="color: green">40</span> tickets with 20% discount</td>
+      <td><span style="color: green">30</span> tickets with 20% discount</td>
+      <td><span style="color: green">20</span>  tickets with 20% discount</td>
+      <td><span style="color: green">5</span> tickets with 20% discount</td>
+      <td><span style="color: red">0</span> tickets with 20% discount</td>
+      <td><span style="color: red">0</span> tickets with 20% discount</td>
+      <td><span style="color: red">0</span> tickets with 20% discount</td>
     </tr>
     <tr>
-      <td><span style="color: green">✓</span> 2 Diversity Scholars Awarded in Your Name</td>
-      <td><span style="color: green">✓</span> 2 Diversity Scholars Awarded in Your Name</td>
-      <td><span style="color: green">✓</span> 1 Diversity Scholars Awarded in Your Name</td>
-      <td><span style="color: green">✓</span> 0 Diversity Scholars Awarded in Your Name</td>
-      <td><span style="color: green">✓</span> 0 Diversity Scholars Awarded in Your Name</td>
-      <td><span style="color: green">✓</span> 0 Diversity Scholars Awarded in Your Name</td>
-      <td><span style="color: green">✓</span> 0 Diversity Scholars Awarded in Your Name</td>
+      <td><span style="color: green">2</span> Diversity Scholars Awarded in Your Name</td>
+      <td><span style="color: green">2</span> Diversity Scholars Awarded in Your Name</td>
+      <td><span style="color: green">1</span> Diversity Scholars Awarded in Your Name</td>
+      <td><span style="color: red">0</span> Diversity Scholars Awarded in Your Name</td>
+      <td><span style="color: red">0</span> Diversity Scholars Awarded in Your Name</td>
+      <td><span style="color: red">0</span> Diversity Scholars Awarded in Your Name</td>
+      <td><span style="color: red">0</span> Diversity Scholars Awarded in Your Name</td>
     </tr>
     <tr>
-      <td><span style="color: green">✓</span> 20 single day tickets</td>
-      <td><span style="color: green">✓</span> 15 single day tickets</td>
-      <td><span style="color: green">✓</span> 10 single day tickets</td>
-      <td><span style="color: green">✓</span> 10 single day tickets</td>
-      <td><span style="color: green">✓</span> 3 single day tickets</td>
-      <td><span style="color: green">✓</span> 3 single day tickets</td>
-      <td><span style="color: green">✓</span> 0 single day tickets</td>
+      <td><span style="color: green">20</span> single day tickets</td>
+      <td><span style="color: green">15</span> single day tickets</td>
+      <td><span style="color: green">10</span> single day tickets</td>
+      <td><span style="color: green">10</span> single day tickets</td>
+      <td><span style="color: green">3</span> single day tickets</td>
+      <td><span style="color: green">3</span> single day tickets</td>
+      <td><span style="color: red">0</span> single day tickets</td>
     </tr>
     <tr>
-      <td><span style="color: green">✓</span> 16 three day tickets</td>
-      <td><span style="color: green">✓</span> 10 three day tickets</td>
-      <td><span style="color: green">✓</span> 8 three day tickets</td>
-      <td><span style="color: green">✓</span> 5 three day tickets</td>
-      <td><span style="color: green">✓</span> 2 three day tickets</td>
-      <td><span style="color: green">✓</span> 2 three day tickets</td>
-      <td><span style="color: green">✓</span> 1 three day ticket</td>
+      <td><span style="color: green">16</span> three day tickets</td>
+      <td><span style="color: green">10</span> three day tickets</td>
+      <td><span style="color: green">8</span> three day tickets</td>
+      <td><span style="color: green">5</span> three day tickets</td>
+      <td><span style="color: green">2</span> three day tickets</td>
+      <td><span style="color: green">2</span> three day tickets</td>
+      <td><span style="color: green">1</span> three day ticket</td>
     </tr>
 
   </tbody>
