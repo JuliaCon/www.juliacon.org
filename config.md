@@ -16,8 +16,8 @@ keep_path = ["2019/", "2018/", "2017/", "2016/", "2015/", "2014/"]
 
 # Global configuration per event
 # The key in the configuration represents the link address, and might be different from the year,
-# the `year` is storead as configuration entry instead
-# The `global = false` events are showns as `Local events in $year` at the top of the page for a given year.
+# the `year` is stored as configuration entry instead
+# The `global = false` events are shown as `Local events in $year` at the top of the page for a given year.
 # The `alert` displays the message on the top of the website
 # The `advertise_in_landing = true` local events are linked from the landing page even if the year does not match the latest.
 # For the `header` each entry can be either "Link Title"::String => "Link Url"::String

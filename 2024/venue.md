@@ -20,14 +20,12 @@ The Netherlands is part of the Schengen Area. If you need a visa to enter the Sc
 
 ### Invitation Letter
 
-If you need an invitation letter for your visa application, please send an email to
-[juliacon@julialang.org](mailto:juliacon@julialang.org). Please include your full name
-(your name as it appears on your passport).
+If you need an invitation letter for your visa application, please send an email to \email. Please include your full name (your name as it appears on your passport).
 
 ### Visa Application
 
 Please check the [Netherlands Worldwide](https://www.netherlandsworldwide.nl/visa-the-netherlands/schengen-visa)
-and [schengenvisainfo.com](https://www.schengenvisainfo.com/).
+and [Schengen Visa Info](https://www.schengenvisainfo.com/).
 
 ## Accessibility
 
@@ -35,7 +33,7 @@ In Eindhoven, the most common way for people to get around is by bicycle or on f
 Additional information on travel advice for individuals with disabilities can be found [below](#travel-with-a-disability).
 The PSV Stadium is located close to the city centre, and is available within 10 minutes walking from the city center and the central train station.
 
-If you think you may require a closer parking space, accommodations or extra assistance, please email [juliacon@julialang.org](mailto:juliacon@julialang.org).
+If you think you may require a closer parking space, accommodations or extra assistance, please email \email.
 
 ## Reaching Eindhoven
 
@@ -45,15 +43,13 @@ Eindhoven has its own airport, well-linked to other European cities. Getting fro
 
 ### Amsterdam airport (Schiphol)
 
-Eindhoven is easily reachable from Amsterdam Airport by train. Check out the [NS path planner](https://www.ns.nl/en) for schedule details, but generally, you can catch a train to Eindhoven every 30 minutes. The journey from Schiphol to Eindhoven usually takes about 1 hour and 30 minutes.
-
 Eindhoven can be easily reached from Amsterdam airport by train. Refer to the official [NS path planner](https://www.ns.nl/en) to find available trains, but generally you can expect at least one train going in the direction to Eindhoven about every 30 minutes. The trip from Schiphol to Eindhoven takes about 1 hour 30 minutes.
 
 **Note:** Keep in mind that trains in the Netherlands don't run at night and stop operating earlier during the weekends, so plan your Amsterdam trip accordingly.
 
-### Accomodation options
+### Accommodation options
 
-Here is a short list of possible accomodation options within close range to the venue, but Eindhoven provides a wide range of possible options, different hotels on [Booking.com](https://www.booking.com) or rooms on [AirBnb](https://www.airbnb.com). 
+Here is a short list of possible accommodation options within close range to the venue, but Eindhoven provides a wide range of possible options, different hotels on [Booking.com](https://www.booking.com) or rooms on [AirBnb](https://www.airbnb.com). 
 
 - [Hotel The Match, Kleine berg 43, 5611 JS](https://maps.app.goo.gl/95DzfpvPdq9q4dYC7)
 - [Holiday Inn, Veldmaarschalk Montgomerylaan 1, 5612 BA](https://maps.app.goo.gl/4zVuFPZximoqZP6L9)
@@ -70,7 +66,7 @@ Known for its extensive network of bike routes, the Netherlands offers a highly 
 
 ### Electric scooters rental
 
-The city has various options for renting an electric scooter, such as [Go sharing](https://nl.go-sharing.com/en/) or [Check](https://ridecheck.app/en).
+The city has various options for renting an electric scooter, such as [Go sharing](https://nl.go-sharing.com/en/) or [Ride Check](https://ridecheck.app/en).
 
 ### Travel with a disability
 

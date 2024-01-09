@@ -36,10 +36,6 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   ~~~
 \end{box}
 
-\begin{box}{title="Julia Community Prize", color="red"}
-  The Julia Community Prize 2024 nominations are now open. [Nominate someone today](/2024/).
-\end{box}
-
 \begin{box}{title="2023 videos", color="dark-purple"}
   JuliaCon 2023 has come to a close, but you can watch all of the conference's talks, workshops, and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC).
   We also have some [photographic memories from previous JuliaCons](memories/).
@@ -47,9 +43,9 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 
 \begin{box}{title="Help me attend", color="purple"}
 
-We aim to provide limited tickets and travel grants for members of [underepresented communities](/2024/dei), as well as on-site childcare.
+We aim to provide limited tickets and travel grants for members of [underrepresented communities](/2024/dei), as well as on-site childcare.
 
-If you are traveling from outside the shengen area you may need [a visa](/2024/venue/#visa_info).
+If you are traveling from outside the Schengen area you may need [a visa](/2024/venue/#visa_info).
 
 \end{box}
 
