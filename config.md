@@ -114,9 +114,9 @@ configuration = Dict(
     "local/eindhoven2023" => Dict(
         "global" => false,
         "year" => 2023,
-        "advertise_in_landing" => true,
+        "advertise_in_landing" => false,
         "location" => "Eindhoven",
-        "alert" => """Check out the next <a href="https://juliacon.org/2024/">JuliaCon</a>!""",
+        "alert" => """<a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6Tp3QV4akXAd23_O5Vjm_e2">Check out the JuliaCon Local Eindhoven 2023 videos!</a>""",
         "site_name" => "JuliaCon Local Eindhoven 2023",
         "site_descr" => "JuliaCon Local Eindhoven 2023, Eindhoven, High Tech Campus",
         "site_url" => "https://juliacon.org/local/eindhoven2023/",
