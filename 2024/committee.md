@@ -15,6 +15,7 @@
 * Gareth Thomas, Local organizer [LinkedIn](https://www.linkedin.com/in/g-thomas/)
 * Jorge Vieyra, Local organizer [LinkedIn](https://www.linkedin.com/in/jorge-vieyra-76280542/)
 * Max van Dijk, Local organizer [LinkedIn](https://www.linkedin.com/in/max-van-dijk/)
+* Dmitry Bagaev, Local organizer [LinkedIn](https://www.linkedin.com/in/bvdmitri/)
 
 ## Proceedings Committee
 
