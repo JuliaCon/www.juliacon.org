@@ -234,7 +234,8 @@ Unless communicated differently, an expo booth is a 2-meter table and chairs but
 
 Sponsors are able to present a talk at the event. While sponsor talks do not go through the regular review process, presentation proposals must be submitted for approval by the review committee. The committee will help ensure that your presentation’s content is appropriate and relevant to the audience at the event.
 
-** What is the difference between a sponsor talk before a regular session and before keynote?**
+## What is the difference between a sponsor talk before a regular session and before keynote?
+
 The keynotes are outside on the pitch where everyone can attend, meaning during keynotes there are no parallel sessions. A regular talk will be in one of the many rooms.
 
 ## What is included in access to the Attendee List?
