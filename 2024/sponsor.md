@@ -16,163 +16,194 @@ Eindhoven, Netherlands July 9th - 12th, 2024
 ~~~
 
 ~~~
-<table class="table">
+<style> 
+        .sponsortable { 
+            border-collapse: collapse; 
+            width: 100%; 
+        } 
+          
+        .sponsortable th, td { 
+            text-align: left; 
+            padding: 8px; 
+        } 
+          
+        .sponsortable tr:nth-child(even) { 
+            background-color: #efefef; 
+        } 
+</style> 
+<table class="table sponsortable">
   <thead>
     <tr>
+      <th scope="col"></th>
       <th scope="col">€30000<br>Diamond</th>
       <th scope="col">€20000<br>Platinum</th>
       <th scope="col">€15000<br>Gold</th>
       <th scope="col">€8000<br>Silver</th>
       <th scope="col">€5000<br>Bronze</th>
       <th scope="col">€3000<br>Copper</th>
-      <th scope="col">€1000<br>Tin</th>
+      <th scope="col">€1000<br>Startup</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><span style="color: green">✓</span> Logo on Event Website and Sponsor Banner</td>
-      <td><span style="color: green">✓</span> Logo on Event Website and Sponsor Banner</td>
-      <td><span style="color: green">✓</span> Logo on Event Website and Sponsor Banner</td>
-      <td><span style="color: green">✓</span> Logo on Event Website and Sponsor Banner</td>
-      <td><span style="color: green">✓</span> Logo on Event Website and Sponsor Banner</td>
-      <td><span style="color: green">✓</span> Logo on Event Website and Sponsor Banner</td>
-      <td><span style="color: green">✓</span> Logo on Event Website and Sponsor Banner</td>
-      
+      <td>Logo on Event Website and Sponsor Banner</td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
     </tr>
     <tr>
-      <td><span style="color: green">✓</span> Promo materials inside goodie bag</td>
-      <td><span style="color: green">✓</span> Promo materials inside goodie bag</td>
-      <td><span style="color: green">✓</span> Promo materials inside goodie bag</td>
-      <td><span style="color: green">✓</span> Promo materials inside goodie bag</td>
-      <td><span style="color: green">✓</span> Promo materials inside goodie bag</td>
-      <td><span style="color: green">✓</span> Promo materials inside goodie bag</td>
-      <td><span style="color: green">✓</span> Promo materials inside goodie bag</td>
+      <td>Promo materials inside goodie bag</td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
     </tr>
     <tr>
-      <td><span style="color: green">✓</span> Job Board Listing</td>
-      <td><span style="color: green">✓</span> Job Board Listing</td>
-      <td><span style="color: green">✓</span> Job Board Listing</td>
-      <td><span style="color: green">✓</span> Job Board Listing</td>
-      <td><span style="color: green">✓</span> Job Board Listing</td>
-      <td><span style="color: green">✓</span> Job Board Listing</td>
-      <td><span style="color: red">𐄂</span> Job Board Listing</td>
+      <td>Job Board Listing</td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td></td>
     </tr>
     <tr>
-      <td><span style="color: green">✓</span> Logo on T-shirt</td>
-      <td><span style="color: green">✓</span> Logo on T-shirt</td>
-      <td><span style="color: green">✓</span> Logo on T-shirt</td>
-      <td><span style="color: green">✓</span> Logo on T-shirt</td>
-      <td><span style="color: green">✓</span> Logo on T-shirt</td>
-      <td><span style="color: green">✓</span> Logo on T-shirt</td>
-      <td><span style="color: red">𐄂</span> Logo on T-shirt</td>
+      <td>Logo on T-shirt</td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td></td>
     </tr>
     <tr>
-      <td><span style="color: green">✓</span> Exhibition Table (2m x 2m)</td>
-      <td><span style="color: green">✓</span> Exhibition Table (2m x 2m)</td>
-      <td><span style="color: green">✓</span> Exhibition Table (2m x 2m)</td>
-      <td><span style="color: green">✓</span> Exhibition Table (2m x 2m)</td>
-      <td><span style="color: green">✓</span> Exhibition Table (2m x 2m)</td>
-      <td><span style="color: green">✓</span> Exhibition Table (2m x 2m)</td>
-      <td><span style="color: red">𐄂</span> Exhibition Table (2m x 2m)</td>
+      <td>Exhibition Table (2m x 2m)</td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td><span style="color: green">✓</span> Expo Booth (with A/V, TV, etc)</td>
-      <td><span style="color: green">✓</span> Expo Booth (with A/V, TV, etc)</td>
-      <td><span style="color: green">✓</span> Expo Booth (with A/V, TV, etc)</td>
-      <td><span style="color: green">✓</span> Expo Booth (with A/V, TV, etc)</td>
-      <td><span style="color: green">✓</span> Expo Booth (with A/V, TV, etc)</td>
-      <td><span style="color: red">𐄂</span> Expo Booth (with A/V, TV, etc)</td>
-      <td><span style="color: red">𐄂</span> Expo Booth (with A/V, TV, etc)</td>
+      <td>Expo Booth (with A/V, TV, etc)</td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td><span style="color: green">✓</span> Sponsored Talk, in a room, 5m talk</td>
-      <td><span style="color: green">✓</span> Sponsored Talk, in a room, 5m talk</td>
-      <td><span style="color: green">✓</span> Sponsored Talk, in a room, 5m talk</td>
-      <td><span style="color: green">✓</span> Sponsored Talk, in a room, 5m talk</td>
-      <td><span style="color: red">𐄂</span> Sponsored Talk, in a room, 5m talk</td>
-      <td><span style="color: red">𐄂</span> Sponsored Talk, in a room, 5m talk</td>
-      <td><span style="color: red">𐄂</span> Sponsored Talk, in a room, 5m talk</td>
+      <td>Sponsored Talk, in a room, 5m talk</td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td><span style="color: green">✓</span> Prime Logo Placement on Event Videos</td>
-      <td><span style="color: green">✓</span> Prime Logo Placement on Event Videos</td>
-      <td><span style="color: green">✓</span> Prime Logo Placement on Event Videos</td>
-      <td><span style="color: green">✓</span> Prime Logo Placement on Event Videos</td>
-      <td><span style="color: red">𐄂</span> Prime Logo Placement on Event Videos</td>
-      <td><span style="color: red">𐄂</span> Prime Logo Placement on Event Videos</td>
-      <td><span style="color: red">𐄂</span> Prime Logo Placement on Event Videos</td>
+      <td>Prime Logo Placement on Event Videos</td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td><span style="color: green">6x</span> Tour and visit of Changing Room (10 people, 30min)</td>
-      <td><span style="color: green">3x</span> Tour and visit of Changing Room (10 people, 30min)</td>
-      <td><span style="color: green">2x</span> Tour and visit of Changing Room (10 people, 30min)</td>
-      <td><span style="color: green">1x</span> Tour and visit of Changing Room (10 people, 30min)</td>
-      <td><span style="color: red">𐄂</span> Tour and visit of Changing Room (10 people, 30min)</td>
-      <td><span style="color: red">𐄂</span> Tour and visit of Changing Room (10 people, 30min)</td>
-      <td><span style="color: red">𐄂</span> Tour and visit of Changing Room (10 people, 30min)</td>
+      <td>Tour and visit of Changing Room (10 people, 30min)</td>
+      <td><span style="color: green">6x</span> </td>
+      <td><span style="color: green">3x</span></td>
+      <td><span style="color: green">2x</span></td>
+      <td><span style="color: green">1x</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td><span style="color: green">✓</span> Sponsored Talk, on the pitch, 5-10m talk</td>
-      <td><span style="color: green">✓</span> Sponsored Talk, on the pitch, 5-10m talk</td>
-      <td><span style="color: green">✓</span> Sponsored Talk, on the pitch, 5-10m talk</td>
-      <td><span style="color: red">𐄂</span> Sponsored Talk, on the pitch, 5-10m talk</td>
-      <td><span style="color: red">𐄂</span> Sponsored Talk, on the pitch, 5-10m talk</td>
-      <td><span style="color: red">𐄂</span> Sponsored Talk, on the pitch, 5-10m talk</td>
-      <td><span style="color: red">𐄂</span> Sponsored Talk, on the pitch, 5-10m talk</td>
+      <td>Sponsored Talk, on the pitch, 5-10m talk</td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td><span style="color: green">✓</span> Marketing LEDs</td>
-      <td><span style="color: green">✓</span> Marketing LEDs</td>
-      <td><span style="color: red">𐄂</span> Marketing LEDs</td>
-      <td><span style="color: red">𐄂</span> Marketing LEDs</td>
-      <td><span style="color: red">𐄂</span> Marketing LEDs</td>
-      <td><span style="color: red">𐄂</span> Marketing LEDs</td>
-      <td><span style="color: red">𐄂</span> Marketing LEDs</td>
+      <td>Marketing LEDs</td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td><span style="color: green">✓</span> Access to Attendee List</td>
-      <td><span style="color: green">✓</span> Access to Attendee List</td>
-      <td><span style="color: red">𐄂</span> Access to Attendee List</td>
-      <td><span style="color: red">𐄂</span> Access to Attendee List</td>
-      <td><span style="color: red">𐄂</span> Access to Attendee List</td>
-      <td><span style="color: red">𐄂</span> Access to Attendee List</td>
-      <td><span style="color: red">𐄂</span> Access to Attendee List</td>
+      <td>Access to Attendee List</td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td><span style="color: green">40</span> tickets with 20% discount</td>
-      <td><span style="color: green">30</span> tickets with 20% discount</td>
-      <td><span style="color: green">20</span>  tickets with 20% discount</td>
-      <td><span style="color: green">5</span> tickets with 20% discount</td>
-      <td><span style="color: red">0</span> tickets with 20% discount</td>
-      <td><span style="color: red">0</span> tickets with 20% discount</td>
-      <td><span style="color: red">0</span> tickets with 20% discount</td>
+      <td>Tickets with 20% discount</td>
+      <td><span style="color: green">40</span></td>
+      <td><span style="color: green">30</span></td>
+      <td><span style="color: green">20</span></td>
+      <td><span style="color: green">5</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td><span style="color: green">2</span> Diversity Scholars Awarded in Your Name</td>
-      <td><span style="color: green">2</span> Diversity Scholars Awarded in Your Name</td>
-      <td><span style="color: green">1</span> Diversity Scholars Awarded in Your Name</td>
-      <td><span style="color: red">0</span> Diversity Scholars Awarded in Your Name</td>
-      <td><span style="color: red">0</span> Diversity Scholars Awarded in Your Name</td>
-      <td><span style="color: red">0</span> Diversity Scholars Awarded in Your Name</td>
-      <td><span style="color: red">0</span> Diversity Scholars Awarded in Your Name</td>
+      <td>Number Of Diversity Scholars Awarded in Your Name</td>
+      <td><span style="color: green">2</span></td>
+      <td><span style="color: green">2</span></td>
+      <td><span style="color: green">1</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td><span style="color: green">20</span> single day tickets</td>
-      <td><span style="color: green">15</span> single day tickets</td>
-      <td><span style="color: green">10</span> single day tickets</td>
-      <td><span style="color: green">10</span> single day tickets</td>
-      <td><span style="color: green">3</span> single day tickets</td>
-      <td><span style="color: green">3</span> single day tickets</td>
-      <td><span style="color: red">0</span> single day tickets</td>
+      <td>Free single day tickets</td>
+      <td><span style="color: green">20</span></td>
+      <td><span style="color: green">15</span></td>
+      <td><span style="color: green">10</span></td>
+      <td><span style="color: green">10</span></td>
+      <td><span style="color: green">3</span></td>
+      <td><span style="color: green">3</span></td>
+      <td></td>
     </tr>
     <tr>
-      <td><span style="color: green">16</span> three day tickets</td>
-      <td><span style="color: green">10</span> three day tickets</td>
-      <td><span style="color: green">8</span> three day tickets</td>
-      <td><span style="color: green">5</span> three day tickets</td>
-      <td><span style="color: green">2</span> three day tickets</td>
-      <td><span style="color: green">2</span> three day tickets</td>
-      <td><span style="color: green">1</span> three day ticket</td>
+      <td>Free three day tickets</td>
+      <td><span style="color: green">16</span></td>
+      <td><span style="color: green">10</span></td>
+      <td><span style="color: green">8</span></td>
+      <td><span style="color: green">5</span></td>
+      <td><span style="color: green">2</span></td>
+      <td><span style="color: green">2</span></td>
+      <td><span style="color: green">1</span></td>
     </tr>
 
   </tbody>
