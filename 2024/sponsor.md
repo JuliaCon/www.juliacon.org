@@ -6,9 +6,8 @@ We invite your organization to be a sponsor of JuliaCon 2024. You can find our [
 
 JuliaCon is the largest annual conference organized around Julia, the fastest high-performance open source computing language for machine learning, artificial intelligence, life sciences, robotics, algorithmic trading, real-time analytics and more.
 
-Last year, JuliaCon was held at MIT in Boston, USA. This year, we are thrilled to be returning in-person to Europe. With a global audience of developer, JuliaCon offers you the unique opportunity to present your company and your product to a huge group of engaged scientific programmers.
+With a global audience of developer, JuliaCon offers you the unique opportunity to present your company and your product to a huge group of engaged scientific programmers. The conference is set to take place at the iconic PSV Stadium in Eindhoven, the Netherlands, July 9th - 12th, 2024. You can find more information about [the venue](http://localhost:8000/2024/venue/) here.
 
-Eindhoven, Netherlands July 9th - 12th, 2024
 ~~~
 <div style="text-align: center">
     <a class="btn" style="width: 99%" >Sponsorship Opportunities</a>
