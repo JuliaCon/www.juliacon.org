@@ -138,7 +138,7 @@ configuration = Dict(
         "global" => true,
         "year" => 2024,
         "location" => "Eindhoven",
-        "alert" => """<a href="https://pretalx.com/juliacon2024/cfp">Call for Proposals open! Submit your talks!</a>""",
+        "alert" => """<a href="https://pretalx.com/juliacon2024/cfp">Call for Proposals now open! Submit your talks!</a>""",
         "site_name" => "JuliaCon 2024",
         "site_descr" => "JuliaCon 2024, Eindhoven, Philips Stadion",
         "site_url" => "https://juliacon.org/2024/",
