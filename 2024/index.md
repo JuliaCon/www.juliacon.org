@@ -33,6 +33,11 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   ~~~
 \end{box}
 
+\begin{box}{title="Workshop", color="red"}
+  Besides the awesome talks that will be hosted on 10, 11 and 12 July, there will also be workshops on the day before conference! These will be held at the [ASML campus](https://maps.app.goo.gl/vNteDpgicWXQBAiG6) on the 9th of July!
+
+\end{box}
+
 \begin{box}{title="2023 videos", color="dark-purple"}
   JuliaCon 2023 has come to a close, but you can watch all of the conference's talks, workshops, and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC).
   We also have some [photographic memories from previous JuliaCons](memories/).
