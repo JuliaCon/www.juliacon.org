@@ -31,13 +31,14 @@ Traditionally, Earth and climate science relied on Fortran for performance-criti
 
 We invite both developers and users, as well as individuals who bridge these roles, to discuss software projects and their impact on user empowerment. We also welcome talks by developer-user pairs highlighting the co-benefits from a combined perspective. For this minisymposium, we accept abstracts on every field in and adjacent to Earth and climate sciences, including but not limited to
 
-Atmospheric sciences, including atmospheric dynamics, physics, chemistry and climatology
-Oceanography including sea ice and ocean biogeochemistry
-Earth science including land surface processes, hydrology and glaciology
-Land vegetation and interactions of ecosystems with the climate
-Geodynamics, seismology, geodesy and geochemistry
-Human and physical geography
-Climate policy and economics including integrated assessment models
+- Atmospheric sciences, including atmospheric dynamics, physics, chemistry and climatology
+- Oceanography including sea ice and ocean biogeochemistry
+- Earth science including land surface processes, hydrology and glaciology
+- Land vegetation and interactions of ecosystems with the climate
+- Geodynamics, seismology, geodesy and geochemistry
+- Human and physical geography
+- Climate policy and economics including integrated assessment models
+
 Talks can focus on software that solves equations, analyses or visualises data, processes measurements and especially software with any combination of the above. Talks on planetary sciences are equally welcome especially when they parallel the issues and opportunities to the fields mentioned.
 
 Chairs
