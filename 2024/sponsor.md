@@ -6,7 +6,7 @@ We invite your organization to be a sponsor of JuliaCon 2024. You can find our [
 
 JuliaCon is the largest annual conference organized around Julia, the fastest high-performance open source computing language for machine learning, artificial intelligence, life sciences, robotics, algorithmic trading, real-time analytics and more.
 
-Last year, JuliaCon was held at MIT in Boston, USA. This year, we are thrilled to be returning in-person to Europe. With a global audience of developer, JuliaCon offers you the unique opportunity to present your company and your product to a huge group of engaged scientific programmers.
+Last year, JuliaCon was held at MIT in Boston, USA. This year, we are thrilled to be returning to Europe for the first time since 2018. With a global audience of developer, JuliaCon offers you the unique opportunity to present your company and your product to a huge group of engaged scientific programmers.
 
 Eindhoven, Netherlands July 9th - 12th, 2024
 ~~~
@@ -14,6 +14,8 @@ Eindhoven, Netherlands July 9th - 12th, 2024
     <a class="btn" style="width: 99%" >Sponsorship Opportunities</a>
 </div>
 ~~~
+
+
 
 ~~~
 <style> 
@@ -240,7 +242,7 @@ The keynotes are outside on the pitch where everyone can attend, meaning during 
 
 ## What is included in access to the Attendee List?
 
-The list will be a .csv file with attendee name, email, job title, and company from those who have opted in during registration. Platinum sponsors receive access to the Attendee List.
+The list will be a .csv file with attendee name, email, job title, and company from those who have opted in during registration. Platinum and Diamond sponsors receive access to the Attendee List.
 
 ## What is the Job Board?
 

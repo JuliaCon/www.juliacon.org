@@ -5,7 +5,7 @@ title = "JuliaCon 2024"
 insert_top_title = true
 top_title = "JuliaCon 2024\n"
 top_description = "Join the largest annual conference organized around the Julia programming language.\n"
-top_date = "Philips Stadion, Eindhoven. July 9th–12th, 2024."
+top_date = "Philips Stadion, Eindhoven. July 9th–13th, 2024."
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
@@ -33,9 +33,8 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   ~~~
 \end{box}
 
-\begin{box}{title="Workshop", color="red"}
-  Besides the awesome talks that will be hosted on 10, 11 and 12 July, there will also be workshops on the day before conference! These will be held at the [ASML campus](https://maps.app.goo.gl/vNteDpgicWXQBAiG6) on the 9th of July!
-
+\begin{box}{title="Workshop", color="light-blue"}
+  Besides the awesome talks that will be hosted on July 10th, 11th and 12th, there will also be other activities on the days around the conference! On July 9th workshops will be held, and on July 13th the annual hackathon will be held. The locations for both activities will be finalized soon.
 \end{box}
 
 \begin{box}{title="2023 videos", color="dark-purple"}
