@@ -5,14 +5,14 @@ A minisymposium is a conference within a conference.
 There are two kinds of minisymposia
 
 1. Minisymposia accepting submissions
-    a. [Earth and climate science in Julia: Power to the user](/2024/minisymposia/earth)
-    b. [Aerospace minisymposium](/2024/minisymposia/aerospace)
-    c. [Industrial Julia](/2024/minisymposia/industrial)
-    d. [Scientific Data Minisymposium](/2024/minisymposia/data)
-    e. [Quantum minisymposia](/2024/minisymposia/quantum)
+    - [Earth and climate science in Julia: Power to the user](/2024/minisymposia/earth)
+    - [Aerospace minisymposium](/2024/minisymposia/aerospace)
+    - [Industrial Julia](/2024/minisymposia/industrial)
+    - [Scientific Data Minisymposium](/2024/minisymposia/data)
+    - [Quantum minisymposia](/2024/minisymposia/quantum)
 
 2. Minisymposia with predefined program
-    a. [Julia for High-Performance Computing](/2024/minisymposia/hpc)
+    - [Julia for High-Performance Computing](/2024/minisymposia/hpc)
 
 ## How to submit to a minisymposium
 
