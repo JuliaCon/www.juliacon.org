@@ -1,5 +1,17 @@
 using FranklinUtils
 
+@env function widebox(md; title="", color="purple")
+  return html("""
+      <div class="grid-item col-12">
+        <div class="content-box $color-box">
+          <h2>$title</h2>
+      """) * md * html("""
+        </div>
+        <div class="u-vskip-2"></div>
+      </div>
+      """)
+end
+
 @env function box(md; title="", color="purple")
     return html("""
         <div class="grid-item col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2">
