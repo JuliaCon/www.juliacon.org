@@ -1,7 +1,8 @@
 +++
 author = "JuliaCon"
 
-prepath = ""        # remove this when deploying
+prepath = get(ENV, "PREVIEW_FRANKLIN_PREPATH", "")
+website_url = get(ENV, "PREVIEW_FRANKLIN_WEBSITE_URL", "juliacon.org")
 
 # Current year
 year = "2024"
@@ -15,8 +16,8 @@ keep_path = ["2019/", "2018/", "2017/", "2016/", "2015/", "2014/"]
 
 # Global configuration per event
 # The key in the configuration represents the link address, and might be different from the year,
-# the `year` is storead as configuration entry instead
-# The `global = false` events are showns as `Local events in $year` at the top of the page for a given year.
+# the `year` is stored as configuration entry instead
+# The `global = false` events are shown as `Local events in $year` at the top of the page for a given year.
 # The `alert` displays the message on the top of the website
 # The `advertise_in_landing = true` local events are linked from the landing page even if the year does not match the latest.
 # For the `header` each entry can be either "Link Title"::String => "Link Url"::String
@@ -113,9 +114,9 @@ configuration = Dict(
     "local/eindhoven2023" => Dict(
         "global" => false,
         "year" => 2023,
-        "advertise_in_landing" => true,
+        "advertise_in_landing" => false,
         "location" => "Eindhoven",
-        "alert" => """Check out the next <a href="https://juliacon.org/2024/">JuliaCon</a>!""",
+        "alert" => """<a href="https://www.youtube.com/playlist?list=PLP8iPy9hna6Tp3QV4akXAd23_O5Vjm_e2">Check out the JuliaCon Local Eindhoven 2023 videos!</a>""",
         "site_name" => "JuliaCon Local Eindhoven 2023",
         "site_descr" => "JuliaCon Local Eindhoven 2023, Eindhoven, High Tech Campus",
         "site_url" => "https://juliacon.org/local/eindhoven2023/",
@@ -137,17 +138,19 @@ configuration = Dict(
         "global" => true,
         "year" => 2024,
         "location" => "Eindhoven",
-        "alert" => """<a href="https://pretalx.com/juliacon2024/cfp">Call for Proposals open! Submit your talks!</a>""",
+        "alert" => """<a href="https://pretalx.com/juliacon2024/cfp">Call for Proposals now open! Submit your talks!</a>""",
         "site_name" => "JuliaCon 2024",
         "site_descr" => "JuliaCon 2024, Eindhoven, Philips Stadion",
         "site_url" => "https://juliacon.org/2024/",
         "main_heading_color" => "black",
         "header_color" => "#389826",
         "header" => [
-            "Volunteer" => "/2024/volunteer",
-            "Venue" => "/2024/venue",
-            "Code of Conduct" => "/2024/coc",
             "Call for Proposals" => "https://pretalx.com/juliacon2024/cfp",
+            "Minisymposia" => "/2024/minisymposia",
+            "Sponsor" => "/2024/sponsor", 
+            "Venue" => "/2024/venue",
+            "Volunteer" => "/2024/volunteer",
+            "Code of Conduct" => "/2024/coc",
         ]
     ),
 )

@@ -1,6 +1,6 @@
 # Social Events
 
-We have prepared a range of social activities for JuliaCon 2023. In addition to the
+We have prepared a range of social activities for JuliaCon 2024. In addition to the
 posters and appetizers session on Wednesday evening, this includes:
 
  - Monday: Guided city tour

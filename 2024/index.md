@@ -5,7 +5,7 @@ title = "JuliaCon 2024"
 insert_top_title = true
 top_title = "JuliaCon 2024\n"
 top_description = "Join the largest annual conference organized around the Julia programming language.\n"
-top_date = "Philips Stadion, Eindhoven. July 9th–12th, 2024."
+top_date = "Philips Stadion, Eindhoven. July 9th–13th, 2024."
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
@@ -16,7 +16,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 
 
 \begin{widebox}{title="Call for proposals open! Submit your talks!", color="dark-blue"}
-  The [call for proposals](https://pretalx.com/juliacon2024/cfp) is now out. Please note the deadline for submitting proposals (15th January 2024).
+  JuliaCon 2024 will be held at the [Philips Stadion](https://www.philipsstadion.nl/en/) in Eindhoven, Netherlands. The [call for proposals](https://pretalx.com/juliacon2024/cfp) is now out. Please note the deadline for submitting proposals (January 31st 2024).
   ~~~
   <div class="u-vskip-2"></div>
   <div style="text-align: center">
@@ -50,8 +50,8 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   ~~~
 \end{box}
 
-\begin{box}{title="Julia Community Prize", color="red"}
-  The Julia Community Prize 2024 nominations are now open. [Nominate someone today](/2024/).
+\begin{box}{title="Workshop", color="light-blue"}
+  Besides the awesome talks that will be hosted on July 10th, 11th and 12th, there will also be other activities on the days around the conference! On July 9th workshops will be held, and on July 13th the annual hackathon will be held. The locations for both activities will be finalized soon.
 \end{box}
 
 \begin{box}{title="2023 videos", color="dark-purple"}
@@ -59,12 +59,20 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   We also have some [photographic memories from previous JuliaCons](memories/).
 \end{box}
 
+\begin{box}{title="Help me attend", color="purple"}
+
+We aim to provide limited tickets and travel grants for members of [underrepresented communities](/2024/dei), as well as on-site childcare.
+
+If you are traveling from outside the Schengen area you may need [a visa](/2024/venue/#visa_info).
+
+\end{box}
+
 \begin{box}{title="Code of Conduct", color="dark-green"}
   JuliaCon is dedicated to providing a positive conference experience for all attendees, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or national and ethnic origin.
   We encourage respectful and considerate interactions between attendees and do not tolerate harassment of conference participants in any form.
   For example, offensive or sexual language and imagery is not appropriate for any conference venue, including formal talks and networking between sessions.
   Conference  participants violating these standards may be sanctioned or expelled from the conference (without a refund) at the discretion of the conference organizers.
-  Our anti-harassment policy and information about who to contact if you have an issue you'd like to discuss can be found on our [Code of Conduct](/2022/coc/).
+  Our anti-harassment policy and information about who to contact if you have an issue you'd like to discuss can be found on our [Code of Conduct](/2024/coc/).
 \end{box}
 
 \begin{box}{title="Committee", color="dark-blue"}
