@@ -6,13 +6,15 @@ We invite your organization to be a sponsor of JuliaCon 2024. You can find our [
 
 JuliaCon is the largest annual conference organized around Julia, the fastest high-performance open source computing language for machine learning, artificial intelligence, life sciences, robotics, algorithmic trading, real-time analytics and more. This year the conference is set to take place at the iconic [PSV Stadium in Eindhoven](/2024/venue/), the Netherlands, July 9th - 12th, 2024. 
 
-With a global audience of developer, JuliaCon offers you the unique opportunity to present your company and your product to a huge group of engaged scientific programmers.
+Last year, JuliaCon was held at MIT in Boston, USA. This year, we are thrilled to be returning to Europe for the first time since 2018. With a global audience of developer, JuliaCon offers you the unique opportunity to present your company and your product to a huge group of engaged scientific programmers. 
 
 ~~~
 <div style="text-align: center">
     <a class="btn" style="width: 99%" >Sponsorship Opportunities</a>
 </div>
 ~~~
+
+
 
 ~~~
 <style> 
@@ -229,7 +231,7 @@ Unless communicated differently, an expo table is a 2-meter table and chairs, pl
 
 Unless communicated differently, an expo booth is a 2-meter table and chairs but negotiable depending on needs, plus wi-fi and electricity. Sponsor booths are integrated into common areas where they will attract attendee traffic. Sponsors are responsible for shipping charges to and from the conference. It also includes AV support, e.g. Large TV screen. Details to be arranged separately.
 
-## Do Sponsor Technical Talks Go Through the Regular Review Process?
+## Do Sponsor technical talks go through the regular review process?
 
 Sponsors are able to present a talk at the event. While sponsor talks do not go through the regular review process, presentation proposals must be submitted for approval by the review committee. The committee will help ensure that your presentation’s content is appropriate and relevant to the audience at the event.
 
@@ -239,7 +241,7 @@ The keynotes are outside on the pitch where everyone can attend, meaning during 
 
 ## What is included in access to the Attendee List?
 
-The list will be a .csv file with attendee name, email, job title, and company from those who have opted in during registration. Platinum sponsors receive access to the Attendee List.
+The list will be a .csv file with attendee name, email, job title, and company from those who have opted in during registration. Platinum and Diamond sponsors receive access to the Attendee List.
 
 ## What is the Job Board?
 
@@ -247,7 +249,7 @@ Your company’s job listings will be published on the event website and emailed
 
 ## What is a Diversity Scholarship?
 
-One of JuliaCon’s goals is to increase awareness and excitement around opportunities for underrepresented groups in software engineering and data analytics. To that end, we make a number of diversity scholarships available at each JuliaCon event including travel, lodge and tickets. These scholarships provide free registration to attendees 1) who could not otherwise afford to attend the conference and 2) whose participation would contribute to the diversity of the event. All JuliaCon Local Eindhoven 2024 sponsors have at least one diversity scholarship awarded in their name.
+One of JuliaCon’s goals is to increase awareness and excitement around opportunities for underrepresented groups in software engineering and data analytics. To that end, we make a number of diversity scholarships available at each JuliaCon event including travel, lodge and tickets. These scholarships provide free registration to attendees 1) who could not otherwise afford to attend the conference and 2) whose participation would contribute to the diversity of the event. Diversity Scholarships are available for Diamond, Platinum and Gold sponsors
 
 ## What is LED Marquee Advertising?
 

@@ -5,7 +5,7 @@ title = "JuliaCon 2024"
 insert_top_title = true
 top_title = "JuliaCon 2024\n"
 top_description = "Join the largest annual conference organized around the Julia programming language.\n"
-top_date = "Philips Stadion, Eindhoven. July 9th–12th, 2024."
+top_date = "Philips Stadion, Eindhoven. July 9th–13th, 2024."
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
@@ -16,9 +16,6 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 
 \begin{box}{title="JuliaCon 2024", color="purple"}
   JuliaCon 2024 will be held at the [Philips Stadion](https://www.philipsstadion.nl/en/) in Eindhoven, Netherlands. The [call for proposals](https://pretalx.com/juliacon2024/cfp) is now out. Please note the deadline for submitting proposals (January 31st 2024).
-
-  ## Thinking about submitting a proposal?
-  Looking to submit a proposal for JuliaCon 2024 but don’t know how? JuliaCon DEI Committee is holding two workshop + office hour events to get you started on Sunday, January 7th hosted on GatherTown! For more information: [https://forms.gle/V7sD95iEvC3Q6RZ5A](https://forms.gle/V7sD95iEvC3Q6RZ5A)
 \end{box}
 
 ~~~
@@ -34,6 +31,10 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   ~~~
   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2486.8943504147705!2d5.4648729!3d51.4417341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d911c386b16f%3A0x943ec8f52a067b30!2sPhilips%20Stadium!5e0!3m2!1sen!2sus!4v1699467736901!5m2!1sen!2sus" width="100%" height="320" style="border:0;" allowfullscreen></iframe>
   ~~~
+\end{box}
+
+\begin{box}{title="Workshop", color="light-blue"}
+  Besides the awesome talks that will be hosted on July 10th, 11th and 12th, there will also be other activities on the days around the conference! On July 9th workshops will be held, and on July 13th the annual hackathon will be held. The locations for both activities will be finalized soon.
 \end{box}
 
 \begin{box}{title="2023 videos", color="dark-purple"}

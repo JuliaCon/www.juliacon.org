@@ -47,6 +47,10 @@ Eindhoven can be easily reached from Amsterdam airport by train. Refer to the of
 
 **Note:** Keep in mind that trains in the Netherlands don't run at night and stop operating earlier during the weekends, so plan your Amsterdam trip accordingly.
 
+### Frankfurt airport
+
+Eindhoven can also be easily reached by public transport from cities around the Netherlands, checkout [NS international](https://www.nsinternational.com/en) for times and prices! For instance, Frankfurt airport is just 3.5 hours away by train!
+
 ### Accommodation options
 
 Here is a short list of possible accommodation options within close range to the venue, but Eindhoven provides a wide range of possible options, different hotels on [Booking.com](https://www.booking.com) or rooms on [AirBnb](https://www.airbnb.com). 
