@@ -15,7 +15,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 ~~~
 
 \begin{box}{title="JuliaCon 2024", color="purple"}
-  JuliaCon 2024 will be held at the [Philips Stadion](https://www.philipsstadion.nl/en/) in Eindhoven, Netherlands. The [call for proposals](https://pretalx.com/juliacon2024/cfp) is now out. Please note the deadline for submitting proposals (15th January 2024).
+  JuliaCon 2024 will be held at the [Philips Stadion](https://www.philipsstadion.nl/en/) in Eindhoven, Netherlands. The [call for proposals](https://pretalx.com/juliacon2024/cfp) is now out. Please note the deadline for submitting proposals (31st January 2024).
 
   ## Thinking about submitting a proposal?
   Looking to submit a proposal for JuliaCon 2024 but don’t know how? JuliaCon DEI Committee is holding two workshop + office hour events to get you started on Sunday, January 7th hosted on GatherTown! For more information: [https://forms.gle/V7sD95iEvC3Q6RZ5A](https://forms.gle/V7sD95iEvC3Q6RZ5A)

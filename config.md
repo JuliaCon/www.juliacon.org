@@ -146,6 +146,7 @@ configuration = Dict(
         "header_color" => "#389826",
         "header" => [
             "Call for Proposals" => "https://pretalx.com/juliacon2024/cfp",
+            "Minisymposia" => "/2024/minisymposia"
             "Sponsor" => "/2024/sponsor", 
             "Venue" => "/2024/venue",
             "Volunteer" => "/2024/volunteer",
