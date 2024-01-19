@@ -214,12 +214,13 @@ Last year, JuliaCon was held at MIT in Boston, USA. This year, we are thrilled t
 Do not miss our affordable upgrades to meet our attendees where they congregate and socialize! Our packages are fully customizable. Contact us at \email for a sponsorship package that fits your needs!
 
 ## Additional upgrades
-* Additional exhibition table (€1.000) - Enlarge your presence with more table space.
-* Additional A/V support (€1.000) - Impress attendees with dynamic audio visual displays
-* Coffee Sponsorship (€1.000) - Host the coffee next to your table.
-* Happy Hour Sponsorship (€1.000) - Position your company next to refreshments and h’orderves.
-* Large Marquee Advertising (€3.000) - Put your logo on the large screen at the stadium during the day, both on large screen and around stadium
-* Personal Tour of Stadium and Changing Room (€1.000) - Sponsor a visit to the changing room and a tour of the stadium (30m for 10 people)
+* Additional exhibition table (€1.000) -- Enlarge your presence with more table space.
+* Additional A/V support (€1.000) -- Impress attendees with dynamic audio visual displays
+* Coffee Sponsorship (€1.000) -- Host the coffee next to your table.
+* Happy Hour Sponsorship (€1.000) -- Position your company next to refreshments and h’orderves.
+* Diversity Scholarship Award (€3,000) -- Support travel, lodge and registration fee costs for 2 attendees from underrepresented groups.
+* Large Marquee Advertising (€3.000) -- Put your logo on the large screen at the stadium during the day, both on large screen and around stadium
+* Personal Tour of Stadium and Changing Room (€1.000) -- Sponsor a visit to the changing room and a tour of the stadium (30m for 10 people)
 
 # FAQ
 
