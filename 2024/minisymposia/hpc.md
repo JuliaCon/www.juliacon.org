@@ -10,7 +10,7 @@ The minisymposium will include presentations of the following confirmed speakers
 
 - Giacomo Aloisi (ETH Zurich, Switzerland) “SeismicWaves.jl: a Julia package for Full-Waveform Inversion on multi-xPUs”
 - Tim Besard (JuliaHub) “Update on CUDA.jl and oneAPI.jl changes”
-- Simon Byrne (California Institute of Technology, USA) “Juggling GPUs: handling multiple devices for distributed computing”
+- Sriharsha Kandala (California Institute of Technology, USA) “Juggling GPUs: handling multiple devices for distributed computing”
 - Bernat Font and Gabriel Weymouth (TU Delft) “WaterLily.jl: A fast and flexible CFD solver with heterogeneous execution”
 - Benedict Geihe (University of Cologne, Germany) “libtrixi: serving legacy codes in earth system modeling with fresh Julia CFD”
 - Boris Kaus (JGU Mainz, Germany) & Ludovic Räss (University Lausanne, Switzerland) "Developing Supercomputing Geoscience Applications using Composable Julia Tools"
