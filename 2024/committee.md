@@ -3,7 +3,7 @@
 * Ranjan Anantharaman, co-Chair [Twitter](https://twitter.com/ranjan_ananth)
 * Raye Kimmerer, co-Chair & Local Chair [Twitter](https://github.com/rayegun)
 * Katharine Hyatt, Program [Twitter](https://twitter.com/kslimes)
-* Michael Herbst, Program [Github](https://github.com/mfherbst)
+* Luca Ferranti, Program [Github](https://github.com/lucaferranti)
 * Mark Kittisopikul, Finance [Twitter](https://twitter.com/markkitti), [Github](https://github.com/mkitti), [LinkedIn](www.linkedin.com/in/markkittisopikul)
 * Oscar Dowson, Program [Github](https://github.com/odow)
 * Avik Sengupta, Finance [Twitter](https://twitter.com/aviksengupta)
