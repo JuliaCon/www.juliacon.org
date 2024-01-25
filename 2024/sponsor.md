@@ -178,9 +178,9 @@ Last year, JuliaCon was held at MIT in Boston, USA. This year, we are thrilled t
     </tr>
     <tr>
       <td>Number Of Diversity Scholars Awarded in Your Name</td>
+      <td><span style="color: green">4</span></td>
+      <td><span style="color: green">3</span></td>
       <td><span style="color: green">2</span></td>
-      <td><span style="color: green">2</span></td>
-      <td><span style="color: green">1</span></td>
       <td></td>
       <td></td>
       <td></td>
