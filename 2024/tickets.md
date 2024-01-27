@@ -13,10 +13,11 @@ This year's conference will take place in person at [PSV Stadium](/2024/venue) i
 
 ~~~
 <div style="text-align: center">
-<h2 class="btn" style="width: 100%; border-color: #9d253d;">
-    <a style="color: #9d253d; text-decoration: none;" href="https://www.tickettailor.com/events/numfocus1/1114995#">Buy your ticket here!</a>
-</h2>
+<a class="btn" style="width: 100%; border-color: #9d253d; text-decoration: none;" href="https://www.tickettailor.com/events/numfocus1/1114995#">
+    Buy your ticket here!
+</a>
 </div>
+<br>
 ~~~
 
 Please only select a student ticket if you are a registered student. We have a limited number of student tickets and want to make the conference accessible to those who need them.
