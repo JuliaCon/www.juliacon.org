@@ -42,6 +42,16 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 -->
 ~~~
 
+\begin{box}{title="Ticket sale", color="red"}
+  Ticket sale is now open!
+  ~~~
+  <div class="u-vskip-2"></div>
+  <div style="text-align: center">
+    <h2 class="btn" style="width: 60%; border-color: #3857bd;"><a style="color: #3857bd; text-decoration: none;" href="https://www.tickettailor.com/events/numfocus1/1114995#">Buy your ticket here!</a></h2>
+  </div>
+  ~~~
+\end{box}
+
 \begin{box}{title="Venue", color="light-red"}
   The conference venue will be the [Philips Stadion](https://www.philipsstadion.nl/en/), the home of the [PSV Eindhoven](https://www.psv.nl/english-psv/english-psv.htm) football club, in Eindhoven, Netherlands. Read more about the venue and traveling information [here](/2024/venue).
 
