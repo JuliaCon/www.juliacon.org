@@ -47,7 +47,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   ~~~
   <div class="u-vskip-2"></div>
   <div style="text-align: center">
-    <h2 class="btn" style="width: 60%; border-color: #3857bd;"><a style="color: #3857bd; text-decoration: none;" href="https://www.tickettailor.com/events/numfocus1/1114995#">Buy your ticket here!</a></h2>
+    <h2 class="btn" style="width: 60%; border-color: #9d253d;"><a style="color: #9d253d; text-decoration: none;" href="https://www.tickettailor.com/events/numfocus1/1114995#">Buy your ticket here!</a></h2>
   </div>
   ~~~
 \end{box}
