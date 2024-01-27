@@ -25,7 +25,7 @@ We think people should follow these rules outside event activities too!
 
 ## Reporting
 
-If you would like to report a CoC violation or discuss any incident that may have left you uncomfortable, please contact a committee member (listed [here](https://juliacon.org/2024/committee/) in-person, a volunteer at the front desk, or email us at [juliacon@julialang.org](juliacon@julialang.org).
+If you would like to report a CoC violation or discuss any incident that may have left you uncomfortable, please contact a committee member (listed [here](https://juliacon.org/2024/committee/)) in-person, a volunteer at the front desk, or email us at [juliacon@julialang.org](juliacon@julialang.org).
 Other event staff may be involved to ensure your report is managed properly.
 You won't be asked to confront anyone and your report and identity will be kept confidential.
 
