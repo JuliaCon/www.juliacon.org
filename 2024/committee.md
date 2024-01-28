@@ -1,7 +1,7 @@
 # JuliaCon 2024 Organizing Committee
 
 * Ranjan Anantharaman, co-Chair [Twitter](https://twitter.com/ranjan_ananth)
-* Raye Kimmerer, co-Chair [Twitter](https://github.com/rayegun)
+* Raye Kimmerer, co-Chair [GitHub](https://github.com/rayegun)
 * Katharine Hyatt, Program co-Chair [Twitter](https://twitter.com/kslimes)
 * Luca Ferranti, Program co-Chair [Github](https://github.com/lucaferranti)
 * Mark Kittisopikul, Finance Chair [Twitter](https://twitter.com/markkitti), [Github](https://github.com/mkitti), [LinkedIn](www.linkedin.com/in/markkittisopikul)
@@ -9,7 +9,6 @@
 * Valentin Churavy, DEI co-Chair [GitHub](https://github.com/vchuravy)
 * Gareth Thomas, Local Chair [LinkedIn](https://www.linkedin.com/in/g-thomas/)
 * Kevin O'Brien, Media and Publicity [Twitter](https://twitter.com/dragonflystats)
-* Steven Kell, Media and Publicity [GitHub](https://github.com/StevenKell)
 * Carsten Bauer, Proceedings Chair [GitHub](https://github.com/carstenbauer)
 * Pablo Zubieta, Web [Github](https://github.com/pabloferz)
 * Jorge Vieyra, Local organizer [LinkedIn](https://www.linkedin.com/in/jorge-vieyra-76280542/)
