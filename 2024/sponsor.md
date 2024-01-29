@@ -67,7 +67,7 @@ Last year, JuliaCon was held at MIT in Boston, USA. This year, we are thrilled t
       <td></td>
     </tr>
     <tr>
-      <td>Exhibition Table (with A/V)</td>
+      <td>Exhibition Booth (with A/V)</td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
