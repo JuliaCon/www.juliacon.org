@@ -47,7 +47,7 @@ Last year, JuliaCon was held at MIT in Boston, USA. This year, we are thrilled t
   </thead>
   <tbody>
     <tr>
-      <td>Logo on Event Website and Sponsor Banner</td>
+      <td>Print and web advertising</td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
@@ -57,17 +57,7 @@ Last year, JuliaCon was held at MIT in Boston, USA. This year, we are thrilled t
       <td><span style="color: green">✓</span></td>
     </tr>
     <tr>
-      <td>Promo materials inside goodie bag</td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-    </tr>
-    <tr>
-      <td>Job Board Listing</td>
+      <td>Job Board</td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
@@ -77,37 +67,17 @@ Last year, JuliaCon was held at MIT in Boston, USA. This year, we are thrilled t
       <td></td>
     </tr>
     <tr>
-      <td>Logo on T-shirt</td>
+      <td>Exhibition Booth (with A/V)</td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓<br/>no A/V</span></td>
       <td></td>
     </tr>
     <tr>
-      <td>Exhibition Table (2m x 2m)</td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Expo Booth (with A/V, TV, etc)</td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sponsored Talk, in a room, 5m talk</td>
+      <td>Sponsored Talk (10m), before a regular session</td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
@@ -117,27 +87,7 @@ Last year, JuliaCon was held at MIT in Boston, USA. This year, we are thrilled t
       <td></td>
     </tr>
     <tr>
-      <td>Prime Logo Placement on Event Videos</td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Tour and visit of Changing Room (10 people, 30min)</td>
-      <td><span style="color: green">6x</span> </td>
-      <td><span style="color: green">3x</span></td>
-      <td><span style="color: green">2x</span></td>
-      <td><span style="color: green">1x</span></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sponsored Talk, on the pitch, 5-10m talk</td>
+      <td>Sponsored Talk (10m), before a keynote session</td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
@@ -147,7 +97,7 @@ Last year, JuliaCon was held at MIT in Boston, USA. This year, we are thrilled t
       <td></td>
     </tr>
     <tr>
-      <td>Marketing LEDs</td>
+      <td>Access to attendee opt-in attendee information</td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
       <td></td>
@@ -157,9 +107,19 @@ Last year, JuliaCon was held at MIT in Boston, USA. This year, we are thrilled t
       <td></td>
     </tr>
     <tr>
-      <td>Access to Attendee List</td>
+      <td>LED Marquee Advertising</td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lead Sponsor Benefits (Largest logo, discounted tickets)</td>
+      <td><span style="color: green">✓</span></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -206,7 +166,6 @@ Last year, JuliaCon was held at MIT in Boston, USA. This year, we are thrilled t
       <td><span style="color: green">2</span></td>
       <td><span style="color: green">1</span></td>
     </tr>
-
   </tbody>
 </table>
 ~~~
@@ -214,13 +173,13 @@ Last year, JuliaCon was held at MIT in Boston, USA. This year, we are thrilled t
 Do not miss our affordable upgrades to meet our attendees where they congregate and socialize! Our packages are fully customizable. Contact us at \email for a sponsorship package that fits your needs!
 
 ## Additional upgrades
-* Additional exhibition table (€1.000) -- Enlarge your presence with more table space.
-* Additional A/V support (€1.000) -- Impress attendees with dynamic audio visual displays
-* Coffee Sponsorship (€1.000) -- Host the coffee next to your table.
-* Happy Hour Sponsorship (€1.000) -- Position your company next to refreshments and h’orderves.
-* Diversity Scholarship Award (€3,000) -- Support travel, lodge and registration fee costs for 2 attendees from underrepresented groups.
-* Large Marquee Advertising (€3.000) -- Put your logo on the large screen at the stadium during the day, both on large screen and around stadium
-* Personal Tour of Stadium and Changing Room (€1.000) -- Sponsor a visit to the changing room and a tour of the stadium (30m for 10 people)
+* Additional exhibition table (€1000) -- Enlarge your presence with more table space.
+* Additional A/V support (€1000) -- Impress attendees with dynamic audio visual displays
+* Coffee Sponsorship (€1000) -- Host the coffee next to your table.
+* Happy Hour Sponsorship (€1000) -- Position your company next to refreshments and h’orderves.
+* Diversity Scholarship Award (€3000) -- Support travel, lodge and registration fee costs for 2 attendees from underrepresented groups.
+* Large Marquee Advertising (€3000) -- Put your logo on the large screen at the stadium during the day, both on large screen and around stadium
+* Personal Tour of Stadium and Changing Room (€1000) -- Sponsor a visit to the changing room and a tour of the stadium (30m for 10 people)
 
 # FAQ
 
