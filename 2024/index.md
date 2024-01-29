@@ -43,7 +43,6 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 ~~~
 
 \begin{box}{title="Ticket sale", color="red"}
-  Ticket sale is now open!
   ~~~
   <div class="u-vskip-2"></div>
   <div style="text-align: center">
