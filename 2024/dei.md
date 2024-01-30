@@ -8,6 +8,6 @@ Financial assistance cannot be guaranteed at this time, but we will do what we c
 
 ## Childcare
 
-We plan to have on-site childcare at JuliaCon 2024 for children between the ages of 0-6. We are still working out the details, but there will be an option when purchasing a ticket to sign your child up for one of the available JuliaCare slots! We hope that this will allow increased attendance and participation from parents of young children
+We plan to have on-site childcare at JuliaCon 2024 for children between the ages of 0-6. When you purchase your ticket there is an option to sign up for one of the available JuliaCare childcare slots! We hope that this will allow increased attendance and participation from parents of young children. As we approach the conference those who signed up will be contacted with more details.
 
 <!-- ## Venue Accessibility -->
