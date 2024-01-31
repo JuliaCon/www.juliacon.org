@@ -1,6 +1,15 @@
 # Diversity, Equity, and Inclusion at JuliaCon 2024
 
 ## Ticket and Travel Grants
+~~~
+
+<div style="width: 40%; margin: auto">
+
+  <img src="/assets/2024/img/JuliaDEIScholarship.png" alt="DEI Announcement">
+  <br>
+  <br>
+</div>
+~~~
 
 JuliaCon 2024 will attempt provide financial assistance to those who wish to attend but for whom it is financially infeasible. A portion of sponsorship money will be set aside for Diversity, Equity, and Inclusion (DEI) initiatives, including providing free tickets and travel assistance to diverse attendees. Priority will be given to speakers, so please submit a proposal to speak even if you aren’t sure of the financial feasibility of attending right now.
 
