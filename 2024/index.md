@@ -10,27 +10,6 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 +++
 
 ~~~
-<div class="container">
-  <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
-~~~
-
-
-\begin{widebox}{title="Call for proposals open! Submit your talks!", color="dark-blue"}
-  JuliaCon 2024 will be held at the [Philips Stadion](https://www.philipsstadion.nl/en/) in Eindhoven, Netherlands. The [call for proposals](https://pretalx.com/juliacon2024/cfp) is now out. Please note the deadline for submitting proposals (January 31st 2024).
-  ~~~
-  <div class="u-vskip-2"></div>
-  <div style="text-align: center">
-    <h2 class="btn" style="width: 40%; border-color: #3857bd;"><a style="color: #3857bd; text-decoration: none;" href="https://pretalx.com/juliacon2024/cfp">Submit your talk today!</a></h2>
-  </div>
-  ~~~
-\end{widebox}
-
-~~~
-  </div>
-</div>
-~~~
-
-~~~
 <!-- <div class="container"> -->
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
