@@ -156,6 +156,7 @@ Use this [link](https://www.ihg.com/holidayinn/hotels/us/en/eindhoven/einnl/hote
 Here is a short list of other possible accommodation options within close range to the venue (without discount).
 
 - [Hotel The Match, Kleine berg 43, 5611 JS](https://maps.app.goo.gl/95DzfpvPdq9q4dYC7)
-- [Holiday Inn, Veldmaarschalk Montgomerylaan 1, 5612 BA](https://maps.app.goo.gl/4zVuFPZximoqZP6L9)
 - [Hotel la Reine, Wilhelminaplein 3, 5611 HE](https://maps.app.goo.gl/zzg4nDRwWLg2hX9j9)
 - [Boutique Hotel Lumière, Hooghuisstraat 31A, 5611 GS](https://maps.app.goo.gl/w3oHoeexTbR4LvJ86)
+
+Additionally, a range of alternative accommodations can be explored through reputable platforms such as [Booking.com](https://www.booking.com) or [AirBnb](https://www.airbnb.com). 
