@@ -1,6 +1,14 @@
 
 # Hotels
 
+~~~
+<div style="width: 100%; overflow: hidden;">
+<iframe src="https://www.google.com/maps/d/embed?mid=1Fx_yRFqAtkKKhZU980Jn5NPx_vUrJ5U&ehbc=2E312F" width="100%" height="480"></iframe>
+<br>
+<br>
+</div>
+~~~
+
 JuliaCon organizers have secured exclusive promotional deals with select hotels in the area, providing attendees with a substantial **15% discount**.
 
 ## Van der Valk Hotel Eindhoven
