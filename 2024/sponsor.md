@@ -16,8 +16,8 @@ Last year, JuliaCon was held at MIT in Boston, USA. This year, we are thrilled t
         <img src="/assets/2024/img/prospectus_preview.jpg" style="width: 35%"/>
         <br>
         <br>
-        <a class="btn" style="width: 35%" >Download our Sponsorship Prospectus PDF</a>
     </a>
+    <a href="https://drive.google.com/file/d/15F8WYZxSPcMPjH7jfDqog6XQFuf7i3pR/view?usp=drive_link=" class="btn" style="width: 35%" >Download our Sponsorship Prospectus PDF</a>
 </div>
 ~~~~
 
