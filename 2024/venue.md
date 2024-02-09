@@ -3,6 +3,16 @@
 JuliaCon 2024, the annual conference for the Julia programming language enthusiasts, is set to take place at the iconic [PSV Stadium](https://www.philipsstadion.nl/en/) in Eindhoven, the Netherlands. Notably, the PSV Stadium, also known as Philips Stadion, is not only a renowned sports venue but also stands as the home ground of [PSV Eindhoven](https://www.psv.nl/english-psv/english-psv.htm), one of the most successful football clubs in Dutch history. This unique choice of venue adds an exciting blend of technology and sports to the conference experience, offering attendees the chance to immerse themselves in the dynamic atmosphere of both the programming world and the vibrant sporting legacy of the city.
 
 ~~~
+<div style="text-align: center">
+<a class="btn" style="width: 60%; border-color: #9d253d; text-decoration: none;" href="/2024/venue-hotels">
+    Check our <b>promo 15% discounts</b> on the hotels!
+</a>
+</div>
+<br>
+~~~
+
+
+~~~
 <div style="width: 100%; ">
   <img width=100% src="/assets/2024/img/psvvenue.jpeg" alt="PSV Stadium">
   <br>
@@ -53,14 +63,16 @@ Eindhoven can also be easily reached by public transport from cities around the 
 
 ### Accommodation options
 
-Here is a short list of possible accommodation options within close range to the venue, but Eindhoven provides a wide range of possible options, different hotels on [Booking.com](https://www.booking.com) or rooms on [AirBnb](https://www.airbnb.com). 
+Eindhoven, a contemporary city with diverse accommodations in close proximity to the venue, serves as an ideal setting for our conference. JuliaCon organizers have secured exclusive promotional deals with select hotels in the area, providing attendees with a substantial **15% discount**. Detailed information about these special offers can be accessed [here](/2024/venue-hotels). Additionally, a range of alternative accommodations can be explored through reputable platforms such as [Booking.com](https://www.booking.com) or [AirBnb](https://www.airbnb.com). 
 
-- [Hotel The Match, Kleine berg 43, 5611 JS](https://maps.app.goo.gl/95DzfpvPdq9q4dYC7)
-- [Holiday Inn, Veldmaarschalk Montgomerylaan 1, 5612 BA](https://maps.app.goo.gl/4zVuFPZximoqZP6L9)
-- [The Social Hub, Stationsweg 1, 5611 AA](https://maps.app.goo.gl/6gasXaShAJgr7PxQ6)
-- [Inntel Hotels Art, Lichttoren 22, 5611 BJ](https://maps.app.goo.gl/gJDpUcG4p3WvgD1H9)
-- [Hotel la Reine, Wilhelminaplein 3, 5611 HE](https://maps.app.goo.gl/zzg4nDRwWLg2hX9j9)
-- [Boutique Hotel Lumière, Hooghuisstraat 31A, 5611 GS](https://maps.app.goo.gl/w3oHoeexTbR4LvJ86)
+~~~
+<div style="text-align: center">
+<a class="btn" style="width: 60%; border-color: #9d253d; text-decoration: none;" href="/2024/venue-hotels">
+    Check our <b>promo 15% discounts</b> on the hotels!
+</a>
+</div>
+<br>
+~~~
 
 ## Commute in Eindhoven 
 
