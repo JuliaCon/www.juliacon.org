@@ -19,10 +19,12 @@
 
 ## Proceedings Committee
 
-* Carsten Bauer
 * Mathieu Besançon
-* Ranjan Anantharaman
-* Valentin Churavy
+* Luca Ferranti
+* Ludovic Räss
+* Samuel Omlin
+* Nikos Pitsianis
+* Dimitris Floros
 
 
 ### Joining the Committee
