@@ -50,7 +50,9 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 
 \begin{box}{title="Help me attend", color="purple"}
 
-We aim to provide limited tickets and travel grants for members of [underrepresented communities](/2024/dei), as well as on-site childcare.
+We aim to provide limited tickets and travel grants for speakers and members of underrepresented communities in computing/science, as well as on-site childcare. Learn more about our [Diversity Initatives](/2024/dei)! 
+
+Apply for speaker grants or a diversity grant [here](https://forms.gle/tniSUTkNZE3GXNBU7). More information on the distinction between awards in the form description. 
 
 If you are traveling from outside the Schengen area you may need [a visa](/2024/venue/#visa_info).
 
