@@ -11,91 +11,6 @@
 
 JuliaCon organizers have secured exclusive promotional deals with select hotels in the area, providing attendees with a substantial **15% discount**.
 
-## Van der Valk Hotel Eindhoven
-
-A modern venue close to Eindhoven's largest nature park.
-
-Distance from venue: 5 km.
-Use this [link](https://www.valkverrast.nl/en/promotions) 
-and the code: **EIN-JuliaCon**
-
-~~~
-<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
-    <img src="/assets/2024/img/hotels/vandervalk.png" alt="VanDerValk" style="max-width: 50%; height: auto; display: block;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2488.808476380046!2d5.476680776523291!3d51.40657371806414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d83513b28565%3A0xce107ab6979899ad!2sVan%20der%20Valk%20Hotel%20Eindhoven!5e0!3m2!1sen!2snl!4v1707503140104!5m2!1sen!2snl" frameborder="0" allowfullscreen style="width: 50%; border: 0;"></iframe>
-</div>
-<br>
-<br>
-~~~
-
-## Sandton Hotel Eindhoven Centre
-
-An urban boutique hotel right in the center of Eindhoven.
-
-Distance from venue: 1.6 km.
-Use this [link](https://app.mews.com/distributor/dfae9dca-410f-4b42-b980-adf100e604e5?mewsVoucherCode=JuliaCon) 
-and the code: **JuliaCon**
-
-~~~
-<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
-    <img src="/assets/2024/img/hotels/sandton.png" alt="Sandton" style="max-width: 50%; height: auto; display: block;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.3250885474895!2d5.481728476524828!3d51.43382341607573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d8fe0cf83a99%3A0xb4541262a6663b44!2sSandton%20Eindhoven%20Centre!5e0!3m2!1sen!2snl!4v1707503163036!5m2!1sen!2snl" frameborder="0" allowfullscreen style="width: 50%; border: 0;"></iframe>
-</div>
-<br>
-<br>
-~~~
-
-## The Social Hub
-
-An open-minded hub with a playful attitude in the heart of the city.
-
-Distance from venue: 1 km.
-Use this [link](http://www.thesocialhub.co/Eindhoven) 
-and the code: **Juliacon2024**
-
-~~~
-<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
-    <img src="/assets/2024/img/hotels/socialhub.png" alt="SocialHub" style="max-width: 50%; height: auto; display: block;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.881640180631!2d5.478713676525249!3d51.44196751548133!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d91d017f6171%3A0xe6bcd50684a3ac31!2sThe%20Social%20Hub%20Eindhoven!5e0!3m2!1sen!2snl!4v1707503188664!5m2!1sen!2snl" frameborder="0" allowfullscreen style="width: 50%; border: 0;"></iframe>
-</div>
-<br>
-<br>
-~~~
-
-## Park Plaza Eindhoven
-
-A quiet and peaceful base in the heart of the city.
-
-Distance from venue: 1.7 km.
-Use this [link](https://www.radissonhotels.com/nl-nl/booking/room-display?hotelCode=NLPPEINPPE&checkInDate=2024-07-08&checkOutDate=2024-07-12&adults%5B%5D=1&children%5B%5D=0&searchType=pac&promotionCode=JULCON24&rhgext=Qm9PSty6s3HG) 
-and the code: **JULCON24**
-
-~~~
-<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
-    <img src="/assets/2024/img/hotels/parkplaza.png" alt="ParkPlaza" style="max-width: 50%; height: auto; display: block;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.881640180631!2d5.478713676525249!3d51.44196751548133!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d8fdda82d3e7%3A0xedcd90b4fe2076d0!2sPark%20Plaza%20Eindhoven!5e0!3m2!1sen!2snl!4v1707503211337!5m2!1sen!2snl" frameborder="0" allowfullscreen style="width: 50%; border: 0;"></iframe>
-</div>
-<br>
-<br>
-~~~
-
-## Hotel Mariënhage
-
-An iconic building in the heart of the city center.
-
-Distance from venue: 1.4 km.
-Use this [link](https://book.marienhage.com/nl?stay_detail%5Brateplan_id%5D=JULIACON) 
-and the code: **JULIACON**
-
-~~~
-<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
-    <img src="/assets/2024/img/hotels/marien.png" alt="Marien" style="max-width: 50%; height: auto; display: block;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.265158082538!2d5.482837876524903!3d51.43492411599555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d8fd5f1d9565%3A0x38e3b5047de2c989!2sHotel%20Mari%C3%ABnhage%20Eindhoven!5e0!3m2!1sen!2snl!4v1707503235639!5m2!1sen!2snl" frameborder="0" allowfullscreen style="width: 50%; border: 0;"></iframe>
-</div>
-<br>
-<br>
-~~~
-
 
 ## WestCord Hotel Eindhoven
 
@@ -114,7 +29,6 @@ and the code **JuliaCon congres**.
 <br>
 ~~~
 
-
 ## Holiday Inn Eindhoven
 
 A contemporary location in downtown Eindhoven.
@@ -130,6 +44,124 @@ Use this [link](https://www.ihg.com/holidayinn/hotels/us/en/eindhoven/einnl/hote
 <br>
 <br>
 ~~~
+
+## The Social Hub
+
+An open-minded hub with a playful attitude in the heart of the city.
+
+Distance from venue: 1 km.
+Use this [link](http://www.thesocialhub.co/Eindhoven) 
+and the code: **Juliacon2024**.
+
+~~~
+<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
+    <img src="/assets/2024/img/hotels/socialhub.png" alt="SocialHub" style="max-width: 50%; height: auto; display: block;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.881640180631!2d5.478713676525249!3d51.44196751548133!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d91d017f6171%3A0xe6bcd50684a3ac31!2sThe%20Social%20Hub%20Eindhoven!5e0!3m2!1sen!2snl!4v1707503188664!5m2!1sen!2snl" frameborder="0" allowfullscreen style="width: 50%; border: 0;"></iframe>
+</div>
+<br>
+<br>
+~~~
+
+## NH Collection Eindhoven Centre
+
+A five-star hotel in a local landmark (the Green Tower).
+
+Distance from venue: 1.2 km.
+Use this [link](https://www.nh-hotels.com/en/event/juliacon-cbbe).
+
+~~~
+<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
+    <img src="/assets/2024/img/hotels/nh-collection.png" alt="NH Collection Eindhoven" style="max-width: 50%; height: auto; display: block;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.958666064238!2d5.477800077435176!3d51.44055297179817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d91cd9e378d5%3A0x555a366b51e9107a!2sHotel%20NH%20Collection%20Eindhoven%20Centre!5e0!3m2!1sen!2sus!4v1708559202556!5m2!1sen!2sus" frameborder="0" allowfullscreen style="width: 50%; border: 0;"></iframe>
+</div>
+<br>
+<br>
+~~~
+
+## Hotel Mariënhage
+
+An iconic building in the heart of the city center.
+
+Distance from venue: 1.4 km.
+Use this [link](https://book.marienhage.com/nl?stay_detail%5Brateplan_id%5D=JULIACON) 
+and the code: **JULIACON**.
+
+~~~
+<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
+    <img src="/assets/2024/img/hotels/marien.png" alt="Marien" style="max-width: 50%; height: auto; display: block;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.265158082538!2d5.482837876524903!3d51.43492411599555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d8fd5f1d9565%3A0x38e3b5047de2c989!2sHotel%20Mari%C3%ABnhage%20Eindhoven!5e0!3m2!1sen!2snl!4v1707503235639!5m2!1sen!2snl" frameborder="0" allowfullscreen style="width: 50%; border: 0;"></iframe>
+</div>
+<br>
+<br>
+~~~
+
+## Sandton Hotel Eindhoven Centre
+
+An urban boutique hotel right in the center of Eindhoven.
+
+Distance from venue: 1.6 km.
+Use this [link](https://app.mews.com/distributor/dfae9dca-410f-4b42-b980-adf100e604e5?mewsVoucherCode=JuliaCon) 
+and the code: **JuliaCon**.
+
+~~~
+<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
+    <img src="/assets/2024/img/hotels/sandton.png" alt="Sandton" style="max-width: 50%; height: auto; display: block;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.3250885474895!2d5.481728476524828!3d51.43382341607573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d8fe0cf83a99%3A0xb4541262a6663b44!2sSandton%20Eindhoven%20Centre!5e0!3m2!1sen!2snl!4v1707503163036!5m2!1sen!2snl" frameborder="0" allowfullscreen style="width: 50%; border: 0;"></iframe>
+</div>
+<br>
+<br>
+~~~
+
+## Park Plaza Eindhoven
+
+A quiet and peaceful base in the heart of the city.
+
+Distance from venue: 1.7 km.
+Use this [link](https://www.radissonhotels.com/nl-nl/booking/room-display?hotelCode=NLPPEINPPE&checkInDate=2024-07-08&checkOutDate=2024-07-12&adults%5B%5D=1&children%5B%5D=0&searchType=pac&promotionCode=JULCON24&rhgext=Qm9PSty6s3HG) 
+and the code: **JULCON24**.
+
+~~~
+<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
+    <img src="/assets/2024/img/hotels/parkplaza.png" alt="ParkPlaza" style="max-width: 50%; height: auto; display: block;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.881640180631!2d5.478713676525249!3d51.44196751548133!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d8fdda82d3e7%3A0xedcd90b4fe2076d0!2sPark%20Plaza%20Eindhoven!5e0!3m2!1sen!2snl!4v1707503211337!5m2!1sen!2snl" frameborder="0" allowfullscreen style="width: 50%; border: 0;"></iframe>
+</div>
+<br>
+<br>
+~~~
+
+## Van der Valk Hotel Eindhoven
+
+A modern venue close to Eindhoven's largest nature park.
+
+Distance from venue: 5 km.
+Use this [link](https://www.valkverrast.nl/en/promotions) 
+and the code: **EIN-JuliaCon**.
+
+~~~
+<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
+    <img src="/assets/2024/img/hotels/vandervalk.png" alt="VanDerValk" style="max-width: 50%; height: auto; display: block;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2488.808476380046!2d5.476680776523291!3d51.40657371806414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d83513b28565%3A0xce107ab6979899ad!2sVan%20der%20Valk%20Hotel%20Eindhoven!5e0!3m2!1sen!2snl!4v1707503140104!5m2!1sen!2snl" frameborder="0" allowfullscreen style="width: 50%; border: 0;"></iframe>
+</div>
+<br>
+<br>
+~~~
+
+## NH Eindhoven Conference Centre Koningshof
+
+A versatile location amidst nature.
+
+Distance from venue: 16 km.
+Use this [link](https://www.nh-hotels.com/en/event/juliacon).
+
+~~~
+<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
+    <img src="/assets/2024/img/hotels/nh-koningshof.png" alt="NH Eindhoven Koningshof" style="max-width: 50%; height: auto; display: block;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51661.315346856696!2d5.336918860083796!3d51.38890049021659!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6da77b095244d%3A0x691eb60bbaf52e48!2sHotel%20NH%20Eindhoven%20Conference%20Centre%20Koningshof!5e0!3m2!1sen!2sus!4v1708559590921!5m2!1sen!2sus" frameborder="0" allowfullscreen style="width: 50%; border: 0;"></iframe>
+</div>
+<br>
+<br>
+~~~
+
 
 ## Other options
 
