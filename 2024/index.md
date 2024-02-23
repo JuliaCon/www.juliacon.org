@@ -110,6 +110,7 @@ If you are traveling from outside the Schengen area you may need [a visa](/2024/
   \sponsor{name="Boeing", link="https://www.boeing.com", img="/assets/2024/img/sponsors/boeing-logo.svg", level=4}
 \end{centered}
 -->
+~~~
 
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
   \sponsor{name="VersionBay", link="https://www.versionbay.com", img="/assets/local/eindhoven2023/img/sponsors/VersionBay-Logo.png", level=4}
@@ -123,7 +124,6 @@ If you are traveling from outside the Schengen area you may need [a visa](/2024/
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
 \end{centered}
-~~~
 
 ~~~
 </div>  <!-- container-fluid -->
