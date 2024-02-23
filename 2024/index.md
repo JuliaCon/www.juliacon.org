@@ -93,7 +93,7 @@ If you are traveling from outside the Schengen area you may need [a visa](/2024/
 \end{centered}
 
 \begin{centered}{title="Gold", margin_bottom="3ex"}
-  \sponsor{name="ASML", link="https://www.asml.com", img="/assets/2024/img/sponsors/asml-logo.png", level=3}
+  \sponsor{name="ASML", link="https://www.asml.com", img="/assets/2024/img/sponsors/asml-logo.png", level=2}
 \end{centered}
 
 \begin{centered}{title="Silver", margin_bottom="3ex"}
@@ -109,19 +109,20 @@ If you are traveling from outside the Schengen area you may need [a visa](/2024/
   \sponsor{name="MIT CSAIL", link="https://www.csail.mit.edu", img="/assets/2024/img/sponsors/mit-csail-logo.svg", level=4}
   \sponsor{name="Boeing", link="https://www.boeing.com", img="/assets/2024/img/sponsors/boeing-logo.svg", level=4}
 \end{centered}
+-->
 
-\begin{centered}{title="Academic Partners", margin_bottom="3ex"}
-  \sponsor{name="NAWA", link="https://nawa.gov.pl/en", img="/assets/2024/img/sponsors/nawa-logo.png", level=4}
+\begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
+  \sponsor{name="VersionBay", link="https://www.versionbay.com", img="/assets/local/eindhoven2023/img/sponsors/VersionBay-Logo.png", level=4}
 \end{centered}
 
-\begin{centered}{title="Local Partner", margin_bottom="3ex"}
-  \sponsor{name="Postmates", link="https://postmates.com", img="/assets/2024/img/sponsors/postmates-logo.svg", level=4}
+\begin{centered}{title="Local Partners", margin_bottom="3ex"}
+  \sponsor{name="CBBE", link="https://www.cbbe.nl", img="/assets/2024/img/sponsors/cbbe.png", level=4}
+  \sponsor{name="DeBlokkenDoos", link="https://www.blokkendoos.nl", img="/assets/local/eindhoven2023/img/sponsors/LogoDeBlokkendoos.jpg", level=4}
 \end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
 \end{centered}
--->
 ~~~
 
 ~~~
