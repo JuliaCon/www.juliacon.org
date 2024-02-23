@@ -30,7 +30,7 @@ The Netherlands is part of the Schengen Area. If you need a visa to enter the Sc
 
 ### Invitation Letter
 
-If you need an invitation letter for your visa application, please send an email to \email. Please include your full name (your name as it appears on your passport).
+If you need an invitation letter for your visa application, please fill out the following [form](https://forms.gle/vYnpbwKy7CnEiNYd8).
 
 ### Visa Application
 
