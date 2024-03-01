@@ -50,9 +50,9 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 
 \begin{box}{title="Help me attend", color="purple"}
 
-We aim to provide limited tickets and travel grants for both speakers and members of underrepresented communities in computing/science, as well as on-site childcare. Learn more about our [Diversity Initiatives](/2024/dei)! 
+We aim to provide limited tickets and travel grants for both speakers and members of underrepresented communities in computing/science, as well as on-site childcare. Learn more about our [Diversity Initiatives](/2024/dei)!
 
-Apply for Speaker Funding or a Diversity Scholarship [here](https://forms.gle/tniSUTkNZE3GXNBU7). More information on the distinction between awards is in the form description. 
+Apply for Speaker Funding or a Diversity Scholarship [here](https://forms.gle/tniSUTkNZE3GXNBU7). More information on the distinction between awards is in the form description.
 
 If you are traveling from outside the Schengen area you may need [a visa](/2024/travel/#visa_info).
 
@@ -88,10 +88,6 @@ If you are traveling from outside the Schengen area you may need [a visa](/2024/
 
 ~~~
 <!--
-\begin{centered}{title="Platinum", margin_bottom="3ex"}
-  \sponsor{name="JuliaHub", link="https://juliahub.com", img="/assets/2024/img/sponsors/juliahub-logo.svg", level=1}
-\end{centered}
-
 \begin{centered}{title="Gold", margin_bottom="3ex"}
   \sponsor{name="ASML", link="https://www.asml.com", img="/assets/2024/img/sponsors/asml-logo.png", level=2}
 \end{centered}
@@ -111,6 +107,14 @@ If you are traveling from outside the Schengen area you may need [a visa](/2024/
 \end{centered}
 -->
 ~~~
+
+\begin{centered}{title="Platinum", margin_bottom="3ex"}
+  \sponsor{name="JuliaHub", link="https://juliahub.com", img="/assets/2024/img/sponsors/juliahub-logo.svg", level=1}
+\end{centered}
+
+\begin{centered}{title="Startup", margin_bottom="3ex"}
+  \sponsor{name="Jolin.io", link="https://www.jolin.io", img="/assets/2024/img/sponsors/jolin-logo.png", level=4}
+\end{centered}
 
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
   \sponsor{name="VersionBay", link="https://www.versionbay.com", img="/assets/local/eindhoven2023/img/sponsors/VersionBay-Logo.png", level=3}
