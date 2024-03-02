@@ -50,9 +50,9 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 
 \begin{box}{title="Help me attend", color="purple"}
 
-We aim to provide limited tickets and travel grants for both speakers and members of underrepresented communities in computing/science, as well as on-site childcare. Learn more about our [Diversity Initiatives](/2024/dei)! 
+We aim to provide limited tickets and travel grants for both speakers and members of underrepresented communities in computing/science, as well as on-site childcare. Learn more about our [Diversity Initiatives](/2024/dei)!
 
-Apply for Speaker Funding or a Diversity Scholarship [here](https://forms.gle/tniSUTkNZE3GXNBU7). More information on the distinction between awards is in the form description. 
+Apply for Speaker Funding or a Diversity Scholarship [here](https://forms.gle/tniSUTkNZE3GXNBU7). More information on the distinction between awards is in the form description.
 
 If you are traveling from outside the Schengen area you may need [a visa](/2024/travel/#visa_info).
 
@@ -88,12 +88,8 @@ If you are traveling from outside the Schengen area you may need [a visa](/2024/
 
 ~~~
 <!--
-\begin{centered}{title="Platinum", margin_bottom="3ex"}
-  \sponsor{name="JuliaHub", link="https://juliahub.com", img="/assets/2024/img/sponsors/juliahub-logo.svg", level=1}
-\end{centered}
-
 \begin{centered}{title="Gold", margin_bottom="3ex"}
-  \sponsor{name="ASML", link="https://www.asml.com", img="/assets/2024/img/sponsors/asml-logo.png", level=3}
+  \sponsor{name="ASML", link="https://www.asml.com", img="/assets/2024/img/sponsors/asml-logo.png", level=2}
 \end{centered}
 
 \begin{centered}{title="Silver", margin_bottom="3ex"}
@@ -109,20 +105,29 @@ If you are traveling from outside the Schengen area you may need [a visa](/2024/
   \sponsor{name="MIT CSAIL", link="https://www.csail.mit.edu", img="/assets/2024/img/sponsors/mit-csail-logo.svg", level=4}
   \sponsor{name="Boeing", link="https://www.boeing.com", img="/assets/2024/img/sponsors/boeing-logo.svg", level=4}
 \end{centered}
+-->
+~~~
 
-\begin{centered}{title="Academic Partners", margin_bottom="3ex"}
-  \sponsor{name="NAWA", link="https://nawa.gov.pl/en", img="/assets/2024/img/sponsors/nawa-logo.png", level=4}
+\begin{centered}{title="Platinum", margin_bottom="3ex"}
+  \sponsor{name="JuliaHub", link="https://juliahub.com", img="/assets/2024/img/sponsors/juliahub-logo.svg", level=1}
 \end{centered}
 
-\begin{centered}{title="Local Partner", margin_bottom="3ex"}
-  \sponsor{name="Postmates", link="https://postmates.com", img="/assets/2024/img/sponsors/postmates-logo.svg", level=4}
+\begin{centered}{title="Startup", margin_bottom="3ex"}
+  \sponsor{name="Jolin.io", link="https://www.jolin.io", img="/assets/2024/img/sponsors/jolin-logo.png", level=4}
+\end{centered}
+
+\begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
+  \sponsor{name="VersionBay", link="https://www.versionbay.com", img="/assets/local/eindhoven2023/img/sponsors/VersionBay-Logo.png", level=3}
+\end{centered}
+
+\begin{centered}{title="Local Partners", margin_bottom="3ex"}
+  \sponsor{name="CBBE", link="https://www.cbbe.nl", img="/assets/2024/img/sponsors/cbbe.png", level=4}
+  \sponsor{name="DeBlokkenDoos", link="https://www.blokkendoos.nl", img="/assets/local/eindhoven2023/img/sponsors/LogoDeBlokkendoos.jpg", level=4}
 \end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
 \end{centered}
--->
-~~~
 
 ~~~
 </div>  <!-- container-fluid -->
