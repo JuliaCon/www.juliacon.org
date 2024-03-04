@@ -76,6 +76,29 @@ This workshop is focused on users who feel comfortable with Julia, but struggle 
 
 If there is enough time, we will also cover more advanced topics like how to utilize GPUs, MPI interfacing, and more.
 
+## Scientific Machine Learning using Functional Mock-Up Units
+
+This workshop focuses on the integration of Functional Mock-Up Units (FMUs) into a machine learning topology. FMUs are simulation models that can be generated within a variety of modeling tools (https://fmi-standard.org/). Together with deep neural networks that complement and improve the FMU prediction, so called NeuralFMUs can be created. Example use cases that show the potentials of this technique are given during the introduction.
+
+The workshop itself evolves around the modeling of a Selective Compliance Assembly Robot Arm (SCARA), that is able to write user defined words on a sheet of paper. A ready to use physical simulation model (FMU) for the SCARA is given and shortly highlighted during the workshop. However, this model – as any simulation model – shows some deviations if compared to measurements from the real system. These deviations result from unmodeled so called slip-stick-friction: The pen sticks to the paper until a force limit is reached, but then moves jerkily. A hard to model physical effect – but not for a NeuralFMU.
+
+The workshop divides into the following slots:
+- [60min] Thematic introduction: Scientific Machine Learning / Hybrid Modeling / SCARA
+- [15min] Coffee break / Preparing notebook
+- [30min] Coding Together: Examination of the used model (FMU) and data
+- [60min] Exploring the notebook: Designing and training the hybrid model
+- [15min] Wrap-up, Results, Closing the workshop
+
+After completing the workshop, participants will be able to answer the following questions:
+- What is hybrid modeling and what are advantages/disadvantages compared to modeling based on physical principles or pure machine learning models?
+- How can the physical modeling and machine learning world be connected? What needs to be considered?
+- What are NeuralODEs and NeuralFMUs?
+- How does the choice of signals between physical model (FMU) and machine learning model influence the training success and computational performance?
+
+Equipped with the knowledge about the necessary steps to build a proper hybrid model for the SCARA, workshop participants will have an easier time dealing with their own hybrid modeling applications.
+
+Participants only need access to a computer with Julia installed (tested under v1.10) running Windows or Linux. To ensure a productive experience for all participants, major parts of modeling and coding are pre-implemented as interactive Pluto-Notebook. This way, participants can explore the topic at their own pace according to their previous knowledge. The notebook stays available after the workshop.
+
 ## Writing and maintaining an exceptional Documentation
 
 
