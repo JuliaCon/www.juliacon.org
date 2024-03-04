@@ -147,6 +147,7 @@ configuration = Dict(
         "header" => [
             "Tickets" => "/2024/tickets",
             "Sponsor" => "/2024/sponsor", 
+            "Workshops" => "/2024/workshops",
             "Minisymposia" => "/2024/minisymposia",
             "Travel" => "/2024/travel",
             "Volunteer" => "/2024/volunteer",
