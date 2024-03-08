@@ -30,10 +30,9 @@ Contributors will have the opportunity to engage with a global network of quantu
 Your participation in the JuliaCon 2024 Minisymposium will help shape the future of quantum software. We look forward to your innovative contributions and the exciting discussions they will spark.
 
 ## Confirmed Speakers
-- Xiuzhe(Roger) Luo (University of Waterloo, Perimeter Institute)
+- Xiuzhe(Roger) Luo (University of Waterloo, Perimeter Institute, QuEra Computing Inc)
 - Kathrine Hyatt (AWS Braket)
 - Stefan Krastanov (UMass)
-- Phillip Weinberg (QuEra Computing Inc)
 - Michael Herbst (EPFL)
 - Jinguo Liu (HKUST)
 - Ben MacLellan (Open Quantum Design, University of Waterloo and IQC)
