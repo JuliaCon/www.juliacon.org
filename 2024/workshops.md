@@ -66,6 +66,10 @@ In this workshop we will showcase how to build steady state models, transient mo
 
 and much more.  
 
+## Julia for Systems Biology; generating personalized models
+
+Computational models offer a valuable tool for understanding the dynamic interactions between different biological entities, especially in biomedical applications. Personalizing these models with data can shed light on interindividual variation and project future health risks. However, model generation can be computationally expensive. Our hands-on and interactive workshop will demonstrate how personalized models can be more rapidly generated in Julia using the DifferentialEquations.jl package. Use an in-house model of glucose-insulin system we will cover the implementation and resolving of ODE systems in Julia, including importing in SBML. We will provide a guide on model selection including parameter sensitivity and identifiability analysis, highlighting efficiencies that can be achieved using Julia. Additionally, we will discuss strategies for parameter estimation, including the benefits of regularization, using a publicly available data set of meal responses. Short presentation will be used to provide necessary background and theory and all methods will be implemented in a Jupyter notebook to facilitate independent learning.
+
 ## Productive Parallel Programming with Dagger.jl
 
 Traditional parallel programming can be very hard to do effectively, as there are many prerequisites to know, and many tools that need to be used correctly and combined for maximum performance. Because of this, many programmers never learn how to write code that can scale beyond a single thread or a single server; and when parallelism is added to code, it often only supports one or a limited number of systems and hardware devices, which excludes users with unsupported systems from using that code effectively.
