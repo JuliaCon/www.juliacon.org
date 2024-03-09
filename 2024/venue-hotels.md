@@ -17,7 +17,7 @@ JuliaCon organizers have secured exclusive promotional deals with select hotels 
 A hotel in the monumental Philips Light Tower.
 
 Distance from venue: 0.4 km.
-Use this [link](https://app.mews.com/distributor/159bdff3-e477-4850-bb36-b019008adf5c?mewsVoucherCode=JuliaCon%20congres) 
+Use this [link](https://app.mews.com/distributor/159bdff3-e477-4850-bb36-b019008adf5c?mewsVoucherCode=JuliaCon%20congres)
 and the code **JuliaCon congres**.
 
 ~~~
@@ -50,13 +50,29 @@ Use this [link](https://www.ihg.com/holidayinn/hotels/us/en/eindhoven/einnl/hote
 An open-minded hub with a playful attitude in the heart of the city.
 
 Distance from venue: 1 km.
-Use this [link](http://www.thesocialhub.co/Eindhoven) 
+Use this [link](http://www.thesocialhub.co/Eindhoven)
 and the code: **Juliacon2024**.
 
 ~~~
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
     <img src="/assets/2024/img/hotels/socialhub.png" alt="SocialHub" style="max-width: 50%; height: auto; display: block;">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.881640180631!2d5.478713676525249!3d51.44196751548133!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d91d017f6171%3A0xe6bcd50684a3ac31!2sThe%20Social%20Hub%20Eindhoven!5e0!3m2!1sen!2snl!4v1707503188664!5m2!1sen!2snl" frameborder="0" allowfullscreen style="width: 50%; border: 0;"></iframe>
+</div>
+<br>
+<br>
+~~~
+
+## Crown Hotel Eindhoven Centre
+
+A pleasant 4-star hotel in Eindhoven's bustling city center.
+
+Distance from venue: 1.1 km.
+Use this [link](https://app.mews.com/distributor/7f20943a-502c-497f-b4ff-b12300cb10b4).
+
+~~~
+<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
+    <img src="/assets/2024/img/hotels/crown.png" alt="Crown Hotel Eindhoven Centre" style="max-width: 50%; height: auto; display: block;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.9705693140836!2d5.477139977222836!3d51.440334371798095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d91cc5fe6a9f%3A0x7fd3bceab5801ce0!2sCrown%20Hotel%20Eindhoven!5e0!3m2!1sen!2sus!4v1709919104955!5m2!1sen!2sus" frameborder="0" allowfullscreen style="width: 50%; border: 0;"></iframe>
 </div>
 <br>
 <br>
@@ -83,7 +99,7 @@ Use this [link](https://www.nh-hotels.com/en/event/juliacon-cbbe).
 An iconic building in the heart of the city center.
 
 Distance from venue: 1.4 km.
-Use this [link](https://book.marienhage.com/nl?stay_detail%5Brateplan_id%5D=JULIACON) 
+Use this [link](https://book.marienhage.com/nl?stay_detail%5Brateplan_id%5D=JULIACON)
 and the code: **JULIACON**.
 
 ~~~
@@ -100,7 +116,7 @@ and the code: **JULIACON**.
 An urban boutique hotel right in the center of Eindhoven.
 
 Distance from venue: 1.6 km.
-Use this [link](https://app.mews.com/distributor/dfae9dca-410f-4b42-b980-adf100e604e5?mewsVoucherCode=JuliaCon) 
+Use this [link](https://app.mews.com/distributor/dfae9dca-410f-4b42-b980-adf100e604e5?mewsVoucherCode=JuliaCon)
 and the code: **JuliaCon**.
 
 ~~~
@@ -117,7 +133,7 @@ and the code: **JuliaCon**.
 A quiet and peaceful base in the heart of the city.
 
 Distance from venue: 1.7 km.
-Use this [link](https://www.radissonhotels.com/nl-nl/booking/room-display?hotelCode=NLPPEINPPE&checkInDate=2024-07-08&checkOutDate=2024-07-12&adults%5B%5D=1&children%5B%5D=0&searchType=pac&promotionCode=JULCON24&rhgext=Qm9PSty6s3HG) 
+Use this [link](https://www.radissonhotels.com/nl-nl/booking/room-display?hotelCode=NLPPEINPPE&checkInDate=2024-07-08&checkOutDate=2024-07-12&adults%5B%5D=1&children%5B%5D=0&searchType=pac&promotionCode=JULCON24&rhgext=Qm9PSty6s3HG)
 and the code: **JULCON24**.
 
 ~~~
@@ -134,7 +150,7 @@ and the code: **JULCON24**.
 A modern venue close to Eindhoven's largest nature park.
 
 Distance from venue: 5 km.
-Use this [link](https://www.valkverrast.nl/en/promotions) 
+Use this [link](https://www.valkverrast.nl/en/promotions)
 and the code: **EIN-JuliaCon**.
 
 ~~~
@@ -171,4 +187,4 @@ Here is a short list of other possible accommodation options within close range 
 - [Hotel la Reine, Wilhelminaplein 3, 5611 HE](https://maps.app.goo.gl/zzg4nDRwWLg2hX9j9)
 - [Boutique Hotel Lumière, Hooghuisstraat 31A, 5611 GS](https://maps.app.goo.gl/w3oHoeexTbR4LvJ86)
 
-Additionally, a range of alternative accommodations can be explored through reputable platforms such as [Booking.com](https://www.booking.com) or [AirBnb](https://www.airbnb.com). 
+Additionally, a range of alternative accommodations can be explored through reputable platforms such as [AirBnb](https://www.airbnb.com).
