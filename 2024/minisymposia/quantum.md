@@ -35,5 +35,4 @@ Your participation in the JuliaCon 2024 Minisymposium will help shape the future
 - Stefan Krastanov (UMass)
 - Michael Herbst (EPFL)
 - Jinguo Liu (HKUST)
-- Ben MacLellan (Open Quantum Design, University of Waterloo and IQC)
 - Nathan Shaman (UnitaryFund)
