@@ -115,14 +115,14 @@ This workshop is all about documentation, one of the most important aspects of g
 
 The workshop will be fully hands-on, and will consist of several iterations of [lecture -> application]. Depending on the real-time flow, we will cover the following topics, and possibly more, time permitting:
 
-1. The core principles of what makes good documentation.
-2. The heart of good documentation: exceptional, unambiguous docstrings.
-3. The different levels of exposition, and how these relate to well-structured documentation.
-4. How to write introductory tutorials.
-5. How to lay out documentation pages for maximum readability.
-6. Tips and tricks for increasing the clarity of your writing.
-7. An introduction to Documenter.jl: key syntax and functions.
-8. How to use Documenter.jl to generate runnable examples.
-9. How to use Documenter.jl to deploy documentation to a GitHub repository.
-10. How to use DocumenterCitations.jl to cite literature robustly.
-11. Tips for reducing your maintainance burden.
+- The core principles of what makes good documentation.
+- The heart of good documentation: exceptional, unambiguous docstrings.
+- The different levels of exposition, and how these relate to well-structured documentation.
+- How to write introductory tutorials.
+- How to lay out documentation pages for maximum readability.
+- Tips and tricks for increasing the clarity of your writing.
+- An introduction to Documenter.jl: key syntax and functions.
+- How to use Documenter.jl to generate runnable examples.
+- How to use Documenter.jl to deploy documentation to a GitHub repository.
+- How to use DocumenterCitations.jl to cite literature robustly.
+- Tips for reducing your maintainance burden.
