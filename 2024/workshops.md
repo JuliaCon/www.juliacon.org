@@ -2,6 +2,7 @@
 
 **Note!**: This list is preliminary and contains only the workshops that have been confirmed so far. A few more may appear in the upcoming days.
 
+
 ## 	Building REST APIs in Julia
 
 Julia is a growing, fast language with relatively easy syntax, and thus quite a productive language, but its popularity still seems enormously lopsided towards the scientific community. Therefore, it can be an intimidating language and community for newbies without a solid scientific or mathematical background since most tutorials, blogs and resources are geared towards
@@ -17,6 +18,7 @@ Introduction to REST: The workshop will start with a brief introduction to REST,
 Building the Resource: This part will take up most of the workshop's time. A simple resource or service will be built and wrapped with the REST protocol to make it accessible via the HTTP protocol, introducing the various aspects of REST in practice.
 
 Deployment: The final part will discuss and demonstrate connecting the REST API with a frontend app, which will not be built during the session but will be provided for download to participants. The application will also be deployed to the web/cloud via docker.
+
 
 ## Hands-on with Julia for HPC on GPUs and CPUs
 
@@ -49,8 +51,8 @@ This workshop assumes a basic knowledge of the Julia language (language structur
 
 We will cover the fundamentals of multi-threading, distributed, and GPU computing; as well as how these relate to modern HPC systems. Now prerequisite knowledge in these areas is needed.
 
-## Hierarchical Component-Based Modeling with ModelingToolkit.jl
 
+## Hierarchical Component-Based Modeling with ModelingToolkit.jl
 
 ModelingToolkit is the symbolic modeling layer of Julia's SciML. SciML covers many areas of numerical modeling and simulation, such as linear systems of equations, nonlinear systems of equations, differential equations, and optimization. Similarly, ModelingToolkit is a symbolic modeling language which covers the same interfaces and shuttles to the underlying numerical solvers.
 
@@ -66,9 +68,11 @@ In this workshop we will showcase how to build steady state models, transient mo
 
 and much more.  
 
+
 ## Julia for Systems Biology; generating personalized models
 
 Computational models offer a valuable tool for understanding the dynamic interactions between different biological entities, especially in biomedical applications. Personalizing these models with data can shed light on interindividual variation and project future health risks. However, model generation can be computationally expensive. Our hands-on and interactive workshop will demonstrate how personalized models can be more rapidly generated in Julia using the DifferentialEquations.jl package. Use an in-house model of glucose-insulin system we will cover the implementation and resolving of ODE systems in Julia, including importing in SBML. We will provide a guide on model selection including parameter sensitivity and identifiability analysis, highlighting efficiencies that can be achieved using Julia. Additionally, we will discuss strategies for parameter estimation, including the benefits of regularization, using a publicly available data set of meal responses. Short presentation will be used to provide necessary background and theory and all methods will be implemented in a Jupyter notebook to facilitate independent learning.
+
 
 ## Productive Parallel Programming with Dagger.jl
 
@@ -79,6 +83,7 @@ Dagger.jl aims to help fix this problem for Julia code, by providing a full para
 This workshop is focused on users who feel comfortable with Julia, but struggle with adding parallelism to their code. This workshop will start out by introducing Dagger and explaining how it works at a high level. Then, we will dive into the various programming interfaces (tasks, arrays, tables, graphs, and more) that Dagger provides, show how they can be used just like their non-Dagger counterparts, and then work through an example program built with each programming paradigm. Along the way, we will also see how to user Dagger's logging and profiling capabilities to gain insights into what Dagger is doing behind the scenes, so that we can better observe where our parallelism is coming from.
 
 If there is enough time, we will also cover more advanced topics like how to utilize GPUs, MPI interfacing, and more.
+
 
 ## Scientific Machine Learning using Functional Mock-Up Units
 
@@ -103,21 +108,21 @@ Equipped with the knowledge about the necessary steps to build a proper hybrid m
 
 Participants only need access to a computer with Julia installed (tested under v1.10) running Windows or Linux. To ensure a productive experience for all participants, major parts of modeling and coding are pre-implemented as interactive Pluto-Notebook. This way, participants can explore the topic at their own pace according to their previous knowledge. The notebook stays available after the workshop.
 
+
 ## Writing and maintaining an exceptional Documentation
 
+This workshop is all about documentation, one of the most important aspects of good software. Great documentation makes your code accessible to others, makes it more pleasant for them to use, so that they'll want to keep using it for a long time, and it also lowers the threshold for users to start contributing. Whether you are a maintainer of several registered Julia packages, or just someone with a codebase that you believe can be useful to others, this workshop will help you make your documentation exceptional!
 
-This workshop is all about documentation. It's one of the most important aspects of code and software: it makes your code accessible to others, makes their experience with it pleasant, makes them wanna keep using it for the long run, and lowers the threshold for them to become contributors! Whether you are a maintainer of several registered Julia packages, or a just someone with an unregistered codebase that you believe can be useful for others, this workshop will be of use to you!
+The workshop will be fully hands-on, and will consist of several iterations of [lecture -> application]. Depending on the real-time flow, we will cover the following topics, and possibly more, time permitting:
 
-The workshop will be fully hands-on, and will be composed by several iterations of [lecture -> application] for the covered topics. The main things it will cover are (among others, and depending on the real-time flow):
-
-1. Core principles of what makes a good documentation.
-2. The skeleton of a good documentation: exceptional, unambiguous docstrings.
-3. The different depths of exposition approach to documentation.
-4. The introductory tutorial.
-5. Layouting documentation pages.
-6. Tips & tricks for increasing clarity in the docs.
-7. Intro to Documenter.jl: key syntax and functions.
-8. Using Documenter.jl to generate runnable examples.
-9. Using Documenter.jl to deploy documentation online on a GitHub repository.
-10. Using DocumenterCitations.jl to cite literature robustly.
-11. Tips for reducing maintainance burden.
+1. The core principles of what makes good documentation.
+2. The heart of good documentation: exceptional, unambiguous docstrings.
+3. The different levels of exposition, and how these relate to well-structured documentation.
+4. How to write introductory tutorials.
+5. How to lay out documentation pages for maximum readability.
+6. Tips and tricks for increasing the clarity of your writing.
+7. An introduction to Documenter.jl: key syntax and functions.
+8. How to use Documenter.jl to generate runnable examples.
+9. How to use Documenter.jl to deploy documentation to a GitHub repository.
+10. How to use DocumenterCitations.jl to cite literature robustly.
+11. Tips for reducing your maintainance burden.
