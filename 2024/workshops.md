@@ -68,6 +68,16 @@ In this workshop we will showcase how to build steady state models, transient mo
 
 and much more.  
 
+## Julia and Rust - Safer abstractions and FFI Workshop
+
+Rust is great but not for Julians - unless you come to this talk and learn to go around the rougher spots we face when interacting with Rust for real world scenarios.
+
+We'll cover stuff like:
+- Basic and Advanced LSP setup for the best Rust integration
+- Common Rust footguns that will be encountered by Julia folks
+- A small project to generate bindings using cbindgen and diplomat
+- Miss BenchmarkTools.jl? We'll cover the best of divan
+- Iterators tricks to speed up your Rust code
 
 ## Julia for Systems Biology; generating personalized models
 
