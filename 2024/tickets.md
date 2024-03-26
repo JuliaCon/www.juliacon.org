@@ -20,7 +20,7 @@ This year's conference will take place in person at [PSV Stadium](/2024/venue) i
 <br>
 ~~~
 
-Please only select a student ticket if you are a registered student. We have a limited number of student tickets and want to make the conference accessible to those who need them. Note that also PhD students qualify as students.
+Please only select a student ticket if you are a registered student. We have a limited number of student tickets and want to make the conference accessible to those who need them. Note that PhD students also qualify as students.
 
 - **Early bird (Student)** 3 Day Ticket Pass: **€ 150.00**
 - **Early bird (Student)** 3 Day Ticket Pass + Workshop: **€ 250.00**
