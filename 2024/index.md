@@ -117,6 +117,7 @@ If you are traveling from outside the Schengen area you may need [a visa](/2024/
 
 \begin{centered}{title="Silver", margin_bottom="3ex"}
   \sponsor{name="Relational AI", link="https://relational.ai", img="/assets/2024/img/sponsors/rai-logo.svg", level=3}
+  \sponsor{name="Sioux Technologies", link="https://www.sioux.eu/", img="/assets/2024/img/sponsors/sioux-logo.svg", level=3}
 \end{centered}
 
 \begin{centered}{title="Copper", margin_bottom="3ex"}
