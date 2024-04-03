@@ -126,9 +126,9 @@ If you are traveling from outside the Schengen area you may need [a visa](/2024/
 
 \begin{centered}{title="Startup", margin_bottom="3ex"}
   \sponsor{name="Evovest", link="https://www.evovest.com", img="/assets/2024/img/sponsors/evovest-logo.svg", level=4}
-  \sponsor{name="Genie", link="https://www.genieframework.com", img="/assets/2024/img/sponsors/genie-logo.png", level=4}
+  \sponsor{name="Genie", link="https://www.genieframework.com", img="/assets/2024/img/sponsors/genie-logo.png", level=3}
   \sponsor{name="Jolin.io", link="https://www.jolin.io", img="/assets/2024/img/sponsors/jolin-logo.png", level=4}
-  \sponsor{name="Jahan.ai", link="https://www.jahan.ai", img="/assets/2024/img/sponsors/jahan-logo.png", level=4}
+  \sponsor{name="Jahan.ai", link="https://www.jahan.ai", img="/assets/2024/img/sponsors/jahan-logo.png", level=3}
 \end{centered}
 
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
