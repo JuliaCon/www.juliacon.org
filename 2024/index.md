@@ -121,7 +121,7 @@ If you are traveling from outside the Schengen area you may need [a visa](/2024/
 \end{centered}
 
 \begin{centered}{title="Copper", margin_bottom="3ex"}
-  \sponsor{name="Better Hand Financial Technologies", link="https://bhft.com", img="/assets/2024/img/sponsors/bhft-logo.png", level=3}
+  \sponsor{name="Better Hand Financial Technologies", link="https://bhft.com", img="/assets/2024/img/sponsors/bhft-logo.png", level=1}
 \end{centered}
 
 \begin{centered}{title="Startup", margin_bottom="3ex"}
