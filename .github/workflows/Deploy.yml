@@ -33,7 +33,7 @@ jobs:
     - name: Install Julia
       uses: julia-actions/setup-julia@v2
       with:
-        version: 1.5
+        version: '1.10'
     - name: Cache Julia depot
       uses: julia-actions/cache@v1
     - name: Build the website
