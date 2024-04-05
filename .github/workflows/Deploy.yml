@@ -1,4 +1,5 @@
 name: Build and Deploy
+
 on:
   push:
     branches:
@@ -6,30 +7,45 @@ on:
   pull_request:
     branches:
       - franklin
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      # See
+      # <https://docs.github.com/en/actions/security-guides/automatic-token-authentication#permissions-for-the-github_token>.
+      # We need `actions: write` to delete old caches, `contents: write` to push the docs to
+      # the `main` branch, and `statuses: write` to create the custom status.
+      actions: write
+      contents: write
+      statuses: write
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         persist-credentials: false
     - name: Fix URLs for PR preview deployment (pull request previews)
-      if: github.event_name == 'pull_request'
+      if: github.event_name == 'pull_request' && ! github.event.pull_request.head.repo.fork # if this build is a PR build and the PR is NOT from a fork
       run: | # "previews" below is the folder name where your PR previews are stored
         echo "PREVIEW_FRANKLIN_WEBSITE_URL=https://juliacon.org/previews/PR${{ github.event.number }}/" >> $GITHUB_ENV
         echo "PREVIEW_FRANKLIN_PREPATH=previews/PR${{ github.event.number }}" >> $GITHUB_ENV
     - name: Install Julia
-      uses: julia-actions/setup-julia@v1
+      uses: julia-actions/setup-julia@v2
       with:
         version: 1.5
-    - run: julia -e '
-            using Pkg; Pkg.add(["Franklin", "FranklinUtils"]);
-            Pkg.instantiate();
-            using Franklin;
-            optimize(minify=false, prerender=false);'
+    - name: Cache Julia depot
+      uses: julia-actions/cache@v1
+    - name: Build the website
+      shell: julia --color=yes --project=. {0}
+      run: |
+        using Pkg
+        Pkg.instantiate()
+
+        using Franklin
+        optimize(minify=false, prerender=false)
     - name: Deploy (preview)
-      if: github.event_name == 'pull_request' && github.repository == github.event.pull_request.head.repo.full_name # if this build is a PR build and the PR is NOT from a fork
+      if: github.event_name == 'pull_request' && ! github.event.pull_request.head.repo.fork # if this build is a PR build and the PR is NOT from a fork
       uses: JamesIves/github-pages-deploy-action@releases/v4
       with:
         branch: main # The branch where your website is deployed
@@ -45,3 +61,25 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           clean-exclude: |  # This makes sure that the previews are not wiped out during regular builds 
             previews/*
+    - name: Create custom status for pull requests
+      if: github.event_name == 'pull_request' && ! github.event.pull_request.head.repo.fork # if this build is a PR build and the PR is NOT from a fork
+      shell: julia --color=yes --project=. {0}
+      run: |
+        using GitHub
+
+        auth = GitHub.authenticate("${{ github.token }}")
+        repo = GitHub.Repo("${{ github.repository }}")
+
+        sha = "${{ github.event.pull_request.head.sha }}"
+        state = "success"
+        target_url = ENV["PREVIEW_FRANKLIN_WEBSITE_URL"]
+        description = "Documentation deployed"
+        context = "${{ github.workflow }} / Preview"
+        params = Dict(
+            "state" => state,
+            "context" => context,
+            "description" => description,
+            "target_url" => target_url,
+        )
+
+        GitHub.create_status(repo, sha; auth, params)
