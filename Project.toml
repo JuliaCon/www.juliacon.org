@@ -1,3 +1,9 @@
 [deps]
 Franklin = "713c75ef-9fc9-4b05-94a9-213340da978e"
 FranklinUtils = "dcd8a645-c81d-482f-af4b-568f72f3e16d"
+GitHub = "bc5e4493-9b4d-5f90-b8aa-2b2bcaad7a26"
+
+[compat]
+Franklin = "0.10.95"
+FranklinUtils = "0.3.4"
+GitHub = "5.9.0"
