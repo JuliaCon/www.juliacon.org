@@ -4,9 +4,10 @@ on:
   pull_request:
     types: [closed]
 
-# Ensure that only one "Preview Cleanup" workflow is force pushing at a time
+# Ensure that only one workflow which pushes to the `main` branch is running at a time.
+# Note: this is the same concurrency group as the `Deploy.yml` workflow.
 concurrency:
-  group: preview-cleanup
+  group: pushing-website
   cancel-in-progress: false
 
 jobs:

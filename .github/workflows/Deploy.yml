@@ -8,6 +8,12 @@ on:
     branches:
       - franklin
 
+# Ensure that only one workflow which pushes to the `main` branch is running at a time.
+# Note: this is the same concurrency group as the `cleanup.yml` workflow.
+concurrency:
+  group: pushing-website
+  cancel-in-progress: false
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
