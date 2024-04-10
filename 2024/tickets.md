@@ -5,11 +5,11 @@ This year's conference will take place in person at [PSV Stadium](/2024/venue) i
 
 # Ticket Prices
 
-**Note**: Accepted speakers will still benefit from early bird prices, even if these rates are no longer available to the general public.
+- 3 Day Ticket Pass: **€ 450.00**
+- 3 Day Ticket Pass + Workshop: **€ 650.00**
+- Workshop Only **€ 300.00**
 
-- **Early bird** 3 Day Ticket Pass: **€ 300.00**
-- **Early bird** 3 Day Ticket Pass + Workshop: **€ 500.00**
-- **Early bird** Workshop Only **€ 200.00**
+**Note**: Accepted speakers still benefit from early bird prices. Contact \email to get the speaker discount.
 
 ~~~
 <div style="text-align: center">
@@ -22,13 +22,9 @@ This year's conference will take place in person at [PSV Stadium](/2024/venue) i
 
 Please only select a student ticket if you are a registered student. We have a limited number of student tickets and want to make the conference accessible to those who need them. Note that PhD students also qualify as students.
 
-- **Early bird (Student)** 3 Day Ticket Pass: **€ 150.00**
-- **Early bird (Student)** 3 Day Ticket Pass + Workshop: **€ 250.00**
-- **Early bird (Student)** Workshop Only **€ 100.00**
-
-<!-- # Childcare 
-
-In the area provided, a comprehensive [childcare program](/2024/venue/) will be in place. -->
+- **(Student)** 3 Day Ticket Pass: **€ 225.00**
+- **(Student)** 3 Day Ticket Pass + Workshop: **€ 325.00**
+- **(Student)** Workshop Only **€ 150.00**
 
 # Connect with Us - We're Here for You!
 
