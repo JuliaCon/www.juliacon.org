@@ -83,7 +83,7 @@ Use this [link](https://app.mews.com/distributor/7f20943a-502c-497f-b4ff-b12300c
 A five-star hotel in a local landmark (the Green Tower).
 
 Distance from venue: 1.2 km.
-Use this [link](https://www.nh-hotels.com/en/event/juliacon-cbbe).
+Use this [link](https://www.nh-hotels.com/en/event/juliacon-cbbe) and the code **JuliaCon**.
 
 ~~~
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
@@ -106,6 +106,22 @@ and the code: **JULIACON**.
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
     <img src="/assets/2024/img/hotels/marien.png" alt="Marien" style="max-width: 50%; height: auto; display: block;">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.265158082538!2d5.482837876524903!3d51.43492411599555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d8fd5f1d9565%3A0x38e3b5047de2c989!2sHotel%20Mari%C3%ABnhage%20Eindhoven!5e0!3m2!1sen!2snl!4v1707503235639!5m2!1sen!2snl" frameborder="0" allowfullscreen style="width: 50%; border: 0;"></iframe>
+</div>
+<br>
+<br>
+~~~
+
+## Pullman Eindhoven Cocagne
+
+A 4 star Superior hotel where all conveniences are taken care of.
+
+Distance from venue: 1.4 km.
+Use this [link](https://all.accor.com/promotions-offers/hotel-events/owm016784-001-juliacon-2024.en.shtml).
+
+~~~
+<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
+    <img src="/assets/2024/img/hotels/pullman.png" alt="Pullman" style="max-width: 50%; height: auto; display: block;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.0579095276084!2d5.47972477661595!3d51.43873037179775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d902be34b5c9%3A0xf35461c3ef861b2!2sPullman%20Eindhoven%20Cocagne!5e0!3m2!1sen!2sus!4v1713537279304!5m2!1sen!2sus" frameborder="0" allowfullscreen style="width: 50%; border: 0;"></iframe>
 </div>
 <br>
 <br>
