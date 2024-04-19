@@ -67,7 +67,8 @@ and the code: **Juliacon2024**.
 A pleasant 4-star hotel in Eindhoven's bustling city center.
 
 Distance from venue: 1.1 km.
-Use this [link](https://app.mews.com/distributor/7f20943a-502c-497f-b4ff-b12300cb10b4).
+Use this [link](https://app.mews.com/distributor/7f20943a-502c-497f-b4ff-b12300cb10b4) and
+the code **JuliaCon**.
 
 ~~~
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
@@ -83,7 +84,7 @@ Use this [link](https://app.mews.com/distributor/7f20943a-502c-497f-b4ff-b12300c
 A five-star hotel in a local landmark (the Green Tower).
 
 Distance from venue: 1.2 km.
-Use this [link](https://www.nh-hotels.com/en/event/juliacon-cbbe) and the code **JuliaCon**.
+Use this [link](https://www.nh-hotels.com/en/event/juliacon-cbbe).
 
 ~~~
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
@@ -113,7 +114,7 @@ and the code: **JULIACON**.
 
 ## Pullman Eindhoven Cocagne
 
-A 4 star Superior hotel where all conveniences are taken care of.
+A 4-star superior hotel where all conveniences are taken care of.
 
 Distance from venue: 1.4 km.
 Use this [link](https://all.accor.com/promotions-offers/hotel-events/owm016784-001-juliacon-2024.en.shtml).
