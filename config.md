@@ -138,7 +138,8 @@ configuration = Dict(
         "global" => true,
         "year" => 2024,
         "location" => "Eindhoven",
-        "alert" => """<a href="https://www.tickettailor.com/events/numfocus1/1114995#">Secure your tickets now!</a>""",
+        "alert" => """Checkout the full <a href="https://pretalx.com/juliacon2024/schedule/">schedule on PreTalx</a>, or click <a href="https://discourse.julialang.org/t/juliacon-2024-schedule-is-now-out/113717/3">here</a> for the rest of the announcement and Important FAQs!
+        """,
         "site_name" => "JuliaCon 2024",
         "site_descr" => "JuliaCon 2024, Eindhoven, Philips Stadion",
         "site_url" => "https://juliacon.org/2024/",
@@ -146,9 +147,12 @@ configuration = Dict(
         "header_color" => "#389826",
         "header" => [
             "Tickets" => "/2024/tickets",
+            "Schedule" => [
+                "Talks" => "https://pretalx.com/juliacon2024/schedule/",
+                "Workshops" => "/2024/workshops",
+                "Minisymposia" => "/2024/minisymposia",
+            ],
             "Sponsor" => "/2024/sponsor", 
-            "Workshops" => "/2024/workshops",
-            "Minisymposia" => "/2024/minisymposia",
             "Travel" => "/2024/travel",
             "Volunteer" => "/2024/volunteer",
             "Code of Conduct" => "/2024/coc",

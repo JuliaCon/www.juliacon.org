@@ -2,6 +2,7 @@
 
 **Note!**: This list is preliminary and contains only the workshops that have been confirmed so far. A few more may appear in the upcoming days.
 
+Checkout the full [schedule on PreTalx](https://pretalx.com/juliacon2024/schedule/), or click [here](https://discourse.julialang.org/t/juliacon-2024-schedule-is-now-out/113717/3) for the rest of the announcement and Important FAQs!
 
 ## 	Building REST APIs in Julia
 
