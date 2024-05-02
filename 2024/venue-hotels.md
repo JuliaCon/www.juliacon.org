@@ -53,6 +53,8 @@ Distance from venue: 1 km.
 Use this [link](http://www.thesocialhub.co/Eindhoven)
 and the code: **Juliacon2024**.
 
+**Note**: The Social Hub provides a discount of 15% for non-refundable rooms by default. The code above unlocks a possibility to book a refundable room with a discount of 15%.
+
 ~~~
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
     <img src="/assets/2024/img/hotels/socialhub.png" alt="SocialHub" style="max-width: 50%; height: auto; display: block;">
