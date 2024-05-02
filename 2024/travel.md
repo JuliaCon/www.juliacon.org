@@ -63,7 +63,7 @@ Eindhoven can also be easily reached by public transport from cities around the 
 
 ### Accommodation options
 
-Eindhoven, a contemporary city with diverse accommodations in close proximity to the venue, serves as an ideal setting for our conference. JuliaCon organizers have secured exclusive promotional deals with select hotels in the area, providing attendees with a substantial **15% discount**. Detailed information about these special offers can be accessed [here](/2024/venue-hotels). Additionally, a range of alternative accommodations can be explored through reputable platforms such as [Booking.com](https://www.booking.com) or [AirBnb](https://www.airbnb.com). 
+Eindhoven, a contemporary city with diverse accommodations in close proximity to the venue, serves as an ideal setting for our conference. JuliaCon organizers have secured exclusive promotional deals with select hotels in the area, providing attendees with a substantial **15% discount**. Detailed information about these special offers can be accessed [here](/2024/venue-hotels). Additionally, a range of alternative accommodations can be explored through reputable platforms such as [AirBnb](https://www.airbnb.com). 
 
 ~~~
 <div style="text-align: center">
@@ -78,7 +78,8 @@ Eindhoven, a contemporary city with diverse accommodations in close proximity to
 
 ### Bike rental
 
-Known for its extensive network of bike routes, the Netherlands offers a highly convenient mode of transportation within the city by bikes. Explore the official [NS bike rental](https://www.ns.nl/en/door-to-door/ov-fiets), seamlessly linked to the central station. Alternatively, consider other options such as [Go sharing](https://nl.go-sharing.com/en/) for added flexibility.
+Known for its extensive network of bike routes, the Netherlands offers a highly convenient mode of transportation within the city by bikes. Rent a bike and cycle from your hotel to the venue and the rest of the surroundings, starting from just € 9,50 per day! [Grab your bike here](https://velorent.nl/) and let the adventure begin! Alternatively, explore the official [NS bike rental](https://www.ns.nl/en/door-to-door/ov-fiets), seamlessly linked to the central station. In addition, consider other options such as [Go sharing](https://nl.go-sharing.com/en/) for added flexibility.
+
 
 ### Electric scooters rental
 
