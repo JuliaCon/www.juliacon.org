@@ -134,7 +134,7 @@ If you are traveling from outside the Schengen area you may need [a visa](/2024/
 
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
   \sponsor{name="VersionBay", link="https://www.versionbay.com", img="/assets/local/eindhoven2023/img/sponsors/VersionBay-Logo.png", level=3}
-    \sponsor{name="TU/e", link="https://www.tue.nl/en/", img="/assets/local/eindhoven2023/img/sponsors/tue_logo.png", level=3}
+    \sponsor{name="TU/e", link="https://www.tue.nl/en/", img="/assets/2024/img/sponsors/tue_logo.png", level=3}
 \end{centered}
 
 \begin{centered}{title="Local Partners", margin_bottom="3ex"}
