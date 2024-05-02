@@ -63,7 +63,7 @@ Eindhoven can also be easily reached by public transport from cities around the 
 
 ### Accommodation options
 
-Eindhoven, a contemporary city with diverse accommodations in close proximity to the venue, serves as an ideal setting for our conference. JuliaCon organizers have secured exclusive promotional deals with select hotels in the area, providing attendees with a substantial **15% discount**. Detailed information about these special offers can be accessed [here](/2024/venue-hotels). Additionally, a range of alternative accommodations can be explored through reputable platforms such as [Booking.com](https://www.booking.com) or [AirBnb](https://www.airbnb.com). 
+Eindhoven, a contemporary city with diverse accommodations in close proximity to the venue, serves as an ideal setting for our conference. JuliaCon organizers have secured exclusive promotional deals with select hotels in the area, providing attendees with a substantial **15% discount**. Detailed information about these special offers can be accessed [here](/2024/venue-hotels). Additionally, a range of alternative accommodations can be explored through reputable platforms such as [AirBnb](https://www.airbnb.com). 
 
 ~~~
 <div style="text-align: center">
