@@ -165,3 +165,4 @@ configuration = Dict(
 \newcommand{\vskip}{@@u-vskip-3 @@}
 \newcommand{\vskipm}{@@u-vskip-2 @@}
 \newcommand{\email}{[juliacon@julialang.org](mailto:juliacon@julialang.org)}
+\newcommand{\elink}[2]{~~~<a href="#2" target=_blank rel=noopener>#1</a>~~~}

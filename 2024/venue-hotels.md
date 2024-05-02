@@ -17,7 +17,7 @@ JuliaCon organizers have secured exclusive promotional deals with select hotels 
 A hotel in the monumental Philips Light Tower.
 
 Distance from venue: 0.4 km.
-Use this [link](https://app.mews.com/distributor/159bdff3-e477-4850-bb36-b019008adf5c?mewsVoucherCode=JuliaCon%20congres)
+Use this \elink{link}{https://app.mews.com/distributor/159bdff3-e477-4850-bb36-b019008adf5c?mewsVoucherCode=JuliaCon%20congres}
 and the code **JuliaCon congres**.
 
 ~~~
@@ -34,7 +34,7 @@ and the code **JuliaCon congres**.
 A contemporary location in downtown Eindhoven.
 
 Distance from venue: 0.6 km.
-Use this [link](https://www.ihg.com/holidayinn/hotels/us/en/eindhoven/einnl/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=EINNL&qGrpCd=C09&setPMCookies=true&qSHBrC=HI&qDest=Veldmaarschalk%20Montgomerylaan%201%2C%20Eindhoven%2C%20NL&srb_u=1).
+Use this \elink{link}{https://www.ihg.com/holidayinn/hotels/us/en/eindhoven/einnl/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=EINNL&qGrpCd=C09&setPMCookies=true&qSHBrC=HI&qDest=Veldmaarschalk%20Montgomerylaan%201%2C%20Eindhoven%2C%20NL&srb_u=1}.
 
 ~~~
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
@@ -50,7 +50,7 @@ Use this [link](https://www.ihg.com/holidayinn/hotels/us/en/eindhoven/einnl/hote
 An open-minded hub with a playful attitude in the heart of the city.
 
 Distance from venue: 1 km.
-Use this [link](http://www.thesocialhub.co/Eindhoven)
+Use this \elink{link}{http://www.thesocialhub.co/Eindhoven}
 and the code: **Juliacon2024**.
 
 **Note**: The Social Hub provides a discount of 15% for non-refundable rooms by default. The code above unlocks a possibility to book a refundable room with a discount of 15%.
@@ -69,7 +69,7 @@ and the code: **Juliacon2024**.
 A pleasant 4-star hotel in Eindhoven's bustling city center.
 
 Distance from venue: 1.1 km.
-Use this [link](https://app.mews.com/distributor/7f20943a-502c-497f-b4ff-b12300cb10b4) and
+Use this \elink{link}{https://app.mews.com/distributor/7f20943a-502c-497f-b4ff-b12300cb10b4} and
 the code **JuliaCon**.
 
 ~~~
@@ -86,7 +86,7 @@ the code **JuliaCon**.
 A five-star hotel in a local landmark (the Green Tower).
 
 Distance from venue: 1.2 km.
-Use this [link](https://www.nh-hotels.com/en/event/juliacon-cbbe).
+Use this \elink{link}{https://www.nh-hotels.com/en/event/juliacon-cbbe}.
 
 ~~~
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
@@ -102,7 +102,7 @@ Use this [link](https://www.nh-hotels.com/en/event/juliacon-cbbe).
 An iconic building in the heart of the city center.
 
 Distance from venue: 1.4 km.
-Use this [link](https://book.marienhage.com/nl?stay_detail%5Brateplan_id%5D=JULIACON)
+Use this \elink{link}{https://book.marienhage.com/nl?stay_detail%5Brateplan_id%5D=JULIACON}
 and the code: **JULIACON**.
 
 ~~~
@@ -119,7 +119,7 @@ and the code: **JULIACON**.
 A 4-star superior hotel where all conveniences are taken care of.
 
 Distance from venue: 1.4 km.
-Use this [link](https://all.accor.com/promotions-offers/hotel-events/owm016784-001-juliacon-2024.en.shtml).
+Use this \elink{link}{https://all.accor.com/promotions-offers/hotel-events/owm016784-001-juliacon-2024.en.shtml}.
 
 ~~~
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
@@ -135,7 +135,7 @@ Use this [link](https://all.accor.com/promotions-offers/hotel-events/owm016784-0
 An urban boutique hotel right in the center of Eindhoven.
 
 Distance from venue: 1.6 km.
-Use this [link](https://app.mews.com/distributor/dfae9dca-410f-4b42-b980-adf100e604e5?mewsVoucherCode=JuliaCon)
+Use this \elink{link}{https://app.mews.com/distributor/dfae9dca-410f-4b42-b980-adf100e604e5?mewsVoucherCode=JuliaCon}
 and the code: **JuliaCon**.
 
 ~~~
@@ -152,7 +152,7 @@ and the code: **JuliaCon**.
 A quiet and peaceful base in the heart of the city.
 
 Distance from venue: 1.7 km.
-Use this [link](https://www.radissonhotels.com/nl-nl/booking/room-display?hotelCode=NLPPEINPPE&checkInDate=2024-07-08&checkOutDate=2024-07-12&adults%5B%5D=1&children%5B%5D=0&searchType=pac&promotionCode=JULCON24&rhgext=Qm9PSty6s3HG)
+Use this \elink{link}{https://www.radissonhotels.com/nl-nl/booking/room-display?hotelCode=NLPPEINPPE&checkInDate=2024-07-08&checkOutDate=2024-07-12&adults%5B%5D=1&children%5B%5D=0&searchType=pac&promotionCode=JULCON24&rhgext=Qm9PSty6s3HG}
 and the code: **JULCON24**.
 
 ~~~
@@ -169,7 +169,7 @@ and the code: **JULCON24**.
 A modern venue close to Eindhoven's largest nature park.
 
 Distance from venue: 5 km.
-Use this [link](https://www.valkverrast.nl/en/promotions)
+Use this \elink{link}{https://www.valkverrast.nl/en/promotions}
 and the code: **EIN-JuliaCon**.
 
 ~~~
@@ -186,7 +186,7 @@ and the code: **EIN-JuliaCon**.
 A versatile location amidst nature.
 
 Distance from venue: 16 km.
-Use this [link](https://www.nh-hotels.com/en/event/juliacon).
+Use this \elink{link}{https://www.nh-hotels.com/en/event/juliacon}.
 
 ~~~
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
@@ -202,8 +202,8 @@ Use this [link](https://www.nh-hotels.com/en/event/juliacon).
 
 Here is a short list of other possible accommodation options within close range to the venue (without discount).
 
-- [Hotel The Match, Kleine berg 43, 5611 JS](https://maps.app.goo.gl/95DzfpvPdq9q4dYC7)
-- [Hotel la Reine, Wilhelminaplein 3, 5611 HE](https://maps.app.goo.gl/zzg4nDRwWLg2hX9j9)
-- [Boutique Hotel Lumière, Hooghuisstraat 31A, 5611 GS](https://maps.app.goo.gl/w3oHoeexTbR4LvJ86)
+- \elink{Hotel The Match, Kleine berg 43, 5611 JS}{https://maps.app.goo.gl/95DzfpvPdq9q4dYC7}
+- \elink{Hotel la Reine, Wilhelminaplein 3, 5611 HE}{https://maps.app.goo.gl/zzg4nDRwWLg2hX9j9}
+- \elink{Boutique Hotel Lumière, Hooghuisstraat 31A, 5611 GS}{https://maps.app.goo.gl/w3oHoeexTbR4LvJ86}
 
-Additionally, a range of alternative accommodations can be explored through reputable platforms such as [AirBnb](https://www.airbnb.com).
+Additionally, a range of alternative accommodations can be explored through reputable platforms such as \elink{AirBnb}{https://www.airbnb.com}.
