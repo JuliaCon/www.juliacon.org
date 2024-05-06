@@ -41,7 +41,7 @@ jobs:
       with:
         version: '1.10'
     - name: Cache Julia depot
-      uses: julia-actions/cache@v1
+      uses: julia-actions/cache@v2
     - name: Build the website
       shell: julia --color=yes --project=. {0}
       run: |
