@@ -87,27 +87,6 @@ If you are traveling from outside the Schengen area you may need [a visa](/2024/
     <p style="margin-bottom:3ex;"></p>
 ~~~
 
-~~~
-<!--
-\begin{centered}{title="Gold", margin_bottom="3ex"}
-  \sponsor{name="ASML", link="https://www.asml.com", img="/assets/2024/img/sponsors/asml-logo.png", level=2}
-\end{centered}
-
-\begin{centered}{title="Silver", margin_bottom="3ex"}
-  \sponsor{name="Pumas AI", link="https://pumas.ai", img="/assets/2024/img/sponsors/pumas-ai-logo.png", level=3}
-  \sponsor{name="QuEra Computing", link="https://www.quera-computing.com/", img="/assets/2024/img/sponsors/quera-logo.png", level=3}
-  \sponsor{name="Relational AI", link="https://relational.ai", img="/assets/2024/img/sponsors/rai-logo.svg", level=3}
-  \sponsor{name="Jeffrey Sarnoff", link="https://github.com/JeffreySarnoff", img="/assets/2024/img/sponsors/sarnoff.png", level=3}
-\end{centered}
-
-\begin{centered}{title="Bronze", margin_bottom="3ex"}
-  \sponsor{name="Jolin.io", link="https://www.jolin.io", img="/assets/2024/img/sponsors/jolin-logo.png", level=4}
-  \sponsor{name="Beacon Biosignals", link="https://beacon.bio", img="/assets/2024/img/sponsors/beacon-logo.svg", level=4}
-  \sponsor{name="MIT CSAIL", link="https://www.csail.mit.edu", img="/assets/2024/img/sponsors/mit-csail-logo.svg", level=4}
-  \sponsor{name="Boeing", link="https://www.boeing.com", img="/assets/2024/img/sponsors/boeing-logo.svg", level=4}
-\end{centered}
--->
-~~~
 \begin{centered}{title="Diamond", margin_bottom="3ex"}
   \sponsor{name="JuliaHub", link="https://juliahub.com", img="/assets/2024/img/sponsors/juliahub-logo.svg", level=1}
 \end{centered}
@@ -116,25 +95,37 @@ If you are traveling from outside the Schengen area you may need [a visa](/2024/
   \sponsor{name="ASML", link="https://www.asml.com", img="/assets/2024/img/sponsors/asml-logo.png", level=2}
 \end{centered}
 
+~~~
+<!--
+\begin{centered}{title="Gold", margin_bottom="3ex"}
+  \sponsor{name="ASML", link="https://www.asml.com", img="/assets/2024/img/sponsors/asml-logo.png", level=2}
+\end{centered}
+-->
+~~~
+
 \begin{centered}{title="Silver", margin_bottom="3ex"}
   \sponsor{name="Relational AI", link="https://relational.ai", img="/assets/2024/img/sponsors/rai-logo.svg", level=3}
   \sponsor{name="Sioux Technologies", link="https://www.sioux.eu/", img="/assets/2024/img/sponsors/sioux-logo.png", level=3}
 \end{centered}
 
+\begin{centered}{title="Bronze", margin_bottom="3ex"}
+  \sponsor{name="Jeffrey Sarnoff", link="https://github.com/JeffreySarnoff", img="/assets/2024/img/sponsors/sarnoff.png", level=3}
+\end{centered}
+
 \begin{centered}{title="Copper", margin_bottom="3ex"}
-  \sponsor{name="Better Hand Financial Technologies", link="https://bhft.com", img="/assets/2024/img/sponsors/bhft-logo.png", level=1}
+  \sponsor{name="Better Hand Financial Technologies", link="https://bhft.com", img="/assets/2024/img/sponsors/bhft-logo.png", level=2}
 \end{centered}
 
 \begin{centered}{title="Startup", margin_bottom="3ex"}
   \sponsor{name="Evovest", link="https://evovest.com/", img="/assets/2024/img/sponsors/evovest-logo.svg", level=4}
-  \sponsor{name="Genie", link="https://www.genieframework.com", img="/assets/2024/img/sponsors/genie-logo.svg", level=3}
+  \sponsor{name="Genie", link="https://www.genieframework.com", img="/assets/2024/img/sponsors/genie-logo.svg", level=4}
   \sponsor{name="Jolin.io", link="https://www.jolin.io", img="/assets/2024/img/sponsors/jolin-logo.png", level=4}
-  \sponsor{name="Jahan.ai", link="https://www.jahan.ai", img="/assets/2024/img/sponsors/jahan-logo.png", level=3}
+  \sponsor{name="Jahan.ai", link="https://www.jahan.ai", img="/assets/2024/img/sponsors/jahan-logo.png", level=4}
 \end{centered}
 
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
   \sponsor{name="VersionBay", link="https://www.versionbay.com", img="/assets/local/eindhoven2023/img/sponsors/VersionBay-Logo.png", level=3}
-    \sponsor{name="TU/e", link="https://www.tue.nl/en/", img="/assets/2024/img/sponsors/tue_logo.png", level=3}
+  \sponsor{name="TU/e", link="https://www.tue.nl/en/", img="/assets/2024/img/sponsors/tue_logo.png", level=3}
 \end{centered}
 
 \begin{centered}{title="Local Partners", margin_bottom="3ex"}
