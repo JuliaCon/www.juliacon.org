@@ -24,7 +24,7 @@ end
         """)
 end
 
-@lx function avatar(; link="", img="", name="", affil="")
+@lx function avatar(; link="", img="", name="", affil="", bio="")
     return html("""
         <div class="u-vskip-3"></div>
         <div class="header-talks avatar-talks">
@@ -35,6 +35,9 @@ end
             <a href="$link" style="text-decoration:none;">$name</a>
             <p class="affiliation">
               $affil
+            </p>
+            <p class="affiliation">
+              $bio
             </p>
           </div>
         </div>

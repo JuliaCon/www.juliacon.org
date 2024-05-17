@@ -1,0 +1,37 @@
+# Keynotes
+
+---
+
+\avatar{name="Prof.Dr. Bert de Vries", affil="Eindhoven Technical University", link="https://biaslab.github.io/", img="/assets/2024/img/keynotes/pbert.png", bio="Bert de Vries received MSc (1986) and PhD (1991) degrees in Electrical Engineering from Eindhoven University of Technology (TU/e) and the University of Florida, respectively. From 1992 until 1999 he worked at Sarnoff Research Center in Princeton (NJ), where he contributed to research projects over a wide range of signal and image processing topics such as word spotting, financial market prediction, and breast cancer detection from mammograms. Since April 1999, he has been employed in the hearing aids industry (currently at GN Hearing), both in research and managerial roles. Since January 2012, he has also been a full professor at the Signal Processing Systems Group at TU/e, where he directs the BIASlab research team of graduate students with whom he conducts research on transferring a Bayesian brain theory (the Free Energy Principle) to practical engineering solutions."}
+
+## Natural Artificial Intelligence
+
+Large language model-based chatbots such as chatGPT are very impressive, but you cannot ask them to go out and learn how to ride a bike. Learning how to ride a bike is about an agent that learns a skill through efficient, real-time interactions with a dynamic environment. In this presentation, I will discuss the underlying technology that enables brains to learn new skills and acquire knowledge solely through unsupervised environmental interactions. How much do we understand about what brains compute? And is this knowledge transferable to AI engineering systems? I will discuss Karl Friston’s Free Energy Principle, which is the theory on what, why and how brains compute. I will also discuss the efforts of our research lab (http://biaslab.org) at TU Eindhoven to develop a Julia ecosystem of packages to support transfer of these ideas to working AI engineering tools.
+
+---
+
+\avatar{name="Michael F. Herbst", affil="Mathematics and Institute of Materials Science, École polytechnique fédérale de Lausanne, Switzerland", link="https://michael-herbst.com/", img="/assets/2024/img/keynotes/michael.jpg"}
+
+\avatar{name="Rachel Kurchin", affil="Materials Science and Engineering department at Carnegie Mellon University in Pittsburgh, Pennsylvania, USA", link="https://engineering.cmu.edu/directory/bios/kurchin-rachel.html", img="/assets/2024/img/keynotes/rachel.png"}
+
+## Materials Modeling: Bonding across atoms, code, and people
+
+Current solutions to key 21st-century challenges (such as climate change, food insecurity, healthcare, and communications) are fundamentally limited by the functional properties of known materials. Designing new materials increasingly relies on computational modeling with state-of-the-art workflows frequently interweaving first-principles with empirical modeling as well as data-driven approaches. To make advances, we often must establish novel connections across fields such as physics, chemistry, computer science, and applied math. The Julia language and user community are well-poised to address these challenges. However, with many well-established software solutions and their respective user communities already in existence, Julia tools cannot just duplicate existing functionality. Rather, it is crucial to integrate and add value to existing (often monolithic) codebases and software ecosystems. In this talk, we will discuss existing efforts in this area --- both by ourselves as well as the broader JuliaMolSim community --- and outline remaining challenges and opportunities going forward
+
+---
+
+\avatar{name="Andrew Fitzgibbon", affil="TBF", link="TBF", img="/assets/2024/img/world_768.png"}
+
+## AI Hardware and Real-world AI
+
+AI is fast becoming a significant consumer of the world’s computational power, so it is crucial to use that power wisely and efficiently. Our approaches to doing so must span all levels of the research stack: from fundamental theoretical understanding of the loss surfaces and regularization properties of machine learning models, to efficient layout at the transistor level of floating-point multipliers and RAM. I will talk about projects, such as real-time computer vision on the Microsoft HoloLens HPU (about 3.5 GFLOPS ), which required extreme efficiency in both objective and gradient computations, and how this relates to the training of massive AI models on Graphcore’s IPU (about 350 TFLOPS). Key to this work is how we empower programmers to communicate effectively with such hardware, and how we design frameworks and languages to ensure we can put theory into practice. So this talk contains aspects of: mathematical optimization, automatic differentiation, programming languages, and silicon design. Despite this range of topics, the plan is for it to be accessible and useful to anyone who loves computers.
+
+--- 
+
+\avatar{name="Sam Aaron", affil="TBF", link="TBF", img="/assets/2024/img/world_768.png"}
+
+## Sonic Pi - Live Coding as a tool for next-gen education
+
+Sonic Pi is a free code-based music creation and performance tool that targets both education and professional musicians. It is possible for beginners to code fresh beats, driving bass lines and shimmering synth riffs. All this whilst teaching core computer science concepts such as sequencing, functions, variables, loops, data structures and algorithms.
+This talk will briefly introduce Sonic Pi before taking a deep technical nose-dive into some of the interesting requirements of live coding systems. We'll touch on concurrency, distributed programming, temporal logic, deterministic randomisation, event streams, hot swapping code and domain specific languages.
+Get ready for some serious live coded beats and a window into an exciting future of computing education.
