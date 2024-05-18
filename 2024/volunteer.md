@@ -1,12 +1,28 @@
 # Sign Up!
 
-~~~
-<a class="text-green" href="https://forms.gle/n7NqWxt47UGow92B9">Help out as a volunteer.</a>
-~~~
+Help out as a volunteer!
+  ~~~
+  <div class="u-vskip-2"></div>
+  <div style="text-align: center">
+    <h1 class="btn" style="width: 80%; border-color: #9d253d;"><a style="color: #9d253d; text-decoration: none;" href="https://forms.gle/RPumkG5GipnmGdA67">Sign up to become a volunteer!</a></h1>
+  </div>
+  ~~~
+
+## Roles
+
+### On the day volunteers
 
 JuliaCon volunteers are the backbone of our conference and without people like you, we would not be able to make JuliaCon the success it is!
 
-## Roles
+👷 Example volunteer duties:
+- Check-in at registration desk 
+- Ensure talks start and end on time
+- Answer or appropriately redirect questions from attendees and speakers
+- Appropriately redirect any Code of Conduct complaints
+- Manage maximum room capacity
+- Helping with any ad hoc needs
+
+**Please note: we are asking that you devote about 50% of your time at the conference helping with any of the tasks that need to be done.**
 
 ### Mentors to new speakers
 
@@ -19,10 +35,6 @@ Please let us know if you would like to be mentored or if you are willing to men
 
 JuliaCon will be offering proceedings, and we need reviewers to assess submissions.
 Our review process will be similar to that of the Journal of Open Source Software (JOSS).
-
-### Virtual volunteers
-
-Our virtual volunteers help keep the conference running smoothly by helping with items like registration, moderation, and AV support. Help us put on a great event for our community!
 
 ### Organizing Committee Members
 
