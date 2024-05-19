@@ -10,9 +10,9 @@ Large language model-based chatbots such as chatGPT are very impressive, but you
 
 ---
 
-\avatar{name="Michael F. Herbst", affil="Mathematics and Institute of Materials Science, École polytechnique fédérale de Lausanne, Switzerland", link="https://michael-herbst.com/", img="/assets/2024/img/keynotes/michael.jpg"}
+\avatar{name="Prof. Michael F. Herbst", affil="Mathematics and Institute of Materials Science, École polytechnique fédérale de Lausanne, Switzerland", link="https://michael-herbst.com/", img="/assets/2024/img/keynotes/michael.jpg"}
 
-\avatar{name="Rachel Kurchin", affil="Materials Science and Engineering department at Carnegie Mellon University in Pittsburgh, Pennsylvania, USA", link="https://engineering.cmu.edu/directory/bios/kurchin-rachel.html", img="/assets/2024/img/keynotes/rachel.png"}
+\avatar{name="Prof. Rachel Kurchin", affil="Materials Science and Engineering department at Carnegie Mellon University in Pittsburgh, Pennsylvania, USA", link="https://engineering.cmu.edu/directory/bios/kurchin-rachel.html", img="/assets/2024/img/keynotes/rachel.png"}
 
 ## Materials Modeling: Bonding across atoms, code, and people
 
@@ -20,7 +20,7 @@ Current solutions to key 21st-century challenges (such as climate change, food i
 
 ---
 
-\avatar{name="Andrew Fitzgibbon", affil="TBF", link="TBF", img="/assets/2024/img/world_768.png"}
+\avatar{name="Dr. Andrew Fitzgibbon", affil="Graphcore", link="https://www.fitzgibbon.ie/", img="/assets/2024/img/world_768.png"}
 
 ## AI Hardware and Real-world AI
 
@@ -28,7 +28,7 @@ AI is fast becoming a significant consumer of the world’s computational power,
 
 --- 
 
-\avatar{name="Sam Aaron", affil="TBF", link="TBF", img="/assets/2024/img/world_768.png"}
+\avatar{name="Dr. Sam Aaron", affil="Sonic Pi", link="http://sam.aaron.name/", img="/assets/2024/img/world_768.png"}
 
 ## Sonic Pi - Live Coding as a tool for next-gen education
 
