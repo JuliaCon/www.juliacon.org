@@ -156,6 +156,7 @@ configuration = Dict(
             "Travel" => "/2024/travel",
             "Volunteer" => "/2024/volunteer",
             "Code of Conduct" => "/2024/coc",
+            "Accessibility" => "/2024/accessibility",
             "Diversity and Inclusion" => "/2024/dei"
         ]
     ),
