@@ -6,7 +6,7 @@ insert_top_title = true
 top_title = "JuliaCon 2024\n"
 top_description = "Join the largest annual conference organized around the Julia programming language.\n"
 top_date = "Philips Stadion, Eindhoven. July 9th–13th, 2024."
-top_subtitle = """Co-hosted with <a style="color: #4366d0; text-decoration: underline" href="https://pydata.org/eindhoven2024/">PyData Eindhoven</a> on July 11th.""" 
+top_subtitle = """Co-hosted with <a style="color: #4366d0; text-decoration: underline" href="https://pydata.org/eindhoven2024/">PyData Eindhoven</a> on July 11th."""
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
@@ -35,6 +35,12 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 \begin{box}{title="Talks & Workshop", color="light-blue"}
   JuliaCon 2024 [schedule is now out](https://pretalx.com/juliacon2024/schedule/)!
   Besides the awesome talks that will be hosted on July 10th, 11th and 12th, there will also be other activities on the days around the conference! On July 9th [workshops](/2024/workshops) will be held, and on July 13th the annual hackathon will be held. The workshops will take place at the [Neuron faculty building at the Eindhoven University of Technology](https://maps.app.goo.gl/kR5rwSFuqZZsiZe9A) and the hackathon will take place at [Grand Cafe De Lichttoren](https://maps.app.goo.gl/wA2yHBx1Xp8LnqTG6). Both locations are only a short walk from the [Eindhoven train station](https://maps.app.goo.gl/xnjYvfy7eK6Mbac97).
+  ~~~
+  <div class="u-vskip-2"></div>
+  <div style="text-align: center">
+    <h2 class="btn" style="width: 60%; border-color: #6581df;"><a style="color: #6581df; text-decoration: none;" href="https://pretalx.com/juliacon2024/schedule/">Check the Schedule</a></h2>
+  </div>
+  ~~~
 \end{box}
 
 \begin{box}{title="Venue", color="light-red"}
@@ -46,7 +52,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 \end{box}
 
 \begin{box}{title="2023 videos", color="dark-purple"}
-  JuliaCon 2024 is almost upon us. To get in the mood for what is planned to be an amazing conference you can watch all of the previous JuliaCon conference's talks, workshops and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC). You can also find there the aftermovie of [JuliaCon Local Eindhoven 2023](https://www.youtube.com/watch?v=9YfRd6sdI4Q). 
+  JuliaCon 2024 is almost upon us. To get in the mood for what is planned to be an amazing conference you can watch all of the previous JuliaCon conference's talks, workshops and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC). You can also find there the aftermovie of [JuliaCon Local Eindhoven 2023](https://www.youtube.com/watch?v=9YfRd6sdI4Q).
   We also have some [photographic memories from previous JuliaCons](memories/).
 \end{box}
 
