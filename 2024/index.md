@@ -33,7 +33,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 
 \begin{box}{title="Keynote Speakers", color="red"}
 
-  \avatar{name="Prof.Dr. Bert de Vries", affil="Eindhoven Technical University", link="https://biaslab.github.io/", img="/assets/2024/img/keynotes/pbert.png"}
+  \avatar{name="Prof. Bert de Vries", affil="Eindhoven Technical University", link="https://biaslab.github.io/", img="/assets/2024/img/keynotes/pbert.png"}
 
   @@content-box-talk
     Large language model-based chatbots such as chatGPT are very impressive, but you cannot ask them to go out and learn how to ride a bike. Learning how to ride a bike is about an agent that learns a skill through efficient, real-time interactions with a dynamic environment. In this presentation, I will discuss the underlying technology that enables brains to learn new skills and acquire knowledge solely through unsupervised environmental interactions. How much do we understand about what brains compute? And is this knowledge transferable to AI engineering systems? I will discuss Karl Friston’s Free Energy Principle, which is the theory on what, why and how brains compute. I will also discuss the efforts of our research lab (http://biaslab.org) at TU Eindhoven to develop a Julia ecosystem of packages to support transfer of these ideas to working AI engineering tools.
