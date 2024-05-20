@@ -152,11 +152,11 @@ configuration = Dict(
                 "Workshops" => "/2024/workshops",
                 "Minisymposia" => "/2024/minisymposia",
             ],
-            "Sponsor" => "/2024/sponsor", 
+            "Sponsor" => "/2024/sponsor",
             "Travel" => "/2024/travel",
             "Volunteer" => "/2024/volunteer",
-            "Job board" => "/2024/jobboard", 
-            "About" => [
+            "Job board" => "/2024/jobboard",
+            "Guidelines" => [
                 "Code of Conduct" => "/2024/coc",
                 "Accessibility" => "/2024/accessibility",
                 "Diversity and Inclusion" => "/2024/dei"
