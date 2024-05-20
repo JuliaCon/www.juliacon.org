@@ -4,6 +4,8 @@
 
 Checkout the full [schedule on PreTalx](https://pretalx.com/juliacon2024/schedule/), or click [here](https://discourse.julialang.org/t/juliacon-2024-schedule-is-now-out/113717/3) for the rest of the announcement and Important FAQs!
 
+The workshops will be hosted at the [Neuron faculty building in the Eindhoven University of Technology]((https://maps.app.goo.gl/kR5rwSFuqZZsiZe9A)) which is at a short walking distance from the main Eindhoven train station. 
+
 ## 	Building REST APIs in Julia
 
 Julia is a growing, fast language with relatively easy syntax, and thus quite a productive language, but its popularity still seems enormously lopsided towards the scientific community. Therefore, it can be an intimidating language and community for newbies without a solid scientific or mathematical background since most tutorials, blogs and resources are geared towards
@@ -136,4 +138,4 @@ The workshop will be fully hands-on, and will consist of several iterations of [
 - How to use Documenter.jl to generate runnable examples.
 - How to use Documenter.jl to deploy documentation to a GitHub repository.
 - How to use DocumenterCitations.jl to cite literature robustly.
-- Tips for reducing your maintainance burden.
+- Tips for reducing your maintenance burden.
