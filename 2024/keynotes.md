@@ -20,7 +20,7 @@ Current solutions to key 21st-century challenges (such as climate change, food i
 
 ---
 
-\avatar{name="Dr. Andrew Fitzgibbon", affil="Graphcore", link="https://www.fitzgibbon.ie/", img="/assets/2024/img/world_768.png"}
+\avatar{name="Dr. Andrew Fitzgibbon", affil="Graphcore", link="https://www.fitzgibbon.ie/", img="/assets/2024/img/keynotes/andrew.jpg", bio="Andrew Fitzgibbon has been closely involved in the delivery of three groundbreaking computer vision and machine learning systems over two decades. In 2000, he was computer vision lead on the Emmy-award-winning 3D camera tracker \"Boujou\"; in 2009 he introduced large-scale synthetic training data to Kinect for Xbox 360, and in 2019 was science lead on the team that shipped fully articulated hand tracking on HoloLens 2. His passion is bringing the power of mathematics to the crucible of real-world engineering. He has numerous research awards, including ten \"best paper\" prizes at leading conferences, and is a Fellow of the UK's Royal Academy of Engineering."}
 
 ## AI Hardware and Real-world AI
 

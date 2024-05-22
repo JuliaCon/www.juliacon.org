@@ -51,7 +51,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 
   ---
 
-  \avatar{name="Dr. Andrew Fitzgibbon", affil="TBF", link="TBF", img="/assets/2024/img/world_768.png"}
+  \avatar{name="Dr. Andrew Fitzgibbon", affil="Graphcore", link="https://www.fitzgibbon.ie/", img="/assets/2024/img/keynotes/andrew.jpg"}
 
   @@content-box-talk
     AI is fast becoming a significant consumer of the world’s computational power, so it is crucial to use that power wisely and efficiently. Our approaches to doing so must span all levels of the research stack: from fundamental theoretical understanding of the loss surfaces and regularization properties of machine learning models, to efficient layout at the transistor level of floating-point multipliers and RAM.
@@ -59,7 +59,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 
   --- 
 
-  \avatar{name="Dr. Sam Aaron", affil="TBF", link="TBF", img="/assets/2024/img/world_768.png"}
+  \avatar{name="Dr. Sam Aaron", affil="Sonic Pi", link="http://sam.aaron.name/", img="/assets/2024/img/world_768.png"}
 
   Sonic Pi is a free code-based music creation and performance tool that targets both education and professional musicians. It is possible for beginners to code fresh beats, driving bass lines and shimmering synth riffs. All this whilst teaching core computer science concepts such as sequencing, functions, variables, loops, data structures and algorithms.
   This talk will briefly introduce Sonic Pi before taking a deep technical nose-dive into some of the interesting   requirements of live coding.
