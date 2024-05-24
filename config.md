@@ -149,6 +149,7 @@ configuration = Dict(
             "Tickets" => "/2024/tickets",
             "Schedule" => [
                 "Talks" => "https://pretalx.com/juliacon2024/schedule/",
+                "Keynotes" => "/2024/keynotes",
                 "Workshops" => "/2024/workshops",
                 "Minisymposia" => "/2024/minisymposia",
             ],

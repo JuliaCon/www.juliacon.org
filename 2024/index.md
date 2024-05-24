@@ -22,14 +22,53 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 -->
 ~~~
 
-\begin{box}{title="Ticket sale", color="red"}
+\begin{box}{title="Ticket sale", color="purple"}
   Ticket sale is now open!
   ~~~
   <div class="u-vskip-2"></div>
   <div style="text-align: center">
-    <h2 class="btn" style="width: 60%; border-color: #9d253d;"><a style="color: #9d253d; text-decoration: none;" href="https://www.tickettailor.com/events/numfocus1/1114995#">Buy your ticket here!</a></h2>
+    <h2 class="btn" style="width: 60%; border-color: #854c9e;"><a style="color: #854c9e; text-decoration: none;" href="https://www.tickettailor.com/events/numfocus1/1114995#">Buy your ticket here!</a></h2>
   </div>
   ~~~
+\end{box}
+
+\begin{box}{title="Keynote Speakers", color="red"}
+
+  \avatar{name="Prof. Bert de Vries", affil="Eindhoven Technical University", link="https://biaslab.github.io/", img="/assets/2024/img/keynotes/pbert.png"}
+
+  @@content-box-talk
+    Large language model-based chatbots such as chatGPT are very impressive, but you cannot ask them to go out and learn how to ride a bike. Learning how to ride a bike is about an agent that learns a skill through efficient, real-time interactions with a dynamic environment. In this presentation, I will discuss the underlying technology that enables brains to learn new skills and acquire knowledge solely through unsupervised environmental interactions. How much do we understand about what brains compute? And is this knowledge transferable to AI engineering systems? I will discuss Karl Friston’s Free Energy Principle, which is the theory on what, why and how brains compute. I will also discuss the efforts of our research lab (http://biaslab.org) at TU Eindhoven to develop a Julia ecosystem of packages to support transfer of these ideas to working AI engineering tools.
+  @@
+
+  ---
+
+  \avatar{name="Prof. Michael F. Herbst", affil="Mathematics and Institute of Materials Science, École polytechnique fédérale de Lausanne, Switzerland", link="https://michael-herbst.com/", img="/assets/2024/img/keynotes/michael.jpg"}
+
+  \avatar{name="Prof. Rachel Kurchin", affil="Materials Science and Engineering department at Carnegie Mellon University in Pittsburgh, Pennsylvania, USA", link="https://engineering.cmu.edu/directory/bios/kurchin-rachel.html", img="/assets/2024/img/keynotes/rachel.png"}
+
+  @@content-box-talk
+    Current solutions to key 21st-century challenges (such as climate change, food insecurity, healthcare, and communications) are fundamentally limited by the functional properties of known materials. Designing new materials increasingly relies on computational modeling with state-of-the-art workflows frequently interweaving first-principles with empirical modeling as well as data-driven approaches. To make advances, we often must establish novel connections across fields such as physics and chemistry.
+  @@
+
+  ---
+
+  \avatar{name="Dr. Andrew Fitzgibbon", affil="Graphcore", link="https://www.fitzgibbon.ie/", img="/assets/2024/img/keynotes/andrew.jpg"}
+
+  @@content-box-talk
+    AI is fast becoming a significant consumer of the world’s computational power, so it is crucial to use that power wisely and efficiently. Our approaches to doing so must span all levels of the research stack: from fundamental theoretical understanding of the loss surfaces and regularization properties of machine learning models, to efficient layout at the transistor level of floating-point multipliers and RAM.
+  @@
+
+  --- 
+
+  \avatar{name="Dr. Sam Aaron", affil="Sonic Pi", link="http://sam.aaron.name/", img="/assets/2024/img/world_768.png"}
+
+  Sonic Pi is a free code-based music creation and performance tool that targets both education and professional musicians. It is possible for beginners to code fresh beats, driving bass lines and shimmering synth riffs. All this whilst teaching core computer science concepts such as sequencing, functions, variables, loops, data structures and algorithms.
+  This talk will briefly introduce Sonic Pi before taking a deep technical nose-dive into some of the interesting   requirements of live coding.
+
+  ---
+
+  Read the full description of the Keynotes [here](/2024/keynotes).
+
 \end{box}
 
 \begin{box}{title="Talks & Workshop", color="light-blue"}
