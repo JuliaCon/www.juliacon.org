@@ -24,6 +24,12 @@ JuliaCon 2024, the annual conference for the Julia programming language enthusia
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4397.298998411391!2d5.467720455317504!3d51.441632404662606!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d911c386b16f%3A0x943ec8f52a067b30!2sPhilips%20Stadium!5e0!3m2!1sen!2snl!4v1702571784118!5m2!1sen!2snl" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ~~~
 
+## Eindhoven Travel Guide
+
+~~~
+<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Jojzpiu2g3w?si=07QyK9mgCt6-Dxah" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+~~~
+
 ## Visa Info
 
 The Netherlands is part of the Schengen Area. If you need a visa to enter the Schengen Area, you will need a visa to enter the Netherlands. JuliaCon 2024 will provide invitation letters to attendees who need a visa to enter the Netherlands. Please note that we cannot provide any financial support for your visa application.
