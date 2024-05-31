@@ -1,14 +1,25 @@
 # JuliaCon 2024: Registration and Ticketing
 
-Welcome to the registration page for JuliaCon 2024! 
+Welcome to the registration page for JuliaCon 2024! This year's conference will take place in person at [PSV Stadium](/2024/venue) in Eindhoven from Wednesday July 10th to Friday July 12th.
+For details, [see the schedule on PreTalx](https://pretalx.com/juliacon2024/schedule/). Surrounding the main conference are several accessory events as listed below.
 
-This year's conference will take place in person at [PSV Stadium](/2024/venue) in Eindhoven from Wednesday July 10th to Friday July 12th. On Thursday July 11th, JuliaCon 2024 will also be co-hosted with PyData Eindhoven 2024.
+* Tuesday July 9th, 2024: Workshops will be hosted at [TU Eindhoven](https://www.tue.nl/en/).
+* Thursday July 11th, 2024: JuliaCon will be co-hosted with [PyData Eindhoven 2024](https://pydata.org/eindhoven2024)
+* Saturday July 13th, 2024: A hackathon will take place at [Grand Cafe De Lichttoren](https://delichttoren.nl/en/).
 
-Preceding the main event, there will also be workshops on Tuesday July 9th, 2024 hosted at TU Eindhoven.
-
-Below, you have the option of obtaining 4-day, 3-day, or 1-day tickets to attend JuliaCon 2024. Additionally, there are discounted tickets available for students as listed towards the bottom of the page.
+You may obtain 4-day, 3-day, or 1-day tickets to attend JuliaCon 2024. Additionally, there are discounted tickets available for students.
 
 We look forward to seeing you at JuliaCon 2024.
+
+\begin{box}{title="Ticket sale", color="purple"}
+  Ticket sales are now open! Purchase your ticket today.
+  ~~~
+  <div class="u-vskip-2"></div>
+  <div style="text-align: center">
+    <h2 class="btn" style="width: 60%; border-color: #854c9e;"><a style="color: #854c9e; text-decoration: none;" href="https://www.tickettailor.com/events/numfocus1/1114995#">Buy your ticket here!</a></h2>
+  </div>
+  ~~~
+\end{box}
 
 # Ticket Prices
 
@@ -21,14 +32,7 @@ We look forward to seeing you at JuliaCon 2024.
 
 **Note**: Accepted speakers still benefit from early bird prices. Contact \email to get the speaker discount.
 
-~~~
-<div style="text-align: center">
-<a class="btn" style="width: 100%; border-color: #9d253d; text-decoration: none;" href="https://www.tickettailor.com/events/numfocus1/1114995#">
-    Buy your ticket here!
-</a>
-</div>
-<br>
-~~~
+# Student Ticket Prices
 
 Please only select a student ticket if you are a registered student. We have a limited number of student tickets and want to make the conference accessible to those who need them. Note that PhD students non-faculty postdoctoral trainees also qualify as students.
 
