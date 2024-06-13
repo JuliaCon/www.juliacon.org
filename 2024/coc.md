@@ -25,9 +25,7 @@ We think people should follow these rules outside event activities too!
 
 ## Reporting
 
-If you would like to report a CoC violation or discuss any incident that may have left you uncomfortable, please contact a committee member (listed [here](https://juliacon.org/2024/committee/)) in-person, a volunteer at the front desk, or email us at [juliacon@julialang.org](juliacon@julialang.org).
-Other event staff may be involved to ensure your report is managed properly.
-You won't be asked to confront anyone and your report and identity will be kept confidential.
+If you would like to report a CoC violation or discuss any incident that may have left you uncomfortable, please contact the JuliaCon Diversity and Accessibility Chairs (Skylar Gering and Valentin Churavy) in-person or through email at [diversity@julialang.org](diversity@julialang.org). You can also ask any other [member of the organizing committee](https://juliacon.org/2024/committee/) or volunteer at the front desk to help locate the appropriate individuals to help you. Other event staff may be involved to ensure your report is managed properly but your identity will be kept confidential throughout the reporting process. 
 
 Finally, if you feel that the organizing committee is unable to address your report, the [Julia Stewards](https://julialang.org/community/stewards/) may be contacted at [stewards@julialang.org](stewards@julialang.org).
 
