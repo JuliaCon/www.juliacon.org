@@ -82,9 +82,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 
 \begin{box}{title="Help me attend", color="purple"}
 
-We aim to provide limited tickets and travel grants for both speakers and members of underrepresented communities in computing/science, as well as on-site childcare. Learn more about our [Diversity Initiatives](/2024/dei)!
-
-Apply for Speaker Funding or a Diversity Scholarship [here](https://forms.gle/tniSUTkNZE3GXNBU7). More information on the distinction between awards is in the form description.
+This JuliaCon we will provide on-site childcare! Learn how to sign up and learn more about our other [Diversity Initiatives](/2024/dei)!
 
 If you are traveling from outside the Schengen area you may need [a visa](/2024/travel/#visa_info).
 
