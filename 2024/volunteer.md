@@ -34,7 +34,7 @@ Please let us know if you would like to be mentored or if you are willing to men
 ### Proceedings reviewers
 
 JuliaCon offers proceedings, and we need reviewers to assess submissions.
-Our review process is similar to that of the Journal of Open Source Software (JOSS). You can register as reviewer by filling [this form](https://docs.google.com/forms/d/e/1FAIpQLSdOvN0cEQRJZ_fIXbkPBJBJTNvzSyy89khrQvv8i0NSXmLkFA/viewform). More information about JuliaCon proceedings can be found [here](https://proceedings.juliacon.org/)
+Our review process is similar to that of the Journal of Open Source Software (JOSS). You can register as reviewer by filling [this form](https://docs.google.com/forms/d/e/1FAIpQLSdOvN0cEQRJZ_fIXbkPBJBJTNvzSyy89khrQvv8i0NSXmLkFA/viewform). More information about JuliaCon proceedings can be found [here](https://proceedings.juliacon.org/).
 
 ### Organizing Committee Members
 
