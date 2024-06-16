@@ -1,29 +1,53 @@
-# JuliaCon 2024 Workshops
+# JuliaCon 2024 Workshops July 9
 
-**Note!**: This list is preliminary and contains only the workshops that have been confirmed so far. A few more may appear in the upcoming days.
+
+## Practical Information
+
+- **What:** Workshops day ahead of JuliaCon
+- **Date:** July 9, 2024
+- **Time:** Walk-in at 8:30, starts at 9:00, ends at 17:00
+- **Location:** Neuron building, Eindhoven University of Technology campus
+- **Tickets:** Yes, participants need a ticket. You can get one [here](https://juliacon.org/2024/tickets/).
+- **Food:** Catering for the full day is provided
+
+## Location
+
+### Address
+
+The workshops will be hosted at the [Neuron faculty building in the Eindhoven University of Technology]((https://maps.app.goo.gl/kR5rwSFuqZZsiZe9A)) which is at a short walking distance from the main Eindhoven train station. Also check [the website of the location](https://www.tue.nl/en/our-university/tue-campus/buildings/neuron/) for more photos.
+
+### Rooms
+
+Reserved by [EAISI in TU/e](https://www.tue.nl/en/our-university/tue-campus/buildings/neuron) for JuliaCon workshops.
+
+- Neuron 0.242 (50p lecture room)
+- Neuron 0.244 (50p lecture room)
+- Neuron 0.246 (50p lecture room)
+- Neuron 0.264 (50p lecture room)
+- Neuron 0.266 (50p lecture room)
+- Neuron -1.350 (basement, 75p lecture room)
+- Neuron -1.354 (basement, 75p lecture room)
+
+### AV Setup
+Rooms are equipped with a beamer, audio equipment, and a camera system for recording/webcast.
+
+## Catering
+
+Arranged by Appèl, TU/e-dedicated catering provider.
+
+- 8:30-9:00 - Coffee during walk-in
+- 10:30 - Coffee moment
+- 12:00-13:30 - Lunch buffet
+- 15:00 - Coffee moment
+- 16:30 - ‘Worstenbroodje’ snack.
+
+*All coffee moments also include tea, water & some kind of sweet/snack etc.*
+
+## Program & workshops descriptions
 
 Checkout the full [schedule on PreTalx](https://pretalx.com/juliacon2024/schedule/), or click [here](https://discourse.julialang.org/t/juliacon-2024-schedule-is-now-out/113717/3) for the rest of the announcement and Important FAQs!
 
-The workshops will be hosted at the [Neuron faculty building in the Eindhoven University of Technology]((https://maps.app.goo.gl/kR5rwSFuqZZsiZe9A)) which is at a short walking distance from the main Eindhoven train station. 
-
-## 	Building REST APIs in Julia
-
-Julia is a growing, fast language with relatively easy syntax, and thus quite a productive language, but its popularity still seems enormously lopsided towards the scientific community. Therefore, it can be an intimidating language and community for newbies without a solid scientific or mathematical background since most tutorials, blogs and resources are geared towards
-
-To address the intimidation above, I propose this workshop, where we'll learn to build and deploy a REST project for the web. With the web being a ubiquitous technology, this workshop should potentially have a wide-reaching audience, but with the target group being people who have basic experience with Julia and are looking to build a project with it to their skills and put them to "practical" use as well as experienced developers in another language just checking out Julia as a potential next language to look into.
-
-The workshop will be developed as a potential natural progression to the "Introduction to Julia" workshop.
-
-The general outline will be as follows:
-
-Introduction to REST: The workshop will start with a brief introduction to REST, its purpose, and its benefits.
-
-Building the Resource: This part will take up most of the workshop's time. A simple resource or service will be built and wrapped with the REST protocol to make it accessible via the HTTP protocol, introducing the various aspects of REST in practice.
-
-Deployment: The final part will discuss and demonstrate connecting the REST API with a frontend app, which will not be built during the session but will be provided for download to participants. The application will also be deployed to the web/cloud via docker.
-
-
-## Hands-on with Julia for HPC on GPUs and CPUs
+### Hands-on with Julia for HPC on GPUs and CPUs
 
 Why to wait hours for computations to complete, when it could take only a few seconds? Tired of prototyping code in an interactive, high-level language and rewriting it in a lower-level language to get high-performance code? By its design, Julia offers the flexibility of a high-productivity language, without sacrificing the control, the performance, and the idiosyncrasies that are often demanded by high-performance computing (HPC) hardware.
 
@@ -54,8 +78,7 @@ This workshop assumes a basic knowledge of the Julia language (language structur
 
 We will cover the fundamentals of multi-threading, distributed, and GPU computing; as well as how these relate to modern HPC systems. Now prerequisite knowledge in these areas is needed.
 
-
-## Hierarchical Component-Based Modeling with ModelingToolkit.jl
+### Hierarchical Component-Based Modeling with ModelingToolkit.jl
 
 ModelingToolkit is the symbolic modeling layer of Julia's SciML. SciML covers many areas of numerical modeling and simulation, such as linear systems of equations, nonlinear systems of equations, differential equations, and optimization. Similarly, ModelingToolkit is a symbolic modeling language which covers the same interfaces and shuttles to the underlying numerical solvers.
 
@@ -71,7 +94,7 @@ In this workshop we will showcase how to build steady state models, transient mo
 
 and much more.  
 
-## Julia and Rust - Safer abstractions and FFI Workshop
+### Julia and Rust - Safer abstractions and FFI Workshop
 
 Rust is great but not for Julians - unless you come to this talk and learn to go around the rougher spots we face when interacting with Rust for real world scenarios.
 
@@ -82,12 +105,12 @@ We'll cover stuff like:
 - Miss BenchmarkTools.jl? We'll cover the best of divan
 - Iterators tricks to speed up your Rust code
 
-## Julia for Systems Biology; generating personalized models
+### Julia for Systems Biology; generating personalized models
 
 Computational models offer a valuable tool for understanding the dynamic interactions between different biological entities, especially in biomedical applications. Personalizing these models with data can shed light on interindividual variation and project future health risks. However, model generation can be computationally expensive. Our hands-on and interactive workshop will demonstrate how personalized models can be more rapidly generated in Julia using the DifferentialEquations.jl package. Use an in-house model of glucose-insulin system we will cover the implementation and resolving of ODE systems in Julia, including importing in SBML. We will provide a guide on model selection including parameter sensitivity and identifiability analysis, highlighting efficiencies that can be achieved using Julia. Additionally, we will discuss strategies for parameter estimation, including the benefits of regularization, using a publicly available data set of meal responses. Short presentation will be used to provide necessary background and theory and all methods will be implemented in a Jupyter notebook to facilitate independent learning.
 
 
-## Productive Parallel Programming with Dagger.jl
+### Productive Parallel Programming with Dagger.jl
 
 Traditional parallel programming can be very hard to do effectively, as there are many prerequisites to know, and many tools that need to be used correctly and combined for maximum performance. Because of this, many programmers never learn how to write code that can scale beyond a single thread or a single server; and when parallelism is added to code, it often only supports one or a limited number of systems and hardware devices, which excludes users with unsupported systems from using that code effectively.
 
@@ -98,7 +121,7 @@ This workshop is focused on users who feel comfortable with Julia, but struggle 
 If there is enough time, we will also cover more advanced topics like how to utilize GPUs, MPI interfacing, and more.
 
 
-## Scientific Machine Learning using Functional Mock-Up Units
+### Scientific Machine Learning using Functional Mock-Up Units
 
 This workshop focuses on the integration of Functional Mock-Up Units (FMUs) into a machine learning topology. FMUs are simulation models that can be generated within a variety of modeling tools (https://fmi-standard.org/). Together with deep neural networks that complement and improve the FMU prediction, so called NeuralFMUs can be created. Example use cases that show the potentials of this technique are given during the introduction.
 
@@ -122,7 +145,7 @@ Equipped with the knowledge about the necessary steps to build a proper hybrid m
 Participants only need access to a computer with Julia installed (tested under v1.10) running Windows or Linux. To ensure a productive experience for all participants, major parts of modeling and coding are pre-implemented as interactive Pluto-Notebook. This way, participants can explore the topic at their own pace according to their previous knowledge. The notebook stays available after the workshop.
 
 
-## Writing and maintaining an exceptional Documentation
+### Writing and maintaining an exceptional Documentation
 
 This workshop is all about documentation, one of the most important aspects of good software. Great documentation makes your code accessible to others, makes it more pleasant for them to use, so that they'll want to keep using it for a long time, and it also lowers the threshold for users to start contributing. Whether you are a maintainer of several registered Julia packages, or just someone with a codebase that you believe can be useful to others, this workshop will help you make your documentation exceptional!
 
