@@ -7,7 +7,7 @@
 - **Date:** July 9, 2024
 - **Time:** Walk-in at 8:30, starts at 9:00, ends at 17:00
 - **Location:** Neuron building, Eindhoven University of Technology campus
-- **Tickets:** Yes, participants need a ticket
+- **Tickets:** Yes, participants need a ticket. You can get one [here](https://juliacon.org/2024/tickets/).
 - **Food:** Catering for the full day is provided
 
 ## Location
