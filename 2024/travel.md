@@ -53,6 +53,9 @@ If you think you may require a closer parking space, accommodations or extra ass
 
 ## Reaching Eindhoven
 
+The Netherlands is well-connected to the rest of Europe by air, rail, and road. Eindhoven, in particular, is easily accessible from various European cities. Within the Netherlands, the city is well-connected by train and bus services. The tickets for trains and buses can be purchased at the station or online. In addition, many train stations accept regular [debit cards, credit cards or mobile phones](https://www.ns.nl/en/travel-information/check-in-check-out/debit-card) without need to buy a ticket at the station.
+
+
 ### Eindhoven airport
 
 Eindhoven has its own airport, well-linked to other European cities. Getting from the airport to Eindhoven is a breeze with various public transport options. Right by the terminal in P1, there's a bus stop where you can hop on and off. Take bus 400 or 401 to reach Eindhoven Central Station in just 30 minutes.
