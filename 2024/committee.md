@@ -5,8 +5,8 @@
 * Katharine Hyatt, Program co-Chair [Twitter](https://twitter.com/kslimes)
 * Luca Ferranti, Program co-Chair [Github](https://github.com/lucaferranti)
 * Mark Kittisopikul, Finance Chair [Twitter](https://twitter.com/markkitti), [Github](https://github.com/mkitti), [LinkedIn](www.linkedin.com/in/markkittisopikul)
-* Skylar Gering, DEI co-Chair [GitHub](https://github.com/skygering)
-* Valentin Churavy, DEI co-Chair [GitHub](https://github.com/vchuravy)
+* Skylar Gering, Diversity and Accessibility co-Chair [GitHub](https://github.com/skygering)
+* Valentin Churavy, Diversity and Accessibility co-Chair [GitHub](https://github.com/vchuravy)
 * Gareth Thomas, Local Chair [LinkedIn](https://www.linkedin.com/in/g-thomas/)
 * Kevin O'Brien, Media and Publicity [Twitter](https://twitter.com/dragonflystats)
 * Carsten Bauer, Proceedings Chair [GitHub](https://github.com/carstenbauer)
@@ -14,8 +14,8 @@
 * Jorge Vieyra, Local organizer [LinkedIn](https://www.linkedin.com/in/jorge-vieyra-76280542/)
 * Max van Dijk, Local organizer [LinkedIn](https://www.linkedin.com/in/max-van-dijk/)
 * Dmitry Bagaev, Local organizer [LinkedIn](https://www.linkedin.com/in/bvdmitri/)
-* Xiu-zhe (Roger) Luo, DEI [GitHub](https://github.com/Roger-luo)
-* Long Chen, DEI [LinkedIn](https://www.linkedin.com/in/long-chen-76ba59221)
+* Xiu-zhe (Roger) Luo, Diversity and Accessibility  [GitHub](https://github.com/Roger-luo)
+* Long Chen, Diversity and Accessibility  [LinkedIn](https://www.linkedin.com/in/long-chen-76ba59221)
 
 ## Proceedings Committee
 
