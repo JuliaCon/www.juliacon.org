@@ -47,23 +47,6 @@ Arranged by Appèl, TU/e-dedicated catering provider.
 
 Checkout the full [schedule on PreTalx](https://pretalx.com/juliacon2024/schedule/), or click [here](https://discourse.julialang.org/t/juliacon-2024-schedule-is-now-out/113717/3) for the rest of the announcement and Important FAQs!
 
-### Building REST APIs in Julia
-
-Julia is a growing, fast language with relatively easy syntax, and thus quite a productive language, but its popularity still seems enormously lopsided towards the scientific community. Therefore, it can be an intimidating language and community for newbies without a solid scientific or mathematical background since most tutorials, blogs and resources are geared towards
-
-To address the intimidation above, I propose this workshop, where we'll learn to build and deploy a REST project for the web. With the web being a ubiquitous technology, this workshop should potentially have a wide-reaching audience, but with the target group being people who have basic experience with Julia and are looking to build a project with it to their skills and put them to "practical" use as well as experienced developers in another language just checking out Julia as a potential next language to look into.
-
-The workshop will be developed as a potential natural progression to the "Introduction to Julia" workshop.
-
-The general outline will be as follows:
-
-Introduction to REST: The workshop will start with a brief introduction to REST, its purpose, and its benefits.
-
-Building the Resource: This part will take up most of the workshop's time. A simple resource or service will be built and wrapped with the REST protocol to make it accessible via the HTTP protocol, introducing the various aspects of REST in practice.
-
-Deployment: The final part will discuss and demonstrate connecting the REST API with a frontend app, which will not be built during the session but will be provided for download to participants. The application will also be deployed to the web/cloud via docker.
-
-
 ### Hands-on with Julia for HPC on GPUs and CPUs
 
 Why to wait hours for computations to complete, when it could take only a few seconds? Tired of prototyping code in an interactive, high-level language and rewriting it in a lower-level language to get high-performance code? By its design, Julia offers the flexibility of a high-productivity language, without sacrificing the control, the performance, and the idiosyncrasies that are often demanded by high-performance computing (HPC) hardware.
