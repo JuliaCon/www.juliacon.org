@@ -61,9 +61,14 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   Besides the awesome talks that will be hosted on July 10th, 11th and 12th, there will also be other activities on the days around the conference! On July 9th [workshops](/2024/workshops) will be held, and on July 13th the annual hackathon will be held. The workshops will take place at the [Neuron faculty building at the Eindhoven University of Technology](https://maps.app.goo.gl/kR5rwSFuqZZsiZe9A) and the hackathon will take place at [Grand Cafe De Lichttoren](https://maps.app.goo.gl/wA2yHBx1Xp8LnqTG6). Both locations are only a short walk from the [Eindhoven train station](https://maps.app.goo.gl/xnjYvfy7eK6Mbac97).
   ~~~
   <div class="u-vskip-2"></div>
-  <div style="text-align: center">
-    <h2 class="btn" style="width: 60%; border-color: #6581df;"><a style="color: #6581df; text-decoration: none;" href="https://pretalx.com/juliacon2024/schedule/">Check the Schedule</a></h2>
-  </div>
+  <div style="display: flex; justify-content: space-between;">
+  <h2 class="btn" style="width: 45%; border-color: #6581df;">
+    <a style="color: #6581df; text-decoration: none;" href="https://pretalx.com/juliacon2024/schedule/">Check the Schedule</a>
+  </h2>
+  <h2 class="btn" style="width: 45%; border-color: #6581df;">
+    <a style="color: #6581df; text-decoration: none;" href="/2024/workshops">Join the Workshops</a>
+  </h2>
+</div>
   ~~~
 \end{box}
 
