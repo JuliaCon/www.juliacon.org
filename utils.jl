@@ -35,14 +35,14 @@ end
   """)
 end
 
-@env function glancecard(md; img="", title="")
+@env function glancecard(md; img="", title="", color="")
   return html("""
-      <div class="col-12 col-md-6 text-center">
+      <div class="col-12 col-md-6 text-center glance-card">
       <br> 
-      <h3>$title</h3>
-      <img class="animated" src="$img">
+      <h3 class="header $color-box">$title</h3>
+      <img class="animated-size" src="$img">
       <br>
-      <br>     
+      <br>   
       """) * 
       md *
       html("""
@@ -55,7 +55,7 @@ end
       <div class="col-12 col-md-4 align-self-start text-center">
         <div class="row">
           <div class="col-5">
-            <img class="animated rounded-circle" src="$img">
+            <img class="animated-size rounded-circle" src="$img">
           </div>
           <div class="col-7 text-left">
             <h5><a href="$link">$name</a></h5>

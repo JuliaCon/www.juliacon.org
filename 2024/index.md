@@ -14,18 +14,6 @@ Co-hosted with <a style="color: #4366d0; text-decoration: underline" href="https
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
-~~~
-<style>
-img.animated {
-    cursor: pointer;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-img.animated:hover {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3), 0 6px 20px rgba(0, 0, 0, 0.2);
-    transform: scale(1.05);
-}
-</style>
-~~~
 
 \begin{rowheader}{title="JuliaCon at a Glance", color=""}\end{rowheader}
 @@row,row-section
@@ -45,25 +33,25 @@ img.animated:hover {
   @@
 @@
 @@row,row-section
-\begin{glancecard}{title="Passionate community", img="/assets/2024/img/whattoexpect/team.jpg"}
+\begin{glancecard}{title="Passionate community", img="/assets/2024/img/whattoexpect/team.jpg", color="purple"}
   At JuliaCon, expect to be surrounded by passionate individuals from diverse backgrounds united by their enthusiasm for the Julia programming language. 
   Check our [Diversity Program](/2024/dei)!
 \end{glancecard}
-\begin{glancecard}{title="Technical Talks", img="/assets/2024/img/whattoexpect/talks.jpg"}
+\begin{glancecard}{title="Technical Talks", img="/assets/2024/img/whattoexpect/talks.jpg", color="red"}
   More than 300 lightning talks, presentations, keynotes, workshops, posters and hackatone sessions covering a wide range of topics in Julia programming and beyond.
 \end{glancecard}
-\begin{glancecard}{title="Insightful Keynotes", img="/assets/2024/img/whattoexpect/keynotes.jpg"}
+\begin{glancecard}{title="Insightful Keynotes", img="/assets/2024/img/whattoexpect/keynotes.jpg", color="green"}
   Don't miss our insightful keynotes, including sessions held on the iconic pitch of PSV Stadium.
   Check out the [keynote speakers](/2024/keynotes)!
 \end{glancecard}
-\begin{glancecard}{title="Practical Workshops", img="/assets/2024/img/whattoexpect/workshops.jpg"}
+\begin{glancecard}{title="Practical Workshops", img="/assets/2024/img/whattoexpect/workshops.jpg", color="dark-blue"}
   Extra workshops designed to provide hands-on learning and practical insights into Julia programming.
   From the beginners intro to Julia to the hardcore machine learning in Julia, there is something for everyone.
 \end{glancecard}
-\begin{glancecard}{title="Iconic location", img="/assets/2024/img/whattoexpect/location.jpg"}
+\begin{glancecard}{title="Iconic location", img="/assets/2024/img/whattoexpect/location.jpg", color="purple"}
   The conference venue will be the [Philips Stadion](https://www.philipsstadion.nl/en/), the home of the [PSV Eindhoven](https://www.psv.nl/home) football club, in Eindhoven, the Netherlands. And if you still didn't know, we have [the daycare](/2024/dei) for mamas and papas!
 \end{glancecard}
-\begin{glancecard}{title="Networking opportunities", img="/assets/2024/img/whattoexpect/networking.jpg"}
+\begin{glancecard}{title="Networking opportunities", img="/assets/2024/img/whattoexpect/networking.jpg", color = "red"}
   JuliaCon offers exceptional networking opportunities for professionals and enthusiasts alike.
   Meet and connect with like-minded individuals from around the world.
 \end{glancecard}
@@ -174,7 +162,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 @@row,row-section
 @@col
 ~~~
-<img class="animated" style="width: 100%" src="/assets/shared/img/juliacon-2023.jpg">
+<img class="animated-size" style="width: 100%" src="/assets/shared/img/juliacon-2023.jpg">
 ~~~
 @@
 @@
