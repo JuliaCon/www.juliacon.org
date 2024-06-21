@@ -10,6 +10,19 @@ top_subtitle = """Co-hosted with <a style="color: #4366d0; text-decoration: unde
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
+~~~
+<style>
+img.animated {
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+img.animated:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3), 0 6px 20px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+</style>
+~~~
+
 \begin{rowheader}{title="What To Expect", color=""}\end{rowheader}
 @@row,row-section
   @@col-12 
@@ -40,7 +53,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
     ### Passionate community
 
     ~~~
-    <img src="/assets/2024/img/whattoexpect/team.jpg">
+    <img class="animated" src="/assets/2024/img/whattoexpect/team.jpg">
     ~~~
 \\      
     At JuliaCon, expect to be surrounded by passionate individuals from diverse backgrounds united by their enthusiasm for the Julia programming language. 
@@ -49,7 +62,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
     ### Technical Talks
 
     ~~~
-    <img src="/assets/2024/img/whattoexpect/talks.jpg" width=100%>
+    <img class="animated" src="/assets/2024/img/whattoexpect/talks.jpg" width=100%>
     ~~~
 \\
     About 300 talks covering a wide range of topics in Julia programming and beyond.
@@ -58,7 +71,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
     ### Insightful Keynotes
 
     ~~~
-    <img src="/assets/2024/img/whattoexpect/keynotes.jpg" width=100%>
+    <img class="animated" src="/assets/2024/img/whattoexpect/keynotes.jpg" width=100%>
     ~~~
 \\
     Don't miss our insightful keynotes, including sessions held on the iconic pitch of PSV Stadium.
@@ -67,7 +80,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
     ### Practical Workshops 
 
     ~~~
-    <img src="/assets/2024/img/whattoexpect/workshops.jpg" width=100%>
+    <img class="animated" src="/assets/2024/img/whattoexpect/workshops.jpg" width=100%>
     ~~~
 \\
     Extra workshops designed to provide hands-on learning and practical insights into Julia programming.
@@ -76,7 +89,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
     ### Iconic location
 
     ~~~
-    <img src="/assets/2024/img/whattoexpect/location.jpg" width=100%>
+    <img class="animated" src="/assets/2024/img/whattoexpect/location.jpg" width=100%>
     ~~~
 \\
   The conference venue will be the [Philips Stadion](https://www.philipsstadion.nl/en/), the home of the [PSV Eindhoven](https://www.psv.nl/home) football club, in Eindhoven, the Netherlands.
@@ -85,7 +98,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
     ### Networking opportunities
 
     ~~~
-    <img src="/assets/2024/img/whattoexpect/networking.jpg" width=100%>
+    <img class="animated" src="/assets/2024/img/whattoexpect/networking.jpg" width=100%>
     ~~~
 \\
   JuliaCon offers exceptional networking opportunities for professionals and enthusiasts alike.
@@ -159,7 +172,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 @@row,row-section,no-gutters
 @@col-12,col-md-6
 ~~~
-<img style="width: 100%" src="/assets/2024/img/psvvenue2.png">
+<img class="animated" style="width: 100%" src="/assets/2024/img/psvvenue2.png">
 ~~~
 @@
 @@col-12,col-md-6
@@ -208,7 +221,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 @@row,row-section
 @@col
 ~~~
-<img style="width: 100%" src="/assets/shared/img/juliacon-2023.jpg">
+<img class="animated" style="width: 100%" src="/assets/shared/img/juliacon-2023.jpg">
 ~~~
 @@
 @@
@@ -237,7 +250,7 @@ Learn how to sign up and learn more about our other [Diversity Initiatives](/202
   We encourage respectful and considerate interactions between attendees and do not tolerate harassment of conference participants in any form.
   For example, offensive or sexual language and imagery is not appropriate for any conference venue, including formal talks and networking between sessions.
   Conference  participants violating these standards may be sanctioned or expelled from the conference (without a refund) at the discretion of the conference organizers.
-  
+
   Our anti-harassment policy and information about who to contact if you have an issue you'd like to discuss can be found on our [Code of Conduct](/2024/coc/).
 \end{box}
 
