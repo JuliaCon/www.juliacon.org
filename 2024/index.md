@@ -118,35 +118,35 @@ img.animated:hover {
 \begin{rowheader}{title="Keynote Speakers", color=""}\end{rowheader}
 \\
 @@row,row-section 
-  @@col-4,col-md-2,align-self-start
+  @@col-4,col-md-2,align-self-start,text-center
   ~~~
   <img class="animated rounded-circle" src="/assets/2024/img/keynotes/pbert.png">
   ~~~
   \\
   ##### Prof. Bert de Vries
   @@
-  @@col-4,col-md-2,align-self-start
+  @@col-4,col-md-2,align-self-start,text-center
   ~~~
   <img class="animated rounded-circle" src="/assets/2024/img/keynotes/michael.jpg">
   ~~~
   \\
   ##### Prof. Michael F. Herbst
   @@
-  @@col-4,col-md-2,align-self-start
+  @@col-4,col-md-2,align-self-start,text-center
   ~~~
   <img class="animated rounded-circle" src="/assets/2024/img/keynotes/rachel.png">
   ~~~
   \\
   ##### Prof. Rachel Kurchin
   @@
-  @@col-4,col-md-2,align-self-start
+  @@col-4,col-md-2,align-self-start,text-center
   ~~~
   <img class="animated rounded-circle" src="/assets/2024/img/keynotes/andrew.jpg">
   ~~~
   \\
   ##### Dr. Andrew Fitzgibbon
   @@
-  @@col-4,col-md-2,align-self-start
+  @@col-4,col-md-2,align-self-start,text-center
   ~~~
   <img width=100% class="animated rounded-circle" src="/assets/2024/img/keynotes/sam.png">
   ~~~
