@@ -36,80 +36,59 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 @@
 \\
 @@row,row-section
-  @@col-12,col-md-6,order-1,order-md-2
+  @@col-12,col-md-6
     ### Passionate community
-      
+
+    ~~~
+    <img src="/assets/2024/img/whattoexpect/team.jpg">
+    ~~~
+\\      
     At JuliaCon, expect to be surrounded by passionate individuals from diverse backgrounds united by their enthusiasm for the Julia programming language. 
   @@
-  @@col-12,col-md-6,order-2,order-md-1
-    ~~~
-    <img src="/assets/2024/img/whattoexpect/team.jpg" width=100%>
-    ~~~
-  @@
-@@
-\\
-@@row,row-section
   @@col-12,col-md-6
     ### Technical Talks
-      
-    About 300 talks covering a wide range of topics in Julia programming and beyond.
-  @@
-  @@col-12,col-md-6
+
     ~~~
     <img src="/assets/2024/img/whattoexpect/talks.jpg" width=100%>
     ~~~
-  @@
-@@
 \\
-@@row,row-section
-  @@col-12,col-md-6,order-1,order-md-2
+    About 300 talks covering a wide range of topics in Julia programming and beyond.
+  @@
+  @@col-12,col-md-6
     ### Insightful Keynotes
 
-    Don't miss our insightful keynotes, including sessions held on the iconic pitch of PSV Stadium.
-  @@
-  @@col-12,col-md-6,order-2,order-md-1
     ~~~
     <img src="/assets/2024/img/whattoexpect/keynotes.jpg" width=100%>
     ~~~
-  @@
-@@
 \\
-@@row,row-section
+    Don't miss our insightful keynotes, including sessions held on the iconic pitch of PSV Stadium.
+  @@
   @@col-12,col-md-6
     ### Practical Workshops 
 
-    Extra workshops designed to provide hands-on learning and practical insights into Julia programming.
-  @@
-  @@col-12,col-md-6
     ~~~
     <img src="/assets/2024/img/whattoexpect/workshops.jpg" width=100%>
     ~~~
-  @@
-@@
 \\
-@@row,row-section
-  @@col-12,col-md-6,order-1,order-md-2
+    Extra workshops designed to provide hands-on learning and practical insights into Julia programming.
+  @@
+  @@col-12,col-md-6
     ### Iconic location
 
-  The conference venue will be the [Philips Stadion](https://www.philipsstadion.nl/en/), the home of the [PSV Eindhoven](https://www.psv.nl/home) football club, in Eindhoven, the Netherlands.
-  @@
-  @@col-12,col-md-6,order-2,order-md-1
     ~~~
     <img src="/assets/2024/img/whattoexpect/location.jpg" width=100%>
     ~~~
-  @@
-@@
 \\
-@@row,row-section
+  The conference venue will be the [Philips Stadion](https://www.philipsstadion.nl/en/), the home of the [PSV Eindhoven](https://www.psv.nl/home) football club, in Eindhoven, the Netherlands.
+  @@
   @@col-12,col-md-6
     ### Networking opportunities
 
-  JuliaCon offers exceptional networking opportunities for professionals and enthusiasts alike.
-  @@
-  @@cocol-12,col-md-6
     ~~~
     <img src="/assets/2024/img/whattoexpect/networking.jpg" width=100%>
     ~~~
+\\
+  JuliaCon offers exceptional networking opportunities for professionals and enthusiasts alike.
   @@
 @@
 \\
