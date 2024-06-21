@@ -190,7 +190,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 @@row,row-section 
   @@col
   ~~~
-  <img style="width: 100%" src="http://localhost:8000/assets/2024/img/psvvenue2.png">
+  <img style="width: 100%" src="/assets/2024/img/psvvenue2.png">
   ~~~
 
   ~~~
