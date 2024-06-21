@@ -200,15 +200,15 @@ img.animated:hover {
 \begin{rowheader}{title="Previous events", color=""}\end{rowheader}
 @@row,row-section
 @@col-sm-12,col-md-6
-## JuliaCon Local 2023 after-movie
+## After movie
 ~~~
 <iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/9YfRd6sdI4Q?si=1Ev8vQ3V2LYHpBPF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ~~~
 \\
-Relive the highlights of JuliaCon Local 2023 in Eindhoven! Check out our after movie to see what made this event a success. Dive the vibrant atmosphere that showcased Eindhoven’s tech community. Discover why attendees found it a valuable experience, and get a glimpse into the dynamic and collaborative spirit of the event.
+Relive the highlights of JuliaCon Local 2023 in Eindhoven! Check out our after movie to see what made this event a success. Discover why attendees found it a valuable experience, and get a glimpse into the dynamic and collaborative spirit of the event.
 @@
 @@col-sm-12,col-md-6
-## Recorded talks 2023
+## Recorded talks
 ~~~
 <iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/videoseries?si=wnoxH0imtxz8wfLN&amp;list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ~~~
