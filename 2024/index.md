@@ -228,7 +228,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   @@
   @@col-sm-12,col-md-6
   ~~~
-  <img style="width: 100%" src="http://localhost:8000/assets/shared/img/juliacon-2023.jpg">
+  <img style="width: 100%" src="/assets/shared/img/juliacon-2023.jpg">
   ~~~
   @@
 @@
