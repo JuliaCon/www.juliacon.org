@@ -403,7 +403,8 @@ ul, ol {
     color: #bf382e;
     background-color: #fff;
     border: 1px solid #bf382e;
-    border-radius: 1em
+    border-radius: 1em;
+    transition: box-shadow 0.3s ease;
 }
 .btn:active{
   background-color: #bf382e;
@@ -412,7 +413,7 @@ ul, ol {
 .btn:hover, .btn:focus{
     color: #333;
     background-color: #eee;
-    box-shadow: 5px 5px grey;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
 
 .btn.active {

@@ -24,6 +24,18 @@ end
         """)
 end
 
+@env function rowheader(md; title="", color="")
+  link = replace(lowercase(title), " " => "-")
+  return html("""
+  <header class="row-section" id="$link">
+    <h1>
+      <a style="color: $color" href="#$link">$title</a>
+    </h1>
+  </header>
+  """)
+end
+
+
 @lx function avatar(; link="", img="", name="", affil="", bio="")
     return html("""
         <div class="u-vskip-3"></div>

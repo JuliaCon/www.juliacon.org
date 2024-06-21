@@ -10,80 +10,238 @@ top_subtitle = """Co-hosted with <a style="color: #4366d0; text-decoration: unde
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
+\begin{rowheader}{title="What To Expect", color=""}\end{rowheader}
+@@row,row-section
+  @@col-12 
+  JuliaCon 2024 [schedule is now out](https://pretalx.com/juliacon2024/schedule/)!
+  Besides the awesome talks that will be hosted on July 10th, 11th and 12th, there will also be other activities on the days around the conference! On July 9th [workshops](/2024/workshops) will be held, and on July 13th the annual hackathon will be held. The workshops will take place at the [Neuron faculty building at the Eindhoven University of Technology](https://maps.app.goo.gl/kR5rwSFuqZZsiZe9A) and the hackathon will take place at [Grand Cafe De Lichttoren](https://maps.app.goo.gl/wA2yHBx1Xp8LnqTG6). Both locations are only a short walk from the [Eindhoven train station](https://maps.app.goo.gl/xnjYvfy7eK6Mbac97).
+  @@
+@@
+\\
+@@row,row-section
+  @@col-12,col-md-6
+  ~~~
+  <h2 class="btn" style="width: 100%; border-color: #9d253d;">
+    <a style="color: #9d253d; text-decoration: none;" href="https://pretalx.com/juliacon2024/schedule/">Check the Schedule</a>
+  </h2>
+  ~~~
+  @@
+  @@col-12,col-md-6
+  ~~~
+  <h2 class="btn" style="width: 100%; border-color: #9d253d;">
+    <a style="color: #9d253d; text-decoration: none;" href="/2024/workshops">Join the Workshops</a>
+  </h2>
+  ~~~
+  @@
+@@
+\\
+@@row,row-section
+  @@col-12,col-md-6,order-1,order-md-2
+    ### Passionate community
+      
+    At JuliaCon, expect to be surrounded by passionate individuals from diverse backgrounds united by their enthusiasm for the Julia programming language. 
+  @@
+  @@col-12,col-md-6,order-2,order-md-1
+    ~~~
+    <img src="/assets/2024/img/whattoexpect/team.jpg" width=100%>
+    ~~~
+  @@
+@@
+\\
+@@row,row-section
+  @@col-12,col-md-6
+    ### Technical Talks
+      
+    About 300 talks covering a wide range of topics in Julia programming and beyond.
+  @@
+  @@col-12,col-md-6
+    ~~~
+    <img src="/assets/2024/img/whattoexpect/talks.jpg" width=100%>
+    ~~~
+  @@
+@@
+\\
+@@row,row-section
+  @@col-12,col-md-6,order-1,order-md-2
+    ### Insightful Keynotes
+
+    Don't miss our insightful keynotes, including sessions held on the iconic pitch of PSV Stadium.
+  @@
+  @@col-12,col-md-6,order-2,order-md-1
+    ~~~
+    <img src="/assets/2024/img/whattoexpect/keynotes.jpg" width=100%>
+    ~~~
+  @@
+@@
+\\
+@@row,row-section
+  @@col-12,col-md-6
+    ### Practical Workshops 
+
+    Extra workshops designed to provide hands-on learning and practical insights into Julia programming.
+  @@
+  @@col-12,col-md-6
+    ~~~
+    <img src="/assets/2024/img/whattoexpect/workshops.jpg" width=100%>
+    ~~~
+  @@
+@@
+\\
+@@row,row-section
+  @@col-12,col-md-6,order-1,order-md-2
+    ### Iconic location
+
+  The conference venue will be the [Philips Stadion](https://www.philipsstadion.nl/en/), the home of the [PSV Eindhoven](https://www.psv.nl/home) football club, in Eindhoven, the Netherlands.
+  @@
+  @@col-12,col-md-6,order-2,order-md-1
+    ~~~
+    <img src="/assets/2024/img/whattoexpect/location.jpg" width=100%>
+    ~~~
+  @@
+@@
+\\
+@@row,row-section
+  @@col-12,col-md-6
+    ### Networking opportunities
+
+  JuliaCon offers exceptional networking opportunities for professionals and enthusiasts alike.
+  @@
+  @@cocol-12,col-md-6
+    ~~~
+    <img src="/assets/2024/img/whattoexpect/networking.jpg" width=100%>
+    ~~~
+  @@
+@@
+\\
+@@row,row-section 
+  @@col,text-center
+  ~~~
+  <h2 class="btn" style="width: 50%; border-color: #9d253d;">
+    <a style="font-size: 2.5vw; color: #9d253d; text-decoration: none;" href="https://www.tickettailor.com/events/numfocus1/1114995#">Buy your ticket here!</a>
+  </h2>
+  ~~~
+  @@
+@@
+\\
+\begin{rowheader}{title="Keynote Speakers", color=""}\end{rowheader}
+\\
+@@row,row-section 
+  @@col-4,col-md-2
+  ###### Prof. Bert de Vries
+  ~~~
+  <img class="rounded-circle" src="/assets/2024/img/keynotes/pbert.png">
+  ~~~
+  @@
+  @@col-4,col-md-2
+  ###### Prof. Michael F. Herbst
+  ~~~
+  <img class="rounded-circle" src="/assets/2024/img/keynotes/michael.jpg">
+  ~~~
+  @@
+  @@col-4,col-md-2
+  ###### Prof. Rachel Kurchin
+  ~~~
+  <img class="rounded-circle" src="/assets/2024/img/keynotes/rachel.png">
+  ~~~
+  @@
+  @@col-4,col-md-2
+  ###### Dr. Andrew Fitzgibbon
+  ~~~
+  <img class="rounded-circle" src="/assets/2024/img/keynotes/andrew.jpg">
+  ~~~
+  @@
+  @@col-4,col-md-2
+  ###### Dr. Sam Aaron
+  ~~~
+  <img width=100% class="rounded-circle" src="/assets/2024/img/world_768.png">
+  ~~~
+  @@
+@@
+\\
+@@row,row-section 
+  @@col,text-center
+    ~~~
+    <h2 class="btn" style="width: 50%; border-color: #9d253d;">
+      <a style="color: #9d253d; text-decoration: none;" href="/2024/keynotes">Read the full description of the Keynotes!</a>
+    </h2>
+    ~~~
+  @@
+@@
+\\
+\begin{rowheader}{title="Venue", color=""}\end{rowheader}
+\\
+@@row,row-section 
+  @@col
+  
+  The conference venue will be the [Philips Stadion](https://www.philipsstadion.nl/en/), the home of the [PSV Eindhoven](https://www.psv.nl/home) football club, in Eindhoven, the Netherlands.
+  @@
+@@
+\\
+@@row,row-section 
+  @@col,text-center
+  ~~~
+  <h2 class="btn" style="width: 50%; border-color: #9d253d;">
+    <a style="color: #9d253d; text-decoration: none;" href="/2024/travel">Read more about the venue!</a>
+  </h2>
+  ~~~
+  @@
+@@
+\\
+@@row,row-section 
+  @@col
+  ~~~
+  <img style="width: 100%" src="http://localhost:8000/assets/2024/img/psvvenue2.png">
+  ~~~
+
+  ~~~
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2486.8943504147705!2d5.4648729!3d51.4417341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d911c386b16f%3A0x943ec8f52a067b30!2sPhilips%20Stadium!5e0!3m2!1sen!2sus!4v1699467736901!5m2!1sen!2sus" width="100%" height="320" style="border:0;" allowfullscreen></iframe>
+  ~~~
+  @@
+@@
+\\
+\begin{rowheader}{title="Previous events", color=""}\end{rowheader}
+@@row,row-section
+  @@col-sm-12,col-md-6
+  JuliaCon 2024 is almost upon us. To get in the mood for what is planned to be an amazing conference you can watch all of the previous JuliaCon conference's talks, workshops and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC).
+  @@
+  @@col-sm-12,col-md-6
+  ~~~
+  <iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/videoseries?si=wnoxH0imtxz8wfLN&amp;list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  ~~~
+  @@
+  @@col-12 \\ @@
+  @@col-sm-12,col-md-6
+  ~~~
+  <iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/9YfRd6sdI4Q?si=1Ev8vQ3V2LYHpBPF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  ~~~
+  @@
+  @@col-sm-12,col-md-6
+    ## JuliaCon Local Eindhoven 2023 after-movie
+
+    Relive the highlights of JuliaCon Local 2023 in Eindhoven! Check out our after movie to see what made this event a success. Dive the vibrant atmosphere that showcased Eindhoven’s tech community. Discover why attendees found it a valuable experience, and get a glimpse into the dynamic and collaborative spirit of the event.
+  @@
+  @@col-12 \\ @@
+  @@col-sm-12,col-md-6
+    ## Memories of JuliaCon past
+
+  We also have some photographic memories from previous JuliaCons. Explore our collection of photos to revisit the lively workshops, insightful presentations, and memorable networking moments that have made each JuliaCon unique. Find more photos [here](/2024/memories).
+  @@
+  @@col-sm-12,col-md-6
+  ~~~
+  <img style="width: 100%" src="http://localhost:8000/assets/shared/img/juliacon-2023.jpg">
+  ~~~
+  @@
+@@
+\\
+\begin{rowheader}{title="And even more!", color=""}\end{rowheader}
+\\ 
+
+
 ~~~
 <!-- <div class="container"> -->
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
 
-~~~
-<!--
-\begin{box}{title="Keynote Speakers", color="red"}
-\end{box}
--->
-~~~
-
-\begin{box}{title="Ticket sale", color="purple"}
-  Ticket sale is now open!
-  ~~~
-  <div class="u-vskip-2"></div>
-  <div style="text-align: center">
-    <h2 class="btn" style="width: 60%; border-color: #854c9e;"><a style="color: #854c9e; text-decoration: none;" href="https://www.tickettailor.com/events/numfocus1/1114995#">Buy your ticket here!</a></h2>
-  </div>
-  ~~~
-\end{box}
-
-\begin{box}{title="Keynote Speakers", color="red"}
-
-  \avatar{name="Prof. Bert de Vries", affil="Eindhoven Technical University", link="https://biaslab.github.io/", img="/assets/2024/img/keynotes/pbert.png"}
-
-  ---
-
-  \avatar{name="Prof. Michael F. Herbst", affil="Mathematics and Institute of Materials Science, École polytechnique fédérale de Lausanne, Switzerland", link="https://michael-herbst.com/", img="/assets/2024/img/keynotes/michael.jpg"}
-
-  \avatar{name="Prof. Rachel Kurchin", affil="Materials Science and Engineering department at Carnegie Mellon University in Pittsburgh, Pennsylvania, USA", link="https://engineering.cmu.edu/directory/bios/kurchin-rachel.html", img="/assets/2024/img/keynotes/rachel.png"}
-
-  ---
-
-  \avatar{name="Dr. Andrew Fitzgibbon", affil="Graphcore", link="https://www.fitzgibbon.ie/", img="/assets/2024/img/keynotes/andrew.jpg"}
-
-  --- 
-
-  \avatar{name="Dr. Sam Aaron", affil="Sonic Pi", link="http://sam.aaron.name/", img="/assets/2024/img/world_768.png"}
-
-  ---
-
-  Read the full description of the Keynotes [here](/2024/keynotes).
-
-\end{box}
-
-\begin{box}{title="Talks & Workshop", color="light-blue"}
-  JuliaCon 2024 [schedule is now out](https://pretalx.com/juliacon2024/schedule/)!
-  Besides the awesome talks that will be hosted on July 10th, 11th and 12th, there will also be other activities on the days around the conference! On July 9th [workshops](/2024/workshops) will be held, and on July 13th the annual hackathon will be held. The workshops will take place at the [Neuron faculty building at the Eindhoven University of Technology](https://maps.app.goo.gl/kR5rwSFuqZZsiZe9A) and the hackathon will take place at [Grand Cafe De Lichttoren](https://maps.app.goo.gl/wA2yHBx1Xp8LnqTG6). Both locations are only a short walk from the [Eindhoven train station](https://maps.app.goo.gl/xnjYvfy7eK6Mbac97).
-  ~~~
-  <div class="u-vskip-2"></div>
-  <div style="display: flex; justify-content: space-between;">
-  <h2 class="btn" style="width: 45%; border-color: #6581df;">
-    <a style="color: #6581df; text-decoration: none;" href="https://pretalx.com/juliacon2024/schedule/">Check the Schedule</a>
-  </h2>
-  <h2 class="btn" style="width: 45%; border-color: #6581df;">
-    <a style="color: #6581df; text-decoration: none;" href="/2024/workshops">Join the Workshops</a>
-  </h2>
-</div>
-  ~~~
-\end{box}
-
-\begin{box}{title="Venue", color="light-red"}
-  The conference venue will be the [Philips Stadion](https://www.philipsstadion.nl/en/), the home of the [PSV Eindhoven](https://www.psv.nl/home) football club, in Eindhoven, the Netherlands. Read more about the venue and traveling information [here](/2024/travel).
-
-  ~~~
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2486.8943504147705!2d5.4648729!3d51.4417341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d911c386b16f%3A0x943ec8f52a067b30!2sPhilips%20Stadium!5e0!3m2!1sen!2sus!4v1699467736901!5m2!1sen!2sus" width="100%" height="320" style="border:0;" allowfullscreen></iframe>
-  ~~~
-\end{box}
-
-\begin{box}{title="2023 videos", color="dark-purple"}
-  JuliaCon 2024 is almost upon us. To get in the mood for what is planned to be an amazing conference you can watch all of the previous JuliaCon conference's talks, workshops and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC). You can also find there the aftermovie of [JuliaCon Local Eindhoven 2023](https://www.youtube.com/watch?v=9YfRd6sdI4Q).
-  We also have some [photographic memories from previous JuliaCons](memories/).
-\end{box}
 
 \begin{box}{title="Help me attend", color="purple"}
 
@@ -117,8 +275,9 @@ If you are traveling from outside the Schengen area you may need [a visa](/2024/
 <div style="height:30px;display:block;"></div>
 <div class="container-fluid">
   <div class="container sponsors">
-    <h1 align="center">Sponsors</h1>
-    <p style="margin-bottom:3ex;"></p>
+    <h1 align="center">Our Sponsors!</h1>
+    <p style="margin-bottom:3ex;">
+    The conference wouldn’t be possible without our cool sponsors! Their generous support and dedication have played a crucial role in bringing together JuliaCon 2024, allowing us to create an exceptional experience for all attendees. We extend our heartfelt gratitude to each sponsor for their commitment to advancing technology, fostering innovation, and supporting our community. Thank you for making this event a success!</p>
 ~~~
 
 \begin{centered}{title="Diamond", margin_bottom="3ex"}
