@@ -22,7 +22,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   @@col-12,col-md-6
   ~~~
   <h2 class="btn" style="width: 100%; border-color: #9d253d;">
-    <a style="color: #9d253d; text-decoration: none;" href="https://pretalx.com/juliacon2024/schedule/">Check the Schedule</a>
+    <a style="color: #9d253d; text-decoration: none;" href="https://pretalx.com/juliacon2024/schedule/">See the Schedule</a>
   </h2>
   ~~~
   @@
@@ -156,6 +156,19 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   @@
 @@
 \\
+@@row,row-section,no-gutters
+@@col-12,col-md-6
+~~~
+<img style="width: 100%" src="/assets/2024/img/psvvenue2.png">
+~~~
+@@
+@@col-12,col-md-6
+~~~
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2486.8943504147705!2d5.4648729!3d51.4417341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d911c386b16f%3A0x943ec8f52a067b30!2sPhilips%20Stadium!5e0!3m2!1sen!2sus!4v1699467736901!5m2!1sen!2sus" width="100%" height="100%" style="border:0;" allowfullscreen></iframe>
+~~~
+@@
+@@
+\\
 @@row,row-section 
   @@col,text-center
   ~~~
@@ -166,75 +179,65 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   @@
 @@
 \\
-@@row,row-section 
-  @@col
-  ~~~
-  <img style="width: 100%" src="/assets/2024/img/psvvenue2.png">
-  ~~~
-
-  ~~~
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2486.8943504147705!2d5.4648729!3d51.4417341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d911c386b16f%3A0x943ec8f52a067b30!2sPhilips%20Stadium!5e0!3m2!1sen!2sus!4v1699467736901!5m2!1sen!2sus" width="100%" height="320" style="border:0;" allowfullscreen></iframe>
-  ~~~
-  @@
-@@
-\\
 \begin{rowheader}{title="Previous events", color=""}\end{rowheader}
 @@row,row-section
-  @@col-sm-12,col-md-6
-  JuliaCon 2024 is almost upon us. To get in the mood for what is planned to be an amazing conference you can watch all of the previous JuliaCon conference's talks, workshops and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC).
-  @@
-  @@col-sm-12,col-md-6
-  ~~~
-  <iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/videoseries?si=wnoxH0imtxz8wfLN&amp;list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  ~~~
-  @@
-  @@col-12 \\ @@
-  @@col-sm-12,col-md-6
-  ~~~
-  <iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/9YfRd6sdI4Q?si=1Ev8vQ3V2LYHpBPF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  ~~~
-  @@
-  @@col-sm-12,col-md-6
-    ## JuliaCon Local Eindhoven 2023 after-movie
+@@col-sm-12,col-md-6
+## JuliaCon Local 2023 after-movie
+~~~
+<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/9YfRd6sdI4Q?si=1Ev8vQ3V2LYHpBPF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+~~~
+\\
+Relive the highlights of JuliaCon Local 2023 in Eindhoven! Check out our after movie to see what made this event a success. Dive the vibrant atmosphere that showcased Eindhoven’s tech community. Discover why attendees found it a valuable experience, and get a glimpse into the dynamic and collaborative spirit of the event.
+@@
+@@col-sm-12,col-md-6
+## Recorded talks 2023
+~~~
+<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/videoseries?si=wnoxH0imtxz8wfLN&amp;list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+~~~
+\\
+JuliaCon 2024 is almost upon us. To get in the mood for what is planned to be an amazing conference you can watch all of the previous JuliaCon conference's talks, workshops and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC).
+@@
+@@
 
-    Relive the highlights of JuliaCon Local 2023 in Eindhoven! Check out our after movie to see what made this event a success. Dive the vibrant atmosphere that showcased Eindhoven’s tech community. Discover why attendees found it a valuable experience, and get a glimpse into the dynamic and collaborative spirit of the event.
-  @@
-  @@col-12 \\ @@
-  @@col-sm-12,col-md-6
-    ## Memories of JuliaCon past
-
-  We also have some photographic memories from previous JuliaCons. Explore our collection of photos to revisit the lively workshops, insightful presentations, and memorable networking moments that have made each JuliaCon unique. Find more photos [here](/2024/memories).
-  @@
-  @@col-sm-12,col-md-6
-  ~~~
-  <img style="width: 100%" src="/assets/shared/img/juliacon-2023.jpg">
-  ~~~
-  @@
+@@row,row-section
+@@col
+## Memories of JuliaCon past
+We also have some photographic memories from previous JuliaCons. Explore our collection of photos to revisit the lively workshops, insightful presentations, and memorable networking moments that have made each JuliaCon unique. Find more photos [here](/2024/memories).
+@@
+@@
+@@row,row-section
+@@col
+~~~
+<img style="width: 100%" src="/assets/shared/img/juliacon-2023.jpg">
+~~~
+@@
 @@
 \\
 \begin{rowheader}{title="And even more!", color=""}\end{rowheader}
-\\ 
-
-
+\\
 ~~~
 <!-- <div class="container"> -->
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
 
+\begin{box}{title="Diversity Initiative & Childcare", color="purple"}
 
-\begin{box}{title="Help me attend", color="purple"}
+We will have on-site childcare at JuliaCon 2024 for children between the ages of 0-12.
+When you purchase your ticket there is an option to sign up for one of the available JuliaCare childcare slots!
 
-This JuliaCon we will provide on-site childcare! Learn how to sign up and learn more about our other [Diversity Initiatives](/2024/dei)!
+Moreover, if you are traveling from outside the Schengen area you may need [a visa](/2024/travel/#visa_info) or a supporting letter.
 
-If you are traveling from outside the Schengen area you may need [a visa](/2024/travel/#visa_info).
+Learn how to sign up and learn more about our other [Diversity Initiatives](/2024/dei)!
 
 \end{box}
 
 \begin{box}{title="Code of Conduct", color="dark-green"}
   JuliaCon is dedicated to providing a positive conference experience for all attendees, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or national and ethnic origin.
+
   We encourage respectful and considerate interactions between attendees and do not tolerate harassment of conference participants in any form.
   For example, offensive or sexual language and imagery is not appropriate for any conference venue, including formal talks and networking between sessions.
   Conference  participants violating these standards may be sanctioned or expelled from the conference (without a refund) at the discretion of the conference organizers.
+  
   Our anti-harassment policy and information about who to contact if you have an issue you'd like to discuss can be found on our [Code of Conduct](/2024/coc/).
 \end{box}
 
@@ -254,7 +257,7 @@ If you are traveling from outside the Schengen area you may need [a visa](/2024/
 <div style="height:30px;display:block;"></div>
 <div class="container-fluid">
   <div class="container sponsors">
-    <h1 align="center">Our Sponsors!</h1>
+    <h1 align="center">Thanks to our Sponsors!</h1>
     <p style="margin-bottom:3ex;">
     The conference wouldn’t be possible without our cool sponsors! Their generous support and dedication have played a crucial role in bringing together JuliaCon 2024, allowing us to create an exceptional experience for all attendees. We extend our heartfelt gratitude to each sponsor for their commitment to advancing technology, fostering innovation, and supporting our community. Thank you for making this event a success!</p>
 ~~~
