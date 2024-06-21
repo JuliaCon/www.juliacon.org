@@ -39,7 +39,7 @@ end
   return html("""
       <div class="col-12 col-md-6 text-center glance-card">
       <br> 
-      <h3 class="header $color-box">$title</h3>
+      <h3 class="header">$title</h3>
       <img class="animated-size" src="$img">
       <br>
       <br>   

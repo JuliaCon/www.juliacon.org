@@ -267,10 +267,8 @@ ul, ol {
 }
 
 .glance-card .header {
-    color: white;
     text-align: center;
-    margin-bottom: 0;
-    border-radius: 0.5em 0.5em 0em 0em;
+    font-size: xx-large;
 }
 
 .animated-size {
