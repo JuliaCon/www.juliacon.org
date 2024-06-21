@@ -23,7 +23,7 @@ img.animated:hover {
 </style>
 ~~~
 
-\begin{rowheader}{title="What To Expect", color=""}\end{rowheader}
+\begin{rowheader}{title="JuliaCon at a Glance", color=""}\end{rowheader}
 @@row,row-section
   @@col-12 
   JuliaCon 2024 [schedule is now out](https://pretalx.com/juliacon2024/schedule/)!
@@ -35,14 +35,14 @@ img.animated:hover {
   @@col-12,col-md-6
   ~~~
   <h2 class="btn" style="width: 100%; border-color: #9d253d;">
-    <a style="color: #9d253d; text-decoration: none;" href="https://pretalx.com/juliacon2024/schedule/">See the Schedule</a>
+    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="https://pretalx.com/juliacon2024/schedule/">See the Schedule</a>
   </h2>
   ~~~
   @@
   @@col-12,col-md-6
   ~~~
   <h2 class="btn" style="width: 100%; border-color: #9d253d;">
-    <a style="color: #9d253d; text-decoration: none;" href="/2024/workshops">Join the Workshops</a>
+    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="/2024/workshops">Join the Workshops</a>
   </h2>
   ~~~
   @@
@@ -105,11 +105,11 @@ img.animated:hover {
   @@
 @@
 \\
-@@row,row-section 
-  @@col,text-center
+@@row,row-section,justify-content-md-center
+  @@col-12,col-md-6,text-center
   ~~~
-  <h2 class="btn" style="width: 50%; border-color: #9d253d;">
-    <a style="font-size: 2.5vw; color: #9d253d; text-decoration: none;" href="https://www.tickettailor.com/events/numfocus1/1114995#">Buy your ticket here!</a>
+  <h2 class="btn" style="width: 100%; background-color: rgba(40, 167, 69, 1); border-color: rgba(40, 167, 69, 1); border-width: 2px">
+    <a style="font-size: x-large; font-weight: bold; color: white; text-decoration: none;" href="https://www.tickettailor.com/events/numfocus1/1114995#">Buy your ticket here!</a>
   </h2>
   ~~~
   @@
@@ -155,11 +155,11 @@ img.animated:hover {
   @@
 @@
 \\
-@@row,row-section 
-  @@col,text-center
+@@row,row-section,justify-content-md-center
+  @@col-12,col-md-6,text-center
     ~~~
-    <h2 class="btn" style="width: 50%; border-color: #9d253d;">
-      <a style="color: #9d253d; text-decoration: none;" href="/2024/keynotes">Read the full description of the Keynotes!</a>
+    <h2 class="btn" style="width: 100%; border-color: #9d253d;">
+      <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="/2024/keynotes">Read the full description of the Keynotes!</a>
     </h2>
     ~~~
   @@
@@ -187,11 +187,11 @@ img.animated:hover {
 @@
 @@
 \\
-@@row,row-section 
-  @@col,text-center
+@@row,row-section,justify-content-md-center
+  @@col-12,col-md-6,text-center
   ~~~
-  <h2 class="btn" style="width: 50%; border-color: #9d253d;">
-    <a style="color: #9d253d; text-decoration: none;" href="/2024/travel">Read more about the venue!</a>
+  <h2 class="btn" style="width: 100%; border-color: #9d253d;">
+    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="/2024/travel">Read more about the venue!</a>
   </h2>
   ~~~
   @@
@@ -231,7 +231,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 @@
 @@
 \\
-\begin{rowheader}{title="And even more!", color=""}\end{rowheader}
+\begin{rowheader}{title="And more!", color=""}\end{rowheader}
 \\
 ~~~
 <!-- <div class="container"> -->
