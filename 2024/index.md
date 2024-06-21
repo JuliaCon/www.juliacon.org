@@ -177,7 +177,7 @@ img.animated:hover {
 @@row,row-section,no-gutters
 @@col-12,col-md-6
 ~~~
-<img class="animated" style="width: 100%" src="/assets/2024/img/psvvenue2.png">
+<img style="width: 100%" src="/assets/2024/img/psvvenue2.png">
 ~~~
 @@
 @@col-12,col-md-6
