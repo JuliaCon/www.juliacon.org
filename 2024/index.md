@@ -323,6 +323,7 @@ Learn how to sign up and learn more about our other [Diversity Initiatives](/202
 
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
   \sponsor{name="VersionBay", link="https://www.versionbay.com", img="/assets/local/eindhoven2023/img/sponsors/VersionBay-Logo.png", level=3}
+  \sponsor{name="VersionBay", link="https://lazydynamics.com", img="/assets/local/eindhoven2023/img/sponsors/lazydynamics_logo.png", level=3}
   \sponsor{name="TU/e", link="https://www.tue.nl/en/", img="/assets/2024/img/sponsors/tue_logo.png", level=3}
 \end{centered}
 
