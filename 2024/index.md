@@ -38,6 +38,10 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 
   ---
 
+  \avatar{name="Maurice du Mée", affil="ASML", link="https://www.linkedin.com/in/maurice-du-mée-60730b8", img="/assets/2024/img/keynotes/maurice.jpg"}
+
+  ---
+
   \avatar{name="Prof. Michael F. Herbst", affil="Mathematics and Institute of Materials Science, École polytechnique fédérale de Lausanne, Switzerland", link="https://michael-herbst.com/", img="/assets/2024/img/keynotes/michael.jpg"}
 
   \avatar{name="Prof. Rachel Kurchin", affil="Materials Science and Engineering department at Carnegie Mellon University in Pittsburgh, Pennsylvania, USA", link="https://engineering.cmu.edu/directory/bios/kurchin-rachel.html", img="/assets/2024/img/keynotes/rachel.png"}
@@ -48,15 +52,11 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 
   ---
 
-  \avatar{name="Dr. Sam Aaron", affil="Sonic Pi", link="http://sam.aaron.name/", img="/assets/2024/img/world_768.png"}
-
-  ---
-
   \avatar{name="Dr. Katharine Hyatt", affil="Amazon", link="https://github.com/kshyatt", img="/assets/2024/img/keynotes/katie.jpg"}
 
   ---
 
-  \avatar{name="Maurice du Mée", affil="ASML", link="https://www.linkedin.com/in/maurice-du-mée-60730b8", img="/assets/2024/img/keynotes/maurice.jpg"}
+  \avatar{name="Dr. Sam Aaron", affil="Sonic Pi", link="http://sam.aaron.name/", img="/assets/2024/img/world_768.png"}
 
   ---
 
