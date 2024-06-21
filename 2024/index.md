@@ -35,18 +35,11 @@ img.animated:hover {
   @@
 @@
 \\
-@@row,row-section
-  @@col-12,col-md-6
+@@row,row-section,justify-content-md-center
+  @@col-12,col-md-6,text-center
   ~~~
-  <h2 class="btn" style="width: 100%; border-color: #9d253d;">
-    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="https://pretalx.com/juliacon2024/schedule/">See the Schedule</a>
-  </h2>
-  ~~~
-  @@
-  @@col-12,col-md-6
-  ~~~
-  <h2 class="btn" style="width: 100%; border-color: #9d253d;">
-    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="/2024/workshops">Join the Workshops</a>
+  <h2 class="btn" style="width: 100%; background-color: rgba(40, 167, 69, 1); border-color: rgba(40, 167, 69, 1); border-width: 2px">
+    <a style="font-size: x-large; font-weight: bold; color: white; text-decoration: none;" href="https://www.tickettailor.com/events/numfocus1/1114995#">Buy your ticket here!</a>
   </h2>
   ~~~
   @@
@@ -61,6 +54,7 @@ img.animated:hover {
     ~~~
 \\      
     At JuliaCon, expect to be surrounded by passionate individuals from diverse backgrounds united by their enthusiasm for the Julia programming language. 
+    Check our [Diversity Program](/2024/dei)!
   @@
   @@col-12,col-md-6
     ### Technical Talks
@@ -96,7 +90,7 @@ img.animated:hover {
     <img class="animated" src="/assets/2024/img/whattoexpect/location.jpg" width=100%>
     ~~~
 \\
-  The conference venue will be the [Philips Stadion](https://www.philipsstadion.nl/en/), the home of the [PSV Eindhoven](https://www.psv.nl/home) football club, in Eindhoven, the Netherlands.
+  The conference venue will be the [Philips Stadion](https://www.philipsstadion.nl/en/), the home of the [PSV Eindhoven](https://www.psv.nl/home) football club, in Eindhoven, the Netherlands. And if you still didn't know, we have [the daycare](/2024/dei) for mamas and papas!
   @@
   @@col-12,col-md-6
     ### Networking opportunities
@@ -109,11 +103,20 @@ img.animated:hover {
   @@
 @@
 \\
-@@row,row-section,justify-content-md-center
-  @@col-12,col-md-6,text-center
+\\
+\\
+@@row,row-section
+  @@col-12,col-md-6
   ~~~
-  <h2 class="btn" style="width: 100%; background-color: rgba(40, 167, 69, 1); border-color: rgba(40, 167, 69, 1); border-width: 2px">
-    <a style="font-size: x-large; font-weight: bold; color: white; text-decoration: none;" href="https://www.tickettailor.com/events/numfocus1/1114995#">Buy your ticket here!</a>
+  <h2 class="btn" style="width: 100%; border-color: #9d253d;">
+    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="https://pretalx.com/juliacon2024/schedule/">See the Schedule</a>
+  </h2>
+  ~~~
+  @@
+  @@col-12,col-md-6
+  ~~~
+  <h2 class="btn" style="width: 100%; border-color: #9d253d;">
+    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="/2024/workshops">Join the Workshops</a>
   </h2>
   ~~~
   @@
@@ -122,41 +125,56 @@ img.animated:hover {
 \begin{rowheader}{title="Keynote Speakers", color=""}\end{rowheader}
 \\
 @@row,row-section 
-  @@col-4,col-md-2,align-self-start,text-center
-  ~~~
-  <img class="animated rounded-circle" src="/assets/2024/img/keynotes/pbert.png">
-  ~~~
-  \\
-  ##### Prof. Bert de Vries
-  @@
-  @@col-4,col-md-2,align-self-start,text-center
-  ~~~
-  <img class="animated rounded-circle" src="/assets/2024/img/keynotes/michael.jpg">
-  ~~~
-  \\
-  ##### Prof. Michael F. Herbst
-  @@
-  @@col-4,col-md-2,align-self-start,text-center
-  ~~~
-  <img class="animated rounded-circle" src="/assets/2024/img/keynotes/rachel.png">
-  ~~~
-  \\
-  ##### Prof. Rachel Kurchin
-  @@
-  @@col-4,col-md-2,align-self-start,text-center
-  ~~~
-  <img class="animated rounded-circle" src="/assets/2024/img/keynotes/andrew.jpg">
-  ~~~
-  \\
-  ##### Dr. Andrew Fitzgibbon
-  @@
-  @@col-4,col-md-2,align-self-start,text-center
-  ~~~
-  <img width=100% class="animated rounded-circle" src="/assets/2024/img/keynotes/sam.png">
-  ~~~
-  \\
-  ##### Dr. Sam Aaron
-  @@
+@@col-6,col-md-2,align-self-start,text-center
+##### Prof. Bert de Vries
+
+~~~
+<img class="animated rounded-circle" src="/assets/2024/img/keynotes/pbert.png">
+~~~
+\\
+
+Natural Artificial Intelligence
+@@
+@@col-6,col-md-2,align-self-start,text-center
+##### Prof. Michael Herbst
+
+~~~
+<img class="animated rounded-circle" src="/assets/2024/img/keynotes/michael.jpg">
+~~~
+\\
+
+Materials Modeling: Bonding across atoms, code, and people
+@@
+@@col-6,col-md-2,align-self-start,text-center
+##### Prof. Rachel Kurchin
+
+~~~
+<img class="animated rounded-circle" src="/assets/2024/img/keynotes/rachel.png">
+~~~
+\\
+
+Materials Modeling: Bonding across atoms, code, and people
+@@
+@@col-6,col-md-2,align-self-start,text-center
+##### Dr. Andrew Fitzgibbon
+
+~~~
+<img class="animated rounded-circle" src="/assets/2024/img/keynotes/andrew.jpg">
+~~~
+\\
+
+AI Hardware and Real-world AI
+@@
+@@col-6,col-md-2,align-self-start,text-center
+##### Dr. Sam Aaron
+
+~~~
+<img width=100% class="animated rounded-circle" src="/assets/2024/img/keynotes/sam.png">
+~~~
+\\
+
+Sonic Pi - Live Coding as a tool for next-gen education
+@@
 @@
 \\
 @@row,row-section,justify-content-md-center
