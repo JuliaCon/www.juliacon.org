@@ -50,19 +50,22 @@ img.animated:hover {
   Check our [Diversity Program](/2024/dei)!
 \end{glancecard}
 \begin{glancecard}{title="Technical Talks", img="/assets/2024/img/whattoexpect/talks.jpg"}
-  More than 300 talks covering a wide range of topics in Julia programming and beyond.
+  More than 300 lightning talks, presentations, keynotes, workshops, posters and hackatone sessions covering a wide range of topics in Julia programming and beyond.
 \end{glancecard}
 \begin{glancecard}{title="Insightful Keynotes", img="/assets/2024/img/whattoexpect/keynotes.jpg"}
   Don't miss our insightful keynotes, including sessions held on the iconic pitch of PSV Stadium.
+  Check out the [keynote speakers](/2024/keynotes)!
 \end{glancecard}
 \begin{glancecard}{title="Practical Workshops", img="/assets/2024/img/whattoexpect/workshops.jpg"}
   Extra workshops designed to provide hands-on learning and practical insights into Julia programming.
+  From the beginners intro to Julia to the hardcore machine learning in Julia, there is something for everyone.
 \end{glancecard}
 \begin{glancecard}{title="Iconic location", img="/assets/2024/img/whattoexpect/location.jpg"}
   The conference venue will be the [Philips Stadion](https://www.philipsstadion.nl/en/), the home of the [PSV Eindhoven](https://www.psv.nl/home) football club, in Eindhoven, the Netherlands. And if you still didn't know, we have [the daycare](/2024/dei) for mamas and papas!
 \end{glancecard}
 \begin{glancecard}{title="Networking opportunities", img="/assets/2024/img/whattoexpect/networking.jpg"}
   JuliaCon offers exceptional networking opportunities for professionals and enthusiasts alike.
+  Meet and connect with like-minded individuals from around the world.
 \end{glancecard}
 @@
 \\
