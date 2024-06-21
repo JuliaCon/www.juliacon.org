@@ -38,6 +38,10 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 
   ---
 
+  \avatar{name="Maurice du Mée", affil="ASML", link="https://www.linkedin.com/in/maurice-du-mée-60730b8", img="/assets/2024/img/keynotes/maurice.jpg"}
+
+  ---
+
   \avatar{name="Prof. Michael F. Herbst", affil="Mathematics and Institute of Materials Science, École polytechnique fédérale de Lausanne, Switzerland", link="https://michael-herbst.com/", img="/assets/2024/img/keynotes/michael.jpg"}
 
   \avatar{name="Prof. Rachel Kurchin", affil="Materials Science and Engineering department at Carnegie Mellon University in Pittsburgh, Pennsylvania, USA", link="https://engineering.cmu.edu/directory/bios/kurchin-rachel.html", img="/assets/2024/img/keynotes/rachel.png"}
@@ -46,7 +50,11 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 
   \avatar{name="Dr. Andrew Fitzgibbon", affil="Graphcore", link="https://www.fitzgibbon.ie/", img="/assets/2024/img/keynotes/andrew.jpg"}
 
-  --- 
+  ---
+
+  \avatar{name="Dr. Katharine Hyatt", affil="Amazon", link="https://github.com/kshyatt", img="/assets/2024/img/keynotes/katie.jpg"}
+
+  ---
 
   \avatar{name="Dr. Sam Aaron", affil="Sonic Pi", link="http://sam.aaron.name/", img="/assets/2024/img/world_768.png"}
 
@@ -80,9 +88,12 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   ~~~
 \end{box}
 
-\begin{box}{title="2023 videos", color="dark-purple"}
-  JuliaCon 2024 is almost upon us. To get in the mood for what is planned to be an amazing conference you can watch all of the previous JuliaCon conference's talks, workshops and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC). You can also find there the aftermovie of [JuliaCon Local Eindhoven 2023](https://www.youtube.com/watch?v=9YfRd6sdI4Q).
-  We also have some [photographic memories from previous JuliaCons](memories/).
+\begin{box}{title="Code of Conduct", color="dark-green"}
+  JuliaCon is dedicated to providing a positive conference experience for all attendees, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or national and ethnic origin.
+  We encourage respectful and considerate interactions between attendees and do not tolerate harassment of conference participants in any form.
+  For example, offensive or sexual language and imagery is not appropriate for any conference venue, including formal talks and networking between sessions.
+  Conference  participants violating these standards may be sanctioned or expelled from the conference (without a refund) at the discretion of the conference organizers.
+  Our anti-harassment policy and information about who to contact if you have an issue you'd like to discuss can be found on our [Code of Conduct](/2024/coc/).
 \end{box}
 
 \begin{box}{title="Help me attend", color="purple"}
@@ -93,12 +104,9 @@ If you are traveling from outside the Schengen area you may need [a visa](/2024/
 
 \end{box}
 
-\begin{box}{title="Code of Conduct", color="dark-green"}
-  JuliaCon is dedicated to providing a positive conference experience for all attendees, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or national and ethnic origin.
-  We encourage respectful and considerate interactions between attendees and do not tolerate harassment of conference participants in any form.
-  For example, offensive or sexual language and imagery is not appropriate for any conference venue, including formal talks and networking between sessions.
-  Conference  participants violating these standards may be sanctioned or expelled from the conference (without a refund) at the discretion of the conference organizers.
-  Our anti-harassment policy and information about who to contact if you have an issue you'd like to discuss can be found on our [Code of Conduct](/2024/coc/).
+\begin{box}{title="2023 videos", color="dark-purple"}
+  JuliaCon 2024 is almost upon us. To get in the mood for what is planned to be an amazing conference you can watch all of the previous JuliaCon conference's talks, workshops and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC). You can also find there the aftermovie of [JuliaCon Local Eindhoven 2023](https://www.youtube.com/watch?v=9YfRd6sdI4Q).
+  We also have some [photographic memories from previous JuliaCons](memories/).
 \end{box}
 
 \begin{box}{title="Committee", color="dark-blue"}
