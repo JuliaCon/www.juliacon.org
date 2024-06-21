@@ -44,65 +44,27 @@ img.animated:hover {
   ~~~
   @@
 @@
-\\
 @@row,row-section
-  @@col-12,col-md-6
-    ### Passionate community
-
-    ~~~
-    <img class="animated" src="/assets/2024/img/whattoexpect/team.jpg">
-    ~~~
-\\      
-    At JuliaCon, expect to be surrounded by passionate individuals from diverse backgrounds united by their enthusiasm for the Julia programming language. 
-    Check our [Diversity Program](/2024/dei)!
-  @@
-  @@col-12,col-md-6
-    ### Technical Talks
-
-    ~~~
-    <img class="animated" src="/assets/2024/img/whattoexpect/talks.jpg" width=100%>
-    ~~~
-\\
-    About 300 talks covering a wide range of topics in Julia programming and beyond.
-  @@
-  @@col-12,col-md-6
-    ### Insightful Keynotes
-
-    ~~~
-    <img class="animated" src="/assets/2024/img/whattoexpect/keynotes.jpg" width=100%>
-    ~~~
-\\
-    Don't miss our insightful keynotes, including sessions held on the iconic pitch of PSV Stadium.
-  @@
-  @@col-12,col-md-6
-    ### Practical Workshops 
-
-    ~~~
-    <img class="animated" src="/assets/2024/img/whattoexpect/workshops.jpg" width=100%>
-    ~~~
-\\
-    Extra workshops designed to provide hands-on learning and practical insights into Julia programming.
-  @@
-  @@col-12,col-md-6
-    ### Iconic location
-
-    ~~~
-    <img class="animated" src="/assets/2024/img/whattoexpect/location.jpg" width=100%>
-    ~~~
-\\
+\begin{glancecard}{title="Passionate community", img="/assets/2024/img/whattoexpect/team.jpg"}
+  At JuliaCon, expect to be surrounded by passionate individuals from diverse backgrounds united by their enthusiasm for the Julia programming language. 
+  Check our [Diversity Program](/2024/dei)!
+\end{glancecard}
+\begin{glancecard}{title="Technical Talks", img="/assets/2024/img/whattoexpect/talks.jpg"}
+  More than 300 talks covering a wide range of topics in Julia programming and beyond.
+\end{glancecard}
+\begin{glancecard}{title="Insightful Keynotes", img="/assets/2024/img/whattoexpect/keynotes.jpg"}
+  Don't miss our insightful keynotes, including sessions held on the iconic pitch of PSV Stadium.
+\end{glancecard}
+\begin{glancecard}{title="Practical Workshops", img="/assets/2024/img/whattoexpect/workshops.jpg"}
+  Extra workshops designed to provide hands-on learning and practical insights into Julia programming.
+\end{glancecard}
+\begin{glancecard}{title="Iconic location", img="/assets/2024/img/whattoexpect/location.jpg"}
   The conference venue will be the [Philips Stadion](https://www.philipsstadion.nl/en/), the home of the [PSV Eindhoven](https://www.psv.nl/home) football club, in Eindhoven, the Netherlands. And if you still didn't know, we have [the daycare](/2024/dei) for mamas and papas!
-  @@
-  @@col-12,col-md-6
-    ### Networking opportunities
-
-    ~~~
-    <img class="animated" src="/assets/2024/img/whattoexpect/networking.jpg" width=100%>
-    ~~~
-\\
+\end{glancecard}
+\begin{glancecard}{title="Networking opportunities", img="/assets/2024/img/whattoexpect/networking.jpg"}
   JuliaCon offers exceptional networking opportunities for professionals and enthusiasts alike.
-  @@
+\end{glancecard}
 @@
-\\
 \\
 \\
 @@row,row-section
@@ -122,59 +84,20 @@ img.animated:hover {
   @@
 @@
 \\
+
+
+
 \begin{rowheader}{title="Keynote Speakers", color=""}\end{rowheader}
 \\
-@@row,row-section 
-@@col-6,col-md-2,align-self-start,text-center
-##### Prof. Bert de Vries
 
-~~~
-<img class="animated rounded-circle" src="/assets/2024/img/keynotes/pbert.png">
-~~~
-\\
-
-Natural Artificial Intelligence
-@@
-@@col-6,col-md-2,align-self-start,text-center
-##### Prof. Michael Herbst
-
-~~~
-<img class="animated rounded-circle" src="/assets/2024/img/keynotes/michael.jpg">
-~~~
-\\
-
-Materials Modeling: Bonding across atoms, code, and people
-@@
-@@col-6,col-md-2,align-self-start,text-center
-##### Prof. Rachel Kurchin
-
-~~~
-<img class="animated rounded-circle" src="/assets/2024/img/keynotes/rachel.png">
-~~~
-\\
-
-Materials Modeling: Bonding across atoms, code, and people
-@@
-@@col-6,col-md-2,align-self-start,text-center
-##### Dr. Andrew Fitzgibbon
-
-~~~
-<img class="animated rounded-circle" src="/assets/2024/img/keynotes/andrew.jpg">
-~~~
-\\
-
-AI Hardware and Real-world AI
-@@
-@@col-6,col-md-2,align-self-start,text-center
-##### Dr. Sam Aaron
-
-~~~
-<img width=100% class="animated rounded-circle" src="/assets/2024/img/keynotes/sam.png">
-~~~
-\\
-
-Sonic Pi - Live Coding as a tool for next-gen education
-@@
+@@row,row-section
+\keynote{name="Prof. Bert de Vries", affil="Eindhoven Technical University, the Netherlands", link="https://biaslab.github.io/", img="/assets/2024/img/keynotes/pbert.png", title="Natural Artificial Intelligence"}
+\keynote{name="Maurice du Mée", affil="ASML", link="https://www.linkedin.com/in/maurice-du-mée-60730b8", img="/assets/2024/img/keynotes/maurice.jpg", title = "Software at ASML: the Force behind making microchips"}
+\keynote{name="Prof. Michael F. Herbst", affil="Mathematics and Institute of Materials Science, Switzerland", link="https://michael-herbst.com/", img="/assets/2024/img/keynotes/michael.jpg", title="Materials Modeling: Bonding across atoms, code, and people"}
+\keynote{name="Prof. Rachel Kurchin", affil="Carnegie Mellon University in Pittsburgh, USA", link="https://engineering.cmu.edu/directory/bios/kurchin-rachel.html", img="/assets/2024/img/keynotes/rachel.png", title="Materials Modeling: Bonding across atoms, code, and people"}
+\keynote{name="Dr. Andrew Fitzgibbon", affil="Graphcore", link="https://www.fitzgibbon.ie/", img="/assets/2024/img/keynotes/andrew.jpg", title="AI Hardware and Real-world AI"}
+\keynote{name="Dr. Katharine Hyatt", affil="Amazon", link="https://github.com/kshyatt", img="/assets/2024/img/keynotes/katie.jpg", title="Why I use Julia for Quantum Computing?"}
+\keynote{name="Dr. Sam Aaron", affil="Sonic Pi", link="http://sam.aaron.name/", img="/assets/2024/img/keynotes/sam.png", title="Sonic Pi - Live Coding as a tool for next-gen education"}
 @@
 \\
 @@row,row-section,justify-content-md-center
