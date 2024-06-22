@@ -26,7 +26,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 @@row,row-section,justify-content-md-center
   @@col-12,col-md-6,text-center
   ~~~
-  <h2 class="btn" style="width: 100%; background-color: rgba(40, 167, 69, 1); border-color: rgba(40, 167, 69, 1); border-width: 2px">
+  <h2 class="btn" style="width: 100%; background-color: #854c9e; border-color: #854c9e; border-width: 2px">
     <a style="font-size: x-large; font-weight: bold; color: white; text-decoration: none;" href="https://www.tickettailor.com/events/numfocus1/1114995#">Buy your ticket here!</a>
   </h2>
   ~~~
