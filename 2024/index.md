@@ -48,7 +48,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   Extra workshops designed to provide hands-on learning and practical insights into Julia programming.
   From the beginners intro to Julia to the hardcore machine learning in Julia, there is something for everyone.
 \end{glancecard}
-\begin{glancecard}{title="Iconic location", img="/assets/2024/img/whattoexpect/location.jpg", color="purple"}
+\begin{glancecard}{title="Iconic location", img="/assets/2024/img/whattoexpect/location.png", color="purple"}
   The conference venue will be the [Philips Stadion](https://www.philipsstadion.nl/en/), the home of the [PSV Eindhoven](https://www.psv.nl/home) football club, in Eindhoven, the Netherlands. And if you still didn't know, we have [the daycare](/2024/dei) for mamas and papas!
 \end{glancecard}
 \begin{glancecard}{title="Networking opportunities", img="/assets/2024/img/whattoexpect/networking.jpg", color = "red"}
