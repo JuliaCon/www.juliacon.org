@@ -68,7 +68,7 @@ Quantum computing is an emerging field, with a variety of hardware platforms in 
 
 ---
 
-\avatar{name="Dr. Sam Aaron", affil="Sonic Pi", link="http://sam.aaron.name/", img="/assets/2024/img/world_768.png"}
+\avatar{name="Dr. Sam Aaron", affil="Sonic Pi", link="http://sam.aaron.name/", img="/assets/2024/img/keynotes/sam.png"}
 
 ### Sonic Pi - Live Coding as a tool for next-gen education
 

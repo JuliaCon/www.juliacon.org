@@ -262,6 +262,24 @@ ul, ol {
     width: auto;
 }
 
+.glance-card {
+    border-radius: 0.5em;
+}
+
+.glance-card .header {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.animated-size {
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.animated-size:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3), 0 6px 20px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
 .border-white { border-color: white}
 .bg-black { background-color: #000000}
 .bg-gray-1 { background-color: #282828}
@@ -403,16 +421,15 @@ ul, ol {
     color: #bf382e;
     background-color: #fff;
     border: 1px solid #bf382e;
-    border-radius: 1em
+    border-radius: 1em;
+    transition: box-shadow 0.3s ease;
 }
 .btn:active{
   background-color: #bf382e;
 }
 
 .btn:hover, .btn:focus{
-    color: #333;
-    background-color: #eee;
-    box-shadow: 5px 5px grey;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3), 0 6px 20px rgba(0, 0, 0, 0.2);
 }
 
 .btn.active {

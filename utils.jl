@@ -24,6 +24,49 @@ end
         """)
 end
 
+@env function rowheader(md; title="", color="")
+  link = replace(lowercase(title), " " => "-")
+  return html("""
+  <header class="row-section" id="$link">
+    <h1>
+      <a style="color: $color" href="#$link">$title</a>
+    </h1>
+  </header>
+  """)
+end
+
+@env function glancecard(md; img="", title="", color="")
+  return html("""
+      <div class="col-12 col-md-6 text-center glance-card">
+      <br> 
+      <h3 class="header">$title</h3>
+      <img class="animated-size" src="$img">
+      <br>
+      <br>   
+      """) * 
+      md *
+      html("""
+      </div>
+      """)
+end
+
+@lx function keynote(; link="", img="", name="", affil="", title="")
+  return html("""
+      <div class="col-12 col-md-4 align-self-start text-center">
+        <div class="row">
+          <div class="col-5">
+            <img class="animated-size rounded-circle" src="$img">
+          </div>
+          <div class="col-7 text-left">
+            <h5><a href="$link">$name</a></h5>
+            <span>$title</span>
+          </div>
+        </div>
+        <br>
+      </div>
+      """)
+end
+
 @lx function avatar(; link="", img="", name="", affil="", bio="")
     return html("""
         <div class="u-vskip-3"></div>
