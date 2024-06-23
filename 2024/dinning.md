@@ -1,7 +1,7 @@
 Eindhoven has a variety of restaurants near the city center or close to the PSV Stadium.
 
 
-Many are at a walking distance, but there are a few things to consider.
+Many are within walking distance of the stadium or city center, but there are a few things to consider.
 
 
 * Spontaneous dinning is possible, but not for 30+ people. Be sure to _make a reservation_!
