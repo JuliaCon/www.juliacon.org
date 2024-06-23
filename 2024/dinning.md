@@ -22,7 +22,7 @@ You can find a lot of recommendations [here](https://www.thisiseindhoven.com/en/
 As a reference, here is a non-exhaustive list of recommended places:
 
 * City Center
-  * [Takumi Ramen](https://www.takumiramennoodles.com/nl/)
+  * [Takumi Ramen](https://www.takumiramennoodles.com/nl/) - Two locations, both are good, can be crowded on Friday night and we can’t make a reservation
   * [Litho's](https://grieksrestaurant-lithos.nl/en/home-en/) - Greek Restaurant
   * [Trafalgar Pub](https://www.thetrafalgarpub.nl/home) - British food and beers
   * [Loods61](https://www.thisiseindhoven.com/en/locations/loods61)
@@ -38,4 +38,6 @@ As a reference, here is a non-exhaustive list of recommended places:
   * [Martini's](https://www.thisiseindhoven.com/en/locations/martini-s-by-roma) - Very small Italian restaurant almost next door to the stadium
 
 * Other
+  * [Piet Hein Eek](https://restaurantpietheineek.nl/en/welcome/)
   * [OST Kitchen + Bar](https://www.thisiseindhoven.com/en/locations/ost-bar-kitchen) - Very cozy a bit outside the City Center
+
