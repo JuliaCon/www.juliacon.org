@@ -250,6 +250,7 @@ Learn how to sign up and learn more about our other [Diversity Initiatives](/202
 
 \begin{centered}{title="Startup", margin_bottom="3ex"}
   \sponsor{name="Evovest", link="https://evovest.com/", img="/assets/2024/img/sponsors/evovest-logo.svg", level=4}
+  \sponsor{name="G2I Computing", link="https://www.g2icomputing.com/", img="/assets/2024/img/sponsors/g2icomputing-logo.svg", level=4}
   \sponsor{name="Genie", link="https://www.genieframework.com", img="/assets/2024/img/sponsors/genie-logo.svg", level=4}
   \sponsor{name="Great Lakes Consulting Services", link="https://glcs.io/", img="/assets/2024/img/sponsors/glc-logo.png", level=4}
   \sponsor{name="IENAI SPACE", link="https://ienai.space/", img="/assets/2024/img/sponsors/ienai_space.png", level=4}
