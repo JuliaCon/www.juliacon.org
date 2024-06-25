@@ -34,7 +34,9 @@ As a reference, here is a non-exhaustive list of recommended places:
   * [Tres Tapas bar](https://www.thisiseindhoven.com/en/locations/tres-tapasbar-eindhoven) - New franchise in Eindhoven, Spanish food.
 
 * Strijp-S
+  * [Hout (Napolitan pizza)](https://www.houteindhoven.nl/en) - recommended by vegetarians
   * [Ketelhuis](https://www.ketelhuis.com/en/) - "vintage" vibe
+  * [Mood](https://www.thisiseindhoven.com/en/locations/mood-strijp-s) - a bit _upscale_
   * [10 Tables](https://www.thisiseindhoven.com/en/locations/10tables) 
   * [Rabauw](https://www.thisiseindhoven.com/en/locations/rabauw)
 
