@@ -138,7 +138,7 @@ configuration = Dict(
         "global" => true,
         "year" => 2024,
         "location" => "Eindhoven",
-        "alert" => """<a href = "https://www.tickettailor.com/events/numfocus1/1114995#"> JuliaCon is nearly upon us. Get your tickets here!</a>
+        "alert" => """<a href = "/2024/tickets/"> JuliaCon is nearly upon us. Get your tickets here!</a>
         """,
         "site_name" => "JuliaCon 2024",
         "site_descr" => "JuliaCon 2024, Eindhoven, Philips Stadion",
