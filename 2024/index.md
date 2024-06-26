@@ -33,7 +33,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   @@
 @@
 @@row,row-section
-\begin{glancecard}{title="Passionate community", img="/assets/2024/img/whattoexpect/team.jpg", color="purple"}
+\begin{glancecard}{title="Passionate community", img="/assets/2024/img/whattoexpect/community.jpg", color="purple"}
   At JuliaCon, expect to be surrounded by passionate individuals from diverse backgrounds united by their enthusiasm for the Julia programming language. 
   Check our [Diversity Program](/2024/dei)!
 \end{glancecard}
