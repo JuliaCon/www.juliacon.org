@@ -36,6 +36,123 @@ Please let us know if you would like to be mentored or if you are willing to men
 JuliaCon offers proceedings, and we need reviewers to assess submissions.
 Our review process is similar to that of the Journal of Open Source Software (JOSS). You can register as reviewer by filling [this form](https://docs.google.com/forms/d/e/1FAIpQLSdOvN0cEQRJZ_fIXbkPBJBJTNvzSyy89khrQvv8i0NSXmLkFA/viewform). More information about JuliaCon proceedings can be found [here](https://proceedings.juliacon.org/).
 
-### Organizing Committee Members
+# JuliaCon 2024 Organizing Committee
 
-If you want to spend more time and get involved as a committee member, please check out the [committee page](/2024/committee/) and feel free to reach out to a committee member on Slack / Twitter for details on what the experience is like.
+The JuliaCon committee is composed entirely of volunteer organizers and can be reached at \email with any questions or comments.
+
+@@row
+\committeemember{
+  name="Ranjan Anantharaman", 
+  info="""co-Chair <a href="https://twitter.com/ranjan_ananth">Twitter</a>""", 
+  link="https://twitter.com/ranjan_ananth", 
+  img="/assets/2024/img/committee/ranjan.jpg"
+}
+
+\committeemember{
+  name="Raye Kimmerer", 
+  info="""co-Chair <a href="https://github.com/rayegun">GitHub</a>""",
+  link="https://github.com/rayegun", 
+  img="/assets/2024/img/committee/raye.jpg"
+}
+\committeemember{
+  name="Katharine Hyatt", 
+  info="""Program co-Chair <a href="https://twitter.com/kslimes">Twitter</a>""",
+  link="https://twitter.com/kslimes", 
+  img="/assets/2024/img/committee/kshyatt.jpeg"
+}
+\committeemember{
+  name="Luca Ferranti", 
+  info="""Program co-Chair <a href="https://github.com/lucaferranti">GitHub</a>""",
+  link="https://github.com/lucaferranti", 
+  img="/assets/2024/img/committee/luca.jpg"
+}
+\committeemember{
+  name="Mark Kittisopikul", 
+  info="""Finance Chair <a href="https://twitter.com/markkitti">Twitter</a>""",
+  link="https://twitter.com/markkitti", 
+  img="/assets/2024/img/committee/mark.jpeg"
+}
+\committeemember{
+  name="Skylar Gering", 
+  info="""Diversity and Accessibility co-Chair <a href="https://github.com/skygering">GitHub</a>""",
+  link="https://github.com/skygering", 
+  img="/assets/2024/img/committee/skylar.jpeg"
+}
+\committeemember{
+  name="Valentin Churavy", 
+  info="""Diversity and Accessibility co-Chair <a href="https://github.com/vchuravy">GitHub</a>""",
+  link="https://github.com/vchuravy", 
+  img="/assets/2024/img/committee/valentin.png"
+}
+\committeemember{
+  name="Gareth Thomas", 
+  info="""Local Chair <a href="https://www.linkedin.com/in/g-thomas/">LinkedIn</a>""",
+  link="https://www.linkedin.com/in/g-thomas/", 
+  img="/assets/2024/img/committee/gareth.jpg"
+}
+\committeemember{
+  name="Kevin O'Brien", 
+  info="""Media and Publicity <a href="https://twitter.com/dragonflystats">Twitter</a>""",
+  link="https://twitter.com/dragonflystats", 
+  img="/assets/2024/img/committee/dragonfly.png"
+}
+\committeemember{
+  name="Carsten Bauer", 
+  info="""Proceedings Chair <a href="https://github.com/carstenbauer">GitHub</a>""",
+  link="https://github.com/carstenbauer", 
+  img="/assets/2024/img/committee/carsten.jpeg"
+}
+\committeemember{
+  name="Pablo Zubieta", 
+  info="""Web <a href="https://github.com/pabloferz">Github</a>""",
+  link="https://github.com/pabloferz", 
+  img="/assets/2024/img/committee/pablo.jpeg"
+}
+\committeemember{
+  name="Jorge Vieyra", 
+  info="""Local organizer <a href="https://www.linkedin.com/in/jorge-vieyra-76280542/">LinkedIn</a>""",
+  link="https://www.linkedin.com/in/jorge-vieyra-76280542/", 
+  img="/assets/2024/img/committee/jorge.jpeg"
+}
+\committeemember{
+  name="Max van Dijk", 
+  info="""Local organizer <a href="https://www.linkedin.com/in/max-van-dijk/">LinkedIn</a>""",
+  link="https://www.linkedin.com/in/max-van-dijk/", 
+  img="/assets/2024/img/committee/max.jpeg"
+}
+\committeemember{
+  name="Dmitry Bagaev", 
+  info="""Local organizer & Web <a href="https://www.linkedin.com/in/bvdmitri/">LinkedIn</a>""",
+  link="https://www.linkedin.com/in/bvdmitri/", 
+  img="/assets/2024/img/committee/dmitry.jpeg"
+}
+\committeemember{
+  name="Xiu-zhe (Roger) Luo", 
+  info="""Diversity and Accessibility <a href="https://github.com/Roger-luo">GitHub</a>""",
+  link="https://github.com/Roger-luo", 
+  img="/assets/2024/img/committee/placeholder.jpg"
+}
+\committeemember{
+  name="Long Chen", 
+  info="""Diversity and Accessibility <a href="https://www.linkedin.com/in/long-chen-76ba59221">LinkedIn</a>""",
+  link="https://www.linkedin.com/in/long-chen-76ba59221", 
+  img="/assets/2024/img/committee/long.jpeg"
+}
+@@
+
+## Proceedings Committee
+
+* Mathieu Besançon
+* Luca Ferranti
+* Ludovic Räss
+* Samuel Omlin
+* Nikos Pitsianis
+* Dimitris Floros
+
+### Joining the Committee
+
+Each year, the previous years JuliaCon committee is usually asked to return. If certain members are no longer able to continue in their role, the existing committee members will work to find a replacement. JuliaCon committee members are generally folks who have been long term contributors to the community or made significant contributors in recent years. Generally, the JuliaCon Chair/co-chair's lead the effort to recruit committee members.
+
+The committee is also open to nominations (you can nominate yourself) for vacant positions or positions that do not exist but you think would provide value to the conference. Nominations are accepted on a rolling basis and reviewed by the current committee as needed. While many current committee members have been long term Julia contributors, this is not a hard requirement. Being a long term member of the community comes with its blind spots, so if there is a unique angle you believe your nominee (including yourself) brings to the table, we would love to hear more!
+
+[Here is the Nomination form](https://forms.gle/yaLKyrGew2KSo1WJ8).

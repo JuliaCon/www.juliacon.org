@@ -196,7 +196,7 @@ Learn how to sign up and learn more about our other [Diversity Initiatives](/202
 \end{box}
 
 \begin{box}{title="Committee", color="dark-blue"}
-  JuliaCon is [organized by a committee](/2024/committee/) composed entirely of volunteers, and can be reached at \email with any questions or comments.
+  JuliaCon is [organized by a committee](/2024/volunteer/#juliacon_2024_organizing_committee) composed entirely of volunteers, and can be reached at \email with any questions or comments.
 \end{box}
 
 
