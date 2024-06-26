@@ -1,4 +1,4 @@
-# Travel Information
+# Venue Information
 
 JuliaCon 2024, the annual conference for the Julia programming language enthusiasts, is set to take place at the iconic [PSV Stadium](https://www.philipsstadion.nl/en/) in Eindhoven, the Netherlands. Notably, the PSV Stadium, also known as Philips Stadion, is not only a renowned sports venue but also stands as the home ground of [PSV Eindhoven](https://www.psv.nl/english-psv/english-psv.htm), one of the most successful football clubs in Dutch history. This unique choice of venue adds an exciting blend of technology and sports to the conference experience, offering attendees the chance to immerse themselves in the dynamic atmosphere of both the programming world and the vibrant sporting legacy of the city.
 
@@ -11,7 +11,6 @@ JuliaCon 2024, the annual conference for the Julia programming language enthusia
 <br>
 ~~~
 
-
 ~~~
 <div style="width: 100%; ">
   <img width=100% src="/assets/2024/img/psvvenue.jpeg" alt="PSV Stadium">
@@ -20,11 +19,42 @@ JuliaCon 2024, the annual conference for the Julia programming language enthusia
 </div>
 ~~~
 
+@@row,row-section,no-gutters,align-items-center
+@@col-12,col-md-6
+~~~<img width=100% src="/assets/2024/img/venue/1.png">~~~
+@@
+@@col-12,col-md-6
+~~~<img width=100% src="/assets/2024/img/venue/2.png">~~~
+@@
+@@col-12,col-md-6
+~~~<img width=100% src="/assets/2024/img/venue/3.png">~~~
+@@
+@@col-12,col-md-6
+~~~<img width=100% src="/assets/2024/img/venue/4.png">~~~
+@@
+@@col-12,col-md-6
+~~~<img width=100% src="/assets/2024/img/venue/5.png">~~~
+@@
+@@col-12,col-md-6
+~~~<img width=100% src="/assets/2024/img/venue/6.png">~~~
+@@
+@@col-12,col-md-6
+~~~<img width=100% src="/assets/2024/img/venue/7.png">~~~
+@@
+@@col-12,col-md-6
+~~~<img width=100% src="/assets/2024/img/venue/8.png">~~~
+@@
+@@
+
+\\
+
 ~~~
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4397.298998411391!2d5.467720455317504!3d51.441632404662606!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d911c386b16f%3A0x943ec8f52a067b30!2sPhilips%20Stadium!5e0!3m2!1sen!2snl!4v1702571784118!5m2!1sen!2snl" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ~~~
 
 ## Eindhoven Travel Guide
+
+Eindhoven is a modern and vibrant city, known for its cutting-edge technology and innovation. Home to renowned universities and tech companies, it’s a hub for creativity and progress. With a lively arts scene, excellent dining options, and beautiful green spaces, Eindhoven offers a dynamic environment perfect for both work and play. Explore all that this exciting city has to offer during your visit to JuliaCon 2024!
 
 ~~~
 <iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Jojzpiu2g3w?si=07QyK9mgCt6-Dxah" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -55,6 +85,26 @@ If you think you may require a closer parking space, accommodations or extra ass
 
 The Netherlands is well-connected to the rest of Europe by air, rail, and road. Eindhoven, in particular, is easily accessible from various European cities. Within the Netherlands, the city is well-connected by train and bus services. The tickets for trains and buses can be purchased at the station or online. In addition, many train stations accept regular [debit cards, credit cards or mobile phones](https://www.ns.nl/en/travel-information/check-in-check-out/debit-card) without need to buy a ticket at the station.
 
+**Important Train Travel Notice**: Please note that there is scheduled maintenance on the train lines between Schiphol Airport and Eindhoven during JuliaCon 2024. While this generally should not be an issue, you can expect an additional 30 minutes on the usual train ride. NS will provide extra buses during this period to assist with your journey. We recommend checking the NS website for the latest updates and planning accordingly to ensure a smooth trip to the conference.
+
+@@row
+@@col-12,col-md-6
+~~~
+<a class="btn" style="width: 100%; border-color: #9d253d; text-decoration: none;" href="https://www.ns.nl/en/travel-information/current-situation-on-the-tracks/">
+    Current situation on tracks
+</a>
+~~~
+@@
+@@col-12,col-md-6
+~~~
+<a class="btn" style="width: 100%; border-color: #9d253d; text-decoration: none;" href="https://www.ns.nl/en/travel-information/maintenance-on-the-tracks/">
+    Planned maintenance
+</a>
+~~~
+@@
+@@
+
+\\
 
 ### Eindhoven airport
 
@@ -62,7 +112,7 @@ Eindhoven has its own airport, well-linked to other European cities. Getting fro
 
 ### Amsterdam Airport (Schiphol)
 
-Eindhoven can be easily reached from Amsterdam airport by train. Refer to the official [NS path planner](https://www.ns.nl/en) to find available trains, but generally you can expect at least one train going in the direction to Eindhoven about every 30 minutes. The trip from Schiphol to Eindhoven takes about 1 hour 30 minutes.
+Eindhoven can be easily reached from Amsterdam airport by train. Refer to the official [NS path planner](https://www.ns.nl/en) to find available trains, but generally you can expect at least one train going in the direction to Eindhoven about every 30 minutes. The trip from Schiphol to Eindhoven takes about 1 hour 30 minutes, but with the planned maintenance, you can expect an additional 30 minutes.
 
 **Note:** Keep in mind that trains in the Netherlands don't run at night and stop operating earlier during the weekends, so plan your Amsterdam trip accordingly.
 
