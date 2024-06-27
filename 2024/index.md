@@ -14,8 +14,26 @@ Co-hosted with <a style="color: #4366d0; text-decoration: underline" href="https
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
+Welcome to **JuliaCon 2024**, the premier annual conference for the Julia programming language community! This exciting event brings together developers, researchers, and enthusiasts from around the globe to celebrate and explore the power and versatility of Julia. 
+\\
+~~~
+<div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
+~~~
+
+\begin{widebox}{title="Diversity Initiative & Childcare", color="purple"}
+
+We will have on-site childcare at JuliaCon 2024 for children between the ages of 0-12.
+When you purchase your ticket there is an option to sign up for one of the available JuliaCare childcare slots!
+
+Learn how to sign up and learn more about our other [Diversity Initiatives](/2024/dei)!
+
+\end{widebox}
+~~~
+</div>
+~~~
 
 \begin{rowheader}{title="JuliaCon at a Glance", color=""}\end{rowheader}
+
 @@row,row-section
   @@col-12 
   JuliaCon 2024 [schedule is now out](https://pretalx.com/juliacon2024/schedule/)!
@@ -32,6 +50,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   ~~~
   @@
 @@
+
 @@row,row-section
 \begin{glancecard}{title="Passionate community", img="/assets/2024/img/whattoexpect/team.jpg", color="purple"}
   At JuliaCon, expect to be surrounded by passionate individuals from diverse backgrounds united by their enthusiasm for the Julia programming language. 
