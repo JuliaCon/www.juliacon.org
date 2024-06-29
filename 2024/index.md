@@ -7,9 +7,11 @@ top_title = "JuliaCon 2024\n"
 top_description = "Join the largest annual conference organized around the Julia programming language.\n"
 top_date = "Philips Stadion, Eindhoven. July 9th–13th, 2024."
 top_subtitle = """
+<a style="color: #4366d0; text-decoration: underline" href="/2024/workshops/">Workshops</a> are hosted at the TU/e on July 9th.
+<br>
 Co-hosted with <a style="color: #4366d0; text-decoration: underline" href="https://pydata.org/eindhoven2024/">PyData Eindhoven</a> on July 11th.
 <br>
-<a style="color: #4366d0; text-decoration: underline" href="/2024/workshops/">Workshops</a> are hosted at the TU/e on July 9th.
+<a style="color: #4366d0; text-decoration: underline" href="/2024/hackathon/">Hackathon</a> is hosted at De Lichttoren on July 13th.
 """
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
