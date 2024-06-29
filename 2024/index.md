@@ -14,31 +14,20 @@ Co-hosted with <a style="color: #4366d0; text-decoration: underline" href="https
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
-Welcome to **JuliaCon 2024**, the premier annual conference for the Julia programming language community! This exciting event brings together developers, researchers, and enthusiasts from around the globe to celebrate and explore the power and versatility of Julia. 
-\\
-~~~
-<div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
-~~~
-
-\begin{widebox}{title="Diversity Initiative & Childcare", color="purple"}
-
-We will have on-site childcare at JuliaCon 2024 for children between the ages of 0-12.
-When you purchase your ticket there is an option to sign up for one of the available JuliaCare childcare slots!
-
-Learn how to sign up and learn more about our other [Diversity Initiatives](/2024/dei)!
-
-\end{widebox}
-~~~
-</div>
-~~~
 
 \begin{rowheader}{title="JuliaCon at a Glance", color=""}\end{rowheader}
 
 @@row,row-section
-  @@col-12 
-  JuliaCon 2024 [schedule is now out](https://pretalx.com/juliacon2024/schedule/)!
-  Besides the awesome talks that will be hosted on July 10th, 11th and 12th, there will also be other activities on the days around the conference! On July 9th [workshops](/2024/workshops) will be held, and on July 13th the annual hackathon will be held. The workshops will take place at the [Neuron faculty building at the Eindhoven University of Technology](https://maps.app.goo.gl/kR5rwSFuqZZsiZe9A) and the hackathon will take place at [Grand Cafe De Lichttoren](https://maps.app.goo.gl/wA2yHBx1Xp8LnqTG6). Both locations are only a short walk from the [Eindhoven train station](https://maps.app.goo.gl/xnjYvfy7eK6Mbac97).
-  @@
+@@col-12 
+Welcome to **JuliaCon 2024**, the premier annual conference for the Julia programming language community! This exciting event brings together developers, researchers, and enthusiasts from around the globe to celebrate and explore the power and versatility of Julia. 
+@@
+@@
+\\
+@@row,row-section
+@@col-12
+JuliaCon 2024 [schedule is now out](https://pretalx.com/juliacon2024/schedule/)!
+Besides the awesome talks that will be hosted on July 10th, 11th and 12th, there will also be other activities on the days around the conference! On July 9th [workshops](/2024/workshops) will be held, and on July 13th the annual hackathon will be held. The workshops will take place at the [Neuron faculty building at the Eindhoven University of Technology](https://maps.app.goo.gl/kR5rwSFuqZZsiZe9A) and the hackathon will take place at [Grand Cafe De Lichttoren](https://maps.app.goo.gl/wA2yHBx1Xp8LnqTG6). Both locations are only a short walk from the [Eindhoven train station](https://maps.app.goo.gl/xnjYvfy7eK6Mbac97).
+@@
 @@
 \\
 @@row,row-section,justify-content-md-center
@@ -56,23 +45,24 @@ Learn how to sign up and learn more about our other [Diversity Initiatives](/202
   At JuliaCon, expect to be surrounded by passionate individuals from diverse backgrounds united by their enthusiasm for the Julia programming language. 
   Check our [Diversity Program](/2024/dei)!
 \end{glancecard}
-\begin{glancecard}{title="Technical Talks", img="/assets/2024/img/whattoexpect/talks.jpg", color="red"}
-  More than 300 lightning talks, presentations, keynotes, workshops, posters and hackatone sessions covering a wide range of topics in Julia programming and beyond.
-\end{glancecard}
-\begin{glancecard}{title="Insightful Keynotes", img="/assets/2024/img/whattoexpect/keynotes.jpg", color="green"}
-  Don't miss our insightful keynotes, including sessions held on the iconic pitch of PSV Stadium.
-  Check out the [keynote speakers](/2024/keynotes)!
+\begin{glancecard}{title="Technical Talks & Keynotes", img="/assets/2024/img/whattoexpect/talks.jpg", color="red"}
+  More than 300 [talks](https://pretalx.com/juliacon2024/schedule/), [workshops](/2024/workshops), posters and hackatone sessions covering a wide range of topics in Julia programming.
+  Additionally, check out our [insightful keynotes](/2024/keynotes), set to happen on the iconic PSV stadion pitch!
 \end{glancecard}
 \begin{glancecard}{title="Practical Workshops", img="/assets/2024/img/whattoexpect/workshops.jpg", color="dark-blue"}
   Extra workshops designed to provide hands-on learning and practical insights into Julia programming.
   From the beginners intro to Julia to the hardcore machine learning in Julia, there is something for everyone.
 \end{glancecard}
-\begin{glancecard}{title="Iconic location", img="/assets/2024/img/whattoexpect/location.png", color="purple"}
-  The conference venue will be the [Philips Stadion](https://www.philipsstadion.nl/en/), the home of the [PSV Eindhoven](https://www.psv.nl/home) football club, in Eindhoven, the Netherlands. And if you still didn't know, we have [the daycare](/2024/dei) for mamas and papas!
-\end{glancecard}
 \begin{glancecard}{title="Networking opportunities", img="/assets/2024/img/whattoexpect/networking.jpg", color = "red"}
   JuliaCon offers exceptional networking opportunities for professionals and enthusiasts alike.
   Meet and connect with like-minded individuals from around the world.
+\end{glancecard}
+\begin{glancecard}{title="Iconic location", img="/assets/2024/img/whattoexpect/location.png", color="purple"}
+  The conference venue will be the [Philips Stadion](https://www.philipsstadion.nl/en/), the home of the [PSV Eindhoven](https://www.psv.nl/home) football club, in Eindhoven, the Netherlands. And if you still didn't know, we have [the daycare](/2024/dei) for mamas and papas!
+\end{glancecard}
+\begin{glancecard}{title="Diversity Initiative & Childcare", img="/assets/2024/img/whattoexpect/childcare.jpeg", color="green"}
+  Did you know we will have on-site childcare at JuliaCon 2024 for children between the ages of 0-12?
+  Learn how to sign up and learn more about our other [Diversity Initiatives](/2024/dei)!
 \end{glancecard}
 @@
 \\
