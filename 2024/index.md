@@ -7,9 +7,11 @@ top_title = "JuliaCon 2024\n"
 top_description = "Join the largest annual conference organized around the Julia programming language.\n"
 top_date = "Philips Stadion, Eindhoven. July 9th–13th, 2024."
 top_subtitle = """
+<a style="color: #4366d0; text-decoration: underline" href="/2024/workshops/">Workshops</a> are hosted at the TU/e on July 9th.
+<br>
 Co-hosted with <a style="color: #4366d0; text-decoration: underline" href="https://pydata.org/eindhoven2024/">PyData Eindhoven</a> on July 11th.
 <br>
-<a style="color: #4366d0; text-decoration: underline" href="/2024/workshops/">Workshops</a> are hosted at the TU/e on July 9th.
+<a style="color: #4366d0; text-decoration: underline" href="/2024/hackathon/">Hackathon</a> is hosted at De Lichttoren on July 13th.
 """
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
@@ -41,7 +43,7 @@ Besides the awesome talks that will be hosted on July 10th, 11th and 12th, there
 @@
 
 @@row,row-section
-\begin{glancecard}{title="Passionate community", img="/assets/2024/img/whattoexpect/team.jpg", color="purple"}
+\begin{glancecard}{title="Passionate community", img="/assets/2024/img/whattoexpect/community.jpg", color="purple"}
   At JuliaCon, expect to be surrounded by passionate individuals from diverse backgrounds united by their enthusiasm for the Julia programming language. 
   Check our [Diversity Program](/2024/dei)!
 \end{glancecard}
@@ -271,6 +273,7 @@ Learn how to sign up and learn more about our other [Diversity Initiatives](/202
   \sponsor{name="VersionBay", link="https://www.versionbay.com", img="/assets/local/eindhoven2023/img/sponsors/VersionBay-Logo.png", level=3}
   \sponsor{name="VersionBay", link="https://lazydynamics.com", img="/assets/local/eindhoven2023/img/sponsors/lazydynamics_logo.png", level=3}
   \sponsor{name="TU/e", link="https://www.tue.nl/en/", img="/assets/2024/img/sponsors/tue_logo.png", level=3}
+  \sponsor{name="Ferrous Systems", link="https://ferrous-systems.com", img="/assets/2024/img/sponsors/ferrous-logo.svg", level=1}
 \end{centered}
 
 \begin{centered}{title="Local Partners", margin_bottom="3ex"}

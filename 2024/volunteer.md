@@ -1,16 +1,16 @@
 # Sign Up!
 
-Help out as a volunteer!
-  ~~~
-  <div class="u-vskip-2"></div>
-  <div style="text-align: center">
-    <h1 class="btn" style="width: 80%; border-color: #9d253d;"><a style="color: #9d253d; text-decoration: none;" href="https://forms.gle/RPumkG5GipnmGdA67">Sign up to become a volunteer!</a></h1>
-  </div>
-  ~~~
+Join us in making JuliaCon 2024 a success! We’re looking for enthusiastic volunteers to assist with various tasks, from registration to session support. Volunteering is a great way to give back to the community, gain valuable experience, and meet like-minded people. Sign up today and be part of the team that brings this incredible event to life!
+~~~
+<div class="u-vskip-1"></div>
+<img src="/assets/2024/img/whattoexpect/team.jpg">
+<div class="u-vskip-2"></div>
+<div style="text-align: center">
+  <h1 class="btn" style="width: 80%; border-color: #9d253d;"><a style="color: #9d253d; text-decoration: none;" href="https://forms.gle/RPumkG5GipnmGdA67">Sign up to become a volunteer!</a></h1>
+</div>
+~~~
 
-## Roles
-
-### On the day volunteers
+## On the day volunteers
 
 JuliaCon volunteers are the backbone of our conference and without people like you, we would not be able to make JuliaCon the success it is!
 
@@ -24,14 +24,14 @@ JuliaCon volunteers are the backbone of our conference and without people like y
 
 **Please note: we are asking that you devote about 50% of your time at the conference helping with any of the tasks that need to be done.**
 
-### Mentors to new speakers
+## Mentors to new speakers
 
 JuliaCon 2024 will match first-time JuliaCon speakers desiring guidance to experienced speakers willing to mentor.
 We are expecting a time commitment of maximally a few hours in which mentors will provide feedback on a novice speaker's presentation.
 
 Please let us know if you would like to be mentored or if you are willing to mentor a first-time speaker for JuliaCon 2024!
 
-### Proceedings reviewers
+## Proceedings reviewers
 
 JuliaCon offers proceedings, and we need reviewers to assess submissions.
 Our review process is similar to that of the Journal of Open Source Software (JOSS). You can register as reviewer by filling [this form](https://docs.google.com/forms/d/e/1FAIpQLSdOvN0cEQRJZ_fIXbkPBJBJTNvzSyy89khrQvv8i0NSXmLkFA/viewform). More information about JuliaCon proceedings can be found [here](https://proceedings.juliacon.org/).
