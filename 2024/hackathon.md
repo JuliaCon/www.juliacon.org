@@ -8,7 +8,7 @@ This year the hackathon will take place in the iconic [Grand Cafe De Lichttoren]
 * Create extension packages to integrate Images.jl with Makie.jl (Mark Kittisopikul)
 * Update Napari.jl to work with PythonCall.jl, integrate IJulia into the Napari console (Mark Kittisopikul)
 * Create an ImageJ.jl package via JavaCall.jl for ImageJ and Julia interoperation. (Mark Kittisopikul)
-* Add your own idea here. Suggest new projects via [Discourse](https://discourse.julialang.org/c/juliacon/juliacon2024/67) or Slack.
+* Add your own idea here. Suggest new projects via [HackMD](https://hackmd.io/@mose/Hym4DRCIA/edit), [Discourse](https://discourse.julialang.org/c/juliacon/juliacon2024/67) or Slack.
 
 ## Additional Details
 
