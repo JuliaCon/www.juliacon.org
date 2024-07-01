@@ -23,12 +23,12 @@ If you have problems with the embedded widget, please use this [link](https://ww
 
 Individual ticket prices are for those paying with own personal funds or for small businesses.
 
-- 4 Day Ticket Pass (with Workshops): **€ 549.00**
-- 3 Day Ticket Pass (Wed - Fri): **€ 399.00**
 - Tuesday Workshop Only: **€ 199.99**
-- Wednesday Pass: **€ 130.00**
+- Wednesday Pass: **€ 145.00**
 - Thursday Pass (with PyData): **€ 155.00**
 - Friday Pass: **€ 150.00**
+- 3 Day Ticket Pass (Wed - Fri): **€ 449.00**
+- 4 Day Ticket Pass (with Workshops): **€ 649.00**
 
 **Note**: Accepted speakers still benefit from early bird prices. Contact \email to get the speaker discount.
 
@@ -38,23 +38,23 @@ Corporate ticket prices are for large businesses with more than 200 employees.
 If you plan to purchase multiple tickets, consider sponsoring JuliaCon 2024
 Thank you for making JuliaCon accessible for students and online participants.
 
-- 4 Day Ticket Pass (with Workshops): **€ 779.99**
-- 3 Day Ticket Pass (Wed - Fri): **€ 579.99**
 - Tuesday Workshop Only: **€ 199.99**
 - Wednesday Pass: **€ 195.00**
 - Thursday Pass (with PyData): **€ 195.00**
 - Friday Pass: **€ 195.00**
+- 3 Day Ticket Pass (Wed - Fri): **€ 579.99**
+- 4 Day Ticket Pass (with Workshops): **€ 779.99**
 
 # Student Ticket Prices
 
 Please only select a student ticket if you are a registered student. We have a limited number of student tickets and want to make the conference accessible to those who need them. Note that PhD students non-faculty postdoctoral trainees also qualify as students.
 
-- **(Student)** 4 Day Ticket Pass (with Workshops): **€ 269.00**
-- **(Student)** 3 Day Ticket Pass (Wed-Fri): **€ 199.00**
-- **(Student)** Workshop Only **€ 69.00**
+- **(Student)** Workshop Only **€ 129.00**
 - **(Student)** Wednesday Pass **€ 69.00**
 - **(Student)** Thursday Pass (with PyData) **€ 69.00**
 - **(Student)** Friday Pass **€ 69.00**
+- **(Student)** 3 Day Ticket Pass (Wed-Fri): **€ 199.00**
+- **(Student)** 4 Day Ticket Pass (with Workshops): **€ 299.00**
 
 If you have any questions regarding qualification about student pricing, please contact us at \email.
 
