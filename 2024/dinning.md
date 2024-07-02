@@ -18,7 +18,6 @@ Many are within walking distance of the stadium or city center, but there are a 
 
 You can find a lot of recommendations [here](https://www.thisiseindhoven.com/en/see-and-do/food-and-drinks)
 
-
 As a reference, here is a non-exhaustive list of recommended places:
 
 * City Center
