@@ -2,14 +2,23 @@
 
 JuliaCon 2024, the annual conference for the Julia programming language enthusiasts, is set to take place at the iconic [PSV Stadium](https://www.philipsstadion.nl/en/) in Eindhoven, the Netherlands. Notably, the PSV Stadium, also known as Philips Stadion, is not only a renowned sports venue but also stands as the home ground of [PSV Eindhoven](https://www.psv.nl/english-psv/english-psv.htm), one of the most successful football clubs in Dutch history. This unique choice of venue adds an exciting blend of technology and sports to the conference experience, offering attendees the chance to immerse themselves in the dynamic atmosphere of both the programming world and the vibrant sporting legacy of the city.
 
+@@row,text-center
+@@col-12,col-md-6
 ~~~
-<div style="text-align: center">
-<a class="btn" style="width: 60%; border-color: #9d253d; text-decoration: none;" href="/2024/venue-hotels">
+<a class="btn" style="width:100%; border-color: #9d253d; text-decoration: none;" href="/2024/venue-hotels">
     Check our <b>promo 15% discounts</b> on the hotels!
 </a>
-</div>
-<br>
 ~~~
+@@
+@@col-12,col-md-6
+~~~
+<a class="btn" style="width:100%; border-color: #9d253d; text-decoration: none;" href="/2024/activities">
+    Check out <b>possible activities</b> in Eindhoven!
+</a>
+~~~
+@@
+@@
+\\
 
 ~~~
 <div style="width: 100%; ">
@@ -77,14 +86,6 @@ JuliaCon 2024, the annual conference for the Julia programming language enthusia
 ~~~<img width=100% src="/assets/2024/img/venue/PSV floorplan-06.png">~~~
 @@
 @@
-
-## Eindhoven Travel Guide
-
-Eindhoven is a modern and vibrant city, known for its cutting-edge technology and innovation. Home to renowned universities and tech companies, it’s a hub for creativity and progress. With a lively arts scene, excellent dining options, and beautiful green spaces, Eindhoven offers a dynamic environment perfect for both work and play. Explore all that this exciting city has to offer during your visit to JuliaCon 2024!
-
-~~~
-<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Jojzpiu2g3w?si=07QyK9mgCt6-Dxah" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-~~~
 
 ## Visa Info
 
@@ -187,6 +188,10 @@ The NS website provides [comprehensive information](https://www.ns.nl/en/travel-
 ## Tourism in Eindhoven
 
 Eindhoven and its surroundings are awesome spots for exploring in the Netherlands. For various options, hop over to the official [tourist info page](https://www.thisiseindhoven.com/en). Also, Eindhoven is well-connected to big cities like Amsterdam, Utrecht, The Hague, Rotterdam, and others by train. Find the train schedule on the [official NS website](https://www.ns.nl/en).
+
+## Activities
+
+Also check out [possible activities](/2024/activities) in the Eindhoven region! 
 
 ## Relevant links 
 
