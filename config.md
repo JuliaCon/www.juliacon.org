@@ -138,7 +138,7 @@ configuration = Dict(
         "global" => true,
         "year" => 2024,
         "location" => "Eindhoven",
-        "alert" => """<a href = "https://form.jotform.com/241373057274355"> The 2024 Julia User & Developer Survey is now open! Click here to participate.</a>
+        "alert" => """<a href = "https://forms.gle/Jn6RTeqwNWbpX7tM8"> Nominate a contributor for the Julia Community Prize 2024!</a>
         """,
         "site_name" => "JuliaCon 2024",
         "site_descr" => "JuliaCon 2024, Eindhoven, Philips Stadion",
@@ -152,10 +152,13 @@ configuration = Dict(
                 "Keynotes" => "/2024/keynotes",
                 "Workshops" => "/2024/workshops",
                 "Minisymposia" => "/2024/minisymposia",
+                "Hackathon" => "/2024/hackathon",
             ],
             "Activities" => "/2024/activities",
+            "Store" => "/2024/store",
             "Sponsor" => "/2024/sponsor",
-            "Travel" => "/2024/travel",
+            "Venue" => "/2024/travel",
+            "Childcare" => "/2024/dei",
             "Volunteer" => "/2024/volunteer",
             "Job board" => "/2024/jobboard",
             "Guidelines" => [

@@ -7,53 +7,64 @@ top_title = "JuliaCon 2024\n"
 top_description = "Join the largest annual conference organized around the Julia programming language.\n"
 top_date = "Philips Stadion, Eindhoven. July 9th–13th, 2024."
 top_subtitle = """
+<a style="color: #4366d0; text-decoration: underline" href="/2024/workshops/">Workshops</a> are hosted at the TU/e on July 9th.
+<br>
 Co-hosted with <a style="color: #4366d0; text-decoration: underline" href="https://pydata.org/eindhoven2024/">PyData Eindhoven</a> on July 11th.
 <br>
-<a style="color: #4366d0; text-decoration: underline" href="/2024/workshops/">Workshops</a> are hosted at the TU/e on July 9th.
+<a style="color: #4366d0; text-decoration: underline" href="/2024/hackathon/">Hackathon</a> is hosted at De Lichttoren on July 13th.
 """
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
 
 \begin{rowheader}{title="JuliaCon at a Glance", color=""}\end{rowheader}
+
 @@row,row-section
-  @@col-12 
-  JuliaCon 2024 [schedule is now out](https://pretalx.com/juliacon2024/schedule/)!
-  Besides the awesome talks that will be hosted on July 10th, 11th and 12th, there will also be other activities on the days around the conference! On July 9th [workshops](/2024/workshops) will be held, and on July 13th the annual hackathon will be held. The workshops will take place at the [Neuron faculty building at the Eindhoven University of Technology](https://maps.app.goo.gl/kR5rwSFuqZZsiZe9A) and the hackathon will take place at [Grand Cafe De Lichttoren](https://maps.app.goo.gl/wA2yHBx1Xp8LnqTG6). Both locations are only a short walk from the [Eindhoven train station](https://maps.app.goo.gl/xnjYvfy7eK6Mbac97).
-  @@
+@@col-12 
+Welcome to **JuliaCon 2024**, the premier annual conference for the Julia programming language community! This exciting event brings together developers, researchers, and enthusiasts from around the globe to celebrate and explore the power and versatility of Julia. 
+@@
+@@
+\\
+@@row,row-section
+@@col-12
+JuliaCon 2024 [schedule is now out](https://pretalx.com/juliacon2024/schedule/)!
+Besides the awesome talks that will be hosted on July 10th, 11th and 12th, there will also be other activities on the days around the conference! On July 9th [workshops](/2024/workshops) will be held, and on July 13th the annual hackathon will be held. The workshops will take place at the [Neuron faculty building at the Eindhoven University of Technology](https://maps.app.goo.gl/kR5rwSFuqZZsiZe9A) and the hackathon will take place at [Grand Cafe De Lichttoren](https://maps.app.goo.gl/wA2yHBx1Xp8LnqTG6). Both locations are only a short walk from the [Eindhoven train station](https://maps.app.goo.gl/xnjYvfy7eK6Mbac97).
+@@
 @@
 \\
 @@row,row-section,justify-content-md-center
   @@col-12,col-md-6,text-center
   ~~~
   <h2 class="btn" style="width: 100%; background-color: #854c9e; border-color: #854c9e; border-width: 2px">
-    <a style="font-size: x-large; font-weight: bold; color: white; text-decoration: none;" href="https://www.tickettailor.com/events/numfocus1/1114995#">Buy your ticket here!</a>
+    <a style="font-size: x-large; font-weight: bold; color: white; text-decoration: none;" href="tickets/">Buy your ticket here!</a>
   </h2>
   ~~~
   @@
 @@
+
 @@row,row-section
-\begin{glancecard}{title="Passionate community", img="/assets/2024/img/whattoexpect/team.jpg", color="purple"}
+\begin{glancecard}{title="Passionate community", img="/assets/2024/img/whattoexpect/community.jpg", color="purple"}
   At JuliaCon, expect to be surrounded by passionate individuals from diverse backgrounds united by their enthusiasm for the Julia programming language. 
   Check our [Diversity Program](/2024/dei)!
 \end{glancecard}
-\begin{glancecard}{title="Technical Talks", img="/assets/2024/img/whattoexpect/talks.jpg", color="red"}
-  More than 300 lightning talks, presentations, keynotes, workshops, posters and hackatone sessions covering a wide range of topics in Julia programming and beyond.
-\end{glancecard}
-\begin{glancecard}{title="Insightful Keynotes", img="/assets/2024/img/whattoexpect/keynotes.jpg", color="green"}
-  Don't miss our insightful keynotes, including sessions held on the iconic pitch of PSV Stadium.
-  Check out the [keynote speakers](/2024/keynotes)!
+\begin{glancecard}{title="Technical Talks & Keynotes", img="/assets/2024/img/whattoexpect/talks.jpg", color="red"}
+  More than 300 [talks](https://pretalx.com/juliacon2024/schedule/), [workshops](/2024/workshops), posters and hackatone sessions covering a wide range of topics in Julia programming.
+  Additionally, check out our [insightful keynotes](/2024/keynotes), set to happen on the iconic PSV stadion pitch!
 \end{glancecard}
 \begin{glancecard}{title="Practical Workshops", img="/assets/2024/img/whattoexpect/workshops.jpg", color="dark-blue"}
   Extra workshops designed to provide hands-on learning and practical insights into Julia programming.
   From the beginners intro to Julia to the hardcore machine learning in Julia, there is something for everyone.
 \end{glancecard}
-\begin{glancecard}{title="Iconic location", img="/assets/2024/img/whattoexpect/location.png", color="purple"}
-  The conference venue will be the [Philips Stadion](https://www.philipsstadion.nl/en/), the home of the [PSV Eindhoven](https://www.psv.nl/home) football club, in Eindhoven, the Netherlands. And if you still didn't know, we have [the daycare](/2024/dei) for mamas and papas!
-\end{glancecard}
 \begin{glancecard}{title="Networking opportunities", img="/assets/2024/img/whattoexpect/networking.jpg", color = "red"}
   JuliaCon offers exceptional networking opportunities for professionals and enthusiasts alike.
   Meet and connect with like-minded individuals from around the world.
+\end{glancecard}
+\begin{glancecard}{title="Iconic location", img="/assets/2024/img/whattoexpect/location.png", color="purple"}
+  The conference venue will be the [Philips Stadion](https://www.philipsstadion.nl/en/), the home of the [PSV Eindhoven](https://www.psv.nl/home) football club, in Eindhoven, the Netherlands. And if you still didn't know, we have [the daycare](/2024/dei) for mamas and papas!
+\end{glancecard}
+\begin{glancecard}{title="Diversity Initiative & Childcare", img="/assets/2024/img/whattoexpect/childcare.jpeg", color="green"}
+  Did you know we will have on-site childcare at JuliaCon 2024 for children between the ages of 0-12?
+  Learn how to sign up and learn more about our other [Diversity Initiatives](/2024/dei)!
 \end{glancecard}
 @@
 \\
@@ -173,6 +184,9 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 <!-- <div class="container"> -->
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
+\begin{box}{title="Julia Community Prize 2024", color="red"}
+  Nominations for the Julia Community Prize 2024 are now open! [Send us your nominations today](https://forms.gle/Jn6RTeqwNWbpX7tM8).
+\end{box}
 
 \begin{box}{title="Diversity Initiative & Childcare", color="purple"}
 
@@ -196,7 +210,7 @@ Learn how to sign up and learn more about our other [Diversity Initiatives](/202
 \end{box}
 
 \begin{box}{title="Committee", color="dark-blue"}
-  JuliaCon is [organized by a committee](/2024/committee/) composed entirely of volunteers, and can be reached at \email with any questions or comments.
+  JuliaCon is [organized by a committee](/2024/volunteer/#juliacon_2024_organizing_committee) composed entirely of volunteers, and can be reached at \email with any questions or comments.
 \end{box}
 
 
@@ -250,6 +264,7 @@ Learn how to sign up and learn more about our other [Diversity Initiatives](/202
 
 \begin{centered}{title="Startup", margin_bottom="3ex"}
   \sponsor{name="Evovest", link="https://evovest.com/", img="/assets/2024/img/sponsors/evovest-logo.svg", level=4}
+  \sponsor{name="G2I Computing", link="https://www.g2icomputing.com/", img="/assets/2024/img/sponsors/g2icomputing-logo.svg", level=4}
   \sponsor{name="Genie", link="https://www.genieframework.com", img="/assets/2024/img/sponsors/genie-logo.svg", level=4}
   \sponsor{name="Great Lakes Consulting Services", link="https://glcs.io/", img="/assets/2024/img/sponsors/glc-logo.png", level=4}
   \sponsor{name="IENAI SPACE", link="https://ienai.space/", img="/assets/2024/img/sponsors/ienai_space.png", level=4}
@@ -261,6 +276,7 @@ Learn how to sign up and learn more about our other [Diversity Initiatives](/202
   \sponsor{name="VersionBay", link="https://www.versionbay.com", img="/assets/local/eindhoven2023/img/sponsors/VersionBay-Logo.png", level=3}
   \sponsor{name="VersionBay", link="https://lazydynamics.com", img="/assets/local/eindhoven2023/img/sponsors/lazydynamics_logo.png", level=3}
   \sponsor{name="TU/e", link="https://www.tue.nl/en/", img="/assets/2024/img/sponsors/tue_logo.png", level=3}
+  \sponsor{name="Ferrous Systems", link="https://ferrous-systems.com", img="/assets/2024/img/sponsors/ferrous-logo.svg", level=1}
 \end{centered}
 
 \begin{centered}{title="Local Partners", margin_bottom="3ex"}

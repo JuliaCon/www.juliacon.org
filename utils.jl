@@ -88,6 +88,26 @@ end
         """)
 end
 
+@lx function committeemember(; link="", img="", name="", info="")
+  return html("""
+    <div class="col-6 col-lg-4">
+    <div class="col-12 align-self-start text-center">
+    <div class="row">
+      <div class="col-6">
+        <img class="animated-size rounded-circle" src="$img">
+      </div>
+      <div class="col-6 text-left">
+        <h5><a href="$link">$name</a></h5>
+        <span>$info</span>
+      </div>
+    </div>
+    <br>
+    </div>
+    </div>
+    """)
+end
+
+
 # NAV_YEAR tools
 
 configyear() = parse(Int, locvar(:year)::String)
