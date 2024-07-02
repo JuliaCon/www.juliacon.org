@@ -500,6 +500,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>juliacon.org/2024/activities/index.html</loc>
+    <lastmod>2024-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>juliacon.org/2022/committee/index.html</loc>
     <lastmod>2024-07-02</lastmod>
     <changefreq>monthly</changefreq>
