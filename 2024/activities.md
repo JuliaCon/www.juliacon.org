@@ -1,6 +1,16 @@
+# Activities
+
+Welcome to Eindhoven, a vibrant city brimming with exciting activities for everyone!
+
+## Eindhoven Travel Guide
+
+~~~
+<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Jojzpiu2g3w?si=07QyK9mgCt6-Dxah" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+~~~
+
+## Dinning
+
 Eindhoven has a variety of restaurants near the city center or close to the PSV Stadium.
-
-
 Many are within walking distance of the stadium or city center, but there are a few things to consider.
 
 
@@ -14,7 +24,6 @@ Many are within walking distance of the stadium or city center, but there are a 
   reachable by bike or car ... 
 * During weekdays many restaurants will close around midnight or earlier.
 * Fridays are generally busy, _definitely_ make a _reservation_!
-
 
 You can find a lot of recommendations [here](https://www.thisiseindhoven.com/en/see-and-do/food-and-drinks)
 
