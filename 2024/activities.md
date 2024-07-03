@@ -47,7 +47,7 @@ As a reference, here is a non-exhaustive list of recommended places:
   * [Mood](https://www.thisiseindhoven.com/en/locations/mood-strijp-s) - a bit _upscale_
   * [10 Tables](https://www.thisiseindhoven.com/en/locations/10tables) 
   * [Rabauw](https://www.thisiseindhoven.com/en/locations/rabauw)
-
+  * [Intelligentia](https://www.thisiseindhoven.com/en/locations/intelligentia) -good icecream
 
 * Victoria Park / Wilhelminaplein
   * [Radegast 040](https://www.thisiseindhoven.com/en/locations/radegast-040)
@@ -56,4 +56,12 @@ As a reference, here is a non-exhaustive list of recommended places:
 * Other
   * [Piet Hein Eek](https://restaurantpietheineek.nl/en/welcome/)
   * [OST Kitchen + Bar](https://www.thisiseindhoven.com/en/locations/ost-bar-kitchen) - Very cozy a bit outside the City Center
+
+
+## Bars
+* [VANE Skybar](https://www.thisiseindhoven.com/en/locations/vane-restaurant-skybar)
+* [Stratumseind](https://maps.app.goo.gl/AdFvC3CzAk6NyNk18)
+* [Kleine berg](https://maps.app.goo.gl/c4C25AJZKmiSeqtn8)
+
+
 
