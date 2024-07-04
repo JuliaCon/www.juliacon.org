@@ -47,7 +47,7 @@ As a reference, here is a non-exhaustive list of recommended places:
   * [Mood](https://www.thisiseindhoven.com/en/locations/mood-strijp-s) - a bit _upscale_
   * [10 Tables](https://www.thisiseindhoven.com/en/locations/10tables) 
   * [Rabauw](https://www.thisiseindhoven.com/en/locations/rabauw)
-  * [Intelligentia](https://www.thisiseindhoven.com/en/locations/intelligentia) -good icecream
+  * [Intelligentia](https://www.thisiseindhoven.com/en/locations/intelligentia) - good ice cream
 
 * Victoria Park / Wilhelminaplein
   * [Radegast 040](https://www.thisiseindhoven.com/en/locations/radegast-040)
