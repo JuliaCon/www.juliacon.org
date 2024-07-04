@@ -62,6 +62,3 @@ As a reference, here is a non-exhaustive list of recommended places:
 * [VANE Skybar](https://www.thisiseindhoven.com/en/locations/vane-restaurant-skybar)
 * [Stratumseind](https://maps.app.goo.gl/AdFvC3CzAk6NyNk18)
 * [Kleine berg](https://maps.app.goo.gl/c4C25AJZKmiSeqtn8)
-
-
-
