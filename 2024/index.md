@@ -93,6 +93,7 @@ Besides the awesome talks that will be hosted on July 10th, 11th and 12th, there
 \\
 
 @@row,row-section
+\keynote{name="Julia Core Developers", affil="", link="https://julialang.org/", img="/assets/2024/img/keynotes/julia.png", title="State of Julia 2024"}
 \keynote{name="Prof. Bert de Vries", affil="Eindhoven Technical University, the Netherlands", link="https://biaslab.github.io/", img="/assets/2024/img/keynotes/pbert.png", title="Natural Artificial Intelligence"}
 \keynote{name="Maurice du Mée", affil="ASML", link="https://www.linkedin.com/in/maurice-du-mée-60730b8", img="/assets/2024/img/keynotes/maurice.jpg", title = "Software at ASML: the Force behind making microchips"}
 \keynote{name="Prof. Michael F. Herbst", affil="Mathematics and Institute of Materials Science, Switzerland", link="https://michael-herbst.com/", img="/assets/2024/img/keynotes/michael.jpg", title="Materials Modeling: Bonding across atoms, code, and people"}

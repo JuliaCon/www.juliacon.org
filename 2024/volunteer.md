@@ -121,6 +121,12 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
   img="/assets/2024/img/committee/max.jpeg"
 }
 \committeemember{
+  name="Erwin Hoogerwoord", 
+  info="""Local organizer & Workshops <a href="https://www.linkedin.com/in/erwin-hoogerwoord-878325aa/">LinkedIn</a>""",
+  link="https://www.linkedin.com/in/erwin-hoogerwoord-878325aa/", 
+  img="/assets/2024/img/committee/erwin.jpg"
+}
+\committeemember{
   name="Dmitry Bagaev", 
   info="""Local organizer & Web <a href="https://www.linkedin.com/in/bvdmitri/">LinkedIn</a>""",
   link="https://www.linkedin.com/in/bvdmitri/", 

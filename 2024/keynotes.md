@@ -6,6 +6,18 @@
 
 ---
 
+\avatar{name="Julia Core Developers", affil="Julia", link="https://julialang.org/", img="/assets/2024/img/keynotes/julia.png"}
+
+### State of Julia 2024
+
+In this keynote the core developers will delve into the latest advancements and future directions of the Julia programming language. This keynote will offer a comprehensive overview of the developments over the past year, highlighting significant improvements, new features, and the growing ecosystem around Julia.
+
+~~~
+<div style="height:1em;display:block;"></div>
+~~~
+
+---
+
 \avatar{name="Prof. Bert de Vries", affil="Eindhoven Technical University", link="https://biaslab.github.io/", img="/assets/2024/img/keynotes/pbert.png", bio="Bert de Vries received MSc (1986) and PhD (1991) degrees in Electrical Engineering from Eindhoven University of Technology (TU/e) and the University of Florida, respectively. From 1992 until 1999 he worked at Sarnoff Research Center in Princeton (NJ), where he contributed to research projects over a wide range of signal and image processing topics such as word spotting, financial market prediction, and breast cancer detection from mammograms. Since April 1999, he has been employed in the hearing aids industry (currently at GN Hearing), both in research and managerial roles. Since January 2012, he has also been a full professor at the Signal Processing Systems Group at TU/e, where he directs the BIASlab research team of graduate students with whom he conducts research on transferring a Bayesian brain theory (the Free Energy Principle) to practical engineering solutions."}
 
 ### Natural Artificial Intelligence
