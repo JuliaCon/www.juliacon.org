@@ -158,14 +158,14 @@ configuration = Dict(
             "Store" => "/2024/store",
             "Sponsor" => "/2024/sponsor",
             "Venue" => "/2024/travel",
-            "Childcare" => "/2024/dei",
             "Volunteer" => "/2024/volunteer",
             "Job board" => "/2024/jobboard",
             "Guidelines" => [
                 "Code of Conduct" => "/2024/coc",
                 "Accessibility" => "/2024/accessibility",
                 "Diversity and Inclusion" => "/2024/dei"
-            ]
+            ],
+            "Call for Hosts" => "/2024/callforhosts"
         ]
     ),
 )

@@ -91,12 +91,6 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
   img="/assets/2024/img/committee/gareth.jpg"
 }
 \committeemember{
-  name="Kevin O'Brien", 
-  info="""Media and Publicity <a href="https://twitter.com/dragonflystats">Twitter</a>""",
-  link="https://twitter.com/dragonflystats", 
-  img="/assets/2024/img/committee/dragonfly.png"
-}
-\committeemember{
   name="Carsten Bauer", 
   info="""Proceedings Chair <a href="https://github.com/carstenbauer">GitHub</a>""",
   link="https://github.com/carstenbauer", 
