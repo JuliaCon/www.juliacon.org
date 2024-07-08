@@ -26,16 +26,20 @@ JuliaCon 2024, the annual conference for the Julia programming language enthusia
   <br>
   <br>
 </div>
-~~~
-
-~~~
 <div style="text-align: center">
 <a class="btn" style="width: 60%; border-color: #9d253d; text-decoration: none;" href="/2024/travel/#floor_plans">
     Check the floor plans!
 </a>
 </div>
 <br>
+<div style="width: 100%; ">
+  <img width=100% src="/assets/2024/img/psventrance.jpeg" alt="PSV Stadium">
+  <br>
+  <br>
+</div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4397.298998411391!2d5.467720455317504!3d51.441632404662606!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d911c386b16f%3A0x943ec8f52a067b30!2sPhilips%20Stadium!5e0!3m2!1sen!2snl!4v1702571784118!5m2!1sen!2snl" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ~~~
+
 
 @@row,row-section,no-gutters,align-items-center
 @@col-12,col-md-6
@@ -65,10 +69,6 @@ JuliaCon 2024, the annual conference for the Julia programming language enthusia
 @@
 
 \\
-
-~~~
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4397.298998411391!2d5.467720455317504!3d51.441632404662606!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d911c386b16f%3A0x943ec8f52a067b30!2sPhilips%20Stadium!5e0!3m2!1sen!2snl!4v1702571784118!5m2!1sen!2snl" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-~~~
 
 ## Floor plans
 
