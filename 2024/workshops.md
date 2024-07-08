@@ -18,7 +18,7 @@
 
 ### Address
 
-The workshops will be hosted at the [Neuron faculty building in the Eindhoven University of Technology]((https://maps.app.goo.gl/kR5rwSFuqZZsiZe9A)) which is at a short walking distance from the main Eindhoven train station. Also check [the website of the location](https://www.tue.nl/en/our-university/tue-campus/buildings/neuron/) for more photos.
+The workshops will be hosted at the [Neuron faculty building in the Eindhoven University of Technology](https://maps.app.goo.gl/kR5rwSFuqZZsiZe9A) which is at a short walking distance from the main Eindhoven train station. Also check [the website of the location](https://www.tue.nl/en/our-university/tue-campus/buildings/neuron/) for more photos.
 
 ~~~
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9946.037755829639!2d5.4786009810466725!3d51.44880242156095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d978254a2b77%3A0xd3930dbb204d9a9c!2sNeuron!5e0!3m2!1sen!2snl!4v1719412373117!5m2!1sen!2snl" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
