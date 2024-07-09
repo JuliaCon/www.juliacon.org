@@ -271,6 +271,7 @@ Learn how to sign up and learn more about our other [Diversity Initiatives](/202
   \sponsor{name="IENAI SPACE", link="https://ienai.space/", img="/assets/2024/img/sponsors/ienai_space.png", level=4}
   \sponsor{name="Jolin.io", link="https://www.jolin.io", img="/assets/2024/img/sponsors/jolin-logo.png", level=4}
   \sponsor{name="Jahan.ai", link="https://www.jahan.ai", img="/assets/2024/img/sponsors/jahan-logo.png", level=4}
+  \sponsor{name="Unitary Fund", link="https://unitary.fund", img="/assets/2024/img/sponsors/uf-logo.svg", level=4}
 \end{centered}
 
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
