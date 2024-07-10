@@ -49,7 +49,7 @@ jobs:
         Pkg.instantiate()
 
         using Franklin
-        optimize(minify=false, prerender=false)
+        optimize(minify=false, prerender=false, suppress_errors=false)
     - name: Deploy (preview)
       if: github.event_name == 'pull_request' && ! github.event.pull_request.head.repo.fork # if this build is a PR build and the PR is NOT from a fork
       uses: JamesIves/github-pages-deploy-action@releases/v4
