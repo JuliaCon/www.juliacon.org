@@ -27,6 +27,8 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
     <a style="font-size: x-large; font-weight: bold; color: white; text-decoration: none;" href="https://www.youtube.com/live/OQnHyHgs0Qo?si=EARfmpagAs87yzoa">Watch the Live Stream</a>
   </h2>
 ~~~
+@@
+@@
 
 \begin{rowheader}{title="JuliaCon at a Glance", color=""}\end{rowheader}
 
