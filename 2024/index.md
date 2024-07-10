@@ -302,6 +302,7 @@ Learn how to sign up and learn more about our other [Diversity Initiatives](/202
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
 \end{centered}
 
+
 ~~~
 </div>  <!-- container-fluid -->
 <div style="height:20px;display:block;"></div>
