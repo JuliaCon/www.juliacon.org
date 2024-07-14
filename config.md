@@ -154,7 +154,7 @@ configuration = Dict(
                 "Hackathon" => "/2024/hackathon",
             ],
             "Activities" => "/2024/activities",
-            "Store" => "/2024/store",
+            "Store" => "https://julialanguage.myspreadshop.net/",
             "Sponsor" => "/2024/sponsor",
             "Venue" => "/2024/travel",
             "Volunteer" => "/2024/volunteer",
