@@ -137,7 +137,7 @@ configuration = Dict(
         "global" => true,
         "year" => 2024,
         "location" => "Eindhoven",
-        "alert" => """<a href = "https://forms.gle/Jn6RTeqwNWbpX7tM8"> Nominate a contributor for the Julia Community Prize 2024!</a>
+        "alert" => """The conference is over! Check the <a href="https://www.youtube.com/@TheJuliaLanguage/streams">recorded live-streams<a> on YouTube!</a>
         """,
         "site_name" => "JuliaCon 2024",
         "site_descr" => "JuliaCon 2024, Eindhoven, Philips Stadion",
