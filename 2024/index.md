@@ -17,19 +17,6 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 +++
 
 
-\begin{rowheader}{title="JuliaCon YouTube Live Feed", color=""}\end{rowheader}
-
-@@row,row-section
-@@col-12 
-
-~~~
-  <h2 class="btn" style="width: 100%; background-color: #854c9e; border-color: #854c9e; border-width: 2px">
-    <a style="font-size: x-large; font-weight: bold; color: white; text-decoration: none;" href="https://www.youtube.com/live/OQnHyHgs0Qo?si=EARfmpagAs87yzoa">Watch the Live Stream</a>
-  </h2>
-~~~
-@@
-@@
-
 \begin{rowheader}{title="JuliaCon at a Glance", color=""}\end{rowheader}
 
 @@row,row-section
@@ -49,7 +36,7 @@ Besides the awesome talks that will be hosted on July 10th, 11th and 12th, there
   @@col-12,col-md-6,text-center
   ~~~
   <h2 class="btn" style="width: 100%; background-color: #854c9e; border-color: #854c9e; border-width: 2px">
-    <a style="font-size: x-large; font-weight: bold; color: white; text-decoration: none;" href="tickets/">Buy your ticket here!</a>
+    <a style="font-size: x-large; font-weight: bold; color: white; text-decoration: none;" href="https://www.youtube.com/@TheJuliaLanguage/streams">Watch the recorded live-stream!</a>
   </h2>
   ~~~
   @@
