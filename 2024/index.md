@@ -186,7 +186,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
 \begin{box}{title="Julia Community Prize 2024", color="red"}
-  Nominations for the Julia Community Prize 2024 are now open! [Send us your nominations today](https://forms.gle/Jn6RTeqwNWbpX7tM8).
+  The Julia Community Prize for this year  [have been announced](/2024/prize).
 \end{box}
 
 \begin{box}{title="Diversity Initiative & Childcare", color="purple"}
