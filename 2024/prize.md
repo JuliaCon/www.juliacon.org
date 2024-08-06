@@ -1,6 +1,6 @@
 # Julia Community Prize
 
-The Julia Community Prize 2024 winners have been announced! Winners will receive a certificate of accomplishment and a cash award.
+The Julia Community Prize 2024 winners have been announced! Winners recieve a certificate of accomplishment and a cash award of USD 1000 shared among each group.
 
 ## 2024 Community Prize Winners: 
 
