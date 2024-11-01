@@ -178,9 +178,9 @@ configuration = Dict(
         "header_color" => "#389826",
         "header" => [
             "Guidelines" => [
-                "Code of Conduct" => "/2024/coc",
-                "Accessibility" => "/2024/accessibility",
-                "Diversity and Inclusion" => "/2024/dei"
+                "Code of Conduct" => "/2025/coc",
+                "Accessibility" => "/2025/accessibility",
+                "Diversity and Inclusion" => "/2025/dei"
             ],
         ]
     ),
