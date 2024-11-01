@@ -5,7 +5,7 @@ prepath = get(ENV, "PREVIEW_FRANKLIN_PREPATH", "")
 website_url = get(ENV, "PREVIEW_FRANKLIN_WEBSITE_URL", "juliacon.org")
 
 # Current year
-year = "2024"
+year = "2025"
 
 generate_rss = false
 mintoclevel = 2
@@ -165,6 +165,23 @@ configuration = Dict(
                 "Diversity and Inclusion" => "/2024/dei"
             ],
             "Call for Hosts" => "/2024/callforhosts"
+        ]
+    ),
+    "2025" => Dict(
+        "global" => true,
+        "year" => 2025,
+        "location" => "Pittsburgh",
+        "site_name" => "JuliaCon 2025",
+        "site_descr" => "JuliaCon 2025, Pittsburgh",
+        "site_url" => "https://juliacon.org/2025/",
+        "main_heading_color" => "black",
+        "header_color" => "#389826",
+        "header" => [
+            "Guidelines" => [
+                "Code of Conduct" => "/2024/coc",
+                "Accessibility" => "/2024/accessibility",
+                "Diversity and Inclusion" => "/2024/dei"
+            ],
         ]
     ),
 )
