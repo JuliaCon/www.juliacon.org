@@ -13,7 +13,7 @@ Last year, JuliaCon was held in Eindhoven, the Netherlands. This year, we are th
 ~~~
 <div style="text-align: center">
     <a href="https://drive.google.com/file/d/1YYbTpFsEenXVwluXWCtGLtGPxE83P4IY/view?usp=sharing">
-        <img src="/assets/2024/img/prospectus_preview.jpg" style="width: 35%"/>
+        <img src="/assets/2025/img/prospectus_preview.jpg" style="width: 35%"/>
         <br>
         <br>
     </a>
