@@ -161,38 +161,6 @@ Last year, JuliaCon was held in Eindhoven, the Netherlands. This year, we are th
 
 Do not miss our affordable upgrades to meet our attendees where they congregate and socialize! Our packages are fully customizable. Contact us at \email for a sponsorship package that fits your needs!
 
-## What is included with an Expo Table?
-
-Unless communicated differently, an expo table is a 2-meter table and chairs, plus wi-fi and electricity. Sponsor booths are integrated into common areas where they will attract attendee traffic. Sponsors are responsible for shipping charges to and from the conference. Expo booths are available for Host, Platinum, and Gold sponsors.
-
-## What is included with an Expo Table with AV?
-
-Unless communicated differently, an expo booth is a 2-meter table and chairs but negotiable depending on needs, plus wi-fi and electricity. Sponsor booths are integrated into common areas where they will attract attendee traffic. Sponsors are responsible for shipping charges to and from the conference. It also includes AV support, e.g. Large TV screen. Details to be arranged separately.
-
-## Do Sponsor technical talks go through the regular review process?
-
-Sponsors are able to present a talk at the event. While sponsor talks do not go through the regular review process, presentation proposals must be submitted for approval by the review committee. The committee will help ensure that your presentation’s content is appropriate and relevant to the audience at the event.
-
-## What is the difference between a sponsor talk before a regular session and before keynote?
-
-The keynotes are outside on the pitch where everyone can attend, meaning during keynotes there are no parallel sessions. A regular talk will be in one of the many rooms.
-
-## What is included in access to the Attendee List?
-
-The list will be a .csv file with attendee name, email, job title, and company from those who have opted in during registration. Platinum and Diamond sponsors receive access to the Attendee List.
-
-## What is the Job Board?
-
-Your company’s job listings will be published on the event website and emailed out to all event attendees. Limit: 5 job listings per sponsor.
-
-## What is a Diversity Scholarship?
-
-One of JuliaCon’s goals is to increase awareness and excitement around opportunities for underrepresented groups in software engineering and data analytics. To that end, we make a number of diversity scholarships available at each JuliaCon event including travel, lodge and tickets. These scholarships provide free registration to attendees 1) who could not otherwise afford to attend the conference and 2) whose participation would contribute to the diversity of the event. Diversity Scholarships are available for Diamond, Platinum and Gold sponsors
-
-## What is LED Marquee Advertising?
-
-At the stadium we can control the big digital scoreboard outside and the digital screens that go around the stadium, as a result you can get your company logo on display during the day.
-
 # Who Attends JuliaCon
 Frequent Topics:
 
