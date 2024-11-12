@@ -4,7 +4,7 @@
 JuliaCon is a community-organized non-profit conference, and it would not be possible without the support of its amazing set of sponsors over the years.  
 We invite your organization to be a sponsor of JuliaCon 2025. You can find our [sponsors from last year](https://juliacon.org/2024/) at the bottom of our 2024 homepage.
 
-JuliaCon is the largest annual conference organized around Julia, the fastest high-performance open-source computing language for machine learning, artificial intelligence, life sciences, robotics, algorithmic trading, real-time analytics, and more. Next year, the conference is set to take place in Pittsburgh, PA, USA, from July 9th - 12th, 2025.
+JuliaCon is the largest annual conference organized around Julia, the fastest high-performance open-source computing language for machine learning, artificial intelligence, life sciences, robotics, algorithmic trading, real-time analytics, and more. Next year, the conference is set to take place in Pittsburgh, PA, USA, from July 21st - 26th, 2025.
 
 Last year, JuliaCon was held in Eindhoven, the Netherlands. This year, we are thrilled to be returning to the USA with a global audience of developers. JuliaCon offers you the unique opportunity to present your company and your product to a huge group of engaged scientific programmers.
 
