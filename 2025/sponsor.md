@@ -161,17 +161,6 @@ Last year, JuliaCon was held in Eindhoven, the Netherlands. This year, we are th
 
 Do not miss our affordable upgrades to meet our attendees where they congregate and socialize! Our packages are fully customizable. Contact us at \email for a sponsorship package that fits your needs!
 
-## Additional upgrades
-* Additional exhibition table (€1000) -- Enlarge your presence with more table space.
-* Additional A/V support (€1000) -- Impress attendees with dynamic audio visual displays
-* Coffee Sponsorship (€1000) -- Host the coffee next to your table.
-* Happy Hour Sponsorship (€1000) -- Position your company next to refreshments and h’orderves.
-* Diversity Scholarship Award (€3000) -- Support travel, lodge and registration fee costs for 2 attendees from underrepresented groups.
-* Large Marquee Advertising (€3000) -- Put your logo on the large screen at the stadium during the day, both on large screen and around stadium
-* Personal Tour of Stadium and Changing Room (€1000) -- Sponsor a visit to the changing room and a tour of the stadium (30m for 10 people)
-
-# FAQ
-
 ## What is included with an Expo Table?
 
 Unless communicated differently, an expo table is a 2-meter table and chairs, plus wi-fi and electricity. Sponsor booths are integrated into common areas where they will attract attendee traffic. Sponsors are responsible for shipping charges to and from the conference. Expo booths are available for Host, Platinum, and Gold sponsors.
