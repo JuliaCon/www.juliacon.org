@@ -25,38 +25,34 @@ Last year, JuliaCon was held in Eindhoven, the Netherlands. This year, we are th
 
 ~~~
 <style> 
-        .sponsortable { 
-            border-collapse: collapse; 
-            width: 100%; 
-        } 
-          
-        .sponsortable th, td { 
-            text-align: left; 
-            padding: 8px; 
-        } 
-          
-        .sponsortable tr:nth-child(even) { 
-            background-color: #efefef; 
-        } 
+    .sponsortable { 
+        border-collapse: collapse; 
+        width: 100%; 
+    } 
+      
+    .sponsortable th, td { 
+        text-align: left; 
+        padding: 8px; 
+    } 
+      
+    .sponsortable tr:nth-child(even) { 
+        background-color: #efefef; 
+    } 
 </style> 
 <table class="table sponsortable">
   <thead>
     <tr>
       <th scope="col"></th>
-      <th scope="col">€30000<br>Diamond</th>
-      <th scope="col">€20000<br>Platinum</th>
-      <th scope="col">€15000<br>Gold</th>
-      <th scope="col">€8000<br>Silver</th>
-      <th scope="col">€5000<br>Bronze</th>
-      <th scope="col">€3000<br>Copper</th>
-      <th scope="col">€1000<br>Startup</th>
+      <th scope="col">$20,000<br>Platinum</th>
+      <th scope="col">$15,000<br>Gold</th>
+      <th scope="col">$10,000<br>Silver</th>
+      <th scope="col">$5,000<br>Bronze</th>
+      <th scope="col">$1,500<br>Startup</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Print and web advertising</td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
+      <td>Web and Social Media Advertising</td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
@@ -64,9 +60,15 @@ Last year, JuliaCon was held in Eindhoven, the Netherlands. This year, we are th
       <td><span style="color: green">✓</span></td>
     </tr>
     <tr>
-      <td>Job Board</td>
+      <td>In-Person Conference Advertising</td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
+    </tr>
+    <tr>
+      <td>YouTube Video Recording Advertising</td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
@@ -74,104 +76,84 @@ Last year, JuliaCon was held in Eindhoven, the Netherlands. This year, we are th
       <td></td>
     </tr>
     <tr>
-      <td>Exhibition Booth (with A/V)</td>
+      <td>Job Board on Website</td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓<br/>no A/V</span></td>
       <td></td>
     </tr>
     <tr>
-      <td>Sponsored Talk (10m), before a regular session</td>
+      <td>Exhibition Booth at the Conference</td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
       <td><span style="color: green">✓</span></td>
-      <td></td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Sponsored Talk (10m), before a keynote session</td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
+      <td>Sponsor Talk before a Regular Session</td>
       <td></td>
       <td></td>
+      <td>10 mins</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Access to attendee opt-in attendee information</td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
-      <td></td>
-      <td></td>
+      <td>Sponsor Talk before a Keynote Session</td>
+      <td>15 mins</td>
+      <td>10 mins</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>LED Marquee Advertising</td>
-      <td><span style="color: green">✓</span></td>
-      <td><span style="color: green">✓</span></td>
+      <td>Lunchtime Presentation</td>
+      <td>15 ppl / 1 hour</td>
+      <td>15 ppl / 30 min</td>
+      <td>15 ppl / 15 min</td>
       <td></td>
       <td></td>
+    </tr>
+    <tr>
+      <td>Access to Opt-In Attendee Information</td>
+      <td><span style="color: green">✓</span></td>
+      <td><span style="color: green">✓</span></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Lead Sponsor Benefits (Largest logo, discounted tickets)</td>
+      <td>Lead Sponsor Benefits<br>Largest Logo<br>Most Prominent Recognition</td>
       <td><span style="color: green">✓</span></td>
-      <td></td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Tickets with 20% discount</td>
-      <td><span style="color: green">40</span></td>
-      <td><span style="color: green">30</span></td>
-      <td><span style="color: green">20</span></td>
-      <td><span style="color: green">5</span></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Number Of Diversity Scholars Awarded in Your Name</td>
+      <td>Free Conference Tickets</td>
       <td><span style="color: green">4</span></td>
       <td><span style="color: green">3</span></td>
       <td><span style="color: green">2</span></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><span style="color: green">1</span></td>
       <td></td>
     </tr>
     <tr>
-      <td>Free single day tickets</td>
-      <td><span style="color: green">20</span></td>
-      <td><span style="color: green">15</span></td>
-      <td><span style="color: green">10</span></td>
-      <td><span style="color: green">10</span></td>
+      <td>20% Discounted Tickets</td>
+      <td><span style="color: green">4</span></td>
       <td><span style="color: green">3</span></td>
-      <td><span style="color: green">3</span></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Free three day tickets</td>
-      <td><span style="color: green">16</span></td>
-      <td><span style="color: green">10</span></td>
-      <td><span style="color: green">8</span></td>
-      <td><span style="color: green">5</span></td>
-      <td><span style="color: green">2</span></td>
       <td><span style="color: green">2</span></td>
       <td><span style="color: green">1</span></td>
+      <td><span style="color: green">2</span></td>
+    </tr>
+    <tr>
+      <td>Bulk Ticket Discounts</td>
+      <td>Ask us</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
