@@ -9,6 +9,10 @@ top_date = "Pittsburgh, PA. July 21–26, 2025."
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
+\begin{box}{title="Call for Proposals", color="purple"}
+  Call for Proposals is now open! Check here [Link](/2025/cfp) !
+\end{box}
+
 \begin{rowheader}{title="JuliaCon at a Glance", color=""}\end{rowheader}
 
 @@row,row-section
