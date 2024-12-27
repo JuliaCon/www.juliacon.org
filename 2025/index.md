@@ -10,7 +10,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 +++
 
 \begin{box}{title="Call for Proposals", color="purple"}
-  Call for Proposals is now open! Check here [Link](/2025/cfp) !
+  [Call for Proposals](/2025/cfp/) is now open! Get your submissions in by Jan 31st, 2025. 
 \end{box}
 
 \begin{rowheader}{title="JuliaCon at a Glance", color=""}\end{rowheader}
