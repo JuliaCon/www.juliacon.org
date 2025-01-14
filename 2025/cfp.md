@@ -32,6 +32,18 @@ We are interested to hear about all topics that have to do with Julia. Examples 
 - Computational humanities and social science
 - The most important consideration is whether the topic would be interesting to the Julia community.
 
+## Main Track vs minisymposium
+
+JuliaCon has multiple minisymposia, which are smaller conferences within the main JuliaCon, grouping talks around a given theme.
+
+Some of these minisymposia accept submissions. **If your talk fits the topic of a minisymposium, consider submitting your talk there**.
+
+You can find the list of minisymposia accepting submissions here TODO:link
+
+Minisymposia accepting submissions are listed in the `track` menu in the pretalx submission form. **To submit to a minisymposium, simply select it as track**
+
+Note that talks rejected by the minisymposium organizers will be reconsidered for the main JuliaCon track, hence there is no penalty in submitting to a minisymposium.
+
 ## Proposal Types
 This year, we will have 6 different types under which you can submit proposals. See below for further details. Submitters of **talks and lightning talks** can submit to a specific **minisymposium** if they wish. This can be done by choosing the appropriate minisymposium as track when submitting the talk.
 

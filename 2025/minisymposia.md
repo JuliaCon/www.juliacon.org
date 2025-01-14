@@ -1,24 +1,47 @@
 # Minisymposia
 
-A minisymposium is a conference within a conference.
+A minisymposium is a conference within a conference. Here are the minisymposia accepting submissions. If your talk fits one of the themes below, consider submitting there instead of to the main JuliaCon track. Note that submissions rejected by minisymposia organizers will still be considered for the main JuliaCon track, hence there is no penalty in submitting to a minisymposium.
 
-There are two kinds of minisymposia
-
-1. Minisymposia accepting submissions
-    - [Earth and climate science in Julia: Power to the user](/2024/minisymposia/earth)
-    - [Aerospace minisymposium](/2024/minisymposia/aerospace)
-    - [Industrial Julia](/2024/minisymposia/industrial)
-    - [Scientific Data Minisymposium](/2024/minisymposia/data)
-    - [Quantum minisymposia](/2024/minisymposia/quantum)
-
-2. Minisymposia with predefined program
-    - [Julia for High-Performance Computing](/2024/minisymposia/hpc)
 
 ## How to submit to a minisymposium
 
 Minisymposia accepting submissions are tracks in the pretalx system. Simply choose the minisymposium from the
 "tracks" field when submitting.
 
-By default, deadline for minisymposia is the same of JuliaCon. Some minisymposia organizers may choose to extend the deadline after this has passed. This will be communicated later.
+## List of Minisymposia
 
-Checkout the full [schedule on PreTalx](https://pretalx.com/juliacon2024/schedule/), or click [here](https://discourse.julialang.org/t/juliacon-2024-schedule-is-now-out/113717/3) for the rest of the announcement and Important FAQs!
+**Note**: Here only the minisymposia accepting submissions are listed.
+
+### Computational Chemistry and Materials Science Minisymposium
+
+### Methods and Applications of Scientific Machine Learning
+
+### The State and Future of Julia I/O
+
+### Quantum Minisymposium
+
+### The JuliaHealth Mini-Symposium
+
+### Symbolic-Numeric Computing and Compiler-Enhanced Algorithms
+
+### Recreational Julia	
+
+### Sparse & Graph Computing in Julia
+
+### Julia in Astronomy & Astrophysics Research 2025
+
+### Julia for High-Performance Computing
+
+### Climate science & solutions: Collaboration & coupling in Julia
+
+### Toward a synthesis of automatic differentiation algorithms
+
+### Julia for Neuroscience
+
+### JuliaGPU minisymposium 
+
+### Continued Advancements in Solving Differential Equations
+
+### Engineering with Julia
+
+### Multithreading in Julia
