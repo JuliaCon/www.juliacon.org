@@ -38,7 +38,7 @@ JuliaCon has multiple minisymposia, which are smaller conferences within the mai
 
 Some of these minisymposia accept submissions. **If your talk fits the topic of a minisymposium, consider submitting your talk there**.
 
-You can find the list of minisymposia accepting submissions here TODO:link
+You can find the list of minisymposia accepting submissions [here](/2025/minisymposia/)
 
 Minisymposia accepting submissions are listed in the `track` menu in the pretalx submission form. **To submit to a minisymposium, simply select it as track**
 
