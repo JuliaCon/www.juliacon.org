@@ -10,8 +10,6 @@ Minisymposia accepting submissions are tracks in the pretalx system. Simply choo
 
 ## List of Minisymposia
 
-**Note**: Here only the minisymposia accepting submissions are listed.
-
 ### Computational Chemistry and Materials Science Minisymposium
 
 The Computational Chemistry and Materials Science Minisymposium brings together researchers, developers, and practitioners to discuss the latest advances in computational chemistry, with a particular emphasis on the integration of modern tools, algorithms, and frameworks to tackle molecular and materials modeling challenges. This year’s symposium will include contributions from across the computational chemistry community, with a dedicated spotlight on the JuliaMolSim ecosystem and its impact.
