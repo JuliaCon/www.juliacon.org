@@ -184,7 +184,7 @@ configuration = Dict(
                 "Accessibility" => "/2025/accessibility",
                 "Diversity and Inclusion" => "/2025/dei"
             ],
-            "Minisymposia => "/2025/minisymposia",
+            "Minisymposia" => "/2025/minisymposia",
             "Call for Proposals"=>  "/2025/cfp"
         ]
     ),
