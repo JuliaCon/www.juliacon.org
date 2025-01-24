@@ -18,6 +18,10 @@ The Computational Chemistry and Materials Science Minisymposium brings together 
 
 Scientific machine learning (SciML) methods are techniques which incorporate machine learning with mechanistic modeling. The purpose of this minisymposium is to share improved methods and applications of SciML to showcase the ever advancing ecosystem in Julia.
 
+### Developer tools
+
+We propose a minisymposium focused on the tools that support Julia developers and users in their coding workflows. This includes tools for writing, testing, debugging, benchmarking, and introspecting code. Our goal is to showcase the current state of available tools, identify areas for improvement, and inspire new ideas. We hope participants, both novices and experts, will leave with an expanded Julia toolbox and new ideas for how to improve their workflow.
+
 ### The State and Future of Julia I/O
 
 The Julia I/O minisymposium will discuss the low-level details of Julia's input and output ecosystem and its interactions with the Julia Data ecosystem. The ability for Julia to read in and then write out data efficiently is critical to doing data science and scientific computing. Julia is unique in terms of input and output in that the language combines both dynamism and a parametric type system. In order for high-level data storage to succeed, a strong I/O foundation is required.
