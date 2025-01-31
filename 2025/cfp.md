@@ -1,7 +1,7 @@
 # JuliaCon 2025 Call for Proposals
 -------
 
-**This Call for Proposals will close on January 31st 2025 23:59 (EST).** [convert to your timezone](https://arewemeetingyet.com/New%20York/2025-01-31/23:59/JuliaCon%202025%20CfP%20Deadline)
+**This Call for Proposals will close on Feb 14th 2025 23:59 (EST).** [convert to your timezone](https://arewemeetingyet.com/New%20York/2025-01-31/23:59/JuliaCon%202025%20CfP%20Deadline)
 
 **Deadline for minisymposia was on December 1st 2024 23:59 (EST).** [convert to your timezone](https://arewemeetingyet.com/New%20York/2024-12-01/23:59/JuliaCon%202025%20Mini%20CfP%20Deadline)
 
