@@ -171,7 +171,7 @@ configuration = Dict(
         "global" => true,
         "year" => 2025,
         "location" => "Pittsburgh",
-        "alert" => """<a href="https://pretalx.com/juliacon-2025/cfp">Call for Proposals open! Submit your talks!</a>""",
+        "alert" => """Call for Proposals is closed! Stay tuned for updates""",
         "site_name" => "JuliaCon 2025",
         "site_descr" => "JuliaCon 2025, Pittsburgh",
         "site_url" => "https://juliacon.org/2025/",
