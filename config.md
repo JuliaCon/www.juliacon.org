@@ -188,6 +188,29 @@ configuration = Dict(
             "Call for Proposals"=>  "/2025/cfp"
         ]
     ),
+    "local/paris2025" => Dict(
+        "global" => false,
+        "year" => 2025,
+        "advertise_in_landing" => true,
+        "location" => "Paris",
+        "alert" => "More information coming soon!",
+        "site_name" => "JuliaCon Local Paris 2025",
+        "site_descr" => "JuliaCon Local Paris 2025",
+        "site_url" => "https://juliacon.org/local/paris2025/",
+        "site_thumbnail" => "https://juliacon.org/assets/shared/img/img/logo_20.svg",
+        "main_heading_color" => "black",
+        "header_color" => "#389826",
+        "header" => [
+            "Home" => "/local/paris2025",
+            "Venue" => "/local/paris2025/venue",
+            "Program" => "/local/paris2025/program",
+            "Call for Proposals" => "/local/paris2025/cfp",
+            "Tickets" => "/local/paris2025/tickets",
+            "Guidelines" => [
+                "Code of Conduct" => "/local/paris2025/coc",
+            ],
+        ]
+    ),
 )
 +++
 
