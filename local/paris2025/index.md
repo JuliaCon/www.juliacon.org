@@ -7,7 +7,7 @@ top_title = "JuliaCon Local Paris 2025"
 top_description = "European conference on the Julia programming language."
 top_date = "Paris (France), October 2-3, 2025"
 
-# top_logo_custom="/assets/shared/img/logo_20.svg"
+top_logo_custom="/assets/local/paris2025/img/logo_paris.svg"
 top_logo_link="/local/paris2025"
 # top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 
@@ -57,7 +57,7 @@ Welcome to **JuliaCon Local Paris 2025**, the foremost European conference for t
 @@row,row-section 
   @@col
   
-  The conference venue is the [Conservatoire national des arts et métiers](https://www.cnam.eu/site-en/), a higher education institution combined with a museum for technology and industry.
+  Join us at the [Conservatoire national des arts et métiers](https://www.cnam.eu/site-en/), a higher education institution combined with a museum for technology and industry.
   @@
 @@
 \\
@@ -112,7 +112,7 @@ To get in the mood for the exciting content we are preparing, you can watch all 
 \end{box}
 
 \begin{box}{title="Ticket prices", color="purple"}
-Tickets will be offered at attractive prices for students, with travel scholarships being awarded on an individual basis.
+Tickets will be offered at attractive prices, in particular for students. Travel scholarships will be awarded on an individual basis to encourage diversity and inclusion.
 \end{box}
 
 ~~~

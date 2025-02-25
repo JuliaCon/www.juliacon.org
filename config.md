@@ -201,7 +201,6 @@ configuration = Dict(
         "main_heading_color" => "black",
         "header_color" => "#389826",
         "header" => [
-            "Home" => "/local/paris2025",
             "Venue" => "/local/paris2025/venue",
             "Program" => "/local/paris2025/program",
             "Call for Proposals" => "/local/paris2025/cfp",

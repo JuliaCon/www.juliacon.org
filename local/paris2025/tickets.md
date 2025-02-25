@@ -1,3 +1,8 @@
++++
+top_logo_custom="/assets/local/paris2025/img/logo_paris.svg"
+top_logo_link="/local/paris2025"
++++
+
 # Tickets
 
 \begin{box}{title="In construction", color="red"}

@@ -1,3 +1,8 @@
++++
+top_logo_custom="/assets/local/paris2025/img/logo_paris.svg"
+top_logo_link="/local/paris2025"
++++
+
 # Code of Conduct
 
 JuliaCon is committed to providing a positive and inclusive conference experience for all attendees. We believe in fostering a respectful and considerate environment where everyone feels welcome, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or national and ethnic origin.

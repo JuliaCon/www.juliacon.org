@@ -1,3 +1,8 @@
++++
+top_logo_custom="/assets/local/paris2025/img/logo_paris.svg"
+top_logo_link="/local/paris2025"
++++
+
 # Venue
 
 JuliaCon Local Paris 2025 will take place at the [Conservatoire national des arts et métiers](https://www.cnam.eu/site-en/), the foremost higher education institution dedicated to lifelong learning in France.
@@ -10,10 +15,10 @@ Paris boasts a dense network of [urban public transport](https://www.ratp.fr/en/
 Common ways to reach the city include:
 
 - high-speed trains, available from all western european capitals
-- long-distance coach
+- long-distance coach services
 - airlines landing at [Charles de Gaulle](https://www.parisaeroport.fr/roissy-charles-de-gaulle), [Orly](https://www.parisaeroport.fr/orly) or [Beauvais](https://www.aeroportparisbeauvais.com/passagers) airports
 
 ## Accommodation
 
 The area around the venue offers plenty of options for hotels and flat rentals.
-If the prices seem excessive, don't hesitate to look further and even outside the city center: as long as you can get to _Châtelet - Les Halles_ (using the [RER](https://www.ratp.fr/plans-lignes/rer/a) A, B or D), the venue will be close by.
+If the prices seem excessive, don't hesitate to look further and even outside the city center: as long as you can get to _"Châtelet - Les Halles"_ station (using the RER line A, B or D), the venue will be close by.
