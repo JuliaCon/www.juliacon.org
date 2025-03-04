@@ -117,6 +117,44 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 
 
 
+<div style="height:30px;display:block;"></div>
+<div class="container-fluid">
+  <div class="container sponsors">
+    <h1 align="center">Thanks to our Sponsors!</h1>
+    <p style="margin-bottom:3ex;">
+    The conference wouldn’t be possible without our cool sponsors! Their generous support and dedication have played a crucial role in bringing together JuliaCon 2025, allowing us to create an exceptional experience for all attendees. We extend our heartfelt gratitude to each sponsor for their commitment to advancing technology, fostering innovation, and supporting our community. Thank you for making this event a success!</p>
+~~~
+
+\begin{centered}{title="Diamond", margin_bottom="3ex"}
+  \sponsor{name="JuliaHub", link="https://juliahub.com", img="/assets/2024/img/sponsors/juliahub-logo.svg", level=1}
+\end{centered}
+
+<!-- \begin{centered}{title="Platinum", margin_bottom="3ex"}
+  \sponsor{name="ASML", link="https://www.asml.com", img="/assets/2024/img/sponsors/asml-logo.png", level=2}
+\end{centered} -->
+
+\begin{centered}{title="Bronze", margin_bottom="3ex"}
+  \sponsor{name="Pumas.ai", link="https://pumas.ai/", img="/assets/2024/img/sponsors/pumasai.png", level=2}
+\end{centered}
+
+\begin{centered}{title="Startup", margin_bottom="3ex"}
+  \sponsor{name="Evovest", link="https://evovest.com/", img="/assets/2024/img/sponsors/evovest-logo.svg", level=4}
+  \sponsor{name="Jolin.io", link="https://www.jolin.io", img="/assets/2024/img/sponsors/jolin-logo.png", level=4}
+\end{centered}
+
+<!-- \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
+  \sponsor{name="VersionBay", link="https://www.versionbay.com", img="/assets/local/eindhoven2023/img/sponsors/VersionBay-Logo.png", level=3}
+  \sponsor{name="VersionBay", link="https://lazydynamics.com", img="/assets/local/eindhoven2023/img/sponsors/lazydynamics_logo.png", level=3}
+  \sponsor{name="TU/e", link="https://www.tue.nl/en/", img="/assets/2024/img/sponsors/tue_logo.png", level=3}
+  \sponsor{name="Ferrous Systems", link="https://ferrous-systems.com", img="/assets/2024/img/sponsors/ferrous-logo.svg", level=1}
+\end{centered} -->
+
+<!-- \begin{centered}{title="Local Partners", margin_bottom="3ex"}
+  \sponsor{name="CBBE", link="https://www.cbbe.nl", img="/assets/2024/img/sponsors/cbbe.png", level=4}
+  \sponsor{name="DeBlokkenDoos", link="https://www.blokkendoos.nl", img="/assets/local/eindhoven2023/img/sponsors/LogoDeBlokkendoos.jpg", level=4}
+  \sponsor{name="DeLichttoren", link="https://delichttoren.nl/", img="/assets/2024/img/sponsors/lichttoren.png", level=3}
+\end{centered} -->
+
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
 \end{centered}
