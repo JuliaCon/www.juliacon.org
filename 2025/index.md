@@ -116,6 +116,34 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 
 
 
+~~~
+<div style="height:30px;display:block;"></div>
+<div class="container-fluid">
+  <div class="container sponsors">
+    <h1 align="center">Thanks to our Sponsors!</h1>
+    <p style="margin-bottom:3ex;">
+    The conference wouldn’t be possible without our cool sponsors! Their generous support and dedication have played a crucial role in bringing together JuliaCon 2025, allowing us to create an exceptional experience for all attendees. We extend our heartfelt gratitude to each sponsor for their commitment to advancing technology, fostering innovation, and supporting our community. Thank you for making this event a success!</p>
+~~~
+
+\begin{centered}{title="Bronze", margin_bottom="3ex"}
+  \sponsor{name="Pumas.ai", link="https://pumas.ai/", img="/assets/2024/img/sponsors/pumasai.png", level=2}
+  \sponsor{name="Ansys", link="https://www.ansys.com/", img="/assets/2025/img/sponsors/ansys-logo.svg", level=2}
+\end{centered}
+
+\begin{centered}{title="Startup", margin_bottom="3ex"}
+  \sponsor{name="Evovest", link="https://evovest.com/", img="/assets/2024/img/sponsors/evovest-logo.svg", level=2}
+\end{centered}
+
+\begin{centered}{title="Local Partners", margin_bottom="3ex"}
+  \sponsor{name="Carnegie Mellon University", link="https://www.cmu.edu/", img="/assets/2025/img/sponsors/cmu-logo.png", level=2}
+  \sponsor{name="University of Pittsburgh", link="https://www.pitt.edu/", img="/assets/2025/img/sponsors/upitt-logo.png", level=2}
+\end{centered}
+
+\begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
+  \sponsor{name="CMU Department of Materials Science and Engineering (CMU)", link="https://www.materials.cmu.edu/", img="/assets/2025/img/sponsors/cmu-mse-logo.png", level=3}
+  \sponsor{name="CMU Software Engineering Institute", link="https://www.sei.cmu.edu/", img="/assets/2025/img/sponsors/cmu-sei-logo.png", level=3}
+  \sponsor{name="Carnegie Mellon University Libraries", link="https://www.library.cmu.edu/", img="/assets/2025/img/sponsors/cmu-libraries-logo.png", level=3}
+\end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
