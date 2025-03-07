@@ -132,7 +132,11 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 
 \begin{centered}{title="Startup", margin_bottom="3ex"}
   \sponsor{name="Evovest", link="https://evovest.com/", img="/assets/2024/img/sponsors/evovest-logo.svg", level=4}
-  \sponsor{name="Jolin.io", link="https://www.jolin.io", img="/assets/2024/img/sponsors/jolin-logo.png", level=4}
+\end{centered}
+
+\begin{centered}{title="Local Partners", margin_bottom="3ex"}
+  \sponsor{name="Carnegie Mellon University", link="https://www.cmu.edu/", img="/assets/2025/img/sponsors/cmu-logo.png", level=4}
+  \sponsor{name="University of Pittsburgh", link="https://www.pitt.edu/", img="/assets/2025/img/sponsors/pitt-logo.png", level=4}
 \end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
