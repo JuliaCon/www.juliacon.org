@@ -131,18 +131,18 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 \end{centered}
 
 \begin{centered}{title="Startup", margin_bottom="3ex"}
-  \sponsor{name="Evovest", link="https://evovest.com/", img="/assets/2024/img/sponsors/evovest-logo.svg", level=4}
+  \sponsor{name="Evovest", link="https://evovest.com/", img="/assets/2024/img/sponsors/evovest-logo.svg", level=2}
 \end{centered}
 
 \begin{centered}{title="Local Partners", margin_bottom="3ex"}
-  \sponsor{name="Carnegie Mellon University", link="https://www.cmu.edu/", img="/assets/2025/img/sponsors/cmu-logo.png", level=4}
-  \sponsor{name="University of Pittsburgh", link="https://www.pitt.edu/", img="/assets/2025/img/sponsors/upitt-logo.png", level=4}
+  \sponsor{name="Carnegie Mellon University", link="https://www.cmu.edu/", img="/assets/2025/img/sponsors/cmu-logo.png", level=2}
+  \sponsor{name="University of Pittsburgh", link="https://www.pitt.edu/", img="/assets/2025/img/sponsors/upitt-logo.png", level=2}
 \end{centered}
 
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
-  \sponsor{name="CMU Department of Materials Science and Engineering (CMU)", link="https://www.materials.cmu.edu/", img="/assets/2025/img/sponsors/cmu-mse-logo.jpg", level=4}
-  \sponsor{name="CMU Software Engineering Institute", link="https://www.sei.cmu.edu/", img="/assets/2025/img/sponsors/cmu-sei-logo.png", level=4}
-  \sponsor{name="Carnegie Mellon University Libraries", link="https://www.library.cmu.edu/", img="/assets/2025/img/sponsors/cmu-libraries-logo.png", level=4}
+  \sponsor{name="CMU Department of Materials Science and Engineering (CMU)", link="https://www.materials.cmu.edu/", img="/assets/2025/img/sponsors/cmu-mse-logo.png", level=3}
+  \sponsor{name="CMU Software Engineering Institute", link="https://www.sei.cmu.edu/", img="/assets/2025/img/sponsors/cmu-sei-logo.png", level=3}
+  \sponsor{name="Carnegie Mellon University Libraries", link="https://www.library.cmu.edu/", img="/assets/2025/img/sponsors/cmu-libraries-logo.png", level=3}
 \end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
