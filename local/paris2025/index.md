@@ -19,7 +19,7 @@ footer_hide_social_media = true
 
 @@row,row-section
 @@col-12 
-Welcome to **JuliaCon Local Paris 2025**, the foremost European conference for the Julia programming language community! Meet fellow developers, researchers, and enthusiasts from around the globe to celebrate and explore the power and versatility of Julia.
+Welcome to **JuliaCon Local Paris 2025**, the latest European conference for the Julia programming language community! Meet fellow developers, researchers, and enthusiasts from around the globe to celebrate and explore the power and versatility of Julia.
 @@
 @@
 \\
