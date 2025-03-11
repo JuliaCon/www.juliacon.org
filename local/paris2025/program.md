@@ -10,6 +10,6 @@ JuliaCon Local Paris 2025 will take place on Thursday October 2nd and Friday Oct
 It will include:
 
 - plenaries by inspiring community contributors
-- parallel tracks for talks and workshops
+- parallel tracks for talks and tutorials
 - a poster session
 - a hackathon on Friday afternoon
