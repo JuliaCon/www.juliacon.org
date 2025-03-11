@@ -65,10 +65,6 @@ The Julia for High-Performance Computing (HPC) mini-symposium is one of the main
 
 The use of Julia for earth and climate modeling is growing rapidly. This expansion calls for a discussion on best practices for simulation and model design to take advantage of Julia language features to make ecosystem code as accessible, intuitive, and extensible as possible. Talks are encouraged to discuss both innovative model architectures and coupling methods, as well as use-cases in the climate solution and education spaces.
 
-### Toward a synthesis of automatic differentiation algorithms
-
-Julia has a rich AD ecosystem: ForwardDiff, ReverseDiff, Enzyme, Zygote, FastDifferentiation, Symbolics, ChainRules, DiffRules, etc. Each AD algorithm is best for a subset of problems but no one algorithm is good for all problems. This minisymposium is an opportunity for AD practitioners to explore the fundamental underlying similarities between these algorithms and to begin to design new hybrid algorithms to address the weakness of existing algorithms.
-
 ### Julia for Neuroscience
 
 "Julia for Neuroscience" brings together leading researchers to explore Julia's potential in advancing computational neuroscience. This mini-symposium will showcase Julia's advantages in performance and ease of use compared to traditional C++/Python implementations, featuring talks on neuroimaging analysis, high-performance image processing, and computational modeling. Join us to discuss how Julia can transform neuroscientific computing workflows.
