@@ -113,13 +113,19 @@ To get in the mood for the exciting content we are preparing, you can watch all 
 <!-- <div class="container"> -->
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
-\begin{box}{title="Organizing committee", color="red"}
-  This event is organized by a team of researchers, previously involved in planning the [Julia and Optimization Days 2024](https://indico.mathrice.fr/event/604/overview) (Toulouse), [2023](https://julia-users-paris.github.io/workshop/en/) (Paris, same venue) and [2019](https://julialang.univ-nantes.fr/journee-julia-et-optimisation/) (Nantes).
-  If you would like to lend a hand, please reach out!
-\end{box}
 
 \begin{box}{title="Ticket prices", color="purple"}
 Tickets will be offered at attractive prices, in particular for students. Travel scholarships will be awarded on an individual basis to encourage diversity and inclusion.
+\end{box}
+
+\begin{box}{title="Organizing committee", color="red"}
+  This event is organized by a team of researchers, previously involved in planning the [Julia and Optimization Days 2024](https://indico.mathrice.fr/event/604/overview) (Toulouse), [2023](https://julia-users-paris.github.io/workshop/en/) (Paris, same venue) and [2019](https://julialang.univ-nantes.fr/journee-julia-et-optimisation/) (Nantes).
+  
+  If you would like to lend a hand, feel free to reach out!
+\end{box}
+
+\begin{box}{title="Contact", color="dark-blue"}
+For any questions and inquiries, please send an email to [paris25@julialang.org](mailto:paris25@julialang.org).
 \end{box}
 
 ~~~
