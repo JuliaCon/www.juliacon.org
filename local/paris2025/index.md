@@ -29,7 +29,7 @@ Welcome to **JuliaCon Local Paris 2025**, the latest European conference for the
   At JuliaCon Local, expect to be surrounded by passionate individuals from diverse backgrounds, united by their enthusiasm for programming.
 \end{glancecard}
 \begin{glancecard}{title="Technical talks", img="/assets/2024/img/whattoexpect/talks.jpg", color="red"}
-  Two days of talks, workshops, posters and hackathon sessions, accessible to Julia beginners and experts alike.
+  Two days of plenaries, talks, tutorials, posters and hackathon sessions, accessible to Julia beginners and experts alike.
 \end{glancecard}
 \begin{glancecard}{title="Networking opportunities", img="/assets/2024/img/whattoexpect/networking.jpg", color = "red"}
   JuliaCon Local offers exceptional networking opportunities for professionals and enthusiasts alike.
@@ -41,10 +41,17 @@ Welcome to **JuliaCon Local Paris 2025**, the latest European conference for the
 \\
 \\
 @@row,row-section
-  @@col-12,col-md-12
+  @@col-12,col-md-6
   ~~~
   <h2 class="btn" style="width: 100%; border-color: #9d253d;">
-    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="https://juliacon.org/local/eindhoven2023/program/">See the program of the previous JuliaCon Local!</a>
+    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="https://pretalx.com/juliacon2024/schedule/">JuliaCon 2024 Schedule</a>
+  </h2>
+  ~~~
+  @@
+  @@col-12,col-md-6
+  ~~~
+  <h2 class="btn" style="width: 100%; border-color: #9d253d;">
+    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="https://juliacon.org/local/eindhoven2023/program/">JuliaCon Local 2023 Schedule</a>
   </h2>
   ~~~
   @@
@@ -107,7 +114,7 @@ To get in the mood for the exciting content we are preparing, you can watch all 
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
 \begin{box}{title="Organizing committee", color="red"}
-  This event is organized by a team of researchers, previously involved in planning the [Julia and Optimization Days 2024](https://indico.mathrice.fr/event/604/overview) and [2023](https://julia-users-paris.github.io/workshop/en/).
+  This event is organized by a team of researchers, previously involved in planning the [Julia and Optimization Days 2024](https://indico.mathrice.fr/event/604/overview) (Toulouse), [2023](https://julia-users-paris.github.io/workshop/en/) (Paris, same venue) and [2019](https://julialang.univ-nantes.fr/journee-julia-et-optimisation/) (Nantes).
   If you would like to lend a hand, please reach out!
 \end{box}
 
