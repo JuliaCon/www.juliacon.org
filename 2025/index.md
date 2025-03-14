@@ -125,6 +125,10 @@ We also have some photographic memories from previous JuliaCons. Explore our col
     The conference wouldn’t be possible without our cool sponsors! Their generous support and dedication have played a crucial role in bringing together JuliaCon 2025, allowing us to create an exceptional experience for all attendees. We extend our heartfelt gratitude to each sponsor for their commitment to advancing technology, fostering innovation, and supporting our community. Thank you for making this event a success!</p>
 ~~~
 
+\begin{centered}{title="Silver", margin_bottom="3ex"}
+  \sponsor{name="ASML", link="https://www.asml.com/", img="/assets/2025/img/sponsors/asml.png", level=2}
+\end{centered}
+
 \begin{centered}{title="Bronze", margin_bottom="3ex"}
   \sponsor{name="Pumas.ai", link="https://pumas.ai/", img="/assets/2024/img/sponsors/pumasai.png", level=2}
   \sponsor{name="Ansys", link="https://www.ansys.com/", img="/assets/2025/img/sponsors/ansys-logo.svg", level=2}
