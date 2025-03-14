@@ -80,7 +80,7 @@ Welcome to **JuliaCon Local Paris 2025**, the latest European conference for the
   @@col-12,col-md-6,text-center
   ~~~
   <h2 class="btn" style="width: 100%; border-color: #9d253d;">
-    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="/2024/travel">Read more about the venue!</a>
+    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="/local/paris2025/venue">Read more about the venue!</a>
   </h2>
   ~~~
   @@
