@@ -126,7 +126,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 ~~~
 
 \begin{centered}{title="Silver", margin_bottom="3ex"}
-  \sponsor{name="ASML", link="https://www.asml.com/", img="/assets/2025/img/sponsors/asml.png", level=2}
+  \sponsor{name="ASML", link="https://www.asml.com/", img="/assets/2025/img/sponsors/asml-logo.png", level=2}
 \end{centered}
 
 \begin{centered}{title="Bronze", margin_bottom="3ex"}
