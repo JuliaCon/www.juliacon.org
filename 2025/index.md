@@ -8,7 +8,8 @@ top_description = "Conference on the Julia programming language.\n"
 top_date = "Pittsburgh, PA. July 21–26, 2025."
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
-\begin{box}{title="Letter of Invitation", color="blue"}
+
+\begin{box}{title="Letter of Invitation", color="dark-blue"}
 If you require a supporting letter of invitation for a visa application or to enter the United States, please fill out [this form](https://forms.gle/thnxVEw2qpZUAH2d9). 
 \end{box}
 
