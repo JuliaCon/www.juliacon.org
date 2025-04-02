@@ -67,6 +67,23 @@ end
       """)
 end
 
+@lx function committee(; link="", img="", name="", bio="")
+    return html("""
+        <div class="col-12 col-md-6 align-self-start text-center">
+          <div class="row">
+            <div class="col-3">
+              <img class="animated-size rounded-circle" src="$img">
+            </div>
+            <div class="col-9 text-left">
+              <h5><a href="$link">$name</a></h5>
+              <span>$bio</span>
+            </div>
+          </div>
+          <br>
+        </div>
+        """)
+  end
+
 @lx function avatar(; link="", img="", name="", affil="", bio="")
     return html("""
         <div class="u-vskip-3"></div>
