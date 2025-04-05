@@ -178,6 +178,7 @@ configuration = Dict(
         "main_heading_color" => "black",
         "header_color" => "#389826",
         "header" => [
+            "Tickets" => "/2025/tickets",
             "Sponsor" => "/2025/sponsor",
             "Guidelines" => [
                 "Code of Conduct" => "/2025/coc",
