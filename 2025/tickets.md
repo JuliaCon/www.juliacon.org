@@ -31,7 +31,7 @@ Individual ticket prices are for those paying with own personal funds or for sma
 # Corporate Ticket Prices
 
 Corporate ticket prices are for large businesses with more than 200 employees.
-If you plan to purchase multiple tickets, consider sponsoring JuliaCon 2024
+If you plan to purchase multiple tickets, consider sponsoring JuliaCon 2025.
 Thank you for making JuliaCon accessible for students and online participants.
 
 - Tuesday Workshop Only Ticket (Early Bird): **$ 240.00**
