@@ -21,10 +21,10 @@ If you have problems with the embedded widget, please use this [link](https://bu
 
 Individual ticket prices are for those paying with own personal funds or for small businesses.
 
-- Tuesday Workshop Only Ticket (Early Bird): **\$ 160.00**
-- 1 Day Ticket (Talks Only, Early Bird): **\$ 160.00**
-- 3 Day Ticket (Wed - Fri, Early Bird): **\$ 480.00**
-- 4 Day Ticket (with Workshops, Early Bird): **\$ 560.00**
+- Tuesday Workshop Only Ticket (Early Bird): **\$160.00**
+- 1 Day Ticket (Talks Only, Early Bird): **\$160.00**
+- 3 Day Ticket (Wed - Fri, Early Bird): **\$480.00**
+- 4 Day Ticket (with Workshops, Early Bird): **\$560.00**
 
 **Note**: Accepted speakers still benefit from early bird prices. Contact \email to get the speaker discount.
 
@@ -34,19 +34,19 @@ Corporate ticket prices are for large businesses with more than 200 employees.
 If you plan to purchase multiple tickets, consider sponsoring JuliaCon 2025.
 Thank you for making JuliaCon accessible for students and online participants.
 
-- Tuesday Workshop Only Ticket (Early Bird): **\$ 240.00**
-- 1 Day Ticket (Talks Only, Early Bird): **\$ 240.00**
-- 3 Day Ticket (Wed - Fri, Early Bird): **\$ 720.00**
-- 4 Day Ticket (with Workshops, Early Bird): **\$ 840.00**
+- Tuesday Workshop Only Ticket (Early Bird): **\$240.00**
+- 1 Day Ticket (Talks Only, Early Bird): **\$240.00**
+- 3 Day Ticket (Wed - Fri, Early Bird): **\$720.00**
+- 4 Day Ticket (with Workshops, Early Bird): **\$840.00**
 
 # Student Ticket Prices
 
 Please only select a student ticket if you are a registered student. We have a limited number of student tickets and want to make the conference accessible to those who need them. Note that PhD students non-faculty postdoctoral trainees also qualify as students.
 
-- Tuesday Workshop Only Ticket (Early Bird): **\$ 80.00**
-- 1 Day Ticket (Talks Only, Early Bird): **\$ 80.00**
-- 3 Day Ticket (Wed - Fri, Early Bird): **\$ 240.00**
-- 4 Day Ticket (with Workshops, Early Bird): **\$ 280.00**
+- Tuesday Workshop Only Ticket (Early Bird): **\$80.00**
+- 1 Day Ticket (Talks Only, Early Bird): **\$80.00**
+- 3 Day Ticket (Wed - Fri, Early Bird): **\$240.00**
+- 4 Day Ticket (with Workshops, Early Bird): **\$280.00**
 
 If you have any questions regarding qualification about student pricing, please contact us at \email.
 
