@@ -156,6 +156,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
   \sponsor{name="CMU Department of Materials Science and Engineering (CMU)", link="https://www.materials.cmu.edu/", img="/assets/2025/img/sponsors/cmu-mse-logo.png", level=3}
   \sponsor{name="CMU Software Engineering Institute", link="https://www.sei.cmu.edu/", img="/assets/2025/img/sponsors/cmu-sei-logo.png", level=3}
   \sponsor{name="Carnegie Mellon University Libraries", link="https://www.library.cmu.edu/", img="/assets/2025/img/sponsors/cmu-libraries-logo.png", level=3}
+  \sponsor{name="APS Division of Computational Physics", link="https://engage.aps.org/dcomp/home", img="/assets/2025/img/sponsors/APS_DCOMP.svg", level=2}
 \end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
