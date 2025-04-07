@@ -178,6 +178,7 @@ configuration = Dict(
         "main_heading_color" => "black",
         "header_color" => "#389826",
         "header" => [
+            "Tickets" => "/2025/tickets",
             "Sponsor" => "/2025/sponsor",
             "Guidelines" => [
                 "Code of Conduct" => "/2025/coc",
@@ -193,7 +194,8 @@ configuration = Dict(
         "year" => 2025,
         "advertise_in_landing" => true,
         "location" => "Paris",
-        "alert" => "More information coming soon!",
+        "alert" => "Call for proposals is open at <a href='https://pretalx.com/juliacon-local-paris-2025/'>
+        pretalx.com/juliacon-local-paris-2025</a>",
         "site_name" => "JuliaCon Local Paris 2025",
         "site_descr" => "JuliaCon Local Paris 2025",
         "site_url" => "https://juliacon.org/local/paris2025/",
@@ -205,6 +207,7 @@ configuration = Dict(
             "Program" => "/local/paris2025/program",
             "Call for Proposals" => "/local/paris2025/cfp",
             "Tickets" => "/local/paris2025/tickets",
+            "Committee" => "/local/paris2025/committee",
             "Guidelines" => [
                 "Code of Conduct" => "/local/paris2025/coc",
             ],
