@@ -16,6 +16,8 @@ JuliaCon Local Paris 2025 is organized by the following team. You can reach them
 
 ## Committee
 
+The committee is composed of a team of researchers previously involved in planning the [Julia and Optimization Days 2024](https://indico.mathrice.fr/event/604/overview) (Toulouse), [2023](https://julia-users-paris.github.io/workshop/en/) (Paris, same venue) and [2019](https://julialang.univ-nantes.fr/journee-julia-et-optimisation/) (Nantes).
+
 @@row,row-section
 \committee{name="Abhimanyu Aryan [PT]", link="https://www.linkedin.com/in/abhimanyuaryan/", img="/assets/local/paris2025/img/committee/aryan.jpg", bio="Abhimanyu Aryan is a full-stack engineer at Cegid and a core contributor to Genie.jl, a popular web framework for Julia. He is currently working on LLMs and AI."}
 \committee{name="Zacharie Ales [FR]", link="https://sites.google.com/site/zacharieales/", img="/assets/local/paris2025/img/committee/ales.jpg", bio="Zacharie Ales is an associate professor at ENSTA Paris (France) since 2017. From 2015 to 2017 he was an assistant professor at the University of Avignon. His research focuses on combinatorial optimization and its links with data science. "}

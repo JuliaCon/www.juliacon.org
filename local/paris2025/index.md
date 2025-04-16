@@ -39,24 +39,6 @@ Welcome to **JuliaCon Local Paris 2025**, the latest European conference for the
 \end{glancecard}
 @@
 \\
-\\
-@@row,row-section
-  @@col-12,col-md-6
-  ~~~
-  <h2 class="btn" style="width: 100%; border-color: #9d253d;">
-    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="https://pretalx.com/juliacon2024/schedule/">JuliaCon 2024 Schedule</a>
-  </h2>
-  ~~~
-  @@
-  @@col-12,col-md-6
-  ~~~
-  <h2 class="btn" style="width: 100%; border-color: #9d253d;">
-    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="https://juliacon.org/local/eindhoven2023/program/">JuliaCon Local 2023 Schedule</a>
-  </h2>
-  ~~~
-  @@
-@@
-\\
 
 
 \begin{rowheader}{title="Venue", color=""}\end{rowheader}
@@ -105,6 +87,24 @@ Relive the highlights of the previous JuliaCon Local, organized in 2023 in Eindh
 To get in the mood for the exciting content we are preparing, you can watch all of the previous JuliaCon conference's talks, workshops and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/playlist?list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC).
 @@
 @@
+\\
+@@row,row-section
+  @@col-12,col-md-6
+  ~~~
+  <h2 class="btn" style="width: 100%; border-color: #9d253d;">
+    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="https://juliacon.org/local/eindhoven2023/program/">JuliaCon Local 2023 Schedule</a>
+  </h2>
+  ~~~
+  @@
+  @@col-12,col-md-6
+  ~~~
+  <h2 class="btn" style="width: 100%; border-color: #9d253d;">
+    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="https://pretalx.com/juliacon2024/schedule/">JuliaCon 2024 Schedule</a>
+  </h2>
+  ~~~
+  @@
+@@
+\\
 
 \\
 \begin{rowheader}{title="More information", color=""}\end{rowheader}
@@ -113,16 +113,6 @@ To get in the mood for the exciting content we are preparing, you can watch all 
 <!-- <div class="container"> -->
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
-
-\begin{box}{title="Ticket prices", color="purple"}
-Tickets will be offered at attractive prices, in particular for students. Travel scholarships will be awarded on an individual basis to encourage diversity and inclusion.
-\end{box}
-
-\begin{box}{title="Organizing committee", color="red"}
-  This event is organized by a team of researchers, previously involved in planning the [Julia and Optimization Days 2024](https://indico.mathrice.fr/event/604/overview) (Toulouse), [2023](https://julia-users-paris.github.io/workshop/en/) (Paris, same venue) and [2019](https://julialang.univ-nantes.fr/journee-julia-et-optimisation/) (Nantes).
-  
-  If you would like to lend a hand, feel free to reach out!
-\end{box}
 
 \begin{box}{title="Contact", color="dark-blue"}
 For any questions and inquiries, please send an email to [paris25@julialang.org](mailto:paris25@julialang.org).
@@ -138,9 +128,18 @@ For any questions and inquiries, please send an email to [paris25@julialang.org]
 <div style="height:30px;display:block;"></div>
 <div class="container-fluid">
   <div class="container sponsors">
+  <h1 align="center">Thanks to our Sponsors!</h1>
+  <p style="margin-bottom:3ex;">
+  The conference wouldn’t be possible without our cool sponsors! Their generous support and dedication play a crucial role in bringing together JuliaCon Local Paris 2025, allowing us to create an exceptional experience for all attendees. We extend our heartfelt gratitude to each sponsor for their commitment to advancing technology, fostering innovation, and supporting our community. Thank you for making this event a success!</p>
 ~~~
 
-\begin{centered}{title="With the help of the Julia project’s fiscal host:"}
+\begin{centered}{title="Academic institutions", margin_bottom="3ex"}
+  \sponsor{name="Inria", link="https://www.inria.fr/en", img="/assets/local/paris2025/img/sponsors/inria.png", level=1}
+  \sponsor{name="EURO", link="https://www.euro-online.org/web/pages/1/home", img="/assets/local/paris2025/img/sponsors/euro.png", level=1}
+  \sponsor{name="Groupe Calcul", link="https://calcul.math.cnrs.fr/", img="/assets/local/paris2025/img/sponsors/groupe_calcul.png", level=1}
+\end{centered}
+
+\begin{centered}{title="With the help of the Julia project’s fiscal host"}
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=1}
 \end{centered}
 
