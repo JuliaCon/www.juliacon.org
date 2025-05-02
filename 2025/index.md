@@ -142,6 +142,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
   \sponsor{name="Pumas.ai", link="https://pumas.ai/", img="/assets/2024/img/sponsors/pumasai.png", level=2}
   \sponsor{name="Ansys", link="https://www.ansys.com/", img="/assets/2025/img/sponsors/ansys-logo.svg", level=2}
   \sponsor{name="RelationalAI", link="https://relational.ai/", img="/assets/2023/img/sponsors/rai-logo.svg", level=2}
+  \sponsor{name="Jeffrey Sarnoff", link="https://github.com/JeffreySarnoff", img="/assets/2025/img/sponsors/JeffreySarnoff.png", level=2}
 \end{centered}
 
 \begin{centered}{title="Startup", margin_bottom="3ex"}
