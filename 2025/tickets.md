@@ -50,6 +50,16 @@ Please only select a student ticket if you are a registered student. We have a l
 
 If you have any questions regarding qualification about student pricing, please contact us at \email.
 
+# ⚾ Ahoy, JuliaCon 2025 Attendees! ⚾
+
+Looking for a classic Pittsburgh experience while you're in town for JuliaCon? Join fellow Julia enthusiasts for an evening at PNC Park to cheer on the Pittsburgh Pirates! Enjoy stunning views of the city skyline, great company, and America’s favorite pastime right by the riverside.
+
+This is a perfect way to unwind, network casually, and soak up the local spirit. Whether you're a baseball fan or just along for the vibes, everyone’s welcome!
+
+🎟 Grab your ticket here: https://www.tickettailor.com/events/numfocus1/store
+
+Don’t miss this home run of a social event — see you at the ballpark! 🏴‍☠️⚾🌆
+
 # Connect with Us - We're Here for You!
 
 Our dedicated team is here to make your JuliaCon journey seamless and exciting. Have questions, comments, or suggestions? Email us at \email, and let's make JuliaCon 2025 your best conference experience yet!
