@@ -28,7 +28,7 @@ The Julia I/O minisymposium will discuss the low-level details of Julia's input 
 
 ### Quantum Minisymposium
 
-We propose a JuliaCon 2024 minisymposium focused on quantum computing and other emerging quantum technologies. Quantum researchers and engineers are increasingly adopting Julia for their daily tasks. The Julia language is the fastest growing segment of the quantum software ecosystem and is used by 15% of quantum developers, according to the annual report on the state of quantum open source software by the Unitary Fund.
+We propose a JuliaCon 2025 minisymposium focused on quantum computing and other emerging quantum technologies. Quantum researchers and engineers are increasingly adopting Julia for their daily tasks. The Julia language is the fastest growing segment of the quantum software ecosystem and is used by 15% of quantum developers, according to the annual report on the state of quantum open source software by the Unitary Fund.
 
 ### The JuliaHealth Mini-Symposium
 
