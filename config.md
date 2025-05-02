@@ -182,8 +182,7 @@ configuration = Dict(
             "Sponsor" => "/2025/sponsor",
             "Guidelines" => [
                 "Code of Conduct" => "/2025/coc",
-                "Accessibility" => "/2025/accessibility",
-                "Diversity and Inclusion" => "/2025/dei"
+                "Accessibility" => "/2025/accessibility"
             ],
             "Minisymposia" => "/2025/minisymposia",
             "Call for Proposals"=>  "/2025/cfp"
