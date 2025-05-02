@@ -56,7 +56,7 @@ Looking for a classic Pittsburgh experience while you're in town for JuliaCon? J
 
 This is a perfect way to unwind, network casually, and soak up the local spirit. Whether you're a baseball fan or just along for the vibes, everyone’s welcome!
 
-🎟 Grab your ticket here: https://www.tickettailor.com/events/numfocus1/store
+[🎟 Grab your ticket here](https://www.tickettailor.com/events/numfocus1/store)
 
 Don’t miss this home run of a social event — see you at the ballpark! 🏴‍☠️⚾🌆
 
