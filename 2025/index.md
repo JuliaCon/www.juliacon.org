@@ -5,7 +5,7 @@ title = "JuliaCon 2025"
 insert_top_title = true
 top_title = "JuliaCon 2025\n"
 top_description = "Conference on the Julia programming language.\n"
-top_date = "UPitt and CMU, Pittsburgh, PA. July 21–26, 2025."
+top_date = "UPitt and CMU, Pittsburgh, PA. July 22-26, 2025."
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
@@ -141,6 +141,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 \begin{centered}{title="Bronze", margin_bottom="3ex"}
   \sponsor{name="Pumas.ai", link="https://pumas.ai/", img="/assets/2024/img/sponsors/pumasai.png", level=2}
   \sponsor{name="Ansys", link="https://www.ansys.com/", img="/assets/2025/img/sponsors/ansys-logo.svg", level=2}
+  \sponsor{name="RelationalAI", link="https://relational.ai/", img="/assets/2023/img/sponsors/rai-logo.svg", level=2}
 \end{centered}
 
 \begin{centered}{title="Startup", margin_bottom="3ex"}
