@@ -5,8 +5,10 @@ top_logo_link="/local/paris2025"
 
 # Tickets
 
-\begin{box}{title="In construction", color="red"}
-  This page is a work in progress, please come back soon!
+\begin{box}{title="Tickets are available", color="purple"}
+  Get your spot on Pretix before the end of the early bird period!
 \end{box}
 
-Tickets will be offered at attractive prices, in particular for students. Travel scholarships will be awarded on an individual basis to encourage diversity and inclusion.
+Registration link: **<https://pretix.eu/pydata/juliaconparis25/>**
+
+Travel scholarships will be awarded on an individual basis to encourage diversity and inclusion (more information coming soon).
