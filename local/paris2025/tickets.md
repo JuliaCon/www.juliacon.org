@@ -6,7 +6,7 @@ top_logo_link="/local/paris2025"
 # Tickets
 
 \begin{box}{title="Tickets are available", color="purple"}
-  Get your spot on Pretix before the end of the early bird period!
+  Get your spot on Pretix before the end of the early bird period (August 15th)!
 \end{box}
 
 Registration link: **<https://pretix.eu/pydata/juliaconparis25/>** (or see below)
