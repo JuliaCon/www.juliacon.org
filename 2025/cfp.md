@@ -9,7 +9,7 @@
   Submit your proposal [here](https://pretalx.com/juliacon-2025/cfp) !
 \end{box}
 
-We invite you to submit proposals to give a talk at JuliaCon 2025. JuliaCon 2025 will be an **in person** conference held in Pittsburgh, Pennsylvania, USA 21-26 July 2025. Presenting remotely will not be possible. If you would like to submit a video at any time to the [main Julia Language channel](https://www.youtube.com/julialanguage), please feel free to fill out this form: [https://forms.gle/CWFnzrudZpEwJcd16](https://forms.gle/CWFnzrudZpEwJcd16)
+We invite you to submit proposals to give a talk at JuliaCon 2025. JuliaCon 2025 will be an **in person** conference held in Pittsburgh, Pennsylvania, USA 22-26 July 2025. Presenting remotely will not be possible. If you would like to submit a video at any time to the [main Julia Language channel](https://www.youtube.com/julialanguage), please feel free to fill out this form: [https://forms.gle/CWFnzrudZpEwJcd16](https://forms.gle/CWFnzrudZpEwJcd16)
 
 JuliaCon has traditionally had talks that ranged from introductory to advanced, on topics related to various fields, and from developers and researchers from industry and academia. If you have worked on Julia in the past, JuliaCon is the best venue to share your work with the Julia community.
 
