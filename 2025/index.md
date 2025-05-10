@@ -9,9 +9,27 @@ top_date = "UPitt and CMU, Pittsburgh, PA. July 22-26, 2025."
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
-\begin{box}{title="Letter of Invitation", color="dark-blue"}
+~~~
+<div class="container">
+  <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
+~~~
+\begin{box}{title="Tickets Now Available", color="dark-blue"}
+[Get your ticket today!](/2025/tickets/) Early bird pricing ends soon!
+\end{box}
+
+\begin{box}{title="UPitt Housing Now Available", color="purple"}
+Head to the UPitt Housing Portal [here](https://panthercentralpitt.wufoo.com/forms/juliacon-2025-housing-request/) to purchase housing on UPitt's campus for JuliaCon 2025. An FAQ can be found [here](/2025/housing).
+\end{box}
+
+\begin{box}{title="Letter of Invitation", color="red"}
 If you require a supporting letter of invitation for a visa application or to enter the United States, please fill out [this form](https://forms.gle/thnxVEw2qpZUAH2d9). 
 \end{box}
+
+~~~
+<!-- END of CONTAINER + MASONRY -->
+  </div>
+</div>
+~~~
 
 <!-- \begin{box}{title="Travel Funding", color="dark-green"}
 If you are an accepted speaker and require a travel funding, please fill out [this form](https://forms.gle/TCdgowe7PbXv7p5v6). 
