@@ -179,6 +179,9 @@ configuration = Dict(
         "header_color" => "#389826",
         "header" => [
             "Tickets" => "/2025/tickets",
+            "Schedule" => [
+                "Talks" => "https://pretalx.com/juliacon-2025/schedule/",
+            ],
             "Sponsor" => "/2025/sponsor",
             "Guidelines" => [
                 "Code of Conduct" => "/2025/coc",
