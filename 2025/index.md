@@ -67,7 +67,7 @@ Welcome to **JuliaCon 2025**, the premier annual conference for the Julia progra
   @@col-12,col-md-6
   ~~~
   <h2 class="btn" style="width: 100%; border-color: #9d253d;">
-    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="https://pretalx.com/juliacon2024/schedule/">JuliaCon 2024 Schedule</a>
+    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="https://pretalx.com/juliacon-2025/schedule/">JuliaCon 2025 Schedule</a>
   </h2>
   ~~~
   @@
