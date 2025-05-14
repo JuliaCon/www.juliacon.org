@@ -7,7 +7,7 @@ Welcome to the registration page for JuliaCon 2025! This year's conference will 
 
 You may obtain 4-day, 3-day, or 1-day tickets to attend JuliaCon 2025.
 
-Act fast! Early bird pricing is now in effect, and will close on **May 15th, 2025**. 
+Act fast! Early bird pricing is now in effect, and will close on ~~May 15th, 2025~~ May 19th, 2025. 
 
 We look forward to seeing you at JuliaCon 2025.
 
