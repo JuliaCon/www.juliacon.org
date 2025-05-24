@@ -46,8 +46,8 @@ Welcome to **JuliaCon Local Paris 2025**, the latest European conference for the
 
 @@row,row-section
 \keynote{name="Laura Grigori", affil="", link="https://people.epfl.ch/laura.grigori", title="Full Professor, <a href='https://www.epfl.ch/en/'>EPFL</a>"}
-\keynote{name="Ivet Galabova", affil="", link="https://www.linkedin.com/in/ivet-galabova/", title="Development and Integration Manager, <a href='https://highs.dev/)'>HiGHS</a>"}
-\keynote{name="Tim Besard", affil="", link="https://www.linkedin.com/in/tim-besard-6b766031/", title="Software engineer, <a href='https://juliahub.com/)'>JuliaHub</a>"}
+\keynote{name="Ivet Galabova", affil="", link="https://www.linkedin.com/in/ivet-galabova/", title="Development and Integration Manager, <a href='https://highs.dev/'>HiGHS</a>"}
+\keynote{name="Tim Besard", affil="", link="https://www.linkedin.com/in/tim-besard-6b766031/", title="Software engineer, <a href='https://juliahub.com/'>JuliaHub</a>"}
 @@
 \\
 
