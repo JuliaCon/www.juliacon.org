@@ -14,7 +14,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
 \begin{box}{title="Tickets Now Available", color="dark-blue"}
-[Get your ticket today!](/2025/tickets/) Early bird pricing ends soon!
+[Get your ticket today!](/2025/tickets/)
 \end{box}
 
 \begin{box}{title="UPitt Housing Now Available", color="purple"}
