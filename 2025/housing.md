@@ -13,3 +13,7 @@ For JuliaCon 2025 we have reserved some slots in the University of Pittsburgh un
 - **Is there a traditional hotel block?** At this time we are only offering UPitt housing. We may release additional information about discounted hotel offerings in the area, however we do not anticipate a JuliaCon sponsored hotel block at this time.
 
 - **Do I need a ticket to purchase housing?** Yes. Anyone who registers for UPitt housing and does not have a ticket under the same name / email by July 1 will be warned, followed by a cancellation of their housing purchase.
+
+- **Is there air conditioning?** Yes, all rooms have air conditioning.
+
+- **Where is the housing?** While exact buildings have yet to be assigned more information about the housing complex can be found here: [https://www.pc.pitt.edu/housing-services/university-owned-housing/bouquet-gardens](https://www.pc.pitt.edu/housing-services/university-owned-housing/bouquet-gardens)
