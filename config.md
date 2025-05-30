@@ -171,19 +171,52 @@ configuration = Dict(
         "global" => true,
         "year" => 2025,
         "location" => "Pittsburgh",
+        "alert" => """Schedule is released!""",
         "site_name" => "JuliaCon 2025",
         "site_descr" => "JuliaCon 2025, Pittsburgh",
         "site_url" => "https://juliacon.org/2025/",
         "main_heading_color" => "black",
         "header_color" => "#389826",
         "header" => [
+            "Tickets" => "/2025/tickets",
+            "Schedule" => [
+                "Talks" => "https://pretalx.com/juliacon-2025/schedule/",
+                "Workshops" => "/2025/workshops",
+            ],
+            "Sponsor" => "/2025/sponsor",
             "Guidelines" => [
                 "Code of Conduct" => "/2025/coc",
                 "Accessibility" => "/2025/accessibility",
-                "Diversity and Inclusion" => "/2025/dei",
             ],
+            "Minisymposia" => "/2025/minisymposia",
+            "Call for Proposals"=>  "/2025/cfp",
             "Housing" => "/2025/housing/",
             "Venue" => "/2025/travel",
+        ]
+    ),
+    "local/paris2025" => Dict(
+        "global" => false,
+        "year" => 2025,
+        "advertise_in_landing" => true,
+        "location" => "Paris",
+        "alert" => "Submissions open at <a href='https://pretalx.com/juliacon-local-paris-2025/'>
+        pretalx.com/juliacon-local-paris-2025</a><br>Tickets available at <a href='https://pretix.eu/pydata/juliaconparis25/'>pretix.eu/pydata/juliaconparis25</a>",
+        "site_name" => "JuliaCon Local Paris 2025",
+        "site_descr" => "JuliaCon Local Paris 2025",
+        "site_url" => "https://juliacon.org/local/paris2025/",
+        "site_thumbnail" => "https://juliacon.org/assets/shared/img/img/logo_20.svg",
+        "main_heading_color" => "black",
+        "header_color" => "#389826",
+        "header" => [
+            "Venue" => "/local/paris2025/venue",
+            "Program" => "/local/paris2025/program",
+            "Call for Proposals" => "/local/paris2025/cfp",
+            "Tickets" => "/local/paris2025/tickets",
+            "Committee" => "/local/paris2025/committee",
+            "Sponsor" => "/local/paris2025/sponsor",
+            "Guidelines" => [
+                "Code of Conduct" => "/local/paris2025/coc",
+            ],
         ]
     ),
 )
