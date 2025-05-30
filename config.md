@@ -180,8 +180,10 @@ configuration = Dict(
             "Guidelines" => [
                 "Code of Conduct" => "/2025/coc",
                 "Accessibility" => "/2025/accessibility",
-                "Diversity and Inclusion" => "/2025/dei"
+                "Diversity and Inclusion" => "/2025/dei",
             ],
+            "Housing" => "/2025/housing/",
+            "Venue" => "/2025/travel",
         ]
     ),
 )
