@@ -29,7 +29,7 @@ Both venues are wheelchair accessible. If you think you may require a closer par
 
 ## Reaching Pittsburgh
 
-Pittsburgh may be reached from both US domestic and international destinations via Pittsburgh International Airport (PIT). To get to University of Pittsburgh from the airport, take bus 28X. A single trip costs $ 2.75 if paying cash and $ 2.50 if using a ConnectCard, which is available at the baggage claim area of the airport. Please note [the schedule](https://www.rideprt.org/pdfs/28X.pdf). 
+Pittsburgh may be reached from both US domestic and international destinations via Pittsburgh International Airport (PIT). To get to University of Pittsburgh from the airport, take bus 28X. A single trip costs \$ 2.75 if paying cash and \$ 2.50 if using a ConnectCard, which is available at the baggage claim area of the airport. Please note [the schedule](https://www.rideprt.org/pdfs/28X.pdf). 
 
 Cabs via Uber or Lyft typically cost a minimum of $35, but surge pricing can drive it up to $50 or over. 
 
