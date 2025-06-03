@@ -1,200 +1,51 @@
 # Venue Information
 
-JuliaCon 2024, the annual conference for the Julia programming language enthusiasts, is set to take place at the iconic [PSV Stadium](https://www.philipsstadion.nl/en/) in Eindhoven, the Netherlands. Notably, the PSV Stadium, also known as Philips Stadion, is not only a renowned sports venue but also stands as the home ground of [PSV Eindhoven](https://www.psv.nl/english-psv/english-psv.htm), one of the most successful football clubs in Dutch history. This unique choice of venue adds an exciting blend of technology and sports to the conference experience, offering attendees the chance to immerse themselves in the dynamic atmosphere of both the programming world and the vibrant sporting legacy of the city.
-
-@@row,text-center
-@@col-12,col-md-6
-~~~
-<a class="btn" style="width:100%; border-color: #9d253d; text-decoration: none;" href="/2024/venue-hotels">
-    Check our <b>promo 15% discounts</b> on the hotels!
-</a>
-~~~
-@@
-@@col-12,col-md-6
-~~~
-<a class="btn" style="width:100%; border-color: #9d253d; text-decoration: none;" href="/2024/activities">
-    Check out <b>possible activities</b> in Eindhoven!
-</a>
-~~~
-@@
-@@
-\\
+JuliaCon 2025 is set to take place at David Lawrence Hall at the University of Pittsburgh, named after David L. Lawrence, a Pitt trustee from 1945 to 1966 who was also Governor of Pennsylvania (from 1959 to 1963) and Pittsburgh’s mayor from 1946 to 1959. Workshops, talks, and the poster session are set to take place here. 
 
 ~~~
-<div style="width: 100%; ">
-  <img width=100% src="/assets/2024/img/psvvenue.jpeg" alt="PSV Stadium">
+<div style="width: 80%; ">
+  <img width=80% src="/assets/2025/img/davidlawrence-1.png" alt="Lawrence Hall">
   <br>
   <br>
 </div>
-<div style="text-align: center">
-<a class="btn" style="width: 60%; border-color: #9d253d; text-decoration: none;" href="/2024/travel/#floor_plans">
-    Check the floor plans!
-</a>
-</div>
-<br>
-<div style="width: 100%; ">
-  <img width=100% src="/assets/2024/img/psventrance.jpeg" alt="PSV Stadium">
-  <br>
-  <br>
-</div>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4397.298998411391!2d5.467720455317504!3d51.441632404662606!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d911c386b16f%3A0x943ec8f52a067b30!2sPhilips%20Stadium!5e0!3m2!1sen!2snl!4v1702571784118!5m2!1sen!2snl" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.4698521616774!2d-79.9552451!3d40.442736599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8834f228541d5921%3A0xa9e42410df503e8f!2sLawrence%20Hall!5e0!3m2!1sen!2sus!4v1748621392902!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ~~~
 
+## Hackathon Venue
+Every year, JuliaCon hosts an informal hackathon on the Saturday after JuliaCon. This year, the venue for the hackathon is the Cohon University Center on Forbes Avenue.
 
-@@row,row-section,no-gutters,align-items-center
-@@col-12,col-md-6
-~~~<img width=100% src="/assets/2024/img/venue/1.png">~~~
-@@
-@@col-12,col-md-6
-~~~<img width=100% src="/assets/2024/img/venue/2.png">~~~
-@@
-@@col-12,col-md-6
-~~~<img width=100% src="/assets/2024/img/venue/3.png">~~~
-@@
-@@col-12,col-md-6
-~~~<img width=100% src="/assets/2024/img/venue/4.png">~~~
-@@
-@@col-12,col-md-6
-~~~<img width=100% src="/assets/2024/img/venue/5.png">~~~
-@@
-@@col-12,col-md-6
-~~~<img width=100% src="/assets/2024/img/venue/6.png">~~~
-@@
-@@col-12,col-md-6
-~~~<img width=100% src="/assets/2024/img/venue/7.png">~~~
-@@
-@@col-12,col-md-6
-~~~<img width=100% src="/assets/2024/img/venue/8.png">~~~
-@@
-@@
+~~~
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6072.816451331127!2d-79.94466422336778!3d40.44410085397199!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8834f221e409b945%3A0x16b3417bd3538dfb!2sJared%20L.%20Cohon%20University%20Center!5e0!3m2!1sen!2sus!4v1748622433891!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+~~~
 
-\\
+## Visa Info and Invitation Letter
 
-## Floor plans
-
-@@row,row-section,no-gutters,align-items-center
-@@col-12
-~~~<img width=100% src="/assets/2024/img/venue/PSV floorplan-07.png">~~~
-@@
-@@col-12
-~~~<img width=100% src="/assets/2024/img/venue/PSV floorplan-04.png">~~~
-@@
-@@col-12
-~~~<img width=100% src="/assets/2024/img/venue/PSV floorplan-05.png">~~~
-@@
-@@col-12
-~~~<img width=100% src="/assets/2024/img/venue/PSV floorplan-06.png">~~~
-@@
-@@
-
-## Visa Info
-
-The Netherlands is part of the Schengen Area. If you need a visa to enter the Schengen Area, you will need a visa to enter the Netherlands. JuliaCon 2024 will provide invitation letters to attendees who need a visa to enter the Netherlands. Please note that we cannot provide any financial support for your visa application.
-
-### Invitation Letter
-
-If you need an invitation letter for your visa application, please fill out the following [form](https://forms.gle/vYnpbwKy7CnEiNYd8).
-
-### Visa Application
-
-Please check the [Netherlands Worldwide](https://www.netherlandsworldwide.nl/visa-the-netherlands/schengen-visa)
-and [Schengen Visa Info](https://www.schengenvisainfo.com/).
+To enter the US, you will need a [B1/B2 visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html/visa). If you need an invitation letter for your visa application, please fill out the following [form](https://forms.gle/p7V4tyGRXW8S4gL9A).
 
 ## Accessibility
 
-In Eindhoven, the most common way for people to get around is by bicycle or on foot. 
-Additional information on travel advice for individuals with disabilities can be found [below](#travel-with-a-disability).
-The PSV Stadium is located close to the city centre, and is available within 10 minutes walking from the city center and the central train station.
+Both venues are wheelchair accessible. If you think you may require a closer parking space, accommodations or extra assistance, please email \email.
 
-If you think you may require a closer parking space, accommodations or extra assistance, please email \email.
+## Reaching Pittsburgh
 
-## Reaching Eindhoven
+Pittsburgh may be reached from both US domestic and international destinations via Pittsburgh International Airport (PIT). To get to University of Pittsburgh from the airport, take bus 28X. A single trip costs \$ 2.75 if paying cash and \$ 2.50 if using a ConnectCard, which is available at the baggage claim area of the airport. Please note [the schedule](https://www.rideprt.org/pdfs/28X.pdf). 
 
-The Netherlands is well-connected to the rest of Europe by air, rail, and road. Eindhoven, in particular, is easily accessible from various European cities. Within the Netherlands, the city is well-connected by train and bus services. The tickets for trains and buses can be purchased at the station or online. In addition, many train stations accept regular [debit cards, credit cards or mobile phones](https://www.ns.nl/en/travel-information/check-in-check-out/debit-card) without need to buy a ticket at the station.
-
-**Important Train Travel Notice**: Please note that there is scheduled maintenance on the train lines between Schiphol Airport and Eindhoven during JuliaCon 2024. While this generally should not be an issue, you can expect an additional 30 minutes on the usual train ride. NS will provide extra buses during this period to assist with your journey. We recommend checking the NS website for the latest updates and planning accordingly to ensure a smooth trip to the conference.
-
-@@row
-@@col-12,col-md-6
-~~~
-<a class="btn" style="width: 100%; border-color: #9d253d; text-decoration: none;" href="https://www.ns.nl/en/travel-information/current-situation-on-the-tracks/">
-    Current situation on tracks
-</a>
-~~~
-@@
-@@col-12,col-md-6
-~~~
-<a class="btn" style="width: 100%; border-color: #9d253d; text-decoration: none;" href="https://www.ns.nl/en/travel-information/maintenance-on-the-tracks/">
-    Planned maintenance
-</a>
-~~~
-@@
-@@
-
-\\
-
-### Eindhoven airport
-
-Eindhoven has its own airport, well-linked to other European cities. Getting from the airport to Eindhoven is a breeze with various public transport options. Right by the terminal in P1, there's a bus stop where you can hop on and off. Take bus 400 or 401 to reach Eindhoven Central Station in just 30 minutes.
-
-### Amsterdam Airport (Schiphol)
-
-Eindhoven can be easily reached from Amsterdam airport by train. Refer to the official [NS path planner](https://www.ns.nl/en) to find available trains, but generally you can expect at least one train going in the direction to Eindhoven about every 30 minutes. The trip from Schiphol to Eindhoven takes about 1 hour 30 minutes, but with the planned maintenance, you can expect an additional 30 minutes.
-
-**Note:** Keep in mind that trains in the Netherlands don't run at night and stop operating earlier during the weekends, so plan your Amsterdam trip accordingly.
-
-### Frankfurt airport
-
-Eindhoven can also be easily reached by public transport from cities around the Netherlands, checkout [NS international](https://www.nsinternational.com/en) for times and prices! For instance, Frankfurt airport is just 3.5 hours away by train!
+Cabs via Uber or Lyft typically cost a minimum of \$35, but surge pricing can drive it up to \$50 or over. 
 
 ### Accommodation options
 
-Eindhoven, a contemporary city with diverse accommodations in close proximity to the venue, serves as an ideal setting for our conference. JuliaCon organizers have secured exclusive promotional deals with select hotels in the area, providing attendees with a substantial **15% discount**. Detailed information about these special offers can be accessed [here](/2024/venue-hotels). Additionally, a range of alternative accommodations can be explored through reputable platforms such as [AirBnb](https://www.airbnb.com). 
+JuliaCon 2025 has partnered with the University of Pittsburgh to provide on-campus accomodation for attendees. Please refer to [this page](/2025/housing/) for details. 
 
-~~~
-<div style="text-align: center">
-<a class="btn" style="width: 60%; border-color: #9d253d; text-decoration: none;" href="/2024/venue-hotels">
-    Check our <b>promo 15% discounts</b> on the hotels!
-</a>
-</div>
-<br>
-~~~
+Additionally, one may choose to board at one of the following recommended hotels which are a walk away from the venue: 
+1. [Oaklander](https://theoaklanderhotel.com/): walking distance to both campuses.
+2. [Courtyard University Center](https://www.marriott.com/en-us/hotels/pityu-courtyard-pittsburgh-university-center/overview/): walking distance to both campuses.
+3. [Hilton Garden Inn](https://www.hilton.com/en/hotels/pitucgi-hilton-garden-inn-pittsburgh-university-place/): medium (10-15 min) walk to campus.
+4. [Residence Inn](https://www.marriott.com/en-us/hotels/pitrd-residence-inn-pittsburgh-oakland-university-place/overview/): 15-20 min walk or quick bus ride to campus.
+5. [Hampton Inn](https://www.hilton.com/en/hotels/pitokhx-hampton-pittsburgh-university-medical-center/): 20-25 min walk or an easy bus ride to campus.
 
-## Commute in Eindhoven 
+Please note that we do not have block rates or discounted rates at the above hotels; they are simply recommendations.
 
-### Bike rental
+## Commute within Pittsburgh
 
-Known for its extensive network of bike routes, the Netherlands offers a highly convenient mode of transportation within the city by bikes. Rent a bike and cycle from your hotel to the venue and the rest of the surroundings, starting from just € 9,50 per day! [Grab your bike here](https://velorent.nl/) and let the adventure begin! Alternatively, explore the official [NS bike rental](https://www.ns.nl/en/door-to-door/ov-fiets), seamlessly linked to the central station. In addition, consider other options such as [Go sharing](https://nl.go-sharing.com/en/) for added flexibility.
-
-
-### Electric scooters rental
-
-The city has various options for renting an electric scooter, such as [Go sharing](https://nl.go-sharing.com/en/) or [Ride Check](https://ridecheck.app/en).
-
-### Travel with a disability
-
-Dutch cities are committed to supporting passengers with physical disabilities, wheelchair users, as well as those with hearing and sight impairments. Notable features include removable bridges for wheelchairs, guidelines for the visually impaired, and plug-in sockets for hearing aids at ticket counters (just a heads up, the connecting cord is not provided; users need to get their own).
-
-If you use a wheelchair, you're in for smooth travels across all public transportation in the Netherlands. Bus and trams stops are equipped with ramps, making them more accessible. To check the accessibility of specific stops, head to [haltescan.nl](https://www.mobiliteitslab.nl/haltescan/) (select Eindhoven under Wegbeheerder). In addition, free wheelchairs are available at Eindhoven Airport for those who have difficulties walking within the airport. 
-
-The NS website provides [comprehensive information](https://www.ns.nl/en/travel-information/traveling-with-a-disability) in English about services and facilities catering to passengers with disabilities.
-
-- [Travelling with a motor disability](https://www.ns.nl/en/travel-information/traveling-with-a-disability/motor-disability)
-- [Travelling with a visual impairment](https://www.ns.nl/en/travel-information/traveling-with-a-disability/visual-disability)
-- [Travelling with a hearing impairment](https://www.ns.nl/en/travel-information/traveling-with-a-disability/hearing-impairment)
-- [NS travel assistance](https://www.ns.nl/en/travel-information/traveling-with-a-disability/ns-travel-assistance.html)
-- [International travel with a disability](https://www.ns.nl/en/travel-information/traveling-with-a-disability/international-travel-with-a-disability.html)
-
-## Tourism in Eindhoven
-
-Eindhoven and its surroundings are awesome spots for exploring in the Netherlands. For various options, hop over to the official [tourist info page](https://www.thisiseindhoven.com/en). Also, Eindhoven is well-connected to big cities like Amsterdam, Utrecht, The Hague, Rotterdam, and others by train. Find the train schedule on the [official NS website](https://www.ns.nl/en).
-
-## Activities
-
-Also check out [possible activities](/2024/activities) in the Eindhoven region! 
-
-## Relevant links 
-
-- [Bus schedule](https://9292.nl/en)
-- [Train schedule](https://www.ns.nl/en)
-- [NS bike rentals](https://www.ns.nl/en/door-to-door/ov-fiets)
+[Pittsburgh Regional Transit](https://www.rideprt.org/) provides a reliable bus network throughout Pittsburgh. We recommend getting a ConnectCard for your commute within Pittsburgh.

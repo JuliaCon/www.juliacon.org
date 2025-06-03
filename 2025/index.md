@@ -5,7 +5,7 @@ title = "JuliaCon 2025"
 insert_top_title = true
 top_title = "JuliaCon 2025\n"
 top_description = "Conference on the Julia programming language.\n"
-top_date = "UPitt and CMU, Pittsburgh, PA. July 22-26, 2025."
+top_date = "Pitt and CMU, Pittsburgh, PA. July 22-26, 2025.\n"
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
@@ -35,6 +35,17 @@ If you require a supporting letter of invitation for a visa application or to en
 If you are an accepted speaker and require a travel funding, please fill out [this form](https://forms.gle/TCdgowe7PbXv7p5v6). 
 \end{box} -->
 
+\begin{rowheader}{title="Venue", color=""}\end{rowheader}
+@@row,row-section
+@@col-12 
+JuliaCon 2025 will host talks and workshops at [David Lawrence Hall](/2025/travel#venue) from July 22-25 and the hackathon on July 26 at [Cohon University Center](/2025/travel#hackathon_venue). Please book your accomodation at [Pitt Housing](/2025/housing/) or one of our [recommended hotels](/2025/travel#accommodation_options).
+@@
+@@
+
+~~~
+<br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.4698521616774!2d-79.9552451!3d40.442736599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8834f228541d5921%3A0xa9e42410df503e8f!2sLawrence%20Hall!5e0!3m2!1sen!2sus!4v1748621392902!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+~~~
 
 \begin{rowheader}{title="JuliaCon at a Glance", color=""}\end{rowheader}
 
