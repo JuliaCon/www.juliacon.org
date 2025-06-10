@@ -199,8 +199,7 @@ configuration = Dict(
         "year" => 2025,
         "advertise_in_landing" => true,
         "location" => "Paris",
-        "alert" => "Submissions open at <a href='https://pretalx.com/juliacon-local-paris-2025/'>
-        pretalx.com/juliacon-local-paris-2025</a><br>Tickets available at <a href='https://pretix.eu/pydata/juliaconparis25/'>pretix.eu/pydata/juliaconparis25</a>",
+        "alert" => "Tickets available at <a href='https://pretix.eu/pydata/juliaconparis25/'>pretix.eu/pydata/juliaconparis25</a>",
         "site_name" => "JuliaCon Local Paris 2025",
         "site_descr" => "JuliaCon Local Paris 2025",
         "site_url" => "https://juliacon.org/local/paris2025/",

@@ -5,8 +5,8 @@ top_logo_link="/local/paris2025"
 
 # Call for Proposals
 
-\begin{box}{title="Proposals are open", color="purple"}
-  Submit your coolest Julia work on Pretalx before the _extended_ submission deadline (May 30th, anywhere on earth)!
+\begin{box}{title="Proposals are closed", color="red"}
+  Thank you to everyone who submitted their coolest Julia work!
 \end{box}
 
 Submission link: **<https://pretalx.com/juliacon-local-paris-2025/>**
