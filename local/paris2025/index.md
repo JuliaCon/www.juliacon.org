@@ -144,18 +144,25 @@ For any questions and inquiries, please send an email to [paris25@julialang.org]
   The conference wouldn’t be possible without our cool sponsors! Their generous support and dedication play a crucial role in bringing together JuliaCon Local Paris 2025, allowing us to create an exceptional experience for all attendees. We extend our heartfelt gratitude to each sponsor for their commitment to advancing technology, fostering innovation, and supporting our community. Thank you for making this event a success!</p>
 ~~~
 
+\begin{centered}{title="Platinum sponsors", margin_bottom="3ex"}
+  \sponsor{name="Temple Capital", link="https://www.temple.capital/", img="/assets/local/paris2025/img/sponsors/temple_capital.png", level=1}
+\end{centered}
+
 \begin{centered}{title="Gold sponsors", margin_bottom="3ex"}
-  \sponsor{name="JuliaHub", link="https://juliahub.com/", img="/assets/local/paris2025/img/sponsors/juliahub.png", level=1}
+  \sponsor{name="JuliaHub", link="https://juliahub.com/", img="/assets/local/paris2025/img/sponsors/juliahub.png", level=3}
 \end{centered}
 
 \begin{centered}{title="Academic institutions", margin_bottom="3ex"}
-  \sponsor{name="Inria", link="https://www.inria.fr/en", img="/assets/local/paris2025/img/sponsors/inria.png", level=1}
-  \sponsor{name="EURO", link="https://www.euro-online.org/web/pages/1/home", img="/assets/local/paris2025/img/sponsors/euro.png", level=1}
-  \sponsor{name="Groupe Calcul", link="https://calcul.math.cnrs.fr/", img="/assets/local/paris2025/img/sponsors/groupe_calcul.png", level=1}
+  \sponsor{name="Inria", link="https://www.inria.fr/en", img="/assets/local/paris2025/img/sponsors/inria.png", level=2}
+  \sponsor{name="EURO", link="https://www.euro-online.org/web/pages/1/home", img="/assets/local/paris2025/img/sponsors/euro.png", level=2}
+  \sponsor{name="Groupe Calcul", link="https://calcul.math.cnrs.fr/", img="/assets/local/paris2025/img/sponsors/groupe_calcul.png", level=2}
+  \sponsor{name="RT Terres et Énergies", link="https://rtte.math.cnrs.fr/", img="/assets/local/paris2025/img/sponsors/rtte.png", level=2}
+  \sponsor{name="ROADEF", link="https://roadef.org/", img="/assets/local/paris2025/img/sponsors/roadef.png", level=2}
+  \sponsor{name="GDR ROD", link="http://gdrro.lip6.fr/", img="/assets/local/paris2025/img/sponsors/gdr_rod.png", level=2}
 \end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host"}
-  \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=1}
+  \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=2}
 \end{centered}
 
 
