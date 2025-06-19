@@ -5,9 +5,9 @@ top_logo_link="/local/paris2025"
 
 # Call for Proposals
 
-\begin{box}{title="Proposals are closed", color="red"}
+\begin{widebox}{title="Proposals are closed", color="red"}
   Thank you to everyone who submitted their coolest Julia work!
-\end{box}
+\end{widebox}
 
 Submission link: **<https://pretalx.com/juliacon-local-paris-2025/>**
 

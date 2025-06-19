@@ -5,13 +5,17 @@ top_logo_link="/local/paris2025"
 
 # Tickets
 
-\begin{box}{title="Tickets are available", color="purple"}
+\begin{widebox}{title="Tickets are available", color="purple"}
   Get your spot on Pretix before the end of the early bird period (August 15th)!
-\end{box}
+\end{widebox}
+
+\begin{widebox}{title="Apply for a grant!", color="green"}
+  Financial support will be awarded on a case-by-case basis, in the form of diversity scholarships and speaker funding.
+\end{widebox}
 
 Registration link: **<https://pretix.eu/pydata/juliaconparis25/>** (or see below)
 
-Travel scholarships will be awarded on an individual basis to encourage diversity and inclusion (more information coming soon).
+Grant application link: **<https://cryptpad.fr/form/#/2/form/view/Y2zeHTUsbxBVJ9gAB4v8R3hP7FSEckHrub8aI5eVBTE/>**
 
 ~~~
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/pydata/juliaconparis25/widget/v1.css" crossorigin>
