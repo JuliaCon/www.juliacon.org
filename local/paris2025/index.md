@@ -45,9 +45,9 @@ Welcome to **JuliaCon Local Paris 2025**, the latest European conference for the
 \\
 
 @@row,row-section
-\keynote{name="Laura Grigori", affil="", link="https://people.epfl.ch/laura.grigori", title="Full Professor, <a href='https://www.epfl.ch/en/'>EPFL</a>"}
-\keynote{name="Ivet Galabova", affil="", link="https://www.linkedin.com/in/ivet-galabova/", title="Development and Integration Manager, <a href='https://highs.dev/'>HiGHS</a>"}
-\keynote{name="Tim Besard", affil="", link="https://www.linkedin.com/in/tim-besard-6b766031/", title="Software engineer, <a href='https://juliahub.com/'>JuliaHub</a>"}
+\keynote{name="Laura Grigori", affil="", link="https://people.epfl.ch/laura.grigori", title="Full Professor, <a href='https://www.epfl.ch/en/'>EPFL</a>", img="/assets/local/paris2025/img/speakers/laura_grigori.png"}
+\keynote{name="Ivet Galabova", affil="", link="https://www.linkedin.com/in/ivet-galabova/", title="Development and Integration Manager, <a href='https://highs.dev/'>HiGHS</a>", img="/assets/local/paris2025/img/speakers/ivet_galabova.jpg"}
+\keynote{name="Tim Besard", affil="", link="https://www.linkedin.com/in/tim-besard-6b766031/", title="Software engineer, <a href='https://juliahub.com/'>JuliaHub</a>", img="/assets/local/paris2025/img/speakers/tim_besard.jpg"}
 @@
 \\
 
@@ -127,6 +127,10 @@ To get in the mood for the exciting content we are preparing, you can watch all 
 
 \begin{box}{title="Contact", color="dark-blue"}
 For any questions and inquiries, please send an email to [paris25@julialang.org](mailto:paris25@julialang.org).
+\end{box}
+
+\begin{box}{title="Financial support for attendees", color="green"}
+  Fill out [this form](https://cryptpad.fr/form/#/2/form/view/Y2zeHTUsbxBVJ9gAB4v8R3hP7FSEckHrub8aI5eVBTE) to apply for diversity scholarships or speaker funding!
 \end{box}
 
 ~~~
