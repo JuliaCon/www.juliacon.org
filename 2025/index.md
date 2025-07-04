@@ -99,7 +99,7 @@ Welcome to **JuliaCon 2025**, the premier annual conference for the Julia progra
 \keynote{name="Julia Core Developers", affil="", link="https://julialang.org/", img="/assets/2025/img/keynotes/teamjuliacon_logo.jpeg", title="State of Julia 2025"}
 \keynote{name="Prith Banerjee", affil="ANSYS", link="https://www.linkedin.com/in/prith-banerjee/", img="/assets/2025/img/keynotes/prith.jpg", title="Challenges and Opportunities of Digital Twins"}
 \keynote{name="Bob Metcalfe", affil="Julia Lab, MIT", link="https://www.invent.org/inductees/robert-m-metcalfe", img="/assets/2025/img/keynotes/bob_metcalfe.jpg", title = "Fireside Chat with Dr. Bob Metcalf"}
-\keynote{name="Karandeep Singh", affil="UC San Diego", link="https://michael-herbst.com/", img="/assets/2025/img/keynotes/karandeep.jpg", title="An AI Agenda to Modernize Healthcare Operations"}
+\keynote{name="Karandeep Singh", affil="UC San Diego", link="https://profiles.ucsd.edu/karandeep.singh", img="/assets/2025/img/keynotes/karandeep.jpg", title="An AI Agenda to Modernize Healthcare Operations"}
 @@
 \\
 @@row,row-section,justify-content-md-center
