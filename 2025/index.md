@@ -164,7 +164,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 ~~~
 \begin{centered}{title="Diamond", margin_bottom="3ex"}
   \sponsor{name="JuliaHub", link="https://juliahub.com", img="/assets/2024/img/sponsors/juliahub-logo.svg", level=1}
-  \sponsor{name="Temple Capital", link="https://www.temple.capital/", img="/assets/2024/img/sponsors/temple_capital.png", level=1}
+  \sponsor{name="Temple Capital", link="https://www.temple.capital/", img="/assets/2025/img/sponsors/temple_capital.png", level=1}
 \end{centered}
 
 \begin{centered}{title="Silver", margin_bottom="3ex"}
