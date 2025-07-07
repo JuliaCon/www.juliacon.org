@@ -40,7 +40,7 @@ Digital twins have been used to model complex physical systems to predict their 
 
 \avatar{name="Bob Metcalfe", affil="Julia Lab, MIT", link="https://www.invent.org/inductees/robert-m-metcalfe", img="/assets/2025/img/keynotes/bob_metcalfe.jpg", bio="Dr. Robert (Bob) M. Metcalfe is widely known for being the co-inventor of Ethernet and Metcalfe's Law, which describes the influence of a telecommunications network. He has won numerous awards for his work: notably the Turning Award in 2022, the National Medal of Technology and Innovation awarded by the US Government in 2005 and the IEEE Medal of Honor in 1996. He co-founded 3Com, a networking equipment manufacturer in 1979, which is now part of HP, and was a professor of innovation at the Cockrell School of Engineering at UT Austin from 2011-2021. Since 2022, Dr. Metcalfe is a research affiliate at the Julia Lab at MIT."}
 
-### Fireside Chat with Dr. Bob Metcalf
+### Fireside Chat with Dr. Bob Metcalfe
 
 TBD
 
