@@ -35,6 +35,27 @@ If you require a supporting letter of invitation for a visa application or to en
 If you are an accepted speaker and require a travel funding, please fill out [this form](https://forms.gle/TCdgowe7PbXv7p5v6). 
 \end{box} -->
 
+\begin{rowheader}{title="Keynote Speakers", color=""}\end{rowheader}
+\\
+
+@@row,row-section
+\keynote{name="Julia Core Developers", affil="", link="https://julialang.org/", img="/assets/2025/img/keynotes/teamjuliacon_logo.jpeg", title="State of Julia 2025"}
+\keynote{name="Prith Banerjee", affil="ANSYS", link="https://www.linkedin.com/in/prith-banerjee/", img="/assets/2025/img/keynotes/prith.jpg", title="Challenges and Opportunities of Digital Twins"}
+\keynote{name="Bob Metcalfe", affil="Julia Lab, MIT", link="https://www.invent.org/inductees/robert-m-metcalfe", img="/assets/2025/img/keynotes/bob_metcalfe.jpg", title = "Fireside Chat with Dr. Bob Metcalfe"}
+\keynote{name="Karandeep Singh", affil="UC San Diego", link="https://profiles.ucsd.edu/karandeep.singh", img="/assets/2025/img/keynotes/karandeep.jpg", title="An AI Agenda to Modernize Healthcare Operations"}
+@@
+\\
+@@row,row-section,justify-content-md-center
+  @@col-12,col-md-6,text-center
+    ~~~
+    <h2 class="btn" style="width: 100%; border-color: #9d253d;">
+      <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="/2025/keynotes">Read the full description of the Keynotes!</a>
+    </h2>
+    ~~~
+  @@
+@@
+\\
+
 \begin{rowheader}{title="Venue", color=""}\end{rowheader}
 @@row,row-section
 @@col-12 
@@ -91,7 +112,6 @@ Welcome to **JuliaCon 2025**, the premier annual conference for the Julia progra
   @@
 @@
 \\
-
 
 
 \begin{rowheader}{title="Previous events", color=""}\end{rowheader}
