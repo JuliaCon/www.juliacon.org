@@ -154,15 +154,18 @@ For any questions and inquiries, please send an email to [paris25@julialang.org]
 
 \begin{centered}{title="Gold sponsors", margin_bottom="3ex"}
   \sponsor{name="JuliaHub", link="https://juliahub.com/", img="/assets/local/paris2025/img/sponsors/juliahub.png", level=3}
+  \sponsor{name="Eutelsat OneWeb", link="https://oneweb.net/", img="/assets/local/paris2025/img/sponsors/eutelsat_oneweb.png", level=3}
 \end{centered}
 
 \begin{centered}{title="Academic institutions", margin_bottom="3ex"}
+  \sponsor{name="CNAM", link="https://www.cnam.eu/site-en/", img="/assets/local/paris2025/img/sponsors/cnam.png", level=2}
   \sponsor{name="Inria", link="https://www.inria.fr/en", img="/assets/local/paris2025/img/sponsors/inria.png", level=2}
   \sponsor{name="EURO", link="https://www.euro-online.org/web/pages/1/home", img="/assets/local/paris2025/img/sponsors/euro.png", level=2}
+  \sponsor{name="SMAI-MODE", link="http://smai.emath.fr/spip.php?article330&lang=fr", img="/assets/local/paris2025/img/sponsors/smai.jpg", level=2}
   \sponsor{name="Groupe Calcul", link="https://calcul.math.cnrs.fr/", img="/assets/local/paris2025/img/sponsors/groupe_calcul.png", level=2}
-  \sponsor{name="RT Terres et Énergies", link="https://rtte.math.cnrs.fr/", img="/assets/local/paris2025/img/sponsors/rtte.png", level=2}
-  \sponsor{name="ROADEF", link="https://roadef.org/", img="/assets/local/paris2025/img/sponsors/roadef.png", level=2}
   \sponsor{name="GDR ROD", link="http://gdrro.lip6.fr/", img="/assets/local/paris2025/img/sponsors/gdr_rod.png", level=2}
+  \sponsor{name="ROADEF", link="https://roadef.org/", img="/assets/local/paris2025/img/sponsors/roadef.png", level=2}
+  \sponsor{name="RT Terres et Énergies", link="https://rtte.math.cnrs.fr/", img="/assets/local/paris2025/img/sponsors/rtte.png", level=2}
 \end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host"}
