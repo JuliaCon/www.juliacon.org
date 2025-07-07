@@ -42,7 +42,7 @@ Digital twins have been used to model complex physical systems to predict their 
 
 ### Fireside Chat with Dr. Bob Metcalfe
 
-TBD
+Join us as we converse with Dr. Metcalfe and explore his user journey towards the Julia programming language.
 
 ~~~
 <div style="height:1em;display:block;"></div>
