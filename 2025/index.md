@@ -17,9 +17,9 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 [Get your ticket today!](/2025/tickets/)
 \end{box}
 
-\begin{box}{title="UPitt Housing Now Available", color="purple"}
+<!-- \begin{box}{title="UPitt Housing Now Available", color="purple"}
 Head to the UPitt Housing Portal [here](https://panthercentralpitt.wufoo.com/forms/juliacon-2025-housing-request/) to purchase housing on UPitt's campus for JuliaCon 2025. An FAQ can be found [here](/2025/housing).
-\end{box}
+\end{box} -->
 
 \begin{box}{title="Letter of Invitation", color="red"}
 If you require a supporting letter of invitation for a visa application or to enter the United States, please fill out [this form](https://forms.gle/thnxVEw2qpZUAH2d9). 
