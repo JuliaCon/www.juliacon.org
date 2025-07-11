@@ -42,6 +42,41 @@ Besides the awesome talks that will be hosted on July 10th, 11th and 12th, there
   @@
 @@
 
+\begin{rowheader}{title="JuliaCon 2024 Highlights", color=""}\end{rowheader}
+\\
+@@row,row-section
+@@col-12
+## Day 2 Highlights - JuliaCon & PyData Eindhoven
+~~~
+<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/N8kEFjGhos4?si=pqkHIMH6aWX7-wWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+~~~
+\\
+Experience the highlights of Day 2, featuring the special collaboration between JuliaCon and PyData Eindhoven! This unique day brought together the Julia and Python communities for an exciting exchange of ideas and knowledge.
+@@
+@@
+\\
+@@row,row-section
+@@col-12,col-md-4
+## Preparations
+~~~
+<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/srIrEIR9Fhg?si=lkgNAsriZX7ozh7X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+~~~
+@@
+@@col-12,col-md-4
+## Day 1 Highlights
+~~~
+<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/k23pQq8HUes?si=Q-a_HcVe6n84YpUF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+~~~
+@@
+@@col-12,col-md-4
+## Day 3 & Hackathon
+~~~
+<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/_RLQNpHbq7o?si=rRuQIBEvv4-0kyYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+~~~
+@@
+@@
+\\
+
 @@row,row-section
 \begin{glancecard}{title="Passionate community", img="/assets/2024/img/whattoexpect/community.jpg", color="purple"}
   At JuliaCon, expect to be surrounded by passionate individuals from diverse backgrounds united by their enthusiasm for the Julia programming language. 
