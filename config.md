@@ -192,6 +192,7 @@ configuration = Dict(
             "Minisymposia" => "/2025/minisymposia",
             "Call for Proposals"=>  "/2025/cfp",
             "Venue" => "/2025/travel",
+            "Committee" => "/2025/committee",
         ]
     ),
     "local/paris2025" => Dict(
