@@ -5,67 +5,67 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
 @@row
 \committeemember{
   name="Ranjan Anantharaman", 
-  info="""Co-Chair <a href="https://twitter.com/ranjan_ananth">Twitter</a>""", 
+  info="""Co-Chair""", 
   link="https://twitter.com/ranjan_ananth", 
   img="/assets/2024/img/committee/ranjan.jpg"
 }
 \committeemember{
   name="Raye Kimmerer", 
-  info="""Co-Chair <a href="https://github.com/rayegun">GitHub</a>""",
+  info="""Co-Chair""",
   link="https://github.com/rayegun", 
   img="/assets/2025/img/committee/placeholder.png"
 }
 \committeemember{
   name="Katharine Hyatt", 
-  info="""Program Co-Chair <a href="https://twitter.com/kslimes">Twitter</a>""",
+  info="""Program Co-Chair""",
   link="https://twitter.com/kslimes", 
   img="/assets/2024/img/committee/kshyatt.jpeg"
 }
 \committeemember{
   name="Luca Ferranti", 
-  info="""Program Co-Chair <a href="https://github.com/lucaferranti">GitHub</a>""",
+  info="""Program Co-Chair""",
   link="https://github.com/lucaferranti", 
   img="/assets/2024/img/committee/luca.jpg"
 }
 \committeemember{
   name="Mark Kittisopikul", 
-  info="""Finance Chair <a href="https://twitter.com/markkitti">Twitter</a>""",
+  info="""Finance Chair""",
   link="https://twitter.com/markkitti", 
   img="/assets/2024/img/committee/mark.jpeg"
 }
 \committeemember{
   name="Alessandro Fascetti", 
-  info="""Local <a href="https://www.engineering.pitt.edu/people/faculty/alessandro-fascetti/">Website</a>""",
+  info="""Local""",
   link="https://www.engineering.pitt.edu/people/faculty/alessandro-fascetti/", 
   img="/assets/2025/img/committee/alessandro.jpeg"
 }
 \committeemember{
   name="Rachel Kurchin", 
-  info="""Local <a href="https://engineering.cmu.edu/directory/bios/kurchin-rachel.html">Website</a>""",
+  info="""Local""",
   link="https://engineering.cmu.edu/directory/bios/kurchin-rachel.html", 
   img="/assets/2025/img/committee/rachel.jpeg"
 }
 \committeemember{
   name="Letícia Maria Pequeno Madureira", 
-  info="""Local <a href="https://juliacon.org/2025/">JuliaCon</a>""",
+  info="""Local""",
   link="https://juliacon.org/2025/", 
   img="/assets/2025/img/committee/leticia.png"
 }
 \committeemember{
   name="Helmut Strey", 
-  info="""Finance <a href="https://www.stonybrook.edu/commcms/bme/people/h_strey.php">Website</a>""",
+  info="""Finance""",
   link="https://www.stonybrook.edu/commcms/bme/people/h_strey.php", 
   img="/assets/2025/img/committee/helmut.jpeg"
 }
 \committeemember{
   name="Ray Yang", 
-  info="""Finance <a href="https://www.linkedin.com/in/ray-yang-a03a63169/">LinkedIn</a>""",
-  link="https://juliacon.org/2025/", 
+  info="""Finance""",
+  link="https://www.linkedin.com/in/ray-yang-a03a63169/", 
   img="/assets/2025/img/committee/ray_yang.jpg"
 }
 \committeemember{
   name="Avik Sengupta", 
-  info="""Finance <a href="https://www.linkedin.com/in/aviks/?originalSubdomain=uk">LinkedIn</a>""",
+  info="""Finance""",
   link="https://www.linkedin.com/in/aviks/?originalSubdomain=uk", 
   img="/assets/2025/img/committee/avik.jpg"
 }
