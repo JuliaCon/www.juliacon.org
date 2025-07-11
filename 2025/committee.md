@@ -10,6 +10,12 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
   img="/assets/2024/img/committee/ranjan.jpg"
 }
 \committeemember{
+  name="Raye Kimmerer", 
+  info="""Co-Chair <a href="https://github.com/rayegun">GitHub</a>""",
+  link="https://github.com/rayegun", 
+  img="/assets/2024/img/committee/placeholder.jpg"
+}
+\committeemember{
   name="Katharine Hyatt", 
   info="""Program Co-Chair <a href="https://twitter.com/kslimes">Twitter</a>""",
   link="https://twitter.com/kslimes", 
@@ -59,9 +65,9 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
 }
 \committeemember{
   name="Avik Sengupta", 
-  info="""Finance <a href="https://juliacon.org/2025/">JuliaCon</a>""",
-  link="https://juliacon.org/2025/", 
-  img="/assets/2024/img/committee/placeholder.jpg"
+  info="""Finance <a href="https://www.linkedin.com/in/aviks/?originalSubdomain=uk">LinkedIn</a>""",
+  link="https://www.linkedin.com/in/aviks/?originalSubdomain=uk", 
+  img="/assets/2025/img/committee/avik.jpg"
 }
 
 
