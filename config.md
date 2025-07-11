@@ -191,7 +191,6 @@ configuration = Dict(
             ],
             "Minisymposia" => "/2025/minisymposia",
             "Call for Proposals"=>  "/2025/cfp",
-            "Housing" => "/2025/housing/",
             "Venue" => "/2025/travel",
         ]
     ),
