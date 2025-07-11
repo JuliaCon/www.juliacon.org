@@ -13,7 +13,7 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
   name="Raye Kimmerer", 
   info="""Co-Chair <a href="https://github.com/rayegun">GitHub</a>""",
   link="https://github.com/rayegun", 
-  img="/assets/2024/img/committee/placeholder.jpg"
+  img="/assets/2025/img/committee/placeholder.png"
 }
 \committeemember{
   name="Katharine Hyatt", 
