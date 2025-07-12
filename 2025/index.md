@@ -25,6 +25,10 @@ Head to the UPitt Housing Portal [here](https://panthercentralpitt.wufoo.com/for
 If you require a supporting letter of invitation for a visa application or to enter the United States, please fill out [this form](https://forms.gle/thnxVEw2qpZUAH2d9). 
 \end{box}
 
+\begin{box}{title="Review accessibility presentation guidelines", color="purple"}
+To make your presentation accessible to everyone, review the [JuliaCon accessibility guidelines for presentations](../_assets/2025/img/AccessibilityGuidelinesJuliaCon.pdf). 
+\end{box}
+
 ~~~
 <!-- END of CONTAINER + MASONRY -->
   </div>
