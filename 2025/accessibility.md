@@ -54,4 +54,4 @@ Accessible PowerPoints and Inclusive Presentations ](https://www.jmu.edu/accessi
 
 # Travel with a disability
 
-Read our [Travel with a disability](/2024/travel/#travel_with_a_disability) page for more information on how to make your travel to JuliaCon as smooth as possible.
+Read our [Travel with a disability](/2025/travel/#Accessibility) page for more information on how to make your travel to JuliaCon as smooth as possible.
