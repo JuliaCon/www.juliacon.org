@@ -41,6 +41,12 @@ some of your audience might not be able to:
 - Describe all images, graphs, and charts. Provide a brief description of videos before playing them.
 - Be mindful of potential accessibility issues during interactive activities, including Q&A sessions. Use a microphone if available and always repeat questions so everyone can hear.
 
+More guidelines can be found in this presentation: 
+
+[Guidelines for accessibility - PDF](../_assets/2025/img/AccessibilityGuidelinesJuliaCon.pdf)
+
+[Guidelines for accessibility - Power Point](../_assets/2025/img/AccessibilityGuidelinesJuliaCon.pptx)
+
 ---
 
 Read [Best Practices for Creating
@@ -48,4 +54,4 @@ Accessible PowerPoints and Inclusive Presentations ](https://www.jmu.edu/accessi
 
 # Travel with a disability
 
-Read our [Travel with a disability](/2024/travel/#travel_with_a_disability) page for more information on how to make your travel to JuliaCon as smooth as possible.
+Read our [Travel with a disability](/2025/travel/#Accessibility) page for more information on how to make your travel to JuliaCon as smooth as possible.
