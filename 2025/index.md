@@ -26,7 +26,7 @@ If you require a supporting letter of invitation for a visa application or to en
 \end{box}
 
 \begin{box}{title="Review accessibility presentation guidelines", color="purple"}
-To make your presentation accessible to everyone, review the [JuliaCon accessibility guidelines for presentations](../_assets/2025/img/AccessibilityGuidelinesJuliaCon.pdf). 
+To make your presentation accessible to everyone, review the [JuliaCon accessibility guidelines for presentations](../assets/2025/img/AccessibilityGuidelinesJuliaCon.pdf). 
 \end{box}
 
 ~~~
