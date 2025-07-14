@@ -42,7 +42,7 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
 \committeemember{
   name="Letícia Maria Pequeno Madureira", 
   info="""Local""",
-  link="https://juliacon.org/2025/", 
+  link="https://github.com/Leticia-maria", 
   img="/assets/2025/img/committee/leticia.png"
 }
 \committeemember{
