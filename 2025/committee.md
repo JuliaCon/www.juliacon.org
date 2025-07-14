@@ -7,7 +7,7 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
   name="Ranjan Anantharaman", 
   info="""Co-Chair""", 
   link="https://www.linkedin.com/in/ranjanan/", 
-  img="/assets/2024/img/committee/ranjan.jpg"
+  img="/assets/2025/img/committee/ranjan.jpeg"
 }
 \committeemember{
   name="Raye Kimmerer", 
@@ -18,7 +18,7 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
 \committeemember{
   name="Katharine Hyatt", 
   info="""Program Co-Chair""",
-  link="https://twitter.com/kslimes", 
+  link="http://kshyatt.bsky.social/", 
   img="/assets/2024/img/committee/kshyatt.jpeg"
 }
 \committeemember{
