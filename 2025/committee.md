@@ -6,7 +6,7 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
 \committeemember{
   name="Ranjan Anantharaman", 
   info="""Co-Chair""", 
-  link="https://twitter.com/ranjan_ananth", 
+  link="https://www.linkedin.com/in/ranjanan/", 
   img="/assets/2024/img/committee/ranjan.jpg"
 }
 \committeemember{
