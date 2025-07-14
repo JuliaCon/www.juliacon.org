@@ -28,20 +28,14 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
   img="/assets/2024/img/committee/luca.jpg"
 }
 \committeemember{
-  name="Mark Kittisopikul", 
-  info="""Finance Chair""",
-  link="https://twitter.com/markkitti", 
-  img="/assets/2024/img/committee/mark.jpeg"
-}
-\committeemember{
   name="Alessandro Fascetti", 
-  info="""Local""",
+  info="""Local Co-Chair""",
   link="https://www.engineering.pitt.edu/people/faculty/alessandro-fascetti/", 
   img="/assets/2025/img/committee/alessandro.jpeg"
 }
 \committeemember{
   name="Rachel Kurchin", 
-  info="""Local""",
+  info="""Local Co-Chair""",
   link="https://engineering.cmu.edu/directory/bios/kurchin-rachel.html", 
   img="/assets/2025/img/committee/rachel.jpeg"
 }
@@ -50,6 +44,18 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
   info="""Local""",
   link="https://juliacon.org/2025/", 
   img="/assets/2025/img/committee/leticia.png"
+}
+\committeemember{
+  name="Ethan Meitz", 
+  info="""Local""",
+  link="https://ethanmeitz.com", 
+  img="/assets/2025/img/committee/ethan.png"
+}
+\committeemember{
+  name="Mark Kittisopikul", 
+  info="""Finance Chair""",
+  link="https://twitter.com/markkitti", 
+  img="/assets/2024/img/committee/mark.jpeg"
 }
 \committeemember{
   name="Helmut Strey", 
