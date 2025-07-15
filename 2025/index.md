@@ -29,6 +29,10 @@ If you require a supporting letter of invitation for a visa application or to en
 To make your presentation accessible to everyone, review the [JuliaCon accessibility guidelines for presentations](../assets/2025/img/AccessibilityGuidelinesJuliaCon.pdf). 
 \end{box}
 
+\begin{box}{title="Community Prize 2025", color="purple"}
+Recognize great work by [nominating someone](https://forms.gle/dC2gtbcAxACPUxcr5) for the 2025 Julia Community Prize. Winners will be announced at JuliaCon!
+\end{box}
+
 ~~~
 <!-- END of CONTAINER + MASONRY -->
   </div>
