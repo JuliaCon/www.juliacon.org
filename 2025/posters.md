@@ -1,6 +1,6 @@
 # Posters
 
-JuliaCon poster session will be on **Friday July 25th from 18:00 to 20:00 in the Alumni hall, Connolly Ballroom**
+JuliaCon poster session will be on **Thursday July 24th from 18:00 to 20:00 in the [Alumni hall, Connolly Ballroom](https://maps.app.goo.gl/Ab58R7xhgQ1EdoUr6)**
 
 ## Information for presenters
 
