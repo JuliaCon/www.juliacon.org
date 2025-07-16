@@ -129,10 +129,6 @@ To get in the mood for the exciting content we are preparing, you can watch all 
 For any questions and inquiries, please send an email to [paris25@julialang.org](mailto:paris25@julialang.org).
 \end{box}
 
-\begin{box}{title="Financial support for attendees", color="green"}
-  Fill out [this form](https://cryptpad.fr/form/#/2/form/view/Y2zeHTUsbxBVJ9gAB4v8R3hP7FSEckHrub8aI5eVBTE) to apply for diversity scholarships or speaker funding!
-\end{box}
-
 ~~~
 <!-- END of CONTAINER + MASONRY -->
   </div>

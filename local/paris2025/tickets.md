@@ -15,7 +15,7 @@ top_logo_link="/local/paris2025"
 
 Registration link: **<https://pretix.eu/pydata/juliaconparis25/>** (or see below)
 
-Grant application link: **<https://cryptpad.fr/form/#/2/form/view/Y2zeHTUsbxBVJ9gAB4v8R3hP7FSEckHrub8aI5eVBTE/>**
+Grant application link (closed): **<https://cryptpad.fr/form/#/2/form/view/Y2zeHTUsbxBVJ9gAB4v8R3hP7FSEckHrub8aI5eVBTE/>**
 
 ~~~
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/pydata/juliaconparis25/widget/v1.css" crossorigin>
