@@ -183,6 +183,7 @@ configuration = Dict(
                 "Talks" => "https://pretalx.com/juliacon-2025/schedule/",
                 "Keynotes" => "/2025/keynotes",
                 "Workshops" => "/2025/workshops",
+                "Posters" => "/2025/posters"
             ],
             "Sponsor" => "/2025/sponsor",
             "Guidelines" => [
