@@ -197,7 +197,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 
 \begin{centered}{title="Silver", margin_bottom="3ex"}
   \sponsor{name="ASML", link="https://www.asml.com/", img="/assets/2025/img/sponsors/asml-logo.png", level=2}
-  \sponsor{name="AWS", link="https://aws.amazon.com/", img="/assets/2025/img/sponsors/aws-logo.svg", level=2}
+  \sponsor{name="AWS", link="https://aws.amazon.com/", img="/assets/2025/img/sponsors/aws.png", level=1}
 \end{centered}
 
 \begin{centered}{title="Bronze", margin_bottom="3ex"}
