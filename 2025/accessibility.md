@@ -43,9 +43,9 @@ some of your audience might not be able to:
 
 More guidelines can be found in this presentation: 
 
-[Guidelines for accessibility - PDF](../assets/2025/img/AccessibilityGuidelinesJuliaCon.pdf)
+[Guidelines for accessibility - PDF](../../assets/2025/img/AccessibilityGuidelinesJuliaCon.pdf)
 
-[Guidelines for accessibility - Power Point](../assets/2025/img/AccessibilityGuidelinesJuliaCon.pptx)
+[Guidelines for accessibility - Power Point](../../assets/2025/img/AccessibilityGuidelinesJuliaCon.pptx)
 
 ---
 
