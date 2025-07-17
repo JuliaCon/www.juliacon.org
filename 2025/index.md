@@ -173,7 +173,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 \end{box}
 
 \begin{box}{title="Social Media Template", color="dark-blue"}
-  Feel free to use our [social media template](../../assets/2025/talks_template.svg) to promote your talk or workshop at JuliaCon 2025. Be sure to replace the text with your own information. Clip your photo to the black circle to have the white border around it.
+  Feel free to use our [social media template](../../assets/2025/img/talks_template.svg) to promote your talk or workshop at JuliaCon 2025. Be sure to replace the text with your own information. Clip your photo to the black circle to have the white border around it.
 \end{box}
 
 
