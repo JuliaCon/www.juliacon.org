@@ -171,7 +171,7 @@ configuration = Dict(
         "global" => true,
         "year" => 2025,
         "location" => "Pittsburgh",
-        "alert" => """[Nominate someone](https://forms.gle/TEQzt2vK3pVPtJ9d7) for the 2025 Julia Community Prize!""",
+        "alert" => """<a href="https://forms.gle/TEQzt2vK3pVPtJ9d7">Nominate someone</a> for the 2025 Julia Community Prize!""",
         "site_name" => "JuliaCon 2025",
         "site_descr" => "JuliaCon 2025, Pittsburgh",
         "site_url" => "https://juliacon.org/2025/",
