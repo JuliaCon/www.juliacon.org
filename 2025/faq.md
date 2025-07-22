@@ -6,11 +6,11 @@ Email parking@bc.pitt.edu and say you're participating in a conference on campus
 
 ### Where will JuliaCon be livestreamed?
 
-The official JuliaCon program (Wed 23rd July - Fri 25th July) will be livestreamed through our YouTube channel. Workshops will **not** be livestreamed. 
+The official JuliaCon program (Wed 23rd July - Fri 25th July) will be livestreamed through our [YouTube channel](https://www.youtube.com/c/TheJuliaLanguage). Workshops will **not** be livestreamed. 
 
 ### What is the venue for the workshops?
 
-The workshops will all take place at David Lawrence Hall. 
+The workshops will all take place at David Lawrence Hall. For more information on the venue, check our [venue page](/2025/venue).
 
 ### What is the venue for the talks?
 
