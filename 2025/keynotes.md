@@ -60,4 +60,12 @@ Healthcare systems face numerous challenges in operating efficiently and serving
 <div style="height:1em;display:block;"></div>
 ~~~
 
+### 80 Years of Computing with the Elimination Algorithm 
+
+The solution of a linear system, i.e., given a matrix A and vector b, finding a vector x satisfying Ax = b, is one of the oldest problems in mathematics. Gaussian elimination is one of the most fundamental and well-known techniques for solving linear systems, by factoring a matrix into the product of a lower and upper triangular matrix. Surprisingly, a number of questions regarding the numerical stability of this algorithm remains. In this talk, we will study the history of this subject, a story that spans eighty years, and discuss some recent progress. We'll also highlight the role of Julia in this progress.
+
+~~~
+<div style="height:1em;display:block;"></div>
+~~~
+
 ---
