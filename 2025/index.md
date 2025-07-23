@@ -51,6 +51,7 @@ If you are an accepted speaker and require a travel funding, please fill out [th
 \keynote{name="Prith Banerjee", affil="ANSYS", link="https://www.linkedin.com/in/prith-banerjee/", img="/assets/2025/img/keynotes/prith.jpg", title="Challenges and Opportunities of Digital Twins"}
 \keynote{name="Bob Metcalfe", affil="Julia Lab, MIT", link="https://www.invent.org/inductees/robert-m-metcalfe", img="/assets/2025/img/keynotes/bob_metcalfe.jpg", title = "Fireside Chat with Dr. Bob Metcalfe"}
 \keynote{name="Karandeep Singh", affil="UC San Diego", link="https://profiles.ucsd.edu/karandeep.singh", img="/assets/2025/img/keynotes/karandeep.jpg", title="An AI Agenda to Modernize Healthcare Operations"}
+\keynote{name="John Urschel", affil="MIT", link="https://math.mit.edu/~urschel/", img="/assets/2025/img/keynotes/john.jpg", title="80 Years of Computing with the Elimination Algorithm"}
 @@
 \\
 @@row,row-section,justify-content-md-center
