@@ -45,9 +45,9 @@ Welcome to **JuliaCon Local Paris 2025**, the latest European conference for the
 \\
 
 @@row,row-section
-\keynote{name="Laura Grigori", affil="", link="https://people.epfl.ch/laura.grigori", title="Full Professor, <a href='https://www.epfl.ch/en/'>EPFL</a>", img="/assets/local/paris2025/img/speakers/laura_grigori.png"}
-\keynote{name="Ivet Galabova", affil="", link="https://www.linkedin.com/in/ivet-galabova/", title="Development and Integration Manager, <a href='https://highs.dev/'>HiGHS</a>", img="/assets/local/paris2025/img/speakers/ivet_galabova.jpg"}
-\keynote{name="Tim Besard", affil="", link="https://www.linkedin.com/in/tim-besard-6b766031/", title="Software engineer, <a href='https://juliahub.com/'>JuliaHub</a>", img="/assets/local/paris2025/img/speakers/tim_besard.jpg"}
+\keynote{name="Laura Grigori", affil="EPFL", link="/local/paris2025/program/#randomization_for_solving_high-dimensional_problems_algorithms_and_software", title="Randomization for solving high dimensional problems: algorithms and software", img="/assets/local/paris2025/img/speakers/laura_grigori.png"}
+\keynote{name="Ivet Galabova", affil="HiGHS", link="/local/paris2025/program/#highs_the_story_so_far", title="HiGHS: The Story So Far", img="/assets/local/paris2025/img/speakers/ivet_galabova.jpg"}
+\keynote{name="Tim Besard", affil="JuliaHub", link="/local/paris2025/program/#kernels_without_borders_parallel_programming_with_kernelabstractionsjl", title="Kernels without borders: Parallel programming with KernelAbstractions.jl", img="/assets/local/paris2025/img/speakers/tim_besard.jpg"}
 @@
 \\
 
