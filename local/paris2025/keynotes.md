@@ -3,22 +3,11 @@ top_logo_custom="/assets/local/paris2025/img/logo_paris.svg"
 top_logo_link="/local/paris2025"
 +++
 
-# Program
-
-JuliaCon Local Paris 2025 will take place on Thursday October 2nd and Friday October 3rd, right after [PyData Paris 2025](https://pydata.org/paris2025).
-
-It will include:
-
-- plenaries by inspiring scientists and developers
-- parallel tracks for talks and tutorials
-- a poster session
-- a hackathon on Friday afternoon
-
-## Plenary speakers
+# Keynotes
 
 We are excited to announce our three confirmed keynotes, with speakers visiting from Switzerland, Scotland and Belgium!
 
-### Randomization for solving high-dimensional problems: algorithms and software
+## Randomization for solving high-dimensional problems: algorithms and software
 
 Randomization is a powerful dimensionality reduction technique that allows to solve large scale problems while leveraging optimized kernels and enabling the usage of mixed precision.
 In this talk we will review recent progress in using randomization for solving linear systems of equations or eigenvalue problems.
@@ -37,7 +26,7 @@ We finally discuss their implementation in a Julia library.
     bio="Laura Grigori is a Professor at EPFL and former Director of Research at Inria, where she led the Alpines team. Her research focuses on numerical linear algebra, communication-avoiding algorithms, and scalable solvers for scientific computing. She has made influential contributions to high-performance computing with applications in physics and engineering."
 }
 
-### HiGHS: The Story So Far
+## HiGHS: The Story So Far
 
 This talk presents HiGHS, the world's leading open-source solver for large-scale, sparse linear programming and mixed integer programming problems.
 We will discuss the types of problems handled by HiGHS, its solution methods, and some of the challenges we have faced in transforming them into software.
@@ -51,7 +40,7 @@ We will also talk about scaling software, platforms, interfaces and maintaining 
     bio="Ivet Galabova is the Development and Integration Manager of HiGHS, the world's leading open-source optimization software. Ivet is a mathematician and research software engineer with a strong interest in linear (LP), mixed integer (MIP) and quadratic (QP) programming problems, build systems and interfaces. Along with completing a PhD in Optimization and Operations Research at the University of Edinburgh, Ivet has been closely involved in the development of the HiGHS from the start of the project in 2017. HiGHS can be used via the HiGHS.jl package in Julia."
 }
 
-### Kernels without borders: Parallel programming with `KernelAbstractions.jl`
+## Kernels without borders: Parallel programming with `KernelAbstractions.jl`
 
 Modern computing relies on parallelism, from GPUs accelerating AI workloads to multi-core CPUs in every laptop.
 But writing code that harnesses this power across different hardware remains challenging.
