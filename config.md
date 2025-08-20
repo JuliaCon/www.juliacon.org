@@ -210,15 +210,16 @@ configuration = Dict(
         "main_heading_color" => "black",
         "header_color" => "#389826",
         "header" => [
+            "Schedule" => "https://pretalx.com/juliacon-local-paris-2025/schedule/",
+            "Keynotes" => "/local/paris2025/keynotes",
             "Venue" => "/local/paris2025/venue",
-            "Program" => "/local/paris2025/program",
-            "Call for Proposals" => "/local/paris2025/cfp",
             "Tickets" => "/local/paris2025/tickets",
-            "Committee" => "/local/paris2025/committee",
             "Sponsor" => "/local/paris2025/sponsor",
             "Guidelines" => [
                 "Code of Conduct" => "/local/paris2025/coc",
+                "Accessibility" => "/local/paris2025/accessibility",
             ],
+            "Committee" => "/local/paris2025/committee",
         ]
     ),
 )

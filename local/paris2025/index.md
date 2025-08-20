@@ -20,6 +20,8 @@ footer_hide_social_media = true
 @@row,row-section
 @@col-12 
 Welcome to **JuliaCon Local Paris 2025**, the latest European conference for the Julia programming language community! Meet fellow developers, researchers, and enthusiasts from around the globe to celebrate and explore the power and versatility of Julia.
+
+The conference will take place on Thursday October 2nd and Friday October 3rd, right after [**PyData Paris 2025**](https://pydata.org/paris2025).
 @@
 @@
 \\
@@ -40,6 +42,24 @@ Welcome to **JuliaCon Local Paris 2025**, the latest European conference for the
 @@
 \\
 
+\begin{rowheader}{title="Program", color=""}\end{rowheader}
+
+JuliaCon Local Paris 2025 will feature:
+
+- keynotes by inspiring scientists and developers
+- parallel tracks for talks and tutorials
+- poster sessions
+- a hackathon on Friday afternoon
+
+@@row,row-section,justify-content-md-center
+  @@col-12,col-md-6,text-center
+  ~~~
+  <h2 class="btn" style="width: 100%; border-color: #9d253d;">
+    <a style="font-size: x-large; color: #9d253d; text-decoration: none;" href="https://pretalx.com/juliacon-local-paris-2025/schedule/">Check out the full schedule!</a>
+  </h2>
+  ~~~
+  @@
+@@
 
 \begin{rowheader}{title="Keynote Speakers", color=""}\end{rowheader}
 \\
@@ -127,6 +147,10 @@ To get in the mood for the exciting content we are preparing, you can watch all 
 
 \begin{box}{title="Contact", color="dark-blue"}
 For any questions and inquiries, please send an email to [paris25@julialang.org](mailto:paris25@julialang.org).
+\end{box}
+
+\begin{box}{title="Supporting our attendees", color="green"}
+  Financial support has been awarded on a case-by-case basis, in the form of diversity scholarships and speaker funding: see details at this [grant application link](https://cryptpad.fr/form/#/2/form/view/Y2zeHTUsbxBVJ9gAB4v8R3hP7FSEckHrub8aI5eVBTE/) (now closed).
 \end{box}
 
 ~~~
