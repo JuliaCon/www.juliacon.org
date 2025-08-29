@@ -1,17 +1,14 @@
 # Julia Community Prize
 
-The Julia Community Prize 2024 winners have been announced! Winners recieve a certificate of accomplishment and a cash award of USD 1000 shared among each group.
+The Julia Community Prize 2025 winners have been announced! Winners recieve a certificate of accomplishment and a cash award of USD 1000.
 
-## 2024 Community Prize Winners: 
+## 2025 Community Prize Winners: 
 
-### Guillaume Dalle 
-For their various contributions to the Julia ecosystem including DifferentiationInterface and the Modern Julia Workflows guide.
+### Claire Foster  
+For their work on JuliaSyntax and JuliaLowering.
 
-### The Makie team (Simon Danisch, Julius Krumbiegel, Frederic Freyer, and Anshul Singhvi)
-For their contributions to Makie and improving interactive data visualization in Julia.
-
-### The JuMP team (Oscar Dowson, Benoît Legat, and Miles Lubin)
-For their long term commitment and contributions to JuMP.
+### Stefan Krastanov
+For their effort in organizing the Quantum Community and the "This Month in Julia World" newsletter. 
 
 ## Awards Committee
 
