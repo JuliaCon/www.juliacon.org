@@ -171,7 +171,7 @@ configuration = Dict(
         "global" => true,
         "year" => 2025,
         "location" => "Pittsburgh",
-        "alert" => """<a href="https://www.youtube.com/c/TheJuliaLanguage">Watch the livestream!</a>""",
+        "alert" => """The <a href="https://www.youtube.com/@TheJuliaLanguage/streams">recorded streams<a> for the conference are on YouTube!</a>""",
         "site_name" => "JuliaCon 2025",
         "site_descr" => "JuliaCon 2025, Pittsburgh",
         "site_url" => "https://juliacon.org/2025/",
@@ -220,6 +220,19 @@ configuration = Dict(
                 "Accessibility" => "/local/paris2025/accessibility",
             ],
             "Committee" => "/local/paris2025/committee",
+        ]
+    ),
+    "2026" => Dict(
+        "global" => true,
+        "year" => 2026,
+        "location" => "Mainz, Germany",
+        "alert" => """Save the date Aug 10-15th, 2026""",
+        "site_name" => "JuliaCon 2026",
+        "site_descr" => "JuliaCon 2026, Mainz",
+        "site_url" => "https://juliacon.org/2026/",
+        "main_heading_color" => "black",
+        "header_color" => "#389826",
+        "header" => [
         ]
     ),
 )
