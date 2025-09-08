@@ -13,17 +13,6 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 <div class="container">
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
-\begin{box}{title="Tickets Now Available", color="dark-blue"}
-[Get your ticket today!](/2025/tickets/)
-\end{box}
-
-\begin{box}{title="Recording", color="red"}
-If you require a supporting jletter of invitation for a visa application or to enter the United States, please fill out [this form](https://forms.gle/thnxVEw2qpZUAH2d9). 
-\end{box}
-
-\begin{box}{title="Review accessibility presentation guidelines", color="purple"}
-To make your presentation accessible to everyone, review the [JuliaCon accessibility guidelines for presentations](../assets/2025/img/AccessibilityGuidelinesJuliaCon.pdf). 
-\end{box}
 
 \begin{box}{title="Community Prize 2025", color="dark-green"}
 The winners of the [Community Prize 2025](prize/) have been accounced. 
@@ -66,21 +55,21 @@ If you are an accepted speaker and require a travel funding, please fill out [th
 \begin{rowheader}{title="Venue", color=""}\end{rowheader}
 @@row,row-section
 @@col-12 
-JuliaCon 2026 will host talks and workshops at the Johannes-Gutenberg-University Mainz.
+JuliaCon 2026 will host talks and workshops at the Johannes-Gutenberg University Mainz.
 @@
 @@
 
 
-<!-- ~~~
+<~~~
 <br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.4698521616774!2d-79.9552451!3d40.442736599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8834f228541d5921%3A0xa9e42410df503e8f!2sLawrence%20Hall!5e0!3m2!1sen!2sus!4v1748621392902!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-~~~ -->
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3524.248145917799!2d8.241299730799065!3d49.991835413453636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd96ea3de810af%3A0xe9344ff3bb0044ab!2sJohannes%20Gutenberg%20University%20of%20Mainz!5e0!3m2!1sen!2sde!4v1757324969376!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+~~~ 
 
 \begin{rowheader}{title="JuliaCon at a Glance", color=""}\end{rowheader}
 
 @@row,row-section
 @@col-12 
-Welcome to **JuliaCon 2025**, the premier annual conference for the Julia programming language community! This exciting event brings together developers, researchers, and enthusiasts from around the globe to celebrate and explore the power and versatility of Julia. 
+Welcome to **JuliaCon 2026**, the premier annual conference for the Julia programming language community! This exciting event brings together developers, researchers, and enthusiasts from around the globe to celebrate and explore the power and versatility of Julia. 
 @@
 @@
 
