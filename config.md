@@ -233,7 +233,7 @@ configuration = Dict(
         "main_heading_color" => "black",
         "header_color" => "#389826",
         "header" => [
-            "Code of Conduct" => "/2026/coc"
+            "Code of Conduct" => "/2026/coc",
             "Committee" => "/2026/committee",
         ]
     ),
