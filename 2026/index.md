@@ -5,7 +5,7 @@ title = "JuliaCon 2026"
 insert_top_title = true
 top_title = "JuliaCon 2026\n"
 top_description = "Conference on the Julia programming language.\n"
-top_date = "JGU Mainz, Germany. August 10-15, 2026.\n"
+top_date = "Johannes Gutenberg University Mainz, Germany. August 10-15, 2026.\n"
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
 +++
 
@@ -55,7 +55,7 @@ If you are an accepted speaker and require a travel funding, please fill out [th
 \begin{rowheader}{title="Venue", color=""}\end{rowheader}
 @@row,row-section
 @@col-12 
-JuliaCon 2026 will host talks and workshops at the Johannes-Gutenberg University Mainz.
+JuliaCon 2026 will host talks and workshops at the Johannes Gutenberg University Mainz.
 @@
 @@
 
