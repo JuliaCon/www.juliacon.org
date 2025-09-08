@@ -5,8 +5,8 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
 
 ### Joining the Committee
 
-Each year, the previous years JuliaCon committee is usually asked to return. If certain members are no longer able to continue in their role, the existing committee members will work to find a replacement. JuliaCon committee members are generally folks who have been long term contributors to the community or made significant contributors in recent years. Generally, the JuliaCon Chair/co-chair's lead the effort to recruit committee members.
+Each year, the previous years JuliaCon committee is usually asked to return. If certain members are no longer able to continue in their role, the existing committee members will work to find a replacement. JuliaCon committee members are generally folks who have been long-term contributors to the community or have made significant contributions in recent years. Generally, the JuliaCon chair/co-chairs lead the effort to recruit committee members.
 
-The committee is also open to nominations (you can nominate yourself) for vacant positions or positions that do not exist but you think would provide value to the conference. Nominations are accepted on a rolling basis and reviewed by the current committee as needed. While many current committee members have been long term Julia contributors, this is not a hard requirement. Being a long term member of the community comes with its blind spots, so if there is a unique angle you believe your nominee (including yourself) brings to the table, we would love to hear more!
+The committee is also open to nominations (you can nominate yourself) for vacant positions or positions that do not exist, but you think would provide value to the conference. Nominations are accepted on a rolling basis and reviewed by the current committee as needed. While many current committee members have been long-term Julia contributors, this is not a hard requirement. Being a long-term member of the community comes with its blind spots, so if there is a unique angle you believe your nominee (including yourself) brings to the table, we would love to hear more!
 
-[Here is the Nomination form](https://forms.gle/yaLKyrGew2KSo1WJ8).
+[Here is the nomination form](https://forms.gle/yaLKyrGew2KSo1WJ8).
