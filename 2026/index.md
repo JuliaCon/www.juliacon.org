@@ -15,7 +15,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 ~~~
 
 \begin{box}{title="Community Prize 2025", color="dark-green"}
-The winners of the [Community Prize 2025](prize/) have been accounced. 
+The winners of the [Community Prize 2025](../2025/prize/) have been accounced. 
 \end{box}
 
 ~~~
