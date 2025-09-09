@@ -5,10 +5,10 @@ top_logo_link="/local/paris2025"
 
 # Tickets
 
-\begin{widebox}{title="Tickets are available", color="purple"}
-  Get your spot on Pretix before the end of the early bird period (August 31st)!
-
-  Registration link: **<https://pretix.eu/pydata/juliaconparis25/>** (or see below)
+\begin{widebox}{title="Tickets are no longer publicly available", color="purple"}
+  We have almost reached venue capacity and will only accept additional registrations from talk/poster presenters or sponsors. Those people can still use the pretix form website, but every booking will be manually validated by the organization committee. 
+  
+  Registration link: **<https://pretix.eu/pydata/juliaconparis25/>** (or see below).
 \end{widebox}
 
 ~~~

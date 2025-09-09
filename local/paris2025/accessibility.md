@@ -1,9 +1,15 @@
 # Accessibility
 
 JuliaCon Local Paris is committed to providing an accessible and inclusive environment to every attendee.
-We want everyone to get the most from the presentations at JuliaCon, whether they're attending in person or watching online. 
+We want everyone to get the most from the presentations at JuliaCon, whether they're attending in person or watching online.
 
 Feel free to reach out to the organising committee at \email for any additional concerns.
+
+\begin{widebox}{title="No elevator at the venue", color="red"}
+Unfortunately, the venue is not accessible to people who use a wheelchair.
+It is an old building without an elevator, and reaching the amphitheaters requires walking down several flights of stairs.
+We apologize for this unfortunate situation.
+\end{widebox}
 
 ## Presentation Guidelines
 
