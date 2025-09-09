@@ -157,7 +157,13 @@ function hfun_julia_editions()
       i == length(post_years) || write(io_post, "/")
     end
 
-    pre_years = (year - 1):-1:2014
+    local_event = startswith(locvar(:fd_rpath)::String, "local")
+    if local_event
+      # Local event include global events in the "previous editions" menu
+      pre_years = year:-1:2014
+    else
+      pre_years = (year - 1):-1:2014
+    end
     io_prev = IOBuffer()
     for (i, y) in enumerate(pre_years)
         write(io_prev, """<a href="/$y/">$y</a>""")
