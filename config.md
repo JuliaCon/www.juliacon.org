@@ -5,7 +5,7 @@ prepath = get(ENV, "PREVIEW_FRANKLIN_PREPATH", "")
 website_url = get(ENV, "PREVIEW_FRANKLIN_WEBSITE_URL", "juliacon.org")
 
 # Current year
-year = "2025"
+year = "2026"
 
 generate_rss = false
 mintoclevel = 2
