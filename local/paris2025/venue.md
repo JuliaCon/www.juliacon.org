@@ -30,3 +30,9 @@ Common ways to reach the city include:
 
 The area around the venue offers plenty of options for hotels and flat rentals.
 If the prices seem excessive, don't hesitate to look further and even outside the city center: as long as you can get to _"Châtelet - Les Halles"_ station (using the RER line A, B or D), the venue will be close by.
+
+## Accessibility
+
+Unfortunately, the venue is not accessible to people who use a wheelchair.
+It is an old building without an elevator, and reaching the amphitheaters requires walking down several flights of stairs.
+We apologize for this unfortunate situation.
