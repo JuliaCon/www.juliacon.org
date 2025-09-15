@@ -5,7 +5,7 @@ top_logo_link="/local/paris2025"
 
 # Jobs
 
-Our conference sponsors have some exciting job offers to share with conference participants!
+Our conference sponsors have some exciting job offers to share!
 
 ## Eutelsat
 
