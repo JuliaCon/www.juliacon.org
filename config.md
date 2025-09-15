@@ -215,6 +215,7 @@ configuration = Dict(
             "Venue" => "/local/paris2025/venue",
             "Tickets" => "/local/paris2025/tickets",
             "Sponsor" => "/local/paris2025/sponsor",
+            "Jobs" => "/local/paris2025/jobs",
             "Guidelines" => [
                 "Code of Conduct" => "/local/paris2025/coc",
                 "Accessibility" => "/local/paris2025/accessibility",
