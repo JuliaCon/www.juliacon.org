@@ -170,6 +170,7 @@ For any questions and inquiries, please send an email to [paris25@julialang.org]
 
 \begin{centered}{title="Platinum sponsors", margin_bottom="3ex"}
   \sponsor{name="Temple Capital", link="https://www.temple.capital/", img="/assets/local/paris2025/img/sponsors/temple_capital.png", level=1}
+  \sponsor{name="CodeGlass", link="https://codeglass.io/", img="/assets/local/paris2025/img/sponsors/codeglass.png", level=1}
 \end{centered}
 
 \begin{centered}{title="Gold sponsors", margin_bottom="3ex"}
