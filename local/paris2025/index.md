@@ -175,7 +175,7 @@ For any questions and inquiries, please send an email to [paris25@julialang.org]
 
 \begin{centered}{title="Gold sponsors", margin_bottom="3ex"}
   \sponsor{name="JuliaHub", link="https://juliahub.com/", img="/assets/local/paris2025/img/sponsors/juliahub.png", level=3}
-  \sponsor{name="Eutelsat OneWeb", link="https://oneweb.net/", img="/assets/local/paris2025/img/sponsors/eutelsat_oneweb.png", level=3}
+  \sponsor{name="Eutelsat OneWeb", link="https://oneweb.net/", img="/assets/local/paris2025/img/sponsors/eutelsat.png", level=3}
   \sponsor{name="Pumas AI", link="https://pumas.ai/", img="/assets/local/paris2025/img/sponsors/pumasai.png", level=3}
 \end{centered}
 
