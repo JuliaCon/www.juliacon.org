@@ -54,6 +54,9 @@ If you are submitting a minisymposium that you think would particularly benefit 
 
 In the submission form you are asked to include an **abstract** and a **description** for your minisymposium. The abstract should be a shorter, self-contained summary of the minisymposium. The description can contain more details, such as a draft schedule of the minisymposium, more background and so on. As a rule of thumb, write the abstract to spark interest and the description to give more details to the interested reader.
 
+### Submitting
+The call for minisymposia is live on the **[JuliaCon pretalx](https://pretalx.com/juliacon-2026/cfp)**
+
 ### Recordings and materials
 JuliaCon 2026 will be an in-person conference. In person talks will be live-streamed to YouTube. We also ask you to make your materials and recording available under a Creative Commons (default: no commercial reuse) or other open source license.
 

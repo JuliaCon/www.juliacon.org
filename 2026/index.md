@@ -18,6 +18,10 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 The winners of the [Community Prize 2025](../2025/prize/) have been accounced. 
 \end{box}
 
+\begin{box}{title="Call for Minisymposia"}
+The [call for minisympoisa](minisymposia_cfp) is live. Deadline **December 2nd 2025 20:00 (CET)**.
+\end{box}
+
 ~~~
 <!-- END of CONTAINER + MASONRY -->
   </div>
