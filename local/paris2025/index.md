@@ -26,6 +26,11 @@ The conference will take place on Thursday October 2nd and Friday October 3rd, r
 @@
 \\
 
+\begin{box}{title="Hackathon", color="red"}
+The hackathon has started!
+Check out the [list of projects](https://hackmd.io/@AbW_V7CMQA6OGRyevtdcjQ/SJBMienhle/edit) and connect with mentors/mentees on [Slack](https://julialang.org/slack/) or [Zulip](https://julialang.zulipchat.com/register/)!
+\end{box}
+
 @@row,row-section
 \begin{glancecard}{title="Passionate community", img="/assets/2024/img/whattoexpect/community.jpg", color="purple"}
   At JuliaCon Local, expect to be surrounded by passionate individuals from diverse backgrounds, united by their enthusiasm for programming.
