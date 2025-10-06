@@ -26,11 +26,6 @@ The conference will take place on Thursday October 2nd and Friday October 3rd, r
 @@
 \\
 
-\begin{box}{title="Hackathon", color="red"}
-The hackathon has started!
-Check out the [list of projects](https://hackmd.io/@AbW_V7CMQA6OGRyevtdcjQ/SJBMienhle/edit) and connect with mentors/mentees on [Slack](https://julialang.org/slack/) or [Zulip](https://julialang.zulipchat.com/register/)!
-\end{box}
-
 @@row,row-section
 \begin{glancecard}{title="Passionate community", img="/assets/2024/img/whattoexpect/community.jpg", color="purple"}
   At JuliaCon Local, expect to be surrounded by passionate individuals from diverse backgrounds, united by their enthusiasm for programming.
@@ -193,7 +188,6 @@ For any questions and inquiries, please send an email to [paris25@julialang.org]
   \sponsor{name="GDR ROD", link="http://gdrro.lip6.fr/", img="/assets/local/paris2025/img/academic_partners/gdr_rod.png", level=2}
   \sponsor{name="ROADEF", link="https://roadef.org/", img="/assets/local/paris2025/img/academic_partners/roadef.png", level=2}
   \sponsor{name="RT Terres et Énergies", link="https://rtte.math.cnrs.fr/", img="/assets/local/paris2025/img/academic_partners/rtte.png", level=2}
-  \sponsor{name="Toulouse INP", link="https://www.inp-toulouse.fr/en/index.html", img="/assets/local/paris2025/img/academic_partners/toulouse_inp.png", level=2}
 \end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host"}
