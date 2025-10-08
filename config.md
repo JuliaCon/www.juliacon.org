@@ -237,6 +237,7 @@ configuration = Dict(
             "Call for Minisymposia" => "/2026/minisymposia_cfp",
             "Code of Conduct" => "/2026/coc",
             "Committee" => "/2026/committee",
+            "Sponsor" => "/2026/sponsor",
         ]
     ),
 )

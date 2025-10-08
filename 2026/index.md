@@ -188,7 +188,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
     <p style="margin-bottom:3ex;">
     The conference wouldn’t be possible without our cool sponsors! Their generous support and dedication have played a crucial role in bringing together JuliaCon 2025, allowing us to create an exceptional experience for all attendees. We extend our heartfelt gratitude to each sponsor for their commitment to advancing technology, fostering innovation, and supporting our community. Thank you for making this event a success!</p>
 ~~~
-\begin{centered}{title="Diamond", margin_bottom="3ex"}
+<!-- \begin{centered}{title="Diamond", margin_bottom="3ex"}
 \end{centered}
 
 \begin{centered}{title="Silver", margin_bottom="3ex"}
@@ -204,7 +204,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 \end{centered}
 
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
-\end{centered}
+\end{centered} -->
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
