@@ -154,7 +154,7 @@ function hfun_julia_editions()
     io_post = IOBuffer()
     for (i, y) in enumerate(post_years)
       write(io_post, """<a href="/$y/">$y</a>""")
-      i == length(post_years) || write(io_post, "/")
+      i == length(post_years) || write(io_post, "<br>")
     end
 
     local_event = startswith(locvar(:fd_rpath)::String, "local")
@@ -167,7 +167,7 @@ function hfun_julia_editions()
     io_prev = IOBuffer()
     for (i, y) in enumerate(pre_years)
         write(io_prev, """<a href="/$y/">$y</a>""")
-        i == length(pre_years) || write(io_prev, "/")
+        i == length(pre_years) || write(io_prev, "<br>")
     end
 
     io_local = IOBuffer()
@@ -196,12 +196,19 @@ function hfun_julia_editions()
     html_local = ifelse(!isempty(locevents), """<br><span style="padding-left: 10px">Other Events$year_info: $locevents</span>""", "")
 
     return """
-        <div class="u-futura u-uppercase previous-editions-menu" style="margin:auto; text-align:right">
-          $html_post
-          $html_prev
-          $html_local
+      <div class="u-futura u-uppercase previous-editions-menu" style="margin:auto; text-align:right">
+      <div class="dropdown" style="display:inline-block;">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="previousEditionsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Previous Editions
+        </button>
+        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="previousEditionsDropdown">
+        $(isempty(post) ? "" : "<h6 class='dropdown-header'>Next</h6>$post")
+        $(isempty(prev) ? "" : "<h6 class='dropdown-header'>Previously</h6>$prev")
+        $(isempty(locevents) ? "" : "<h6 class='dropdown-header'>Other Events$year_info</h6>$locevents")
         </div>
-        """
+      </div>
+      </div>
+    """
 end
 
 function get_from_config(key; default = "")
