@@ -38,12 +38,12 @@ end
 @env function glancecard(md; img="", title="", color="")
   return html("""
       <div class="col-12 col-md-6 text-center glance-card">
-      <br> 
+      <br>
       <h3 class="header">$title</h3>
       <img class="animated-size" src="$img">
       <br>
-      <br>   
-      """) * 
+      <br>
+      """) *
       md *
       html("""
       </div>
@@ -196,18 +196,61 @@ function hfun_julia_editions()
     html_local = ifelse(!isempty(locevents), """<br><span style="padding-left: 10px">Other Events$year_info: $locevents</span>""", "")
 
     return """
-      <div class="u-futura u-uppercase previous-editions-menu" style="margin:auto; text-align:right">
+    <style>
+      /* Add subtle shadow and rounded corners */
+      .previous-editions-menu .dropdown-menu {
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+        border: none;
+        border-radius: 6px;
+        padding: 0.25rem 0;
+        min-width: 180px;
+      }
+
+      /* Adjust header spacing and look */
+      .previous-editions-menu .dropdown-header {
+        font-weight: 600;
+        font-size: 0.8rem;
+        color: #555;
+        padding: 0.5rem 1rem;
+        text-transform: uppercase;
+        background-color: #f9f9f9;
+        margin-bottom: 0.25rem;
+      }
+
+      /* Links/items inside dropdown */
+      .previous-editions-menu .dropdown-menu a,
+      .previous-editions-menu .dropdown-menu .dropdown-item {
+        padding: 0.2rem 0.75rem;   /* tighter spacing */
+        line-height: 1.0;          /* compact line height */
+        color: #333;
+        text-align: left;
+        margin: 0;
+        white-space: nowrap;       /* prevent line breaks in item text */
+      }
+
+      .previous-editions-menu .dropdown-menu a:hover,
+      .previous-editions-menu .dropdown-menu .dropdown-item:hover {
+        background-color: #f2f2f2;
+      }
+
+      .previous-editions-menu .btn-secondary.dropdown-toggle:hover {
+        background-color: #333;
+      }
+    </style>
+
+    <div class="u-futura u-uppercase previous-editions-menu" style="margin:auto; text-align:right;">
       <div class="dropdown" style="display:inline-block;">
-        <button class="btn btn-secondary dropdown-toggle" type="button" id="previousEditionsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        Previous Editions
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="previousEditionsDropdown"
+          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Previous Editions
         </button>
         <div class="dropdown-menu dropdown-menu-right" aria-labelledby="previousEditionsDropdown">
-        $(isempty(post) ? "" : "<h6 class='dropdown-header'>Next</h6>$post")
-        $(isempty(prev) ? "" : "<h6 class='dropdown-header'>Previously</h6>$prev")
-        $(isempty(locevents) ? "" : "<h6 class='dropdown-header'>Other Events$year_info</h6>$locevents")
+          $(isempty(post) ? "" : "<h6 class='dropdown-header'>Next</h6>$post")
+          $(isempty(prev) ? "" : "<h6 class='dropdown-header'>Previously</h6>$prev")
+          $(isempty(locevents) ? "" : "<h6 class='dropdown-header'>Other Events$year_info</h6>$locevents")
         </div>
       </div>
-      </div>
+    </div>
     """
 end
 
