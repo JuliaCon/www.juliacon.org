@@ -195,6 +195,8 @@ function hfun_julia_editions()
     html_prev = ifelse(!isempty(prev), """<span style="padding-left: 10px">Previously: $prev</span>""", "")
     html_local = ifelse(!isempty(locevents), """<br><span style="padding-left: 10px">Other Events$year_info: $locevents</span>""", "")
 
+    edition_name = current_year_is_latest ? "Previous Edition" : "Other Editions"
+
     return """
     <style>
       /* Add subtle shadow and rounded corners */
@@ -242,7 +244,7 @@ function hfun_julia_editions()
       <div class="dropdown" style="display:inline-block;">
         <button class="btn btn-secondary dropdown-toggle" type="button" id="previousEditionsDropdown"
           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Previous Editions
+          $edition_name
         </button>
         <div class="dropdown-menu dropdown-menu-right" aria-labelledby="previousEditionsDropdown">
           $(isempty(post) ? "" : "<h6 class='dropdown-header'>Next</h6>$post")
