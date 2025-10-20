@@ -195,7 +195,47 @@ function hfun_julia_editions()
     html_prev = ifelse(!isempty(prev), """<span style="padding-left: 10px">Previously: $prev</span>""", "")
     html_local = ifelse(!isempty(locevents), """<br><span style="padding-left: 10px">Other Events$year_info: $locevents</span>""", "")
 
-    edition_name = current_year_is_latest ? "Previous Edition" : "Other Editions"
+    edition_name = current_year_is_latest ? "Previous Editions" : "Other Editions"
+
+    if current_year_is_latest
+      drop_down_buttons =     
+        """
+        <div class="u-futura u-uppercase previous-editions-menu" style="margin:auto; text-align:right;">
+          <div class="dropdown" style="display:inline-block;">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="previousEditionsDropdown"
+              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              $edition_name
+            </button>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="previousEditionsDropdown">
+              $(isempty(post) ? "" : "<h6 class='dropdown-header'>Next</h6>$post")
+              $(isempty(prev) ? "" : "<h6 class='dropdown-header'>Previously</h6>$prev")
+              $(isempty(locevents) ? "" : "<h6 class='dropdown-header'>Other Events$year_info</h6>$locevents")
+            </div>
+          </div>
+        </div>
+        """
+    else
+      drop_down_buttons =
+        """
+        <div class="u-futura u-uppercase previous-editions-menu" style="margin:auto; text-align:right;">
+        <button class="btn btn-secondary" type="button"
+           aria-haspopup="false" aria-expanded="false" style="margin-right: 10px;">
+            <a href="/$(configyear())/" style="color: inherit; text-decoration: none;">Latest Edition</a>
+        </button>
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="previousEditionsDropdown"
+          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          $edition_name
+        </button>
+        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="previousEditionsDropdown">
+          $(isempty(post) ? "" : "<h6 class='dropdown-header'>Next</h6>$post")
+          $(isempty(prev) ? "" : "<h6 class='dropdown-header'>Previously</h6>$prev")
+          $(isempty(locevents) ? "" : "<h6 class='dropdown-header'>Other Events$year_info</h6>$locevents")
+        </div>
+          </div>
+        </div>
+        """
+    end
+
 
     return """
     <style>
@@ -239,21 +279,7 @@ function hfun_julia_editions()
         background-color: #333;
       }
     </style>
-
-    <div class="u-futura u-uppercase previous-editions-menu" style="margin:auto; text-align:right;">
-      <div class="dropdown" style="display:inline-block;">
-        <button class="btn btn-secondary dropdown-toggle" type="button" id="previousEditionsDropdown"
-          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          $edition_name
-        </button>
-        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="previousEditionsDropdown">
-          $(isempty(post) ? "" : "<h6 class='dropdown-header'>Next</h6>$post")
-          $(isempty(prev) ? "" : "<h6 class='dropdown-header'>Previously</h6>$prev")
-          $(isempty(locevents) ? "" : "<h6 class='dropdown-header'>Other Events$year_info</h6>$locevents")
-        </div>
-      </div>
-    </div>
-    """
+    """ * drop_down_buttons
 end
 
 function get_from_config(key; default = "")
