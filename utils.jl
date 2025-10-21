@@ -38,12 +38,12 @@ end
 @env function glancecard(md; img="", title="", color="")
   return html("""
       <div class="col-12 col-md-6 text-center glance-card">
-      <br> 
+      <br>
       <h3 class="header">$title</h3>
       <img class="animated-size" src="$img">
       <br>
-      <br>   
-      """) * 
+      <br>
+      """) *
       md *
       html("""
       </div>
@@ -154,7 +154,7 @@ function hfun_julia_editions()
     io_post = IOBuffer()
     for (i, y) in enumerate(post_years)
       write(io_post, """<a href="/$y/">$y</a>""")
-      i == length(post_years) || write(io_post, "/")
+      i == length(post_years) || write(io_post, "<br>")
     end
 
     local_event = startswith(locvar(:fd_rpath)::String, "local")
@@ -167,7 +167,7 @@ function hfun_julia_editions()
     io_prev = IOBuffer()
     for (i, y) in enumerate(pre_years)
         write(io_prev, """<a href="/$y/">$y</a>""")
-        i == length(pre_years) || write(io_prev, "/")
+        i == length(pre_years) || write(io_prev, "<br>")
     end
 
     io_local = IOBuffer()
@@ -195,13 +195,91 @@ function hfun_julia_editions()
     html_prev = ifelse(!isempty(prev), """<span style="padding-left: 10px">Previously: $prev</span>""", "")
     html_local = ifelse(!isempty(locevents), """<br><span style="padding-left: 10px">Other Events$year_info: $locevents</span>""", "")
 
-    return """
-        <div class="u-futura u-uppercase previous-editions-menu" style="margin:auto; text-align:right">
-          $html_post
-          $html_prev
-          $html_local
+    edition_name = current_year_is_latest ? "Previous Editions" : "Other Editions"
+
+    if current_year_is_latest
+      drop_down_buttons =     
+        """
+        <div class="u-futura u-uppercase previous-editions-menu" style="margin:auto; text-align:right;">
+          <div class="dropdown" style="display:inline-block;">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="previousEditionsDropdown"
+              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              $edition_name
+            </button>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="previousEditionsDropdown">
+              $(isempty(post) ? "" : "<h6 class='dropdown-header'>Next</h6>$post")
+              $(isempty(prev) ? "" : "<h6 class='dropdown-header'>Previously</h6>$prev")
+              $(isempty(locevents) ? "" : "<h6 class='dropdown-header'>Other Events$year_info</h6>$locevents")
+            </div>
+          </div>
         </div>
         """
+    else
+      drop_down_buttons =
+        """
+        <div class="u-futura u-uppercase previous-editions-menu" style="margin:auto; text-align:right;">
+        <button class="btn btn-secondary" type="button"
+           aria-haspopup="false" aria-expanded="false" style="margin-right: 10px;">
+            <a href="/$(configyear())/" style="color: inherit; text-decoration: none;">Latest Edition</a>
+        </button>
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="previousEditionsDropdown"
+          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          $edition_name
+        </button>
+        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="previousEditionsDropdown">
+          $(isempty(post) ? "" : "<h6 class='dropdown-header'>Next</h6>$post")
+          $(isempty(prev) ? "" : "<h6 class='dropdown-header'>Previously</h6>$prev")
+          $(isempty(locevents) ? "" : "<h6 class='dropdown-header'>Other Events$year_info</h6>$locevents")
+        </div>
+          </div>
+        </div>
+        """
+    end
+
+
+    return """
+    <style>
+      /* Add subtle shadow and rounded corners */
+      .previous-editions-menu .dropdown-menu {
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+        border: none;
+        border-radius: 6px;
+        padding: 0.25rem 0;
+        min-width: 180px;
+      }
+
+      /* Adjust header spacing and look */
+      .previous-editions-menu .dropdown-header {
+        font-weight: 600;
+        font-size: 0.8rem;
+        color: #555;
+        padding: 0.5rem 1rem;
+        text-transform: uppercase;
+        background-color: #f9f9f9;
+        margin-bottom: 0.25rem;
+      }
+
+      /* Links/items inside dropdown */
+      .previous-editions-menu .dropdown-menu a,
+      .previous-editions-menu .dropdown-menu .dropdown-item {
+        padding: 0.2rem 0.75rem;   /* tighter spacing */
+        line-height: 1.0;          /* compact line height */
+        color: #333;
+        text-align: left;
+        margin: 0;
+        white-space: nowrap;       /* prevent line breaks in item text */
+      }
+
+      .previous-editions-menu .dropdown-menu a:hover,
+      .previous-editions-menu .dropdown-menu .dropdown-item:hover {
+        background-color: #f2f2f2;
+      }
+
+      .previous-editions-menu .btn-secondary.dropdown-toggle:hover {
+        background-color: #333;
+      }
+    </style>
+    """ * drop_down_buttons
 end
 
 function get_from_config(key; default = "")
