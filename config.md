@@ -202,7 +202,7 @@ configuration = Dict(
         "year" => 2025,
         "advertise_in_landing" => true,
         "location" => "Paris",
-        "alert" => "Tickets are sold out, see you in Paris!",
+        "alert" => "Check out the video recordings on our <a href='https://www.youtube.com/playlist?list=PLP8iPy9hna6TJMLEiZZiWAXlyGtOyJSL7'>YouTube playlist</a>",
         "site_name" => "JuliaCon Local Paris 2025",
         "site_descr" => "JuliaCon Local Paris 2025",
         "site_url" => "https://juliacon.org/local/paris2025/",
@@ -221,6 +221,7 @@ configuration = Dict(
                 "Accessibility" => "/local/paris2025/accessibility",
             ],
             "Committee" => "/local/paris2025/committee",
+            "Videos " => "https://www.youtube.com/playlist?list=PLP8iPy9hna6TJMLEiZZiWAXlyGtOyJSL7",
         ]
     ),
     "2026" => Dict(
