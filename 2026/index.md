@@ -15,7 +15,7 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 ~~~
 
 \begin{box}{title="Community Prize 2025", color="dark-green"}
-The winners of the [Community Prize 2025](../2025/prize/) have been accounced. 
+The winners of the [Community Prize 2025](../2025/prize/) have been accounced.
 \end{box}
 
 \begin{box}{title="Call for Minisymposia"}
@@ -29,10 +29,10 @@ The [call for minisympoisa](minisymposia_cfp) is live. Deadline **December 2nd 2
 ~~~
 
 <!-- \begin{box}{title="Travel Funding", color="dark-green"}
-If you are an accepted speaker and require a travel funding, please fill out [this form](https://forms.gle/TCdgowe7PbXv7p5v6). 
+If you are an accepted speaker and require a travel funding, please fill out [this form](https://forms.gle/TCdgowe7PbXv7p5v6).
 \end{box} -->
 
-<!-- 
+<!--
 \begin{rowheader}{title="Keynote Speakers", color=""}\end{rowheader}
 \\
 
@@ -52,13 +52,13 @@ If you are an accepted speaker and require a travel funding, please fill out [th
     </h2>
     ~~~
   @@
-@@ 
-\\ 
+@@
+\\
 -->
 
 \begin{rowheader}{title="Venue", color=""}\end{rowheader}
 @@row,row-section
-@@col-12 
+@@col-12
 JuliaCon 2026 will host talks and workshops at the Johannes Gutenberg University Mainz.
 @@
 @@
@@ -67,19 +67,19 @@ JuliaCon 2026 will host talks and workshops at the Johannes Gutenberg University
 ~~~
 <br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3524.248145917799!2d8.241299730799065!3d49.991835413453636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd96ea3de810af%3A0xe9344ff3bb0044ab!2sJohannes%20Gutenberg%20University%20of%20Mainz!5e0!3m2!1sen!2sde!4v1757324969376!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-~~~ 
+~~~
 
 \begin{rowheader}{title="JuliaCon at a Glance", color=""}\end{rowheader}
 
 @@row,row-section
-@@col-12 
-Welcome to **JuliaCon 2026**, the premier annual conference for the Julia programming language community! This exciting event brings together developers, researchers, and enthusiasts from around the globe to celebrate and explore the power and versatility of Julia. 
+@@col-12
+Welcome to **JuliaCon 2026**, the premier annual conference for the Julia programming language community! This exciting event brings together developers, researchers, and enthusiasts from around the globe to celebrate and explore the power and versatility of Julia.
 @@
 @@
 
 @@row,row-section
 \begin{glancecard}{title="Passionate community", img="/assets/2024/img/whattoexpect/community.jpg", color="purple"}
-  At JuliaCon, expect to be surrounded by passionate individuals from diverse backgrounds united by their enthusiasm for the Julia programming language. 
+  At JuliaCon, expect to be surrounded by passionate individuals from diverse backgrounds united by their enthusiasm for the Julia programming language.
 \end{glancecard}
 \begin{glancecard}{title="Technical Talks & Keynotes", img="/assets/2024/img/whattoexpect/talks.jpg", color="red"}
   At JuliaCon 2024, we had more than 300 [talks](https://pretalx.com/juliacon2024/schedule/), [workshops](/2024/workshops), posters and hackatone sessions covering a wide range of topics in Julia programming.
@@ -201,10 +201,12 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 \end{centered}
 
 \begin{centered}{title="Local Partners", margin_bottom="3ex"}
-\end{centered}
+\end{centered} -->
 
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
-\end{centered} -->
+  \sponsor{name="GAMM RSE&RDM", link="https://gamm-ag-rse-rdm.github.io/", img="/assets/2026/img/sponsors/gamm_rse_rdm.png", level=2}
+  \sponsor{name="MaRDI", link="https://www.mardi4nfdi.de", img="/assets/2026/img/sponsors/mardi.png", level=2}
+\end{centered}
 
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
   \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
