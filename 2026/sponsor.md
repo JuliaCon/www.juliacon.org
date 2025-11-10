@@ -13,7 +13,7 @@ JuliaCon Global 2025 was held in Pittsburgh, PA, USA. Next year, we are thrilled
 ~~~
 <div style="text-align: center">
     <a href="https://drive.google.com/file/d/1Z6BV9JeNxQmF8ND5nfyNb-mAABbHagvf/view?usp=sharing">
-        <img src="/assets/2026/img/prospectus_preview.jpg" style="width: 35%"/>
+        <img src="/assets/2026/img/prospectus_preview.png" style="width: 35%"/>
         <br>
         <br>
     </a>
