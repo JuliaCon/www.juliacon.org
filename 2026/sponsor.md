@@ -8,18 +8,18 @@ JuliaCon is the largest annual conference organized around Julia, the fastest hi
 
 JuliaCon Global 2025 was held in Pittsburgh, PA, USA. Next year, we are thrilled to be returning to Europe with a global audience of developers. JuliaCon Global offers you the unique opportunity to present your company and your product to a huge group of engaged scientific programmers.
 
-<!-- ## Sponsorship Prospectus
+## Sponsorship Prospectus
 
 ~~~
 <div style="text-align: center">
-    <a href="https://drive.google.com/file/d/1bFGFAqx1UTJJqDx6oVlBXp_OykvHmEAO/view?usp=sharing">
-        <img src="/assets/2025/img/prospectus_preview.jpg" style="width: 35%"/>
+    <a href="https://drive.google.com/file/d/1Z6BV9JeNxQmF8ND5nfyNb-mAABbHagvf/view?usp=sharing">
+        <img src="/assets/2026/img/prospectus_preview.jpg" style="width: 35%"/>
         <br>
         <br>
     </a>
-    <a href="https://drive.google.com/file/d/1bFGFAqx1UTJJqDx6oVlBXp_OykvHmEAO/view?usp=sharing" class="btn" style="width: 35%" >Download our Sponsorship Prospectus PDF</a>
+    <a href="https://drive.google.com/file/d/1Z6BV9JeNxQmF8ND5nfyNb-mAABbHagvf/view?usp=sharing" class="btn" style="width: 35%" >Download our Sponsorship Prospectus PDF</a>
 </div>
-~~~ -->
+~~~
 
 ## Sponsorship Opportunities
 
