@@ -2,7 +2,7 @@
 # Sponsorship Opportunities
 
 JuliaCon is a community-organized non-profit conference, and it would not be possible without the support of its amazing set of sponsors over the years.  
-We invite your organization to be a sponsor of JuliaCon Global 2026. You can find our [sponsors from last year](https://juliacon.org/2025/) at the bottom of our 2025 homepage.
+We invite your organization to be a sponsor of JuliaCon Global 2026. You can find our [sponsors from last year](https://juliacon.org/2025/#:~:text=Thanks%20to%20our%20Sponsors!) at the bottom of our 2025 homepage.
 
 JuliaCon is the largest annual conference organized around Julia, the fastest high-performance open-source computing language for machine learning, artificial intelligence, life sciences, robotics, algorithmic trading, real-time analytics, and more. Next year, the conference is set to take place in Mainz, Germany, August 10-15, 2026.
 
