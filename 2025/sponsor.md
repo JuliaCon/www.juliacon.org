@@ -12,12 +12,12 @@ Last year, JuliaCon was held in Eindhoven, the Netherlands. This year, we are th
 
 ~~~
 <div style="text-align: center">
-    <a href="https://drive.google.com/file/d/1bFGFAqx1UTJJqDx6oVlBXp_OykvHmEAO/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1ZE-e-ZIR0JqpCM2GPbbXEVw78Lz5Xina/view?usp=sharing">
         <img src="/assets/2025/img/prospectus_preview.jpg" style="width: 35%"/>
         <br>
         <br>
     </a>
-    <a href="https://drive.google.com/file/d/1bFGFAqx1UTJJqDx6oVlBXp_OykvHmEAO/view?usp=sharing" class="btn" style="width: 35%" >Download our Sponsorship Prospectus PDF</a>
+    <a href="https://drive.google.com/file/d/1ZE-e-ZIR0JqpCM2GPbbXEVw78Lz5Xina/view?usp=sharing" class="btn" style="width: 35%" >Download our Sponsorship Prospectus PDF</a>
 </div>
 ~~~
 
