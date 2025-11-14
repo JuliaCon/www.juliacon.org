@@ -4,12 +4,6 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
 
 @@row
 \committeemember{
-  name="Kim Auth", 
-  info="""Local Committee""",
-  link="https://github.com/kimauth", 
-  img="/assets/2026/img/committee/auth.jpeg"
-}
-\committeemember{
   name="Valentin Churavy", 
   info="""Co-Chair""",
   link="https://github.com/vchuravy", 
