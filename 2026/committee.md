@@ -58,7 +58,7 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
   img="/assets/2026/img/committee/rass.jpeg"
 }
 \committeemember{
-  name="Oliver Schultz", 
+  name="Oliver Schulz", 
   info="""Local Committee""",
   link="https://github.com/oschulz", 
   img="/assets/2026/img/committee/placeholder.png"
