@@ -41,7 +41,7 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
 }
 \committeemember{
   name="Raye Kimmerer", 
-  info="""Co-Chair""",
+  info="""Chair Emeritus""",
   link="https://github.com/rayegun", 
   img="/assets/2026/img/committee/placeholder.png"
 }
@@ -71,7 +71,7 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
 }
 \committeemember{
   name="Hendrik Ranocha", 
-  info="""Local Committee""",
+  info="""Local Chair & Co-Chair""",
   link="https://github.com/ranocha", 
   img="/assets/2026/img/committee/ranocha.jpg"
 }
