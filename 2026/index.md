@@ -19,7 +19,7 @@ The winners of the [Community Prize 2025](../2025/prize/) have been accounced.
 \end{box}
 
 \begin{box}{title="Call for Minisymposia"}
-The [call for minisympoisa](minisymposia_cfp) is live. Deadline **December 2nd 2025 20:00 (CET)**.
+The [call for minisymposia](minisymposia_cfp) is live. Deadline **December 2nd 2025 20:00 (CET)**.
 \end{box}
 
 ~~~
