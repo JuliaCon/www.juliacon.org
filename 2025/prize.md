@@ -12,5 +12,5 @@ For their effort in organizing the Quantum Community and the "This Month in Juli
 
 ## Awards Committee
 
-The members of the committee for 2024 continue to be Prof Alan Edelman, MIT; Prof Tim Holy, WU; and Mr Curtis Vogt, Beacon Biosignals.
+The members of the committee for 2025 continue to be Prof Alan Edelman, MIT; Prof Tim Holy, WU; and Mr Curtis Vogt, Beacon Biosignals.
 
