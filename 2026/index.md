@@ -82,7 +82,7 @@ Welcome to **JuliaCon 2026**, the premier annual conference for the Julia progra
   At JuliaCon, expect to be surrounded by passionate individuals from diverse backgrounds united by their enthusiasm for the Julia programming language.
 \end{glancecard}
 \begin{glancecard}{title="Technical Talks & Keynotes", img="/assets/2024/img/whattoexpect/talks.jpg", color="red"}
-  At JuliaCon 2025, we had more than 300 [talks](https://pretalx.com/juliacon-2025/schedule/), [workshops](/2025/workshops), posters and hackatone sessions covering a wide range of topics in Julia programming.
+  At JuliaCon 2025, we had more than 200 [talks](https://pretalx.com/juliacon-2025/schedule/), [workshops](/2025/workshops), posters and hackatone sessions covering a wide range of topics in Julia programming.
   Additionally, check out our [insightful keynotes](/2025/keynotes)
 \end{glancecard}
 \begin{glancecard}{title="Practical Workshops", img="/assets/2024/img/whattoexpect/workshops.jpg", color="dark-blue"}
