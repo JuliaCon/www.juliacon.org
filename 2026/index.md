@@ -15,11 +15,11 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 ~~~
 
 \begin{box}{title="Community Prize 2025", color="dark-green"}
-The winners of the [Community Prize 2025](../2025/prize/) have been accounced.
+The winners of the [Community Prize 2025](../2025/prize/) have been announced.
 \end{box}
 
 \begin{box}{title="Call for Minisymposia"}
-The [call for minisymposia](minisymposia_cfp) is live. Deadline **December 2nd 2025 20:00 (CET)**.
+The [call for minisymposia](minisymposia_cfp) is closed. Deadline was **December 2nd 2025 20:00 (CET)**.
 \end{box}
 
 ~~~
@@ -82,8 +82,8 @@ Welcome to **JuliaCon 2026**, the premier annual conference for the Julia progra
   At JuliaCon, expect to be surrounded by passionate individuals from diverse backgrounds united by their enthusiasm for the Julia programming language.
 \end{glancecard}
 \begin{glancecard}{title="Technical Talks & Keynotes", img="/assets/2024/img/whattoexpect/talks.jpg", color="red"}
-  At JuliaCon 2024, we had more than 300 [talks](https://pretalx.com/juliacon2024/schedule/), [workshops](/2024/workshops), posters and hackatone sessions covering a wide range of topics in Julia programming.
-  Additionally, check out our [insightful keynotes](/2024/keynotes)
+  At JuliaCon 2025, we had more than 300 [talks](https://pretalx.com/juliacon-2025/schedule/), [workshops](/2025/workshops), posters and hackatone sessions covering a wide range of topics in Julia programming.
+  Additionally, check out our [insightful keynotes](/2025/keynotes)
 \end{glancecard}
 \begin{glancecard}{title="Practical Workshops", img="/assets/2024/img/whattoexpect/workshops.jpg", color="dark-blue"}
   Extra workshops designed to provide hands-on learning and practical insights into Julia programming.
@@ -138,7 +138,7 @@ JuliaCon 2026 is almost upon us. To get in the mood for what is planned to be an
 @@row,row-section
 @@col
 ## Memories of JuliaCon past
-We also have some photographic memories from previous JuliaCons. Explore our collection of photos to revisit the lively workshops, insightful presentations, and memorable networking moments that have made each JuliaCon unique. Find more photos [here](/2024/memories).
+We also have some photographic memories from previous JuliaCons. Explore our collection of photos to revisit the lively workshops, insightful presentations, and memorable networking moments that have made each JuliaCon unique. Find more photos [here](/2025/memories).
 @@
 @@
 @@row,row-section
@@ -162,7 +162,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
   For example, offensive or sexual language and imagery is not appropriate for any conference venue, including formal talks and networking between sessions.
   Conference  participants violating these standards may be sanctioned or expelled from the conference (without a refund) at the discretion of the conference organizers.
 
-  Our anti-harassment policy and information about who to contact if you have an issue you'd like to discuss can be found on our [Code of Conduct](/2024/coc/).
+  Our anti-harassment policy and information about who to contact if you have an issue you'd like to discuss can be found on our [Code of Conduct](/2026/coc/).
 \end{box}
 
 <!--
