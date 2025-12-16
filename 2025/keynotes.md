@@ -60,6 +60,10 @@ Healthcare systems face numerous challenges in operating efficiently and serving
 <div style="height:1em;display:block;"></div>
 ~~~
 
+--- 
+
+\avatar{name="John Urschel", affil="MIT", link="https://math.mit.edu/~urschel/", img="/assets/2025/img/keynotes/john.jpg", bio="Dr. John Urschel is an assistant professor in the Department of Mathematics at the Massachusetts Institute of Technology (MIT). He holds a Ph.D. from MIT and gained public recognition as a former offensive lineman for the NFL's Baltimore Ravens before retiring to pursue academia full-time. His research interests lie primarily in the areas of numerical linear algebra, spectral graph theory, and the intersection of mathematics and theoretical machine learning. He focuses on developing and analyzing efficient computational methods for problems involving matrices and graphs, exploring topics such as how the structure of a matrix relates to its properties and potential applications in large-scale data analysis and scientific computing."}
+
 ### 80 Years of Computing with the Elimination Algorithm 
 
 The solution of a linear system, i.e., given a matrix A and vector b, finding a vector x satisfying Ax = b, is one of the oldest problems in mathematics. Gaussian elimination is one of the most fundamental and well-known techniques for solving linear systems, by factoring a matrix into the product of a lower and upper triangular matrix. Surprisingly, a number of questions regarding the numerical stability of this algorithm remains. In this talk, we will study the history of this subject, a story that spans eighty years, and discuss some recent progress. We'll also highlight the role of Julia in this progress.

@@ -1,5 +1,4 @@
-We invite you to submit proposals to organize a **minisymposium** at [JuliaCon 2026](https://juliacon.org/2026/).
-**This Call for Minisymposia Proposals will close on December 2nd 2025 20:00 (CET).** [convert to your timezone](https://arewemeetingyet.com/Berlin/2025-12-02/20:00/JuliaCon%20minisymposium%20submissions%20deadline)
+**This Call for Minisymposia Proposals closed on December 2nd 2025 20:00 (CET).** [convert to your timezone](https://arewemeetingyet.com/Berlin/2025-12-02/20:00/JuliaCon%20minisymposium%20submissions%20deadline)
 
 JuliaCon has traditionally had minisymposia on topics related to various fields, including high-performance computing, quantum computing, life sciences, and many others. If you have worked with Julia, JuliaCon is the best venue to share your work with the Julia community. If you have not worked with Julia, a minisymposium related to your field is an opportunity to introduce your professional community to the language.
 
@@ -55,7 +54,7 @@ If you are submitting a minisymposium that you think would particularly benefit 
 In the submission form you are asked to include an **abstract** and a **description** for your minisymposium. The abstract should be a shorter, self-contained summary of the minisymposium. The description can contain more details, such as a draft schedule of the minisymposium, more background and so on. As a rule of thumb, write the abstract to spark interest and the description to give more details to the interested reader.
 
 ### Submitting
-The call for minisymposia is live on the **[JuliaCon pretalx](https://pretalx.com/juliacon-2026/cfp)**
+The call for minisymposia is now closed, no submissions are possible anymore.
 
 ### Recordings and materials
 JuliaCon 2026 will be an in-person conference. In person talks will be live-streamed to YouTube. We also ask you to make your materials and recording available under a Creative Commons (default: no commercial reuse) or other open source license.
