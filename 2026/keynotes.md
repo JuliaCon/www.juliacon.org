@@ -34,7 +34,7 @@ Simon is chair of Computing at School, the grass-roots organisation that was at 
 
 ---
 
-\avatar{name="Julia Core Developers", affil="Julia", link="https://julialang.org/", img="/assets/2026/img/keynotes/teamjuliacon_logo.jpeg"}
+<!-- \avatar{name="Julia Core Developers", affil="Julia", link="https://julialang.org/", img="/assets/2026/img/keynotes/teamjuliacon_logo.jpeg"}
 
 ### State of Julia 2026
 
@@ -44,4 +44,4 @@ The core Julia developers give an overview of the latest changes to the Julia la
 <div style="height:1em;display:block;"></div>
 ~~~
 
----
+--- -->

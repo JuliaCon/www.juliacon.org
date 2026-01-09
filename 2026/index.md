@@ -39,7 +39,7 @@ If you are an accepted speaker and require a travel funding, please fill out [th
 \keynote{name="Julia Kowalski", affil="RWTH Aachen University", link="https://www.mbd.rwth-aachen.de/cms/mbd/Der-Lehrstuhl/Team/~qashd/Julia-Kowalski/lidx/1/", img="/assets/2026/img/keynotes/Julia_Kowalski.jpg", title=""}
 \keynote{name="Paul Tiede", affil="Black Hole Initiative, Harvard University", link="https://www.cfa.harvard.edu/people/paul-tiede", img="/assets/2026/img/keynotes/Paul_Tiede.jpg", title=""}
 \keynote{name="Simon Peyton Jones", affil="Engineering Fellow, Epic Games", link="https://simon.peytonjones.org", img="/assets/2026/img/keynotes/SimonPeytonJones.jpeg", title=""}
-\keynote{name="Julia Core Developers", affil="", link="https://julialang.org/", img="/assets/2026/img/keynotes/teamjuliacon_logo.png", title="State of Julia 2026"}
+<!-- \keynote{name="Julia Core Developers", affil="", link="https://julialang.org/", img="/assets/2026/img/keynotes/teamjuliacon_logo.png", title="State of Julia 2026"} -->
 @@
 \\
 @@row,row-section,justify-content-md-center
