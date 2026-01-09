@@ -235,7 +235,10 @@ configuration = Dict(
         "main_heading_color" => "black",
         "header_color" => "#389826",
         "header" => [
-            "Call for Minisymposia" => "/2026/minisymposia_cfp",
+            "Schedule" => [
+                "Minisymposia" => "https://pretalx.com/juliacon-2026/featured/",
+                "Keynotes" => "/2026/keynotes",
+            ],
             "Code of Conduct" => "/2026/coc",
             "Committee" => "/2026/committee",
             "Sponsor" => "/2026/sponsor",
