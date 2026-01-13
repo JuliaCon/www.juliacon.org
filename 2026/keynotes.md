@@ -8,6 +8,10 @@
 
 \avatar{name="Julia Kowalski", affil="RWTH Aachen University", link="https://www.mbd.rwth-aachen.de/cms/mbd/Der-Lehrstuhl/Team/~qashd/Julia-Kowalski/lidx/1/", img="/assets/2026/img/keynotes/Julia_Kowalski.jpg", bio=""}
 
+### Sustainability in Computational Science and Engineering
+
+Computational Science and Engineering (CSE) integrates engineering, applied mathematics, and computer science to enable model-based design, knowledge generation, and decision support. While CSE has become a key enabler of sustainable products and operations, sustainability is still often treated as an afterthought in computational method development. This talk reflects on sustainability as a core design principle for CSE—one that aligns naturally with scientific relevance, long-term usability, and enduring research value. Drawing on representative examples, we present a holistic perspective spanning resource consumption, digital infrastructure, and organizational practices. We examine how these aspects interact in modern computational research and conclude with directions for impact through sustainable CSE.
+
 ~~~
 <div style="height:1em;display:block;"></div>
 ~~~
