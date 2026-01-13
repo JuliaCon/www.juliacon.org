@@ -228,13 +228,14 @@ configuration = Dict(
         "global" => true,
         "year" => 2026,
         "location" => "Mainz, Germany",
-        "alert" => """Save the date Aug 10-15th, 2026""",
+        "alert" => """Save the date Aug 10-15th, 2026! Submit your <a href="/2026/cfp">proposals now!</a>""",
         "site_name" => "JuliaCon 2026",
         "site_descr" => "JuliaCon 2026, Mainz",
         "site_url" => "https://juliacon.org/2026/",
         "main_heading_color" => "black",
         "header_color" => "#389826",
         "header" => [
+            "Call for Proposals" => "/2026/cfp",
             "Schedule" => [
                 "Minisymposia" => "https://pretalx.com/juliacon-2026/featured/",
                 "Keynotes" => "/2026/keynotes",
