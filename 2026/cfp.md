@@ -45,9 +45,8 @@ Minisymposia are listed in the `track` menu in the PreTalx submission form. **To
 
 Note that talks rejected by the minisymposium organizers may be reconsidered for the main JuliaCon track, hence there is no penalty in submitting to a minisymposium.
 
-See the track description for more information about each minisymposium. The list of minis is below. 
-
-TODO make list here
+See the track description for more information about each minisymposium. 
+You can find a list of minis [here](https://pretalx.com/juliacon-2026/featured/)
 
 ## Proposal Types
 This year, we will have 6 differentsession types under which you can submit proposals. See below for further details. Submitters of **long talks and short talks** can submit to a specific **minisymposium** if they wish. This can be done by choosing the appropriate minisymposium as track when submitting the talk.
