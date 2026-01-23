@@ -19,7 +19,6 @@ This minisymposium features talks from researchers and practitioners describing 
 
 The computational humanities and social sciences (CHSS) increasingly rely on large, text-rich datasets – from digital corpora and learner corpora to discourse-annotated datasets and historical archives – yet researchers often struggle with the limitations of existing tools for large-scale data processing, modeling, and reproducibility. This minisymposium introduces Julia as a powerful, expressive, and high-performance solution for CHSS research. We showcase how Julia’s strengths (speed, a solid type system, first-class multiple dispatch, and seamless interoperability with Python and R) enable both rapid experimentation and production-grade analysis. Through case studies ranging from corpus statistics and collocation networks to mixed-effects modeling of experimental data and large-scale language data pipelines, we highlight existing Julia packages and other emerging ones such as TextAssociations.jl and demonstrate how Julia can substantially expand what researchers in the humanities and social sciences can achieve. The minisymposium aims to build bridges between Julia developers and CHSS scholars while fostering a new community of users working with rich textual, linguistic, and sociocultural data.
 
-3 organizers: Alexandros Tantos (Aristotle University of Thessaloniki), Julia Mueller (Universitaet Freiburg) and Axel Bohmann (Universitaet Koeln)
 
 ### Computational Physics Minisymposium
 
@@ -59,12 +58,11 @@ Julia has a growing library of packages for improving medicine, healthcare, publ
 
 ### Julia for Biology and Biology for Julia
 
-Computing has a rich history in biological discovery, and the needs of biologists are continuing to drive algorithm development in multiple domains. Close alignment between developers and deep biolocial domain expertise is crucial in this field and a programming langauge such as Julia provides an ideal plattform for such tight collaborations that require a range of access points to the software. Julia provides interactive and notebook-based interfaces commonly used by experimentalists whilst also giving algorithm developers the opportunity create more complex workflows and structures, and optimize performance as needed.
+Computing has a rich history in biological discovery, and the needs of biologists are continuing to drive algorithm development in multiple domains. Close alignment between developers and deep biological domain expertise is crucial in this field and a programming language such as Julia provides an ideal platform for such tight collaborations that require a range of access points to the software. Julia provides interactive and notebook-based interfaces commonly used by experimentalists whilst also giving algorithm developers the opportunity create more complex workflows and structures, and optimize performance as needed.
 
 In this minisymposium, we aim to highlight ways in which computational biologists* are using Julia to advance our understanding of living systems, in academia and industry, while also contributing to the package ecosystem and core language on multiple fronts.
 
-* "Computational biology" is a broad tent. Topics presented include algorithms for text matching and search (bioinformatics), modeling and machine learning (systems biology and quantiative pharmacology),
-statistics and data science (experimental analysis, epidemiology), and imaging and geospatial statistics (microscopy), among others.
+\* "Computational biology" is a broad tent. Topics presented include algorithms for text matching and search (bioinformatics), modeling and machine learning (systems biology and quantiative pharmacology),statistics and data science (experimental analysis, epidemiology), and imaging and geospatial statistics (microscopy), among others.
 
 ### Julia for HPC Minisymposium
 
