@@ -9,7 +9,7 @@ Minisymposia accepting submissions are tracks in the pretalx system. Simply choo
 
 ## [List of Minisymposia](https://pretalx.com/juliacon-2026/featured/)
 
-Here is the list of minisymposia confirmed for JuliaCon Global 2026. Click on each title to see more details about the minisymposium on [pretalx](https://pretalx.com/juliacon-2026/featured/).
+Here is the list of minisymposia confirmed for JuliaCon Global 2026. **Click on each title to see more details about the minisymposium on [pretalx](https://pretalx.com/juliacon-2026/featured/).**
 
 ### [Approximate Computing in Numerical Linear Algebra](https://pretalx.com/juliacon-2026/talk/SXULWW/)
 
