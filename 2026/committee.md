@@ -6,7 +6,7 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
 \committeemember{
   name="Valentin Churavy", 
   info="""Co-Chair""",
-  link="https://github.com/vchuravy", 
+  link="https://vchuravy.dev",
   img="/assets/2026/img/committee/churavy.jpg"
 }
 \committeemember{
