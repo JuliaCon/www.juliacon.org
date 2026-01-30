@@ -1,6 +1,6 @@
 # Schedule
 
-This schedule is preliminary and subject to change. The final schedule will be release at a later time.
+This schedule is preliminary and subject to change. The final schedule will be released at a later time.
 
 ### Monday (10th of August)
 - Workshops
