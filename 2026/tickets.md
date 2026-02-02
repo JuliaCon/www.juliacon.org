@@ -75,7 +75,7 @@ Any unused tickets may be refunded up to 30 days before the start of the confere
 
 ### Is a ticket required for the Saturday hackathon?
 
-The Saturday hackathon does not require a ticket to attend.
+The Saturday hackathon requires either a **5-Day Pass** or **Talks Only** ticket to attend.
 
 ### Is there a discount for volunteers?
 
