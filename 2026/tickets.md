@@ -84,7 +84,7 @@ Please email us at \email if you are interested in volunteering.
 
 ### Is there a discount for speakers?
 
-Yes, a 20% discount is available for speakers. The 20% discount is equivalent to the early bird discounted rate. If you are accepted to JuliaCon as a speaker but have missed the early bird tickets, we will send you a discount code after your acceptance. Please email us if you did not receive a discount code.
+No, there is no blanket discount available for speakers. If you are a speaker and need financial assistance to attend JuliaCon, please submit an application for [speaker support](https://forms.gle/FCf1aGAAybsGsUda9). Since the decision on speaker support may occur after the early-bird deadline, submitting an application will guarantee you the 20% early-bird discount rate even if your application was not successful. 
 
 ### Is there a discount for non-profits?
 There is not a discount for non-profits in general.
