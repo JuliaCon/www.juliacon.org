@@ -108,7 +108,7 @@ If you are unemployed, you may select the Student ticket rate. Also, see the nex
 
 ### Could I receive a discount if I would not be able afford to attend JuliaCon otherwise?
 
-Please email us at \email to request a ticket discount. We would like everyone who wants to attend JuliaCon to attend while also having enough funds to cover the cost of the conference. If you are able, please considering volunteering at the conference.
+Please email us at \email to request a ticket discount. We would like everyone who wants to attend JuliaCon to attend while also having enough funds to cover the cost of the conference. If you are able, please considering volunteering at the conference. Funding priorities will be speakers and participants underepresented in the Julia community.
 
 ## Connect with Us - We're Here for You!
 
