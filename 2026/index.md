@@ -201,7 +201,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 \end{centered} -->
 
 \begin{centered}{title="Bronze", margin_bottom="3ex"}
-  \sponsor{name="ErUM-Data-Hub", link="https://erumdatahub.de/", img="/assets/2026/img/sponsors/erum.png", level=2}
+  \sponsor{name="ErUM-Data-Hub", link="https://erumdatahub.de/", img="/assets/2026/img/sponsors/erum.png", level=1}
 \end{centered}
 
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
