@@ -235,6 +235,7 @@ configuration = Dict(
         "main_heading_color" => "black",
         "header_color" => "#389826",
         "header" => [
+            "Tickets" => "/2026/tickets",
             "Call for Proposals" => "/2026/cfp",
             "Schedule" => [
                 "Keynotes" => "/2026/keynotes",
