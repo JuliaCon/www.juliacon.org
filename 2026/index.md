@@ -194,14 +194,15 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 \begin{centered}{title="Silver", margin_bottom="3ex"}
 \end{centered}
 
-\begin{centered}{title="Bronze", margin_bottom="3ex"}
-\end{centered}
-
 \begin{centered}{title="Startup", margin_bottom="3ex"}
 \end{centered}
 
 \begin{centered}{title="Local Partners", margin_bottom="3ex"}
 \end{centered} -->
+
+\begin{centered}{title="Bronze", margin_bottom="3ex"}
+  \sponsor{name="ErUM-Data-Hub", link="https://erumdatahub.de/", img="/assets/2026/img/sponsors/erum.png", level=1}
+\end{centered}
 
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
   \sponsor{name="GAMM RSE&RDM", link="https://gamm-ag-rse-rdm.github.io/", img="/assets/2026/img/sponsors/gamm_rse_rdm.png", level=2}
