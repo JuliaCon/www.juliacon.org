@@ -75,7 +75,7 @@ Any unused tickets may be refunded up to 30 days before the start of the confere
 
 ### Is a ticket required for the Saturday hackathon?
 
-The Saturday hackathon does not require a ticket to attend.
+The Saturday hackathon requires either a **5-Day Pass** or **Talks Only** ticket to attend.
 
 ### Is there a discount for volunteers?
 
@@ -84,7 +84,7 @@ Please email us at \email if you are interested in volunteering.
 
 ### Is there a discount for speakers?
 
-Yes, a 20% discount is available for speakers. The 20% discount is equivalent to the early bird discounted rate. If you are accepted to JuliaCon as a speaker but have missed the early bird tickets, we will send you a discount code after your acceptance. Please email us if you did not receive a discount code.
+No, there is no blanket discount available for speakers. If you are a speaker and need financial assistance to attend JuliaCon, please submit an application for [speaker support](https://forms.gle/FCf1aGAAybsGsUda9). Since the decision on speaker support may occur after the early-bird deadline, submitting an application will guarantee you the 20% early-bird discount rate even if your application was not successful. 
 
 ### Is there a discount for non-profits?
 There is not a discount for non-profits in general.
@@ -108,7 +108,7 @@ If you are unemployed, you may select the Student ticket rate. Also, see the nex
 
 ### Could I receive a discount if I would not be able afford to attend JuliaCon otherwise?
 
-Please email us at \email to request a ticket discount. We would like everyone who wants to attend JuliaCon to attend while also having enough funds to cover the cost of the conference. If you are able, please considering volunteering at the conference.
+Please submit an application for [support](https://forms.gle/FCf1aGAAybsGsUda9). We would like everyone who wants to attend JuliaCon to attend while also having enough funds to cover the cost of the conference. If you are able, please considering volunteering at the conference. Funding priorities will be speakers and participants underepresented in the Julia community.
 
 ## Connect with Us - We're Here for You!
 
