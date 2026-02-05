@@ -1,5 +1,8 @@
 # Imprint
 
+JuliaCon is organized by NumFOCUS.org, a 501(c)3 non-profit in the United States.
+You can find detailed information about NumFOCUS on their website [numfocus.org/legal.html](https://numfocus.org/legal.html)
+
 ## Contact
 
 NumFocus Inc.
