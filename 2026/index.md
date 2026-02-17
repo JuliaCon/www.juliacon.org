@@ -200,6 +200,10 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 \begin{centered}{title="Local Partners", margin_bottom="3ex"}
 \end{centered} -->
 
+\begin{centered}{title="Platinum", margin_bottom="3ex"}
+  \sponsor{name="Aeolus Labs", link="https://aeolus.earth/", img="/assets/2026/img/sponsors/aeolus.svg", level=1}
+\end{centered}
+
 \begin{centered}{title="Bronze", margin_bottom="3ex"}
   \sponsor{name="ErUM-Data-Hub", link="https://erumdatahub.de/", img="/assets/2026/img/sponsors/erum.png", level=1}
 \end{centered}
