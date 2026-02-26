@@ -49,7 +49,7 @@ See the track description for more information about each minisymposium.
 You can find a list of minis [here](https://pretalx.com/juliacon-2026/featured/)
 
 ## Proposal Types
-This year, we will have 6 differentsession types under which you can submit proposals. See below for further details. Submitters of **long talks and short talks** can submit to a specific **minisymposium** if they wish. This can be done by choosing the appropriate minisymposium as track when submitting the talk.
+This year, we will have 6 different session types under which you can submit proposals. See below for further details. Submitters of **long talks and short talks** can submit to a specific **minisymposium** if they wish. This can be done by choosing the appropriate minisymposium as track when submitting the talk.
 
 ### Talks
 These sessions are primarily dedicated to sharing your technical work with the Julia community, whether it is related to software development, research, or applications from a specific field.
