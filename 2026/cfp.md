@@ -1,7 +1,7 @@
 # JuliaCon 2026 Call for Proposals
 -------
 
-**This Call for Proposals will close on Feb 28th 2026 23:59 (CET).** [Convert to your timezone.](https://arewemeetingyet.com/Berlin/2026-02-28/23:59/JuliaCon%202026%20CfP%20Deadline)
+**This Call for Proposals will close on March 7th 2026 23:59 (CET).** [Convert to your timezone.](https://arewemeetingyet.com/Berlin/2026-03-07/23:59/JuliaCon%202026%20CfP%20Deadline)
 
 \begin{box}{title="Submit", color="purple"}
   Submit your proposal [here](https://pretalx.com/juliacon-2026/cfp) !
