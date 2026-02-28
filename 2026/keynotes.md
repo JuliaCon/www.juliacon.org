@@ -8,6 +8,10 @@
 
 \avatar{name="Julia Kowalski", affil="RWTH Aachen University", link="https://www.mbd.rwth-aachen.de/cms/mbd/Der-Lehrstuhl/Team/~qashd/Julia-Kowalski/lidx/1/", img="/assets/2026/img/keynotes/Julia_Kowalski.jpg", bio="Julia Kowalski is a professor in the Faculty of Mechanical Engineering at RWTH Aachen University and speaker of its profile area Modeling and Simulation Science. She holds a Ph.D. from the Seminar for Applied Mathematics at ETH Zurich. Prior to her current position, she served as a Heisenberg Professor at the University of Göttingen, led a junior research group at the Aachen Institute for Advanced Study in Computational Engineering Science, and worked as an Analytics Specialist at McKinsey & Company. Her research lies at the intersection of computational science, applied math and engineering, with a focus on methods for model-based prediction and decision support, including data-integrated simulation methods for transport-dominated and phase-change processes, Bayesian methods, and digital-twin infrastructures for complex computational workflows. She is an advocate for open science, FAIR principles, and sustainable research software."}
 
+### Sustainability in Computational Science and Engineering
+
+Computational Science and Engineering (CSE) integrates engineering, applied mathematics, and computer science to enable model-based design, knowledge generation, and decision support. While CSE has become a key enabler of sustainable products and operations, sustainability is still often treated as an afterthought in computational method development. This talk reflects on sustainability as a core design principle for CSE—one that aligns naturally with scientific relevance, long-term usability, and enduring research value. Drawing on representative examples, we present a holistic perspective spanning resource consumption, digital infrastructure, and organizational practices. We examine how these aspects interact in modern computational research and conclude with directions for impact through sustainable CSE.
+
 ~~~
 <div style="height:1em;display:block;"></div>
 ~~~
