@@ -245,6 +245,7 @@ configuration = Dict(
             "Code of Conduct" => "/2026/coc",
             "Committee" => "/2026/committee",
             "Sponsor" => "/2026/sponsor",
+            "Venue" => "/2026/travel",
         ]
     ),
 )
