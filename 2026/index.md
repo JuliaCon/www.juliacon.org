@@ -21,7 +21,7 @@ The winners of the [Community Prize 2025](../2025/prize/) have been announced.
 \begin{box}{title="Call for proposals", color="purple"}
   Submit your proposal [here](https://pretalx.com/juliacon-2026/cfp)!
 
-  Deadline: **February 28th, 2026**
+  Extended deadline: **March 7th, 2026**
 \end{box}
 
 ~~~
