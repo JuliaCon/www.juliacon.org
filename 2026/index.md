@@ -206,6 +206,10 @@ We also have some photographic memories from previous JuliaCons. Explore our col
   \sponsor{name="ErUM-Data-Hub", link="https://erumdatahub.de/", img="/assets/2026/img/sponsors/erum.png", level=1}
 \end{centered}
 
+\begin{centered}{title="Startup", margin_bottom="3ex"}
+  \sponsor{name="Evovest", link="https://evovest.com/", img="/assets/2024/img/sponsors/evovest-logo.svg", level=2}
+\end{centered}
+
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
   \sponsor{name="GAMM RSE&RDM", link="https://gamm-ag-rse-rdm.github.io/", img="/assets/2026/img/sponsors/gamm_rse_rdm.png", level=2}
   \sponsor{name="MaRDI", link="https://www.mardi4nfdi.de", img="/assets/2026/img/sponsors/mardi.png", level=2}
