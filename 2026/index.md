@@ -18,10 +18,8 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 The winners of the [Community Prize 2025](../2025/prize/) have been announced.
 \end{box}
 
-\begin{box}{title="Call for proposals", color="purple"}
-  Submit your proposal [here](https://pretalx.com/juliacon-2026/cfp)!
-
-  Extended deadline: **March 7th, 2026**
+\begin{box}{title="Call for proposals is closed", color="purple"}
+  Thank you for submitting your proposals!
 \end{box}
 
 ~~~
