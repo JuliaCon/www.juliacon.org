@@ -14,6 +14,18 @@
 
 ---
 
+\avatar{name="Zoë Holmes", affil="EPFL", link="https://www.epfl.ch/labs/qic/prof-zoe-holmes/", img="/assets/2026/img/keynotes/Zeo_Holmes.png", bio="Zoë Holmes received in 2015 her MPhil degree in Physics and Philosophy from the University of Oxford. In 2016 she obtained her MRes (Master of Research) from the Imperial College London, where in 2019 she got her PhD in quantum thermodynamics. In 2020 she started as a Postdoctoral Researcher at Los Alamos National Laboratory (USA) working on quantum algorithms and quantum machine learning. In 2021 she became the Mark Kac Fellow at Los Alamos National Lab. Since August 2022 she is Tenure Track Assistant Professor of Physics at EPFL where her research ranges from quantum algorithms and quantum learning theory to classical methods to simulate quantum systems."}
+
+### Julia For Quantum Software: Lessons from PauliPropagation.jl
+
+Quantum computing progress depends as much on software as on hardware. In this keynote, we’ll start with a practical view of how high-quality code supports the development and use of quantum devices—through simulation, compilation, verification, benchmarking, and control. We'll also stress the value of state of the art classical methods to delineate where a quantum computer is genuinely required, versus where well-designed classical software is the right (and often faster) choice. We will then zoom in on PauliPropagation.jl, a Julia package we have been developing for efficiently simulating quantum circuits. We will outline the core abstractions and implementation details in the package, and what problems it is meant to make easy. A central thread will be "why Julia". Beyond performance, Julia lets us offer a fully extensible package with custom gates, data structures, and evolving types. We’ll end with an honest account of building Julia tools as a scientist: what has worked well, what has been surprisingly hard, and what we have learned about presenting research software to a community that often defaults to Python expectations.
+
+~~~
+<div style="height:1em;display:block;"></div>
+~~~
+
+---
+
 \avatar{name="Paul Tiede", affil="Black Hole Initiative, Harvard University", link="https://www.cfa.harvard.edu/people/paul-tiede", img="/assets/2026/img/keynotes/Paul_Tiede.jpg", bio="Paul Tiede is a computational radio astronomer and data scientist interested in black hole physics. He is a research associate at the Black Hole Initiative at Harvard University and the chief data scientist for the Black Hole Explorer project. Previously, Paul was a postdoctoral fellow at the Center for Astrophysics | Harvard & Smithsonian, and received his Ph.D. from the University of Waterloo and Perimeter Institute in 2021. Within Julia, Paul is the lead developer of several radio astronomy packages, including Comrade.jl, and is the co-lead of the EHTJulia software group."}
 
 ~~~
