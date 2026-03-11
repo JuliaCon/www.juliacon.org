@@ -14,6 +14,14 @@
 
 ---
 
+\avatar{name="Zoë Holmes", affil="EPFL", link="https://www.epfl.ch/labs/qic/prof-zoe-holmes/", img="/assets/2026/img/keynotes/Zeo_Holmes.png", bio="Zoë Holmes received in 2015 her MPhil degree in Physics and Philosophy from the University of Oxford. In 2016 she obtained her MRes (Master of Research) from the Imperial College London, where in 2019 she got her PhD in quantum thermodynamics. In 2020 she started as a Postdoctoral Researcher at Los Alamos National Laboratory (USA) working on quantum algorithms and quantum machine learning. In 2021 she became the Mark Kac Fellow at Los Alamos National Lab. Since August 2022 she is Tenure Track Assistant Professor of Physics at EPFL where her research ranges from quantum algorithms and quantum learning theory to classical methods to simulate quantum systems."}
+
+~~~
+<div style="height:1em;display:block;"></div>
+~~~
+
+---
+
 \avatar{name="Paul Tiede", affil="Black Hole Initiative, Harvard University", link="https://www.cfa.harvard.edu/people/paul-tiede", img="/assets/2026/img/keynotes/Paul_Tiede.jpg", bio="Paul Tiede is a computational radio astronomer and data scientist interested in black hole physics. He is a research associate at the Black Hole Initiative at Harvard University and the chief data scientist for the Black Hole Explorer project. Previously, Paul was a postdoctoral fellow at the Center for Astrophysics | Harvard & Smithsonian, and received his Ph.D. from the University of Waterloo and Perimeter Institute in 2021. Within Julia, Paul is the lead developer of several radio astronomy packages, including Comrade.jl, and is the co-lead of the EHTJulia software group."}
 
 ~~~
