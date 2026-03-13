@@ -12,13 +12,9 @@ Three ticket price tiers are available to accommodate different financial situat
 - **Individual Tickets** for individuals paying with personal funds, public research grants, individual non-profit grants, or small businesses.
 - **Student Tickets** for registered students, PhD candidates, and non-faculty postdoctoral trainees.
 
-A 7% value-added tax (VAT) will be added to all ticket prices as required by German law. If you have any questions about which ticket type to select, please see the FAQ section below or contact us at \email.
+Tickets are issued by JuliaCon Global 2026's local partner, [Institut für angewandte numerische Wissenschaft e.V. (IANW)](https://www.ianw.de/). A 7% value-added tax (VAT) will be added to all ticket prices as required by German law. If you have any questions about which ticket type to select, please see the FAQ section below or contact us at \email.
 
 We look forward to seeing you in Mainz!
-
-~~~
-<ins><strong>The tickets will be available for purchase soon. Please check back later and follow us on social media for updates.</strong></ins>
-~~~
 
 # Standard Ticket Prices
 
