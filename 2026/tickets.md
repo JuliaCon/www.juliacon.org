@@ -1,4 +1,6 @@
-# JuliaCon Global 2026: Registration and Ticketing (Coming Soon!)
+# JuliaCon Global 2026: Registration and Ticketing
+
+## Early Bird Tickets are now available!
 
 Welcome to the registration page for JuliaCon Global 2026! This year's conference will take place in person at Johannes Gutenberg University in Mainz, Germany from Monday August 10th to Friday August 14th.
 
@@ -22,6 +24,7 @@ We look forward to seeing you in Mainz!
 <div data-hievents-id="5563" data-hievents-primary-color="#9558b2" data-hievents-primary-text-color="#000000" data-hievents-secondary-color="#9558b2" data-hievents-secondary-text-color="#ffffff" data-hievents-background-color="#ffffff" data-hievents-widget-type="widget" data-hievents-widget-version="1.0" data-hievents-locale="en" data-hievents-padding="20px" data-hievents-autoresize="true" data-hievents-continue-button-text="Continue" class="hievents-widget"></div>
 ~~~
 
+If the above widget does not load, please click [here](https://app.hi.events/event/5563/juliacon-global-2026) to purchase your tickets on the Hi.Events website.
 
 # Standard Ticket Prices
 
