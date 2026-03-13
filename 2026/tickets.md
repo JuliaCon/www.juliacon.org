@@ -12,9 +12,16 @@ Three ticket price tiers are available to accommodate different financial situat
 - **Individual Tickets** for individuals paying with personal funds, public research grants, individual non-profit grants, or small businesses.
 - **Student Tickets** for registered students, PhD candidates, and non-faculty postdoctoral trainees.
 
-Tickets are issued by JuliaCon Global 2026's local partner, [Institut für angewandte numerische Wissenschaft e.V. (IANW)](https://www.ianw.de/). A 7% value-added tax (VAT) will be added to all ticket prices as required by German law. If you have any questions about which ticket type to select, please see the FAQ section below or contact us at \email.
+Tickets are issued by JuliaCon Global 2026's local partner, [Institut für angewandte numerische Wissenschaft e.V. (IANW)](https://ianw.de/). A 7% value-added tax (VAT) will be added to all ticket prices as required by German law. If you have any questions about which ticket type to select, please see the FAQ section below or contact us at \email.
 
 We look forward to seeing you in Mainz!
+
+~~~
+<script async src="https://app.hi.events/widget.js"></script>
+
+<div data-hievents-id="5563" data-hievents-primary-color="#9558b2" data-hievents-primary-text-color="#000000" data-hievents-secondary-color="#9558b2" data-hievents-secondary-text-color="#ffffff" data-hievents-background-color="#ffffff" data-hievents-widget-type="widget" data-hievents-widget-version="1.0" data-hievents-locale="en" data-hievents-padding="20px" data-hievents-autoresize="true" data-hievents-continue-button-text="Continue" class="hievents-widget"></div>
+~~~
+
 
 # Standard Ticket Prices
 
@@ -27,7 +34,7 @@ Standard ticket prices are our normal rate which allows us to cover the expenses
 - Workshops Only: **€300.00** + **€21.00** VAT
 
 **Early bird prices:**
-- 5-Day Pass: **€840.00** + **€58.80** VAT  
+- 5-Day Pass: **€840.00** + **€58.80** VAT
 - Talks Only: **€720.00** + **€50.40** VAT
 - Workshops Only: **€240.00** + **€16.80** VAT
 
