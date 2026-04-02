@@ -220,6 +220,10 @@ We also have some photographic memories from previous JuliaCons. Explore our col
   \sponsor{name="MaRDI", link="https://www.mardi4nfdi.de", img="/assets/2026/img/sponsors/mardi.png", level=2}
 \end{centered}
 
+\begin{centered}{title="Local Partners", margin_bottom="3ex"}
+  \sponsor{name="IANW", link="https://ianw.de/", img="/assets/2026/img/sponsors/ianw.jpg", level=2}
+\end{centered}
+
 \begin{centered}{title="JuliaCon Global 2026 Event Ticketing Partner:"}
   \sponsor{link="https://hi.events", img="/assets/2026/img/sponsors/hi-events-horizontal-light.svg", name="Hi.Events", level=2}
 \end{centered}
