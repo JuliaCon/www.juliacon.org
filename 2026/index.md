@@ -201,6 +201,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 
 \begin{centered}{title="Platinum", margin_bottom="3ex"}
   \sponsor{name="Aeolus Labs", link="https://aeolus.earth/", img="/assets/2026/img/sponsors/aeolus.svg", level=1}
+  \sponsor{name="Boeing", link="https://boeing.com", img="/assets/2024/img/sponsors/boeing-logo.png", level=1}
 \end{centered}
 
 \begin{centered}{title="Gold", margin_bottom="3ex"}
