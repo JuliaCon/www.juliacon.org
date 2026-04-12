@@ -1,65 +1,182 @@
 
 # Hotels
 
+~~~
+<div style="width: 100%; overflow: hidden;">
+<iframe src="https://maps.google.com/maps?q=Johannes+Gutenberg+University+Mainz&output=embed&z=13" width="100%" height="480" frameborder="0" allowfullscreen style="border: 0;"></iframe>
+<br>
+<br>
+</div>
+~~~
+
+JuliaCon organizers have secured contingent rooms at select hotels in the area. To unlock the conference rate, use the keyword **juliacon** when booking at all of the hotels listed below.
+
 ## Hotels with conference discount
 
-**Important:** For all hotels with discount use the keyword: juliacon
+### B&B Hotel Mainz-Hbf
 
-### B & B - Hotel
+A budget-friendly hotel close to the main train station and the university campus.
 
-- Distance from venue
-- Discount available until July 13th, 2026
+Distance from venue: ~2 km.
 
-### Schottenhof
+Book via the [hotel's website](https://www.hotel-bb.com/en/hotel/mainz-hbf) using the keyword **juliacon**.
 
-- Distance from venue
-- Discount available until June 6th, 2026
+**Book by: July 13, 2026**
 
-### Romerstein
+~~~
+<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
+    <iframe src="https://maps.google.com/maps?q=B%26B+Hotel+Mainz-Hbf,+Mombacher+Str.+2b,+55122+Mainz,+Germany&output=embed" frameborder="0" allowfullscreen style="width: 100%; height: 300px; border: 0;"></iframe>
+</div>
+<br>
+<br>
+~~~
 
-- Distance from venue
-- Discount available until July 10th, 2026
+### Hotel Schottenhof
 
-### Intercity
+A family-run hotel close to the Mainz central train station.
 
-- Distance from venue
-- Discount available until July 7th, 2026
+Distance from venue: ~4 km.
 
-### Mercure
+Book via the [hotel's website](https://www.hotelschottenhof.de/en) using the keyword **juliacon**.
 
-- Distance from venue
-- Discount available until July 10th, 2026
+Price: €135.00/night; breakfast available for an additional €16.00/night.
 
-### Hotel Garner
+**Book by: June 9, 2026**
 
-- Distance from venue
-- Discount available until July 6th, 2026
+~~~
+<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
+    <iframe src="https://maps.google.com/maps?q=Hotel+Schottenhof,+Schottstr.+6,+55116+Mainz,+Germany&output=embed" frameborder="0" allowfullscreen style="width: 100%; height: 300px; border: 0;"></iframe>
+</div>
+<br>
+<br>
+~~~
 
-Notes: Booking via email using the keyword:  qmzmz.grn@novum-hospitality.com
+### Hotel Römerstein
 
-### Leornado
+A hotel peacefully located near the JGU campus in the Bretzenheim district.
 
-- Distance from venue
-- Discount available until July 13th, 2026
+Distance from venue: ~2 km.
 
-Notes: Reservation: mail: reservations.frankfurt@leonardo-hotels.com or phone: +49 62 213608910
+Book via the [hotel's website](https://www.hotel-roemerstein.de/en/) using the keyword **juliacon**.
+
+Price: €87.90/night.
+
+**Book by: July 10, 2026**
+
+~~~
+<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
+    <iframe src="https://maps.google.com/maps?q=Hotel+Roemerstein,+Draiser+Str.+136F,+55128+Mainz,+Germany&output=embed" frameborder="0" allowfullscreen style="width: 100%; height: 300px; border: 0;"></iframe>
+</div>
+<br>
+<br>
+~~~
+
+### IntercityHotel Mainz
+
+A modern hotel located directly at Mainz central train station.
+
+Distance from venue: ~3.5 km.
+
+Book via the [hotel's website](https://hrewards.com/en/intercityhotel-mainz) using the keyword **juliacon**.
+
+**Note:** Bookings can be cancelled free of charge up to two weeks before the event.
+
+**Book by: July 6, 2026**
+
+~~~
+<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
+    <iframe src="https://maps.google.com/maps?q=IntercityHotel+Mainz,+Binger+Str.+21,+55131+Mainz,+Germany&output=embed" frameborder="0" allowfullscreen style="width: 100%; height: 300px; border: 0;"></iframe>
+</div>
+<br>
+<br>
+~~~
+
+### Mercure Hotel Mainz City Center
+
+A contemporary hotel centrally located near the state museum and old town.
+
+Distance from venue: ~3 km.
+
+Book via the [hotel's website](https://all.accor.com/hotel/B829/index.en.shtml) using the keyword **juliacon**.
+
+**Book by: July 10, 2026**
+
+~~~
+<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
+    <iframe src="https://maps.google.com/maps?q=Mercure+Hotel+Mainz+City+Center,+Kaiserstra%C3%9Fe+7,+55116+Mainz,+Germany&output=embed" frameborder="0" allowfullscreen style="width: 100%; height: 300px; border: 0;"></iframe>
+</div>
+<br>
+<br>
+~~~
+
+### Garner Hotel Mainz by IHG
+
+A well-located hotel in the Bretzenheim district, near the motorway.
+
+Distance from venue: ~3 km.
+
+**Booking:** Send an email to [qmzmz.grn@novum-hospitality.com](mailto:qmzmz.grn@novum-hospitality.com) using the keyword **juliacon**.
+
+**Book by: July 6, 2026**
+
+~~~
+<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
+    <iframe src="https://maps.google.com/maps?q=Garner+Hotel+Mainz+by+IHG,+Haifa-Allee+8,+55128+Mainz,+Germany&output=embed" frameborder="0" allowfullscreen style="width: 100%; height: 300px; border: 0;"></iframe>
+</div>
+<br>
+<br>
+~~~
+
+### Leonardo Hotel Mainz
+
+A hotel 600 m from Mainz Hauptbahnhof, close to St. Stephan's Church with windows by Chagall.
+
+Distance from venue: ~3 km.
+
+Price: single room €110.00/night, double room €120.00/night (breakfast included). Credit card information required at time of booking.
+
+**Booking:** Contact the hotel directly using the keyword **juliacon**:
+- Email: [reservations.frankfurt@leonardo-hotels.com](mailto:reservations.frankfurt@leonardo-hotels.com)
+- Phone: [+49 6221 3608910](tel:+4962213608910)
+
+**Note:** Rooms are available in batches — 40 rooms until May 18, 2026; 20 additional rooms until June 15, 2026; the remaining rooms until July 13, 2026. Book early!
+
+~~~
+<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
+    <iframe src="https://maps.google.com/maps?q=Leonardo+Hotel+Mainz,+Augustusstra%C3%9Fe+6,+55131+Mainz,+Germany&output=embed" frameborder="0" allowfullscreen style="width: 100%; height: 300px; border: 0;"></iframe>
+</div>
+<br>
+<br>
+~~~
 
 ### Hotel Hammer
 
-- Distance from venue
-- Discount available until June 26th, 2026
+A 3-star superior hotel within a 10-minute walk of Mainz cathedral and Gutenberg Museum.
 
-### Ibis Mainz
+Distance from venue: ~3.5 km.
 
-- Distance from venue
-- Discount available until June 22th, 2026
+Book via the [hotel's website](https://www.hotel-hammer.com/) using the keyword **juliacon**.
 
+Price: single room €109.00/night, double room €139.00/night (breakfast included).
 
-## Other hotels
+**Book by: June 26, 2026**
 
-- Best Western: www.hotel-mainz.bestwestern.de
-- Me & All
-- Holidya Inn
-- Hotel Mainzer Hof
-- Hotel am Roemerwall
-- Hotel Koenigshof: https://www.hotel-koenigshof-mainz.de/
+~~~
+<div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
+    <iframe src="https://maps.google.com/maps?q=Hotel+Hammer,+Bahnhofplatz+6,+55116+Mainz,+Germany&output=embed" frameborder="0" allowfullscreen style="width: 100%; height: 300px; border: 0;"></iframe>
+</div>
+<br>
+<br>
+~~~
+
+## Other options
+
+Here is a short list of other possible accommodation options without a conference discount.
+
+- [Best Western Mainz](http://www.hotel-mainz.bestwestern.de)
+- [Me & All Hotel Mainz](https://www.hyatt.com/me-and-all/mzmma-me-and-all-hotel-mainz), Binger Str. 23, 55131 Mainz
+- [ibis Mainz City](https://all.accor.com/hotel/7165/index.en.shtml)
+- [Mood Mainz Hotel (Holiday Inn)](https://www.moodmainz.de)
+- [Hotel Mainzer Hof](https://www.mainzerhof.com)
+- [Hotel am Römerwall](https://www.hotel-am-roemerwall.de)
+- [Hotel Königshof](https://www.hotel-koenigshof-mainz.de/)
