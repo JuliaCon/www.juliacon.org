@@ -42,6 +42,12 @@ To search for connections on <https://int.bahn.de/en>, please use the start "Fra
 
 See also <https://www.uni-mainz.de/en/campus-map/#by-plane>.
 
+### Public transport: KombiTicket
+
+Your JuliaCon 2026 conference ticket includes a **KombiTicket** — a free public transport pass valid from August 9 to 15, 2026, within the [Rhein-Main-Verkehrsverbund (RMV)](https://www.rmv.de/en/) network. The RMV covers Mainz, Frankfurt, Wiesbaden, and the wider Rhine-Main region, so you can use buses, trams, S-Bahn, and regional trains throughout the area at no extra cost during the conference.
+
+This makes it easy to get from Frankfurt Airport (FRA) or Frankfurt main station (Frankfurt Hbf) to Mainz, and to travel around Mainz itself, all included with your ticket.
+
 ### By train (Deutsche Bahn event offer)
 
 JuliaCon 2026 participants can travel throughout Germany by train at a discounted rate via a dedicated Deutsche Bahn event offer (valid as of April 2026):

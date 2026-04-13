@@ -39,8 +39,6 @@ Distance from venue: ~4 km.
 
 Book via the [hotel's website](https://www.hotelschottenhof.de/en) using the keyword **juliacon**.
 
-Price: €135.00/night; breakfast available for an additional €16.00/night.
-
 **Book by: June 9, 2026**
 
 ~~~
@@ -58,8 +56,6 @@ A hotel peacefully located near the JGU campus in the Bretzenheim district.
 Distance from venue: ~2 km.
 
 Book via the [hotel's website](https://www.hotel-roemerstein.de/en/) using the keyword **juliacon**.
-
-Price: €87.90/night.
 
 **Book by: July 10, 2026**
 
@@ -133,7 +129,7 @@ A hotel 600 m from Mainz Hauptbahnhof, close to St. Stephan's Church with window
 
 Distance from venue: ~3 km.
 
-Price: single room €110.00/night, double room €120.00/night (breakfast included). Credit card information required at time of booking.
+**Note:** Credit card information is required at time of booking.
 
 **Booking:** Contact the hotel directly using the keyword **juliacon**:
 - Email: [reservations.frankfurt@leonardo-hotels.com](mailto:reservations.frankfurt@leonardo-hotels.com)
@@ -156,8 +152,6 @@ A 3-star superior hotel within a 10-minute walk of Mainz cathedral and Gutenberg
 Distance from venue: ~3.5 km.
 
 Book via the [hotel's website](https://www.hotel-hammer.com/) using the keyword **juliacon**.
-
-Price: single room €109.00/night, double room €139.00/night (breakfast included).
 
 **Book by: June 26, 2026**
 
