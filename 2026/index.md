@@ -18,8 +18,12 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 The winners of the [Community Prize 2025](../2025/prize/) have been announced.
 \end{box}
 
-\begin{box}{title="Call for proposals is closed", color="purple"}
-  Thank you for submitting your proposals!
+\begin{box}{title="Travel & Hotels", color="dark-blue"}
+  JuliaCon 2026 conference tickets include a **KombiTicket** for free public transport within the [RMV network](https://www.rmv.de/en/) (August 9–15), covering travel from Frankfurt Airport to Mainz and around the city.
+
+  We have also secured [discounted hotel rooms](/2026/venue-hotels) at several hotels in Mainz. Use the keyword **juliacon** when booking.
+
+  See our [travel page](/2026/travel) for full details including the Deutsche Bahn event offer and cycling routes.
 \end{box}
 
 ~~~
@@ -27,10 +31,6 @@ The winners of the [Community Prize 2025](../2025/prize/) have been announced.
   </div>
 </div>
 ~~~
-
-<!-- \begin{box}{title="Travel Funding", color="dark-green"}
-If you are an accepted speaker and require a travel funding, please fill out [this form](https://forms.gle/TCdgowe7PbXv7p5v6).
-\end{box} -->
 
 \begin{rowheader}{title="Keynote Speakers", color=""}\end{rowheader}
 \\
@@ -57,8 +57,15 @@ If you are an accepted speaker and require a travel funding, please fill out [th
 
 \begin{rowheader}{title="Venue", color=""}\end{rowheader}
 @@row,row-section
-@@col-12
+@@col-12,col-md-8
 JuliaCon 2026 will host talks and workshops at the Johannes Gutenberg University Mainz.
+@@
+@@col-12,col-md-4,text-center
+~~~
+<a class="btn" style="width: 100%; border-color: #9d253d; text-decoration: none;" href="/2026/travel">Travel information</a>
+<br><br>
+<a class="btn" style="width: 100%; border-color: #9d253d; text-decoration: none;" href="/2026/venue-hotels">Hotels &amp; discounts</a>
+~~~
 @@
 @@
 
