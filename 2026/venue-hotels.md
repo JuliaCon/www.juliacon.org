@@ -111,7 +111,7 @@ A well-located hotel in the Bretzenheim district, near the motorway.
 
 Distance from venue: ~3 km.
 
-**Booking:** Send an email to [qmzmz.grn@novum-hospitality.com](mailto:qmzmz.grn@novum-hospitality.com) using the keyword **juliacon**.
+**Booking:** Visit the [hotel's website](https://www.ihg.com/garner-hotels/hotels/us/en/mainz/qmzmz/hoteldetail) or send an email to [qmzmz.grn@novum-hospitality.com](mailto:qmzmz.grn@novum-hospitality.com) using the keyword **juliacon**.
 
 **Book by: July 6, 2026**
 
@@ -131,7 +131,7 @@ Distance from venue: ~3 km.
 
 **Note:** Credit card information is required at time of booking.
 
-**Booking:** Contact the hotel directly using the keyword **juliacon**:
+**Booking:** Visit the [hotel's website](https://www.leonardo-hotels.com/mainz/leonardo-hotel-mainz) or contact the hotel directly using the keyword **juliacon**:
 - Email: [reservations.frankfurt@leonardo-hotels.com](mailto:reservations.frankfurt@leonardo-hotels.com)
 - Phone: [+49 6221 3608910](tel:+4962213608910)
 
@@ -168,9 +168,9 @@ Book via the [hotel's website](https://www.hotel-hammer.com/) using the keyword 
 Here is a short list of other possible accommodation options without a conference discount.
 
 - [Best Western Mainz](http://www.hotel-mainz.bestwestern.de)
-- [Me & All Hotel Mainz](https://www.hyatt.com/me-and-all/mzmma-me-and-all-hotel-mainz), Binger Str. 23, 55131 Mainz
-- [ibis Mainz City](https://all.accor.com/hotel/7165/index.en.shtml)
-- [Mood Mainz Hotel (Holiday Inn)](https://www.moodmainz.de)
+- [Me & All Hotel Mainz](https://www.hyatt.com/me-and-all-hotels/en-US/frajm-me-and-all-hotel-mainz), Binger Str. 23, 55131 Mainz
+- [ibis Mainz City](https://all.accor.com/hotel/1084/index.en.shtml)
+- [Holiday Inn - the niu, Mood Mainz](https://www.ihg.com/holiday-inn-the-niu/hotels/us/en/mainz/qmzmm/hoteldetail)
 - [Hotel Mainzer Hof](https://www.mainzerhof.com)
-- [Hotel am Römerwall](https://www.hotel-am-roemerwall.de)
+- [Hotel am Römerwall](https://www.roemerwallhotel.de/en/homepage/)
 - [Hotel Königshof](https://www.hotel-koenigshof-mainz.de/)
