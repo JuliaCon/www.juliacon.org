@@ -9,7 +9,7 @@
 </div>
 ~~~
 
-JuliaCon organizers have secured contingent rooms at select hotels in the area. To unlock the conference rate, use the keyword **juliacon** when booking at all of the hotels listed below.
+JuliaCon organizers have secured contingent rooms at several hotels in the area. To unlock the conference rate, use the keyword **juliacon** when booking at all of the hotels listed below.
 
 ## Hotels with conference discount
 

@@ -25,7 +25,7 @@ See the [visa page](/2026/visa) for more information!
 
 In Mainz, the most common way for people to get around is by bicycle, on foot, or by public transport. 
 Additional information on travel advice for individuals with disabilities can be found [below](#travel-with-a-disability).
-The conference location is close to the city centre, and is available within 20 minutes walking from the central train station.
+The conference location is close to the city centre, and can be reached in 20 minutes or less on foot from the central train station.
 
 ## Reaching Mainz
 
@@ -57,7 +57,7 @@ JuliaCon 2026 participants can travel throughout Germany by train at a discounte
 - **CO₂-free travel** — arrival and departure on Deutsche Bahn trains is fully offset with renewable energy
 - **Flexible booking** — tickets available for all routes across Germany
 
-[Book your discounted train ticket now](https://www.eventanreise-bahn.de/?event=49579&language=en)
+[Book your discounted train ticket now.](https://www.eventanreise-bahn.de/?event=49579&language=en)
 
 ### By bicycle
 

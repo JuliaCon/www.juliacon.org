@@ -21,7 +21,7 @@ The winners of the [Community Prize 2025](../2025/prize/) have been announced.
 \begin{box}{title="Travel & Hotels", color="dark-blue"}
   JuliaCon 2026 conference tickets include a **KombiTicket** for free public transport within the [RMV network](https://www.rmv.de/en/) (August 9–15), covering travel from Frankfurt Airport to Mainz and around the city.
 
-  We have also secured [discounted hotel rooms](/2026/venue-hotels) at select hotels in Mainz. Use the keyword **juliacon** when booking.
+  We have also secured [discounted hotel rooms](/2026/venue-hotels) at several hotels in Mainz. Use the keyword **juliacon** when booking.
 
   See our [travel page](/2026/travel) for full details including the Deutsche Bahn event offer and cycling routes.
 \end{box}
