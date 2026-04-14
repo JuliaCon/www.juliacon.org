@@ -61,7 +61,7 @@ JuliaCon 2026 participants can travel throughout Germany by train at a discounte
 
 ### By bicycle
 
-Mainz is a very cycle-friendly city and is served by the [EuroVelo 15 Rhine Cycle Route](https://en.eurovelo.com/ev15), a long-distance cycling route running along the Rhine from Switzerland to the Netherlands. The route passes directly through Mainz, making it possible to arrive by bike from cities such as Worms, Speyer, or Bingen. The Rhine cycle path along this stretch is mostly flat and well-marked.
+Mainz is a very cycle-friendly city and is served by the [EuroVelo 15 Rhine Cycle Route](https://en.eurovelo.com/ev15), a long-distance cycling route running along the Rhine from Switzerland to the Netherlands. The route passes directly through Mainz, making it possible to arrive by bike from cities such as Worms, Speyer, or Bingen. The Rhine cycle path along this stretch is mostly flat and well-marked. It is also reachable by the [German cycle route D5 "Saar-Mosel-Main"](https://cycle.travel/route/summary/268753) from Frankfurt and points further east. 
 
 The JGU campus is accessible by bicycle from the city centre and from the main train station (Hauptbahnhof) in around 10–15 minutes.
 
