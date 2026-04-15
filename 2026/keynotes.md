@@ -14,7 +14,7 @@
 
 ---
 
-\avatar{name="Zoë Holmes", affil="EPFL", link="https://www.epfl.ch/labs/qic/prof-zoe-holmes/", img="/assets/2026/img/keynotes/Zeo_Holmes.png", bio="Zoë Holmes received in 2015 her MPhil degree in Physics and Philosophy from the University of Oxford. In 2016 she obtained her MRes (Master of Research) from the Imperial College London, where in 2019 she got her PhD in quantum thermodynamics. In 2020 she started as a Postdoctoral Researcher at Los Alamos National Laboratory (USA) working on quantum algorithms and quantum machine learning. In 2021 she became the Mark Kac Fellow at Los Alamos National Lab. Since August 2022 she is Tenure Track Assistant Professor of Physics at EPFL where her research ranges from quantum algorithms and quantum learning theory to classical methods to simulate quantum systems."}
+\avatar{name="Zoë Holmes", affil="EPFL", link="https://www.epfl.ch/labs/qic/prof-zoe-holmes/", img="/assets/2026/img/keynotes/Zoe_Holmes.png", bio="Zoë Holmes received in 2015 her MPhil degree in Physics and Philosophy from the University of Oxford. In 2016 she obtained her MRes (Master of Research) from the Imperial College London, where in 2019 she got her PhD in quantum thermodynamics. In 2020 she started as a Postdoctoral Researcher at Los Alamos National Laboratory (USA) working on quantum algorithms and quantum machine learning. In 2021 she became the Mark Kac Fellow at Los Alamos National Lab. Since August 2022 she is Tenure Track Assistant Professor of Physics at EPFL where her research ranges from quantum algorithms and quantum learning theory to classical methods to simulate quantum systems."}
 
 ### Julia For Quantum Software: Lessons from PauliPropagation.jl
 
