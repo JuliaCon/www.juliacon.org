@@ -37,7 +37,9 @@ A family-run hotel close to the Mainz central train station.
 
 Distance from venue: ~4 km.
 
-Book via the [hotel's website](https://www.hotelschottenhof.de/en) using the keyword **juliacon**.
+To use the discount code **juliacon**, you need to book via email [info@hotelschottenhof.de](mailto:info@hotelschottenhof.de).
+
+Regular bookings can be made via the [hotel's website](https://www.hotelschottenhof.de/en).
 
 **Book by: June 9, 2026**
 
