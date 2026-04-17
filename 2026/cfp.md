@@ -1,7 +1,7 @@
 # JuliaCon 2026 Call for Proposals
 -------
 
-**This Call for Proposals was close on March 7th 2026 23:59 (CET).** [Convert to your timezone.](https://arewemeetingyet.com/Berlin/2026-03-07/23:59/JuliaCon%202026%20CfP%20Deadline)
+**This Call for Proposals closed on March 7th 2026 23:59 (CET).** [Convert to your timezone.](https://arewemeetingyet.com/Berlin/2026-03-07/23:59/JuliaCon%202026%20CfP%20Deadline)
 
 We invite you to submit proposals to give a presentation at JuliaCon Global 2026. JuliaCon Global 2026 will be an **in person** conference held in Mainz, Germany, 10-15 August 2026. Presenting remotely will not be possible. If you would like to submit a video at any time to the [main Julia Language channel](https://www.youtube.com/julialanguage), please feel free to fill out this form [here](https://forms.gle/fN539wKFfjCFuuoV7).
 
