@@ -73,7 +73,9 @@ A modern hotel located directly at Mainz central train station.
 
 Distance from venue: ~3.5 km.
 
-Book via the [hotel's website](https://hrewards.com/en/intercityhotel-mainz) using the keyword **juliacon**.
+To use the discount code **juliacon**, you need to book via email [reservations.mainz@intercityhotel.com](mailto:reservations.mainz@intercityhotel.com) or phone call [+49 6131 58851 0](tel:+496131588510).
+
+Regular bookings can be made via the [hotel's website](https://hrewards.com/en/intercityhotel-mainz).
 
 **Note:** Bookings can be cancelled free of charge up to two weeks before the event.
 
@@ -131,9 +133,9 @@ Distance from venue: ~3 km.
 
 **Note:** Credit card information is required at time of booking.
 
-**Booking:** Visit the [hotel's website](https://www.leonardo-hotels.com/mainz/leonardo-hotel-mainz) or contact the hotel directly using the keyword **juliacon**:
-- Email: [reservations.frankfurt@leonardo-hotels.com](mailto:reservations.frankfurt@leonardo-hotels.com)
-- Phone: [+49 6221 3608910](tel:+4962213608910)
+To use the discount code **juliacon**, you need to book via email [reservations.frankfurt@leonardo-hotels.com](mailto:reservations.frankfurt@leonardo-hotels.com) or phone call [+49 6221 3608910](tel:+4962213608910).
+
+Regular bookings can be made via the [hotel's website](https://www.leonardo-hotels.com/mainz/leonardo-hotel-mainz).
 
 **Note:** Rooms are available in batches — 40 rooms until May 18, 2026; 20 additional rooms until June 15, 2026; the remaining rooms until July 13, 2026. Book early!
 
