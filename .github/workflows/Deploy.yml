@@ -37,7 +37,7 @@ jobs:
         echo "PREVIEW_FRANKLIN_WEBSITE_URL=https://juliacon.org/previews/PR${{ github.event.number }}/" >> $GITHUB_ENV
         echo "PREVIEW_FRANKLIN_PREPATH=previews/PR${{ github.event.number }}" >> $GITHUB_ENV
     - name: Install Julia
-      uses: julia-actions/setup-julia@v2
+      uses: julia-actions/setup-julia@v3
       with:
         version: '1.10'
     - name: Cache Julia depot
