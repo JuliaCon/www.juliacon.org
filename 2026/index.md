@@ -3,7 +3,7 @@ title = "JuliaCon 2026"
 
 # top title + subtitle
 insert_top_title = true
-top_title = "JuliaCon 2026\n"
+top_title = "JuliaCon Global 2026\n"
 top_description = "Conference on the Julia programming language.\n"
 top_date = "Johannes Gutenberg University Mainz (Germany, near Frankfurt). August 10-15, 2026.\n"
 top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/world_1400.png 1400w, ../assets/2021/img/world_2800.png 2800w"
@@ -18,8 +18,12 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 The winners of the [Community Prize 2025](../2025/prize/) have been announced.
 \end{box}
 
-\begin{box}{title="Call for Minisymposia"}
-The [call for minisymposia](minisymposia_cfp) is closed. Deadline was **December 2nd 2025 20:00 (CET)**.
+\begin{box}{title="Travel & Hotels", color="dark-blue"}
+  JuliaCon 2026 conference tickets include a **KombiTicket** for free public transport within the [RMV network](https://www.rmv.de/en/) (August 9–15), covering travel from Frankfurt Airport to Mainz and around the city.
+
+  We have also secured [discounted hotel rooms](/2026/venue-hotels) at several hotels in Mainz. Use the keyword **juliacon** when booking.
+
+  See our [travel page](/2026/travel) for full details including the Deutsche Bahn event offer and cycling routes.
 \end{box}
 
 ~~~
@@ -28,16 +32,13 @@ The [call for minisymposia](minisymposia_cfp) is closed. Deadline was **December
 </div>
 ~~~
 
-<!-- \begin{box}{title="Travel Funding", color="dark-green"}
-If you are an accepted speaker and require a travel funding, please fill out [this form](https://forms.gle/TCdgowe7PbXv7p5v6).
-\end{box} -->
-
 \begin{rowheader}{title="Keynote Speakers", color=""}\end{rowheader}
 \\
 
 @@row,row-section
 \keynote{name="Julia Kowalski", affil="RWTH Aachen University", link="https://www.mbd.rwth-aachen.de/cms/mbd/Der-Lehrstuhl/Team/~qashd/Julia-Kowalski/lidx/1/", img="/assets/2026/img/keynotes/Julia_Kowalski.jpg", title=""}
-\keynote{name="Paul Tiede", affil="Black Hole Initiative, Harvard University", link="https://www.cfa.harvard.edu/people/paul-tiede", img="/assets/2026/img/keynotes/Paul_Tiede.jpg", title=""}
+\keynote{name="Zoë Holmes", affil="EPFL", link="https://www.epfl.ch/labs/qic/prof-zoe-holmes/", img="/assets/2026/img/keynotes/Zoe_Holmes.png", title=""}
+\keynote{name="Paul Tiede", affil="Black Hole Initiative, Harvard University", link="https://bhi.fas.harvard.edu/people/paul-tiede/", img="/assets/2026/img/keynotes/Paul_Tiede.jpg", title=""}
 \keynote{name="Simon Peyton Jones", affil="Engineering Fellow, Epic Games", link="https://simon.peytonjones.org", img="/assets/2026/img/keynotes/SimonPeytonJones.jpeg", title=""}
 <!-- \keynote{name="Julia Core Developers", affil="", link="https://julialang.org/", img="/assets/2026/img/keynotes/teamjuliacon_logo.png", title="State of Julia 2026"} -->
 @@
@@ -56,8 +57,15 @@ If you are an accepted speaker and require a travel funding, please fill out [th
 
 \begin{rowheader}{title="Venue", color=""}\end{rowheader}
 @@row,row-section
-@@col-12
+@@col-12,col-md-8
 JuliaCon 2026 will host talks and workshops at the Johannes Gutenberg University Mainz.
+@@
+@@col-12,col-md-4,text-center
+~~~
+<a class="btn" style="width: 100%; border-color: #9d253d; text-decoration: none;" href="/2026/travel">Travel information</a>
+<br><br>
+<a class="btn" style="width: 100%; border-color: #9d253d; text-decoration: none;" href="/2026/venue-hotels">Hotels &amp; discounts</a>
+~~~
 @@
 @@
 
@@ -192,22 +200,52 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 \begin{centered}{title="Silver", margin_bottom="3ex"}
 \end{centered}
 
-\begin{centered}{title="Bronze", margin_bottom="3ex"}
-\end{centered}
-
 \begin{centered}{title="Startup", margin_bottom="3ex"}
 \end{centered}
 
 \begin{centered}{title="Local Partners", margin_bottom="3ex"}
 \end{centered} -->
 
+\begin{centered}{title="Diamond", margin_bottom="3ex"}
+  \sponsor{name="JuliaHub", link="https://juliahub.com", img="/assets/2024/img/sponsors/juliahub-logo.svg", level=1}
+\end{centered}
+
+\begin{centered}{title="Platinum", margin_bottom="3ex"}
+  \sponsor{name="Aeolus Labs", link="https://aeolus.earth/", img="/assets/2026/img/sponsors/aeolus.svg", level=1}
+  \sponsor{name="Boeing", link="https://boeing.com", img="/assets/2024/img/sponsors/boeing-logo.png", level=1}
+\end{centered}
+
+\begin{centered}{title="Gold", margin_bottom="3ex"}
+  \sponsor{name="ASML", link="https://www.asml.com/", img="/assets/2025/img/sponsors/asml-logo.png", level=2}
+\end{centered}
+
+\begin{centered}{title="Bronze", margin_bottom="3ex"}
+  \sponsor{name="ErUM-Data-Hub", link="https://erumdatahub.de/", img="/assets/2026/img/sponsors/erum.png", level=1}
+  \sponsor{name="The Fidelis Partnership", link="https://fidelispartnership.com/", img="/assets/2026/img/sponsors/TFP_logo_black.png", level=1 }
+  \sponsor{name="Pumas.ai", link="https://pumas.ai/", img="/assets/2024/img/sponsors/pumasai.png", level=2}
+  \sponsor{name="Jeffrey Sarnoff", link="https://github.com/JeffreySarnoff", img="/assets/2026/img/sponsors/JeffreySarnoff2026.png", level=1}
+\end{centered}
+
+\begin{centered}{title="Startup", margin_bottom="3ex"}
+  \sponsor{name="Evovest", link="https://evovest.com/", img="/assets/2024/img/sponsors/evovest-logo.svg", level=2}
+\end{centered}
+
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
   \sponsor{name="GAMM RSE&RDM", link="https://gamm-ag-rse-rdm.github.io/", img="/assets/2026/img/sponsors/gamm_rse_rdm.png", level=2}
   \sponsor{name="MaRDI", link="https://www.mardi4nfdi.de", img="/assets/2026/img/sponsors/mardi.png", level=2}
 \end{centered}
 
+\begin{centered}{title="Local Partners", margin_bottom="3ex"}
+  \sponsor{name="Johannes Gutenberg-Universität Mainz", link="https://www.uni-mainz.de/en/", img="/assets/2026/img/sponsors/logo_schriftzug.jpg", level=1}
+  \sponsor{name="IANW", link="https://ianw.de/", img="/assets/2026/img/sponsors/ianw.jpg", level=2}
+\end{centered}
+
+\begin{centered}{title="JuliaCon Global 2026 Event Ticketing Partner:"}
+  \sponsor{link="https://hi.events", img="/assets/2026/img/sponsors/hi-events-horizontal-light.svg", name="Hi.Events", level=2}
+\end{centered}
+
 \begin{centered}{title="With the help of the Julia project’s fiscal host:"}
-  \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=3}
+  \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=2}
 \end{centered}
 
 

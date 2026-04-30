@@ -6,7 +6,7 @@
 
 ---
 
-\avatar{name="Julia Kowalski", affil="RWTH Aachen University", link="https://www.mbd.rwth-aachen.de/cms/mbd/Der-Lehrstuhl/Team/~qashd/Julia-Kowalski/lidx/1/", img="/assets/2026/img/keynotes/Julia_Kowalski.jpg", bio=""}
+\avatar{name="Julia Kowalski", affil="RWTH Aachen University", link="https://www.mbd.rwth-aachen.de/cms/mbd/Der-Lehrstuhl/Team/~qashd/Julia-Kowalski/lidx/1/", img="/assets/2026/img/keynotes/Julia_Kowalski.jpg", bio="Julia Kowalski is a professor in the Faculty of Mechanical Engineering at RWTH Aachen University and speaker of its profile area Modeling and Simulation Science. She holds a Ph.D. from the Seminar for Applied Mathematics at ETH Zurich. Prior to her current position, she served as a Heisenberg Professor at the University of Göttingen, led a junior research group at the Aachen Institute for Advanced Study in Computational Engineering Science, and worked as an Analytics Specialist at McKinsey & Company. Her research lies at the intersection of computational science, applied math and engineering, with a focus on methods for model-based prediction and decision support, including data-integrated simulation methods for transport-dominated and phase-change processes, Bayesian methods, and digital-twin infrastructures for complex computational workflows. She is an advocate for open science, FAIR principles, and sustainable research software."}
 
 ### Sustainability in Computational Science and Engineering
 
@@ -18,7 +18,15 @@ Computational Science and Engineering (CSE) integrates engineering, applied math
 
 ---
 
-\avatar{name="Paul Tiede", affil="Black Hole Initiative, Harvard University", link="https://www.cfa.harvard.edu/people/paul-tiede", img="/assets/2026/img/keynotes/Paul_Tiede.jpg", bio="Paul Tiede is a computational radio astronomer and data scientist interested in black hole physics. He is a research associate at the Black Hole Initiative at Harvard University and the chief data scientist for the Black Hole Explorer project. Previously, Paul was a postdoctoral fellow at the Center for Astrophysics | Harvard & Smithsonian, and received his Ph.D. from the University of Waterloo and Perimeter Institute in 2021. Within Julia, Paul is the lead developer of several radio astronomy packages, including Comrade.jl, and is the co-lead of the EHTJulia software group."}
+\avatar{name="Zoë Holmes", affil="EPFL", link="https://www.epfl.ch/labs/qic/prof-zoe-holmes/", img="/assets/2026/img/keynotes/Zoe_Holmes.png", bio="Zoë Holmes received in 2015 her MPhil degree in Physics and Philosophy from the University of Oxford. In 2016 she obtained her MRes (Master of Research) from the Imperial College London, where in 2019 she got her PhD in quantum thermodynamics. In 2020 she started as a Postdoctoral Researcher at Los Alamos National Laboratory (USA) working on quantum algorithms and quantum machine learning. In 2021 she became the Mark Kac Fellow at Los Alamos National Lab. Since August 2022 she is Tenure Track Assistant Professor of Physics at EPFL where her research ranges from quantum algorithms and quantum learning theory to classical methods to simulate quantum systems."}
+
+~~~
+<div style="height:1em;display:block;"></div>
+~~~
+
+---
+
+\avatar{name="Paul Tiede", affil="Black Hole Initiative, Harvard University", link="https://bhi.fas.harvard.edu/people/paul-tiede/", img="/assets/2026/img/keynotes/Paul_Tiede.jpg", bio="Paul Tiede is a computational radio astronomer and data scientist interested in black hole physics. He is a research associate at the Black Hole Initiative at Harvard University and the chief data scientist for the Black Hole Explorer project. Previously, Paul was a postdoctoral fellow at the Center for Astrophysics | Harvard & Smithsonian, and received his Ph.D. from the University of Waterloo and Perimeter Institute in 2021. Within Julia, Paul is the lead developer of several radio astronomy packages, including Comrade.jl, and is the co-lead of the EHTJulia software group."}
 
 ~~~
 <div style="height:1em;display:block;"></div>
