@@ -228,7 +228,7 @@ configuration = Dict(
         "global" => true,
         "year" => 2026,
         "location" => "Mainz, Germany",
-        "alert" => """Early bird tickets are available! <a href="/2026/tickets">Get your tickets now!</a>""",
+        "alert" => """Tickets are available! <a href="/2026/tickets">Secure your spot now!</a>""",
         "site_name" => "JuliaCon Global 2026",
         "site_descr" => "JuliaCon Global 2026, Mainz",
         "site_url" => "https://juliacon.org/2026/",
