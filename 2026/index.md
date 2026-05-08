@@ -228,6 +228,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 
 \begin{centered}{title="Startup", margin_bottom="3ex"}
   \sponsor{name="Evovest", link="https://evovest.com/", img="/assets/2024/img/sponsors/evovest-logo.svg", level=2}
+  \sponsor{name="Graystone Trading", link="https://www.linkedin.com/company/graystone-trading/", img="/assets/2026/img/sponsors/GraystoneTrading.jpg", level=2}
 \end{centered}
 
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
