@@ -238,6 +238,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 
 \begin{centered}{title="Local Partners", margin_bottom="3ex"}
   \sponsor{name="Johannes Gutenberg-Universität Mainz", link="https://www.uni-mainz.de/en/", img="/assets/2026/img/sponsors/logo_schriftzug.jpg", level=1}
+  \sponsor{name="M3ODEL", link="https://model.uni-mainz.de", img="/assets/2026/img/sponsors/M3ODEL_logo.png", level=2}
   \sponsor{name="IANW", link="https://ianw.de/", img="/assets/2026/img/sponsors/ianw.jpg", level=2}
 \end{centered}
 
