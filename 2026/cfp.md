@@ -1,11 +1,7 @@
 # JuliaCon 2026 Call for Proposals
 -------
 
-**This Call for Proposals will close on Feb 28th 2026 23:59 (CET).** [Convert to your timezone.](https://arewemeetingyet.com/Berlin/2026-02-28/23:59/JuliaCon%202026%20CfP%20Deadline)
-
-\begin{box}{title="Submit", color="purple"}
-  Submit your proposal [here](https://pretalx.com/juliacon-2026/cfp) !
-\end{box}
+**This Call for Proposals closed on March 7th 2026 23:59 (CET).** [Convert to your timezone.](https://arewemeetingyet.com/Berlin/2026-03-07/23:59/JuliaCon%202026%20CfP%20Deadline)
 
 We invite you to submit proposals to give a presentation at JuliaCon Global 2026. JuliaCon Global 2026 will be an **in person** conference held in Mainz, Germany, 10-15 August 2026. Presenting remotely will not be possible. If you would like to submit a video at any time to the [main Julia Language channel](https://www.youtube.com/julialanguage), please feel free to fill out this form [here](https://forms.gle/fN539wKFfjCFuuoV7).
 
@@ -49,7 +45,7 @@ See the track description for more information about each minisymposium.
 You can find a list of minis [here](https://pretalx.com/juliacon-2026/featured/)
 
 ## Proposal Types
-This year, we will have 6 differentsession types under which you can submit proposals. See below for further details. Submitters of **long talks and short talks** can submit to a specific **minisymposium** if they wish. This can be done by choosing the appropriate minisymposium as track when submitting the talk.
+This year, we will have 6 different session types under which you can submit proposals. See below for further details. Submitters of **long talks and short talks** can submit to a specific **minisymposium** if they wish. This can be done by choosing the appropriate minisymposium as track when submitting the talk.
 
 ### Talks
 These sessions are primarily dedicated to sharing your technical work with the Julia community, whether it is related to software development, research, or applications from a specific field.
