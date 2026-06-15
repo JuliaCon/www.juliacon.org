@@ -88,7 +88,7 @@ Please email us at \email if you are interested in volunteering.
 
 ### Is there a discount for speakers?
 
-No, there is no blanket discount available for speakers. If you are a speaker and need financial assistance to attend JuliaCon, please submit an application for [speaker support](https://forms.gle/FCf1aGAAybsGsUda9). Since the decision on speaker support may occur after the early-bird deadline, submitting an application will guarantee you the 20% early-bird discount rate even if your application was not successful. 
+No, there is no blanket discount available for speakers. If you are a speaker and need financial assistance to attend JuliaCon, please e-mail \email for support dependent on availability of funds. 
 
 ### Is there a discount for non-profits?
 There is not a discount for non-profits in general.

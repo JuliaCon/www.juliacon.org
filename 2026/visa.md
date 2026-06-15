@@ -25,7 +25,8 @@ If you are unsure, contact the German embassy or consulate in your country.
 ## Invitation Letter for Visa Applications
 
 If your visa application requires an **official invitation letter** from the conference organisers, please fill out the form below.
-We will contact you with a personalised letter that you can submit together with your visa application.
+We will contact you with a personalised letter that you can submit together with your visa application. Additionally please e-mail \email with
+note that you have filled out the form.
 
 ~~~
 <div class="row justify-content-center" style="margin: 2em 0;">
