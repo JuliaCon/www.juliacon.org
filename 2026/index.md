@@ -242,15 +242,15 @@ We also have some photographic memories from previous JuliaCons. Explore our col
   \sponsor{name="DFG", link="https://www.dfg.de/en", img="/assets/2026/img/sponsors/dfg_logo.jpg", level=2}
 \end{centered}
 
-\begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
-  \sponsor{name="GAMM RSE&RDM", link="https://gamm-ag-rse-rdm.github.io/", img="/assets/2026/img/sponsors/gamm_rse_rdm.png", level=2}
-  \sponsor{name="MaRDI", link="https://www.mardi4nfdi.de", img="/assets/2026/img/sponsors/mardi.png", level=2}
-\end{centered}
-
 \begin{centered}{title="Local Partners", margin_bottom="3ex"}
   \sponsor{name="Johannes Gutenberg-Universität Mainz", link="https://www.uni-mainz.de/en/", img="/assets/2026/img/sponsors/logo_schriftzug.jpg", level=1}
   \sponsor{name="M3ODEL", link="https://model.uni-mainz.de", img="/assets/2026/img/sponsors/M3ODEL_logo.png", level=2}
   \sponsor{name="IANW", link="https://ianw.de/", img="/assets/2026/img/sponsors/ianw.jpg", level=2}
+\end{centered}
+
+\begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
+  \sponsor{name="GAMM RSE&RDM", link="https://gamm-ag-rse-rdm.github.io/", img="/assets/2026/img/sponsors/gamm_rse_rdm.png", level=2}
+  \sponsor{name="MaRDI", link="https://www.mardi4nfdi.de", img="/assets/2026/img/sponsors/mardi.png", level=2}
 \end{centered}
 
 \begin{centered}{title="JuliaCon Global 2026 Event Ticketing Partner:"}
