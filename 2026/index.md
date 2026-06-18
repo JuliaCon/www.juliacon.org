@@ -59,6 +59,13 @@ The winners of the [Community Prize 2025](../2025/prize/) have been announced.
 @@row,row-section
 @@col-12,col-md-8
 JuliaCon 2026 will host talks and workshops at the Johannes Gutenberg University Mainz.
+
+Talks and workshops will take place across three buildings on campus:
+
+- **RW1 Tent** — temporary tent on campus, see [campus map](/assets/2026/img/venue/jgu_campus_map.png)
+- [**Muschel**](https://maps.uni-mainz.de/building/58) — rooms [N1](https://maps.uni-mainz.de/room/7ab23891-61b0-40ea-a4e6-2f0b35e1de34), [N2](https://maps.uni-mainz.de/room/facbb848-5bb2-4cbf-890a-73e0f54eaca3), [N3](https://maps.uni-mainz.de/room/83b36da8-6d45-412b-bb1a-f8be503cf895)
+- [**Alte Mensa**](https://maps.uni-mainz.de/building/48) — rooms [Audi Max](https://maps.uni-mainz.de/room/3475240b-ceb8-4440-b401-f42e92633010), Rechte Aula
+
 @@
 @@col-12,col-md-4,text-center
 ~~~
@@ -228,6 +235,11 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 
 \begin{centered}{title="Startup", margin_bottom="3ex"}
   \sponsor{name="Evovest", link="https://evovest.com/", img="/assets/2024/img/sponsors/evovest-logo.svg", level=2}
+  \sponsor{name="Graystone Trading", link="https://www.linkedin.com/company/graystone-trading/", img="/assets/2026/img/sponsors/GraystoneTrading.jpg", level=2}
+\end{centered}
+
+\begin{centered}{title="Public Sponsors", margin_bottom="3ex"}
+  \sponsor{name="DFG", link="https://www.dfg.de/en", img="/assets/2026/img/sponsors/dfg_logo.jpg", level=2}
 \end{centered}
 
 \begin{centered}{title="Supporting Partners", margin_bottom="3ex"}
@@ -237,6 +249,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 
 \begin{centered}{title="Local Partners", margin_bottom="3ex"}
   \sponsor{name="Johannes Gutenberg-Universität Mainz", link="https://www.uni-mainz.de/en/", img="/assets/2026/img/sponsors/logo_schriftzug.jpg", level=1}
+  \sponsor{name="M3ODEL", link="https://model.uni-mainz.de", img="/assets/2026/img/sponsors/M3ODEL_logo.png", level=2}
   \sponsor{name="IANW", link="https://ianw.de/", img="/assets/2026/img/sponsors/ianw.jpg", level=2}
 \end{centered}
 
