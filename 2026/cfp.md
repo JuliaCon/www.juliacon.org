@@ -100,7 +100,7 @@ Presenters will have the chance to have their work published as part of a JuliaC
 Speakers must register for the conference. More information will be available at [the JuliaCon 2026 website](https://juliacon.org/2026/) as registration opens. Check there for more details.
 
 ### How to contact us
-You can reach us with questions and concerns at <juliacon@julialang.org>.
+You can reach us with questions and concerns at \email.
 
 ## Conference Code of Conduct
 JuliaCon is dedicated to providing a positive conference experience for all attendees, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or national and ethnic origin. We encourage respectful and considerate interactions between attendees and do not tolerate harassment of conference participants in any form. For example, offensive or sexual language and imagery is not appropriate for any conference venue, including formal talks and networking between sessions. Conference participants violating these standards may be sanctioned or expelled from the conference (without a refund) at the discretion of the conference organizers. Our anti-harassment policy can be found [here](https://juliacon.org/2026/coc/).
