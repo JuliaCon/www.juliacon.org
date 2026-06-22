@@ -5,7 +5,11 @@ A minisymposium is a conference within a conference. If your talk fits one of th
 
 ## How to submit to a minisymposium
 
+**Submissions closed on March 7th 2026 23:59 (CET).** [Convert to your timezone.](https://arewemeetingyet.com/Berlin/2026-03-07/23:59/JuliaCon%202026%20CfP%20Deadline)
+
+<!-- 
 Minisymposia accepting submissions are tracks in the pretalx system. Simply choose the minisymposium from the "tracks" field when submitting. Submit your talk [here](https://pretalx.com/juliacon-2026/cfp)!
+ -->
 
 ## [List of Minisymposia](https://pretalx.com/juliacon-2026/featured/)
 

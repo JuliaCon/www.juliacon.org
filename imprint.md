@@ -3,6 +3,18 @@
 JuliaCon is organized by NumFOCUS.org, a 501(c)3 non-profit in the United States.
 You can find detailed information about NumFOCUS on their website [numfocus.org/legal.html](https://numfocus.org/legal.html)
 
+## JuliaCon Global 2026
+
+JuliaCon Global 2026 is supported through a local partner, [Institut für angewandte numerische Wissenschaft e.V. (IANW)](https://ianw.de/).
+
+Institut für angewandte numerische Wissenschaft e.V.
+Bienroder Str. 3
+38110 Braunschweig
+
+Registergericht: Amtsgericht Braunschweig
+Registernummer: VR 201822
+Steuernummer: 14/209/13430
+
 ## Contact
 
 NumFocus Inc.
