@@ -197,7 +197,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 <div style="height:30px;display:block;"></div>
 <div class="container-fluid">
   <div class="container sponsors">
-    <h1 align="center">Thanks to our Sponsors!</h1>
+    <h1 id="sponsors" align="center">Thanks to our Sponsors!</h1>
     <p style="margin-bottom:3ex;">
     The conference wouldn’t be possible without our cool sponsors! Their generous support and dedication have played a crucial role in bringing together JuliaCon Global 2026, allowing us to create an exceptional experience for all attendees. We extend our heartfelt gratitude to each sponsor for their commitment to advancing technology, fostering innovation, and supporting our community. Thank you for making this event a success!</p>
 ~~~
