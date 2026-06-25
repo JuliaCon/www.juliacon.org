@@ -13,9 +13,8 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 <div class="container">
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
-
-\begin{box}{title="Community Prize 2025", color="dark-green"}
-The winners of the [Community Prize 2025](../2025/prize/) have been announced.
+\begin{box}{title="Tickets Available", color="purple"}
+Purchase your ticket now on the [ticketing page](/2026/tickets/).
 \end{box}
 
 \begin{box}{title="Travel & Hotels", color="dark-blue"}
@@ -25,6 +24,16 @@ The winners of the [Community Prize 2025](../2025/prize/) have been announced.
 
   See our [travel page](/2026/travel) for full details including the Deutsche Bahn event offer and cycling routes.
 \end{box}
+
+\begin{box}{title="Community Prize 2025", color="dark-green"}
+The winners of the [Community Prize 2025](../2025/prize/) have been announced.
+\end{box}
+
+
+
+
+
+
 
 ~~~
 <!-- END of CONTAINER + MASONRY -->
