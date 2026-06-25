@@ -6,7 +6,7 @@ We invite your organization to be a sponsor of JuliaCon Global 2026. You can fin
 
 JuliaCon is the largest annual conference organized around Julia, the fastest high-performance open-source computing language for machine learning, artificial intelligence, life sciences, robotics, algorithmic trading, real-time analytics, and more. Next year, the conference is set to take place in Mainz, Germany, August 10-15, 2026.
 
-JuliaCon Global 2025 was held in Pittsburgh, PA, USA. Next year, we are thrilled to be returning to Europe with a global audience of developers. JuliaCon Global offers you the unique opportunity to present your company and your product to a huge group of engaged scientific programmers.
+JuliaCon Global 2025 was held in Pittsburgh, PA, USA. This year, we are thrilled to be returning to Europe with a global audience of developers. JuliaCon Global offers you the unique opportunity to present your company and your product to a huge group of engaged scientific programmers.
 
 ## Sponsorship Prospectus
 

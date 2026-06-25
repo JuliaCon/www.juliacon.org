@@ -2,7 +2,7 @@
 
 This schedule is preliminary and subject to change. The final schedule will be released at a later time.
 
-You can view the full preliminary schedule [here](https://pretalx.com/juliacon-2026/schedule/).
+**You can view the full preliminary schedule [here](https://pretalx.com/juliacon-2026/schedule/).**
 
 ### Monday (10th of August)
 - Workshops
