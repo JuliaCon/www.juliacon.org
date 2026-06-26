@@ -240,6 +240,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
   \sponsor{name="The Fidelis Partnership", link="https://fidelispartnership.com/", img="/assets/2026/img/sponsors/TFP_logo_black.png", level=1 }
   \sponsor{name="Pumas.ai", link="https://pumas.ai/", img="/assets/2024/img/sponsors/pumasai.png", level=2}
   \sponsor{name="Jeffrey Sarnoff", link="https://github.com/JeffreySarnoff", img="/assets/2026/img/sponsors/JeffreySarnoff2026.png", level=1}
+  \sponsor{name="MPGC", link="https://www.mpgc-mainz.de/", img="/assets/2026/img/sponsors/mpgc.jpg", level=1}
 \end{centered}
 
 \begin{centered}{title="Startup", margin_bottom="3ex"}
