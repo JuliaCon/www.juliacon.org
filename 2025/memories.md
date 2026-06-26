@@ -1,6 +1,17 @@
 
 # Memories of JuliaCon past
 
+### 2025
+
+JuliaCon was held in Pittsburgh in 2025. Julia enthusiasts gathered for an evening at PNC Park to cheer on the Pittsburgh Pirates vs. Tigers. And Pirates won! JuliaCon miracle!
+
+~~~
+<img src="/assets/2025/img/photos/baseball.jpg" alt="Baseball" width="525" />
+<img src="/assets/2025/img/photos/opening.jpg" alt="Opening Ceremony" width="525" />
+<img src="/assets/2025/img/photos/poster.jpg" alt="Poster Session" width="525" />
+<img src="/assets/2025/img/photos/hallway.jpg" alt="Conference Floor" width="525" />
+~~~
+
 ### 2023
 
 JuliaCon was back at MIT for 2023, and we took a photo in the same amphitheatre as before.
