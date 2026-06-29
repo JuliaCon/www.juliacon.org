@@ -32,6 +32,11 @@ Quantum computing progress depends as much on software as on hardware. In this k
 
 \avatar{name="Paul Tiede", affil="Black Hole Initiative, Harvard University", link="https://bhi.fas.harvard.edu/people/paul-tiede/", img="/assets/2026/img/keynotes/Paul_Tiede.jpg", bio="Paul Tiede is a computational radio astronomer and data scientist interested in black hole physics. He is a research associate at the Black Hole Initiative at Harvard University and the chief data scientist for the Black Hole Explorer project. Previously, Paul was a postdoctoral fellow at the Center for Astrophysics | Harvard & Smithsonian, and received his Ph.D. from the University of Waterloo and Perimeter Institute in 2021. Within Julia, Paul is the lead developer of several radio astronomy packages, including Comrade.jl, and is the co-lead of the EHTJulia software group."}
 
+
+### Resolving the Edge of the Universe: Imaging Black Holes with Julia
+
+Black holes were once thought to be unobservable. In 2019, the Event Horizon Telescope (EHT) changed that by producing the first horizon-scale image of M87*. That breakthrough was not only an achievement in astronomy, but also in scientific computing: every step, from building a planet-sized telescope to reconstructing the final image, depended on extensive computation. In this talk, I will show how Julia is helping push black hole imaging into its next era. Its combination of speed, flexibility, and composability has made it a core part of the EHT software stack, powering modern workflows for imaging, modeling, and uncertainty quantification. Julia is also helping define the future of black hole astronomy. The Black Hole Explorer (BHEX), a NASA space mission concept, aims to produce the highest-resolution images of black holes ever made, resolving regions of spacetime where light can orbit the black hole itself. In the final part of the talk, I will highlight how Julia will form the foundation of the BHEX analysis pipeline and demonstrate its potential as the primary software platform for a next-generation scientific instrument.
+
 ~~~
 <div style="height:1em;display:block;"></div>
 ~~~
