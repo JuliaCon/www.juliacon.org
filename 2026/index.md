@@ -236,7 +236,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 \end{centered}
 
 \begin{centered}{title="Silver", margin_bottom="3ex"}
-  \sponsor{name="CodeGlass", link="https://julia.codeglass.io/", img="/assets/2026/img/sponsors/CodeGlass.svg", level=2}
+  \sponsor{name="CodeGlass", link="https://julia.codeglass.io/", img="/assets/2026/img/sponsors/codeglass-new.png", level=2}
 \end{centered}
 
 \begin{centered}{title="Bronze", margin_bottom="3ex"}
