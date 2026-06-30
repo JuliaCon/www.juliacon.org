@@ -253,7 +253,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 \end{centered}
 
 \begin{centered}{title="Public Sponsors", margin_bottom="3ex"}
-  \sponsor{name="DFG", link="https://www.dfg.de/en", img="/assets/2026/img/sponsors/dfg_logo.jpg", level=2}
+  \sponsor{name="DFG", link="https://www.dfg.de/en", img="/assets/2026/img/sponsors/dfg_logo.jpg", level=1}
 \end{centered}
 
 \begin{centered}{title="Local Partners", margin_bottom="3ex"}
