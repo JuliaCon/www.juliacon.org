@@ -88,9 +88,9 @@ The poster session is scheduled on the evening of Thursday, August 13. Here is t
         <tr><td>Optimal control with an electrophysiology experiment in the loop</td><td>General</td><td>Melvyn Tyloo</td></tr>
         <tr><td>Bayesian nonparametric density estimation using BayesDensity.jl</td><td>General</td><td>Oskar Høgberg Simensen</td></tr>
         <tr><td>District-scale energy system simulation with ReSiE</td><td>General</td><td>Etienne Ott</td></tr>
-        <tr><td>Hyperdimensional Computing.jl</td><td>General</td><td>Carlos Vigil-Vásquez</td></tr>
-        <tr><td>PhysicsGPT: Bridging the Gap Using LLMs and Neural Surrogates for Zero-Code Computational Physics</td><td>General</td><td>Michiel Stock</td></tr>
-        <tr><td>FewBody Toolkit.jl: Solving 2- and 3-body quantum systems in 1D-3D with general potentials</td><td>General</td><td>Mahima Bramha Nimbalkar, Lucas Happ</td></tr>
+        <tr><td>Hyperdimensional Computing.jl</td><td>General</td><td>Carlos Vigil-Vásquez, Michiel Stock</td></tr>
+        <tr><td>PhysicsGPT: Bridging the Gap Using LLMs and Neural Surrogates for Zero-Code Computational Physics</td><td>General</td><td>Mahima, Bramha Nimbalkar</td></tr>
+        <tr><td>FewBody Toolkit.jl: Solving 2- and 3-body quantum systems in 1D-3D with general potentials</td><td>General</td><td>Lucas Happ</td></tr>
         <tr><td>What&#x27;s new with Herb.jl: Teaching Programs how to Program with Program Synthesis</td><td>General</td><td>Tilman Hinnerichs, Reuben Gardos Reid</td></tr>
         <tr><td>Training Phantoms.jl: Versatile generation of medical image phantoms</td><td>General</td><td>Paul Jürß</td></tr>
         <tr><td>What&#x27;s new with BiochemicalAlgorithms.jl?</td><td>General</td><td>Jenny Leclaire</td></tr>
@@ -100,42 +100,41 @@ The poster session is scheduled on the evening of Thursday, August 13. Here is t
         <tr><td>Adaptive tests using the Julia Psychometrics Bazaar ecosystem</td><td>General</td><td>Frankie Robertson</td></tr>
         <tr><td>Reducing Overall Computation Time with a Slower Nonlinear Least Squares Solver</td><td>General</td><td>Vitor Cantarella</td></tr>
         <tr><td>GraphDynamicalSystems.jl: discrete, finite-state systems over graphs</td><td>General</td><td>Reuben Gardos Reid</td></tr>
-        <tr><td>Downstream Tester.jl</td><td>General</td><td>Jan Philipp Thiele</td></tr>
+        <tr><td>DownstreamTester.jl</td><td>General</td><td>Jan Philipp Thiele</td></tr>
         <tr><td>Structured Geometric Multigrid Methods in Julia</td><td>General</td><td>René Spoerer</td></tr>
-        <tr><td>Trend Decomposition.jl - A time series toolkit for trend and cycle analysis</td><td>General</td><td>Stefan Brinkmann</td></tr>
+        <tr><td>TrendDecomposition.jl - A time series toolkit for trend and cycle analysis</td><td>General</td><td>Stefan Brinkmann</td></tr>
         <tr><td>Scorio.jl: A Julia package for ranking stochastic responses</td><td>General</td><td>Mohsen</td></tr>
-        <tr><td>Precision Carriers.jl</td><td>General</td><td>Anton Reinhard</td></tr>
+        <tr><td>PrecisionCarriers.jl</td><td>General</td><td>Anton Reinhard</td></tr>
         <tr><td>ConvolutionInterpolations.jl: Smooth interpolation, derivatives and antiderivatives visualized</td><td>General</td><td>Nikolaj Maack Bielefeld</td></tr>
         <tr><td>CurveFit.jl - fast and robust curve fitting</td><td>General</td><td>James Wrigley</td></tr>
         <tr><td>ParallelKDE.jl: A Julia Package for Parallel and Adaptive Kernel Density Estimation</td><td>General</td><td>Christian Sustay Martinez</td></tr>
         <tr><td>GraphBLAS.jl</td><td>General</td><td>Raye Kimmerer</td></tr>
         <tr><td>Spry.jl: Native High Performance Networking in Julia Poster</td><td>General</td><td>Raye Kimmerer</td></tr>
         <tr><td>Clingo.jl: Bringing Answer Set Programming to Julia</td><td>General</td><td>Raye Kimmerer</td></tr>
-        <tr><td>Information Geometry.jl -- Differential-Geometric Analyses of Parameter Inference Problems</td><td>General</td><td>Rafael Arutjunjan</td></tr>
+        <tr><td>InformationGeometry.jl -- Differential-Geometric Analyses of Parameter Inference Problems</td><td>General</td><td>Rafael Arutjunjan</td></tr>
         <tr><td>Radiomics.jl: a Library for High-Performance Radiomic Features Extraction from Medical Images</td><td>Health Mini Symposium</td><td>ALDO GIULIANI</td></tr>
         <tr><td>Using The HeartRateLab.jl for Normative Evaluation of Heart Rate Variability from open datasets.</td><td>Julia for Biology and Biology for Julia</td><td>Alberto</td></tr>
         <tr><td>KEGGAPI.jl</td><td>Julia for Biology and Biology for Julia</td><td>Carlos Vigil-Vásquez</td></tr>
         <tr><td>MITOS: New Features for Protein Sequence and Structure Analysis</td><td>Julia for Biology and Biology for Julia</td><td>Diego Javier Zea</td></tr>
-        <tr><td>ReproducibleJobs.jl - reproducible and practical workflows &amp; SingleCell Projections.jl - single cell expression analysis</td><td>Julia for Biology and Biology for Julia</td><td>Rasmus Henningsson</td></tr>
+        <tr><td>ReproducibleJobs.jl - reproducible and practical workflows &amp; SingleCellProjections.jl - single cell expression analysis</td><td>Julia for Biology and Biology for Julia</td><td>Rasmus Henningsson</td></tr>
         <tr><td>Bridging the Gap between Dagger.jl and HPC Interconnects</td><td>Julia for HPC Minisymposium</td><td>Yan Guimarães, Felipe Tomé</td></tr>
-        <tr><td>Geothermal Wells.jl: GPU-Accelerated 3D Simulation of Deep Borehole Heat Exchanger Arrays</td><td>Julia for Partial Differential Equations and its Applications</td><td>Collin Wittenstein, Marieke Osewold</td></tr>
+        <tr><td>GeothermalWells.jl: GPU-Accelerated 3D Simulation of Deep Borehole Heat Exchanger Arrays</td><td>Julia for Partial Differential Equations and its Applications</td><td>Collin Wittenstein, Marieke Osewold</td></tr>
         <tr><td>Benchmarking Iterative vs. Direct Linear Solvers for PDES</td><td>Julia for Partial Differential Equations and its Applications</td><td>Jürgen Fuhrmann</td></tr>
         <tr><td>First-order system least-squares methods for parabolic problems and applications</td><td>Julia for Partial Differential Equations and its Applications</td><td>Simon Boisserée</td></tr>
         <tr><td>Efficient Parameter Estimation of CO2 Reduction Multiscale Models via Surrogate Modeling</td><td>Julia for Partial Differential Equations and its Applications</td><td>Byungmin Chun</td></tr>
         <tr><td>FerriteDiffEq.jl - Utilizing Finite Element Structure for Efficient Time Integration</td><td>Julia for Partial Differential Equations and its Applications</td><td>Dennis Ogiermann</td></tr>
         <tr><td>Solving nonlinear Stokes equations using PETSc.jl</td><td>Julia for Partial Differential Equations and its Applications</td><td>Filippo Ferrazzini, Boris Kaus</td></tr>
-        <tr><td>Mimetic Operators Library Enhanced in Julia: MOLE.JI</td><td>Julia for Partial Differential Equations and its Applications</td><td>Valeria Barra, Marc Loschen</td></tr>
+        <tr><td>Mimetic Operators Library Enhanced in Julia: MOLE.jl</td><td>Julia for Partial Differential Equations and its Applications</td><td>Valeria Barra, Marc Loschen</td></tr>
         <tr><td>Unified SparseGrids.jl: Sparse-grid operators for high-dimensional spectral methods</td><td>Julia for Partial Differential Equations and its Applications</td><td>Zhongshu Wu</td></tr>
-        <tr><td>juliaup for the enterprise</td><td>Julia in Industry</td><td>Neeladri Das</td></tr>
-        <tr><td>Separable Functions.jl</td><td>Julia, GPUs, and Accelerators</td><td>Rainer Heintzmann</td></tr>
-        <tr><td>Boltz TraP.jl: Thermoelectric transport for the Julia DFT ecosystem (Poster)</td><td>JuliaMolSim Minisymposium</td><td>Hiroharu Sugawara</td></tr>
+        <tr><td>SeparableFunctions.jl</td><td>Julia, GPUs, and Accelerators</td><td>Rainer Heintzmann</td></tr>
+        <tr><td>BoltzTraP.jl: Thermoelectric transport for the Julia DFT ecosystem (Poster)</td><td>JuliaMolSim Minisymposium</td><td>Hiroharu Sugawara</td></tr>
         <tr><td>ElemCo.jl: A Julia Package for Electron Correlation in Molecules and Materials</td><td>JuliaMolSim Minisymposium</td><td>Charlotte Rickert, Daniel Kats</td></tr>
         <tr><td>NQCDynamics.jl - Simulating non-adiabatic dynamics in Julia</td><td>JuliaMolSim Minisymposium</td><td>Matt Larkin, Henry Snowden, Ash Baldwin, Alexander Spears</td></tr>
         <tr><td>Julia Implementation of Nested Sampling for Materials Science</td><td>JuliaMolSim Minisymposium</td><td>Eyob Tewelde, Ray Yang</td></tr>
         <tr><td>TransformerAutoencoding.jl: an open-source Flux-based implementation of transformer-based sequence-to-sequence autoencoding in Julia.</td><td>Methods and Applications of Scientific Machine Learning (SciML)</td><td>Sam L. Polk</td></tr>
         <tr><td>Fourier Feature Preconditioning of PINNs for High-Frequency Nonlinear Reaction-Diffusion Dynamics</td><td>Methods and Applications of Scientific Machine Learning (SciML)</td><td>Bramha Nimbalkar</td></tr>
         <tr><td>Efficient fractional differential equation solving in Julia</td><td>Methods and Applications of Scientific Machine Learning (SciML)</td><td>Qingyu Qu</td></tr>
-        <tr><td>What&#x27;s new with Modeling Toolkit.jl?</td><td>Methods and Applications of Scientific Machine Learning (SciML)</td><td>Aayush Sabharwal</td></tr>
+        <tr><td>What&#x27;s new with ModelingToolkit.jl?</td><td>Methods and Applications of Scientific Machine Learning (SciML)</td><td>Aayush Sabharwal</td></tr>
         <tr><td>Efficient Explicit and Implicit Taylor Integrators for ODE and SDE based on Symbolic-Numeric Computing</td><td>Methods and Applications of Scientific Machine Learning (SciML)</td><td>Songchen Tan</td></tr>
         <tr><td>Structural Variability in Scientific Machine Learning by Context-Oriented Equation-based Modeling</td><td>Methods and Applications of Scientific Machine Learning (SciML)</td><td>Christian Gutsche</td></tr>
         <tr><td>Differentiable Particle Dynamics: Integrating Graph Neural Networks and NeuralODEs in Julia</td><td>Methods and Applications of Scientific Machine Learning (SciML)</td><td>Josef Jouaux, Lars Mikelsons</td></tr>
@@ -143,8 +142,8 @@ The poster session is scheduled on the evening of Thursday, August 13. Here is t
         <tr><td>Global Optimization techniques for Distributionally Robust Uncertainty Quantification</td><td>Methods and Applications of Scientific Machine Learning (SciML)</td><td>Avinash Subramanian</td></tr>
         <tr><td>What&#x27;s new with MeshGraphNets.jl</td><td>Methods and Applications of Scientific Machine Learning (SciML)</td><td>Julian Trommer, Lars Mikelsons</td></tr>
         <tr><td>Probabilistic PDE Simulations at Scale with Gaussian Markov Random Fields</td><td>Methods and Applications of Scientific Machine Learning (SciML)</td><td>Tim Weiland</td></tr>
-        <tr><td>Highly efficient IRKGL16() ODE solver with reversible adaptive time-stepping in Julia</td><td>Methods and Applications of Scientific Machine Learning (SciML)</td><td>Mikel Ander Murua</td></tr>
-        <tr><td>Dyad CompilerPasses.jl for Faster Symbolic Array Code</td><td>Methods and Applications of Scientific Machine Learning (SciML)</td><td>Dhairya Gandhi</td></tr>
+        <tr><td>Highly efficient IRKGL16() ODE solver with reversible adaptive time-stepping in Julia</td><td>Methods and Applications of Scientific Machine Learning (SciML)</td><td>Mikel, Ander Murua</td></tr>
+        <tr><td>DyadCompilerPasses.jl for Faster Symbolic Array Code</td><td>Methods and Applications of Scientific Machine Learning (SciML)</td><td>Dhairya Gandhi</td></tr>
         <tr><td>PhysicalLearning.jl - A Julia Framework for Exploring Local Learning Rules in Complex Physical Systems</td><td>Nonlinear and complex systems analysis with Julia</td><td>Henrik Wolf</td></tr>
         <tr><td>Development of a Machine Learning Model for Virtual Screening of Phytochemical Aromatase Inhibitors and Contribution to juDock Open-Source Project</td><td>Pharmaceutical Research in Julia</td><td>Zavia Evangeline Kitherian</td></tr>
         <tr><td>TNRKit.jl: A Julia Package for Tensor Network Renormalization</td><td>Quantum Mini Symposium</td><td>Victor Vanthilt</td></tr>
