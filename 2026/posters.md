@@ -74,7 +74,7 @@ The poster session is scheduled on the evening of Thursday, August 13. Here is t
         <tr><td>PhoXonic.jl: Unified interface for calculating photonic and phononic bandgaps (Poster)</td><td>Computational Physics Minisymposium</td><td>Hiroharu Sugawara</td></tr>
         <tr><td>StructuredIllumination Microscopy.jl</td><td>Computational Physics Minisymposium</td><td>Rainer Heintzmann</td></tr>
         <tr><td>PhaseFields.jl + OpenCALPHAD.jl: Microstructure Simulation with CALPHAD Coupling (Poster)</td><td>Computational Physics Minisymposium</td><td>Hiroharu Sugawara</td></tr>
-        <tr><td>Ray Trace Heat Transfer.jl: Thermal radiation visualized</td><td>Computational Physics Minisymposium</td><td>Nikolaj Maack Bielefeld</td></tr>
+        <tr><td>RayTraceHeatTransfer.jl: Thermal radiation visualized</td><td>Computational Physics Minisymposium</td><td>Nikolaj Maack Bielefeld</td></tr>
         <tr><td>Testability-First Design for Few-Body Systems Physics (Poster)</td><td>Computational Physics Minisymposium</td><td>Shuhei Ohno</td></tr>
         <tr><td>Flexible Sensitivity Analysis for Geoscientific PDE Models Using the Adjoint Method and Automatic Differentiation</td><td>Differentiable Computational Models and their Applications</td><td>jfrasunk, Boris Kaus, jfrasunk</td></tr>
         <tr><td>Soil Hybrid Modelling in Julia: Is it really better out of distribution?</td><td>Earth system science in Julia</td><td>M. Ayoub Chettouh</td></tr>
@@ -88,11 +88,11 @@ The poster session is scheduled on the evening of Thursday, August 13. Here is t
         <tr><td>Optimal control with an electrophysiology experiment in the loop</td><td>General</td><td>Melvyn Tyloo</td></tr>
         <tr><td>Bayesian nonparametric density estimation using BayesDensity.jl</td><td>General</td><td>Oskar Høgberg Simensen</td></tr>
         <tr><td>District-scale energy system simulation with ReSiE</td><td>General</td><td>Etienne Ott</td></tr>
-        <tr><td>Hyperdimensional Computing.jl</td><td>General</td><td>Carlos Vigil-Vásquez, Michiel Stock</td></tr>
+        <tr><td>HyperdimensionalComputing.jl</td><td>General</td><td>Carlos Vigil-Vásquez, Michiel Stock</td></tr>
         <tr><td>PhysicsGPT: Bridging the Gap Using LLMs and Neural Surrogates for Zero-Code Computational Physics</td><td>General</td><td>Mahima, Bramha Nimbalkar</td></tr>
-        <tr><td>FewBody Toolkit.jl: Solving 2- and 3-body quantum systems in 1D-3D with general potentials</td><td>General</td><td>Lucas Happ</td></tr>
+        <tr><td>FewBodyToolkit.jl: Solving 2- and 3-body quantum systems in 1D-3D with general potentials</td><td>General</td><td>Lucas Happ</td></tr>
         <tr><td>What&#x27;s new with Herb.jl: Teaching Programs how to Program with Program Synthesis</td><td>General</td><td>Tilman Hinnerichs, Reuben Gardos Reid</td></tr>
-        <tr><td>Training Phantoms.jl: Versatile generation of medical image phantoms</td><td>General</td><td>Paul Jürß</td></tr>
+        <tr><td>TrainingPhantoms.jl: Versatile generation of medical image phantoms</td><td>General</td><td>Paul Jürß</td></tr>
         <tr><td>What&#x27;s new with BiochemicalAlgorithms.jl?</td><td>General</td><td>Jenny Leclaire</td></tr>
         <tr><td>Learning with SOLE</td><td>General</td><td>Riccardo Pasini, Alberto Paparella, Marco Perrotta</td></tr>
         <tr><td>DoubleML.jl: High-Performance Double/Debiased Machine Learning in Julia</td><td>General</td><td>Mason Ross Hayes</td></tr>
@@ -125,7 +125,7 @@ The poster session is scheduled on the evening of Thursday, August 13. Here is t
         <tr><td>FerriteDiffEq.jl - Utilizing Finite Element Structure for Efficient Time Integration</td><td>Julia for Partial Differential Equations and its Applications</td><td>Dennis Ogiermann</td></tr>
         <tr><td>Solving nonlinear Stokes equations using PETSc.jl</td><td>Julia for Partial Differential Equations and its Applications</td><td>Filippo Ferrazzini, Boris Kaus</td></tr>
         <tr><td>Mimetic Operators Library Enhanced in Julia: MOLE.jl</td><td>Julia for Partial Differential Equations and its Applications</td><td>Valeria Barra, Marc Loschen</td></tr>
-        <tr><td>Unified SparseGrids.jl: Sparse-grid operators for high-dimensional spectral methods</td><td>Julia for Partial Differential Equations and its Applications</td><td>Zhongshu Wu</td></tr>
+        <tr><td>UnifiedSparseGrids.jl: Sparse-grid operators for high-dimensional spectral methods</td><td>Julia for Partial Differential Equations and its Applications</td><td>Zhongshu Wu</td></tr>
         <tr><td>SeparableFunctions.jl</td><td>Julia, GPUs, and Accelerators</td><td>Rainer Heintzmann</td></tr>
         <tr><td>BoltzTraP.jl: Thermoelectric transport for the Julia DFT ecosystem (Poster)</td><td>JuliaMolSim Minisymposium</td><td>Hiroharu Sugawara</td></tr>
         <tr><td>ElemCo.jl: A Julia Package for Electron Correlation in Molecules and Materials</td><td>JuliaMolSim Minisymposium</td><td>Charlotte Rickert, Daniel Kats</td></tr>
