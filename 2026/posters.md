@@ -112,7 +112,6 @@ The poster session is scheduled on the evening of Thursday, August 13. Here is t
         <tr><td>Spry.jl: Native High Performance Networking in Julia Poster</td><td>General</td><td>Raye Kimmerer</td></tr>
         <tr><td>Clingo.jl: Bringing Answer Set Programming to Julia</td><td>General</td><td>Raye Kimmerer</td></tr>
         <tr><td>Information Geometry.jl -- Differential-Geometric Analyses of Parameter Inference Problems</td><td>General</td><td>Rafael Arutjunjan</td></tr>
-        <tr><td>JuliaCon 2026 Poster Session</td><td>General</td><td>nan</td></tr>
         <tr><td>Radiomics.jl: a Library for High-Performance Radiomic Features Extraction from Medical Images</td><td>Health Mini Symposium</td><td>ALDO GIULIANI</td></tr>
         <tr><td>Using The HeartRateLab.jl for Normative Evaluation of Heart Rate Variability from open datasets.</td><td>Julia for Biology and Biology for Julia</td><td>Alberto</td></tr>
         <tr><td>KEGGAPI.jl</td><td>Julia for Biology and Biology for Julia</td><td>Carlos Vigil-Vásquez</td></tr>
