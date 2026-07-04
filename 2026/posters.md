@@ -126,6 +126,7 @@ The poster session is scheduled on the evening of Thursday, August 13. Here is t
         <tr><td>Solving nonlinear Stokes equations using PETSc.jl</td><td>Julia for Partial Differential Equations and its Applications</td><td>Filippo Ferrazzini, Boris Kaus</td></tr>
         <tr><td>Mimetic Operators Library Enhanced in Julia: MOLE.jl</td><td>Julia for Partial Differential Equations and its Applications</td><td>Valeria Barra, Marc Loschen</td></tr>
         <tr><td>UnifiedSparseGrids.jl: Sparse-grid operators for high-dimensional spectral methods</td><td>Julia for Partial Differential Equations and its Applications</td><td>Zhongshu Wu</td></tr>
+        <tr><td>juliaup for the enterprise</td><td>Julia in Industry</td><td>Neeladri Das</td></tr>
         <tr><td>SeparableFunctions.jl</td><td>Julia, GPUs, and Accelerators</td><td>Rainer Heintzmann</td></tr>
         <tr><td>BoltzTraP.jl: Thermoelectric transport for the Julia DFT ecosystem (Poster)</td><td>JuliaMolSim Minisymposium</td><td>Hiroharu Sugawara</td></tr>
         <tr><td>ElemCo.jl: A Julia Package for Electron Correlation in Molecules and Materials</td><td>JuliaMolSim Minisymposium</td><td>Charlotte Rickert, Daniel Kats</td></tr>
