@@ -243,7 +243,6 @@ configuration = Dict(
                 "Schedule" => "/2026/schedule",
                 "Posters" => "/2026/posters",
             ],
-            "Visa" => "/2026/visa",
             "Code of Conduct" => "/2026/coc",
             "Committee" => "/2026/committee",
             "Sponsor" => "/2026/sponsor",
