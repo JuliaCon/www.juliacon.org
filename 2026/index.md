@@ -18,7 +18,7 @@ Purchase your ticket now on the [ticketing page](/2026/tickets/).
 \end{box}
 
 \begin{box}{title="Travel & Hotels", color="dark-blue"}
-  JuliaCon 2026 conference tickets include a **KombiTicket** for free public transport within the [RMV network](https://www.rmv.de/en/) (August 9–15), covering travel from Frankfurt Airport to Mainz and around the city.
+  JuliaCon 2026 conference tickets include a **KombiTicket** for free public transport within the [RMV network](https://www.rmv.de/c/en/homepage) (August 9–15), covering travel from Frankfurt Airport to Mainz and around the city. We will distribute them before the conference digitally. (No longer available for registrations after July 7.)
 
   We have also secured [discounted hotel rooms](/2026/venue-hotels) at several hotels in Mainz. Use the keyword **juliacon** when booking.
 
