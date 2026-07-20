@@ -25,8 +25,8 @@ Purchase your ticket now on the [ticketing page](/2026/tickets/).
   See our [travel page](/2026/travel) for full details including the Deutsche Bahn event offer and cycling routes.
 \end{box}
 
-\begin{box}{title="Community Prize 2025", color="dark-green"}
-The winners of the [Community Prize 2025](../2025/prize/) have been announced.
+\begin{box}{title="Nominations for Community Prize 2026", color="dark-green"}
+As in past years, a few members of the Julia community will receive awards at JuliaCon that recognize contributions they have made to the Julia language, community, and/or ecosystem. Please submit your nominations [here](https://docs.google.com/forms/d/e/1FAIpQLSdtHhbFtJy_d8GOWE0-JUe7AqhDGkItnpJS6TNNpLvotF0weQ/viewform?usp=send_form).
 \end{box}
 
 
@@ -48,7 +48,7 @@ The winners of the [Community Prize 2025](../2025/prize/) have been announced.
 \keynote{name="Julia Kowalski", affil="RWTH Aachen University", link="https://www.mbd.rwth-aachen.de/cms/mbd/Der-Lehrstuhl/Team/~qashd/Julia-Kowalski/lidx/1/", img="/assets/2026/img/keynotes/Julia_Kowalski.jpg", title="Sustainability in Computational Science and Engineering"}
 \keynote{name="Zoë Holmes", affil="EPFL", link="https://www.epfl.ch/labs/qic/prof-zoe-holmes/", img="/assets/2026/img/keynotes/Zoe_Holmes.png", title="Julia For Quantum Software: Lessons from PauliPropagation.jl"}
 \keynote{name="Paul Tiede", affil="Black Hole Initiative, Harvard University", link="https://bhi.fas.harvard.edu/people/paul-tiede/", img="/assets/2026/img/keynotes/Paul_Tiede.jpg", title="Resolving the Edge of the Universe: Imaging Black Holes with Julia"}
-\keynote{name="Simon Peyton Jones", affil="Engineering Fellow, Epic Games", link="https://simon.peytonjones.org", img="/assets/2026/img/keynotes/SimonPeytonJones.jpeg", title=""}
+\keynote{name="Simon Peyton Jones", affil="Engineering Fellow, Epic Games", link="https://simon.peytonjones.org", img="/assets/2026/img/keynotes/SimonPeytonJones.jpeg", title="Haskell: origins, evolution, and future"}
 <!-- \keynote{name="Julia Core Developers", affil="", link="https://julialang.org/", img="/assets/2026/img/keynotes/teamjuliacon_logo.png", title="State of Julia 2026"} -->
 @@
 \\

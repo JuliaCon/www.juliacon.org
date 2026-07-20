@@ -49,6 +49,16 @@ Simon’s main research interest is in functional programming languages, their i
 
 Simon is chair of Computing at School, the grass-roots organisation that was at the epicentre of the 2014 reform of the English computing curriculum."}
 
+### Haskell: origins, evolution, and future
+
+Haskell is an unusual survivor in the Darwinian landscape of programming languages:
+it is long-lived (36 years old), yet not mainstream; it is both a research platform and a production
+tool; it pushes the boundaries of what you can do with static types; and (anecdotally) it
+inspires joy as well as offering utility.
+In this talk I'll describe how Haskell came to be, and what (in retrospect) I think are its most important
+contributions.  I'll talk about how it has evolved, especially in response to the demands of companies using
+Haskell in production.
+
 ~~~
 <div style="height:1em;display:block;"></div>
 ~~~
