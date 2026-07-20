@@ -21,11 +21,6 @@ Approximate computing techniques within numerical linear algebra algorithms are 
 
 This minisymposium features talks from researchers and practitioners describing their use of Julia for studying the numerical behavior or leveraging the computational benefits of approximate computing techniques.
 
-### [Bringing Julia to the Computational Humanities and Social Sciences](https://pretalx.com/juliacon-2026/talk/review/JEQQJJTUJFHJP3GVNKQPM3BWR79GQN8T)
-
-The computational humanities and social sciences (CHSS) increasingly rely on large, text-rich datasets – from digital corpora and learner corpora to discourse-annotated datasets and historical archives – yet researchers often struggle with the limitations of existing tools for large-scale data processing, modeling, and reproducibility. This minisymposium introduces Julia as a powerful, expressive, and high-performance solution for CHSS research. We showcase how Julia’s strengths (speed, a solid type system, first-class multiple dispatch, and seamless interoperability with Python and R) enable both rapid experimentation and production-grade analysis. Through case studies ranging from corpus statistics and collocation networks to mixed-effects modeling of experimental data and large-scale language data pipelines, we highlight existing Julia packages and other emerging ones such as TextAssociations.jl and demonstrate how Julia can substantially expand what researchers in the humanities and social sciences can achieve. The minisymposium aims to build bridges between Julia developers and CHSS scholars while fostering a new community of users working with rich textual, linguistic, and sociocultural data.
-
-
 ### [Computational Physics Minisymposium](https://pretalx.com/juliacon-2026/talk/review/VT9VMC37ESC3D3NTDJD3LGXLKBSCBB8G)
 
 The Computational Physics Minisymposium highlights numerical methods, algorithms, and software implementations—including testing and benchmarking—for modeling and simulation across a broad range of theoretical and computational physics subfields. It serves as a “trading port” for computational methods that connect diverse areas of physics. This year’s minisymposium will feature a special session spotlighting the JuliaQCD and JuliaFewBody ecosystems.
@@ -131,3 +126,9 @@ These packages are also gaining popularity beyond pure mathematics, in fields su
 We invite talks from people using Julia to carry out algebraic computations, either by developing packages or by applying them. The minisymposium aims to showcase both foundational tools and cutting-edge applications across pure and applied mathematics and beyond.
 
 We also welcome submissions of packages and workflows that provide end-to-end solutions to engineering problems, treating these packages effectively as black boxes. Examples include polynomial system solving or parameter estimation. The goal is to lower the barrier to using these tools and to bridge the gap between theorists and practitioners.
+
+### **Withdrawn** Bringing Julia to the Computational Humanities and Social Sciences
+
+The computational humanities and social sciences (CHSS) increasingly rely on large, text-rich datasets – from digital corpora and learner corpora to discourse-annotated datasets and historical archives – yet researchers often struggle with the limitations of existing tools for large-scale data processing, modeling, and reproducibility. This minisymposium introduces Julia as a powerful, expressive, and high-performance solution for CHSS research. We showcase how Julia’s strengths (speed, a solid type system, first-class multiple dispatch, and seamless interoperability with Python and R) enable both rapid experimentation and production-grade analysis. Through case studies ranging from corpus statistics and collocation networks to mixed-effects modeling of experimental data and large-scale language data pipelines, we highlight existing Julia packages and other emerging ones such as TextAssociations.jl and demonstrate how Julia can substantially expand what researchers in the humanities and social sciences can achieve. The minisymposium aims to build bridges between Julia developers and CHSS scholars while fostering a new community of users working with rich textual, linguistic, and sociocultural data.
+
+
