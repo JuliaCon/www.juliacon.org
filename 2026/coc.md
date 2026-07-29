@@ -25,7 +25,7 @@ We think people should follow these rules outside event activities too!
 
 ## Reporting
 
-If you would like to report a code of conduct (CoC) violation or discuss any incident that may have left you uncomfortable, please contact the [member of the organizing committee](https://juliacon.org/2025/committee/) or volunteer at the front desk to help locate the appropriate individuals to help you. Other event staff may be involved to ensure your report is managed properly but your identity will be kept confidential throughout the reporting process. 
+If you would like to report a code of conduct (CoC) violation or discuss any incident that may have left you uncomfortable, please contact the [member of the organizing committee](https://juliacon.org/2026/committee/) or volunteer at the front desk to help locate the appropriate individuals to help you. Other event staff may be involved to ensure your report is managed properly, but your identity will be kept confidential throughout the reporting process. For emergencies during the conference, please use +4915129097730 to directly reach a member of the committee.
 
 Finally, if you feel that the organizing committee is unable to address your report, the [Julia Stewards](https://julialang.org/community/stewards/) may be contacted at [stewards@julialang.org](stewards@julialang.org).
 
