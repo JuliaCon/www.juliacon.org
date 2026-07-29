@@ -9,9 +9,9 @@
 </div>
 ~~~
 
-JuliaCon organizers have secured contingent rooms at several hotels in the area. To unlock the conference rate, use the keyword **juliacon** when booking at all of the hotels listed below.
+The room contingents that JuliaCon organizers had secured at the hotels below have expired, and the conference rate is no longer available. The hotels remain a good starting point for finding accommodation near the venue.
 
-## Hotels with conference discount
+## Hotels near the venue
 
 ### B&B Hotel Mainz-Hbf
 
@@ -19,9 +19,7 @@ A budget-friendly hotel close to the main train station and the university campu
 
 Distance from venue: ~2 km.
 
-Book via the [hotel's website](https://www.hotel-bb.com/en/hotel/mainz-hbf) using the keyword **juliacon**.
-
-**Book by: July 13, 2026**
+Book via the [hotel's website](https://www.hotel-bb.com/en/hotel/mainz-hbf).
 
 ~~~
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
@@ -37,11 +35,7 @@ A family-run hotel close to the Mainz central train station.
 
 Distance from venue: ~4 km.
 
-To use the discount code **juliacon**, you need to book via email [info@hotelschottenhof.de](mailto:info@hotelschottenhof.de).
-
-Regular bookings can be made via the [hotel's website](https://www.hotelschottenhof.de/en).
-
-**Book by: June 9, 2026**
+Book via the [hotel's website](https://www.hotelschottenhof.de/en) or by email [info@hotelschottenhof.de](mailto:info@hotelschottenhof.de).
 
 ~~~
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
@@ -57,9 +51,7 @@ A hotel peacefully located near the JGU campus in the Bretzenheim district.
 
 Distance from venue: ~2 km.
 
-Book via the [hotel's website](https://www.hotel-roemerstein.de/en/) using the keyword **juliacon**.
-
-**Book by: July 10, 2026**
+Book via the [hotel's website](https://www.hotel-roemerstein.de/en/).
 
 ~~~
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
@@ -75,13 +67,7 @@ A modern hotel located directly at Mainz central train station.
 
 Distance from venue: ~3.5 km.
 
-To use the discount code **juliacon**, you need to book via email [reservations.mainz@intercityhotel.com](mailto:reservations.mainz@intercityhotel.com) or phone call [+49 6131 58851 0](tel:+496131588510).
-
-Regular bookings can be made via the [hotel's website](https://hrewards.com/en/intercityhotel-mainz).
-
-**Note:** Bookings can be cancelled free of charge up to two weeks before the event.
-
-**Book by: July 6, 2026**
+Book via the [hotel's website](https://hrewards.com/en/intercityhotel-mainz), by email [reservations.mainz@intercityhotel.com](mailto:reservations.mainz@intercityhotel.com), or by phone [+49 6131 58851 0](tel:+496131588510).
 
 ~~~
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
@@ -97,9 +83,7 @@ A contemporary hotel centrally located near the state museum and old town.
 
 Distance from venue: ~3 km.
 
-Book via the [hotel's website](https://all.accor.com/hotel/B829/index.en.shtml) using the keyword **juliacon**.
-
-**Book by: July 10, 2026**
+Book via the [hotel's website](https://all.accor.com/hotel/B829/index.en.shtml).
 
 ~~~
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
@@ -115,9 +99,7 @@ A well-located hotel in the Bretzenheim district, near the motorway.
 
 Distance from venue: ~3 km.
 
-**Booking:** Visit the [hotel's website](https://www.ihg.com/garner-hotels/hotels/us/en/mainz/qmzmz/hoteldetail) or send an email to [qmzmz.grn@novum-hospitality.com](mailto:qmzmz.grn@novum-hospitality.com) using the keyword **juliacon**.
-
-**Book by: July 6, 2026**
+Book via the [hotel's website](https://www.ihg.com/garner-hotels/hotels/us/en/mainz/qmzmz/hoteldetail) or by email [qmzmz.grn@novum-hospitality.com](mailto:qmzmz.grn@novum-hospitality.com).
 
 ~~~
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
@@ -135,11 +117,7 @@ Distance from venue: ~3 km.
 
 **Note:** Credit card information is required at time of booking.
 
-To use the discount code **juliacon**, you need to book via email [reservations.frankfurt@leonardo-hotels.com](mailto:reservations.frankfurt@leonardo-hotels.com) or phone call [+49 6221 3608910](tel:+4962213608910).
-
-Regular bookings can be made via the [hotel's website](https://www.leonardo-hotels.com/mainz/leonardo-hotel-mainz).
-
-**Note:** Rooms are available in batches — 40 rooms until May 18, 2026; 20 additional rooms until June 15, 2026; the remaining rooms until July 13, 2026. Book early!
+Book via the [hotel's website](https://www.leonardo-hotels.com/mainz/leonardo-hotel-mainz), by email [reservations.frankfurt@leonardo-hotels.com](mailto:reservations.frankfurt@leonardo-hotels.com), or by phone [+49 6221 3608910](tel:+4962213608910).
 
 ~~~
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
@@ -155,9 +133,7 @@ A 3-star superior hotel within a 10-minute walk of Mainz cathedral and Gutenberg
 
 Distance from venue: ~3.5 km.
 
-Book via the [hotel's website](https://www.hotel-hammer.com/) using the keyword **juliacon**.
-
-**Book by: June 26, 2026**
+Book via the [hotel's website](https://www.hotel-hammer.com/).
 
 ~~~
 <div style="margin: 0; padding: 0; display: flex; flex-wrap: wrap;">
@@ -169,7 +145,7 @@ Book via the [hotel's website](https://www.hotel-hammer.com/) using the keyword 
 
 ## Other options
 
-Here is a short list of other possible accommodation options without a conference discount.
+Here is a short list of other possible accommodation options.
 
 - [Best Western Mainz](http://www.hotel-mainz.bestwestern.de)
 - [Me & All Hotel Mainz](https://www.hyatt.com/me-and-all-hotels/en-US/frajm-me-and-all-hotel-mainz), Binger Str. 23, 55131 Mainz
