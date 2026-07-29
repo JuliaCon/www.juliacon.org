@@ -6,7 +6,7 @@ JuliaCon 2026, the annual conference for the Julia programming language enthusia
 @@col-12,col-md-6
 ~~~
 <a class="btn" style="width:100%; border-color: #9d253d; text-decoration: none;" href="/2026/venue-hotels">
-    Check our <b>promo discounts</b> on the hotels!
+    Check our <b>hotel</b> recommendations!
 </a>
 ~~~
 @@
@@ -68,12 +68,12 @@ The JGU campus is accessible by bicycle from the city centre and from the main t
 
 ### Accommodation options
 
-Detailed information about special offers can be accessed [here](/2026/venue-hotels). 
+See [hotel rooms](/2026/venue-hotels) for several options in Mainz. 
 
 ~~~
 <div style="text-align: center">
 <a class="btn" style="width: 60%; border-color: #9d253d; text-decoration: none;" href="/2026/venue-hotels">
-    Check our <b>discounts</b> on the hotels!
+    Check our <b>hotel</b> recommendations!
 </a>
 </div>
 <br>
