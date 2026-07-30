@@ -5,10 +5,10 @@ This schedule is preliminary and subject to change. The final schedule will be r
 **You can view the full preliminary schedule [here](https://pretalx.com/juliacon-2026/schedule/).**
 
 ### Monday (10th of August)
-- Workshops
+- [Workshops](/2026/workshops)
 
 ### Tuesday (11th of August)
-- Workshops
+- [Workshops](/2026/workshops)
 - Social Program (TBD)
 
 ### Wednesday (12th of August)

@@ -238,9 +238,11 @@ configuration = Dict(
             "Tickets" => "/2026/tickets",
             "Call for Hosts" => "/2026/callforhosts",
             "Schedule" => [
+                "Full Schedule" => "https://pretalx.com/juliacon-2026/schedule/",
+                "Overview" => "/2026/schedule",
                 "Keynotes" => "/2026/keynotes",
+                "Workshops" => "/2026/workshops",
                 "Minisymposia" => "/2026/minisymposia",
-                "Schedule" => "/2026/schedule",
                 "Posters" => "/2026/posters",
             ],
             "Code of Conduct" => "/2026/coc",
