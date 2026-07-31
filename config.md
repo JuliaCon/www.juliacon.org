@@ -263,6 +263,7 @@ configuration = Dict(
         "header_color" => "#389826",
         "header" => [
             "Venue" => "/local/tokyo2026/venue",
+            "Code of Conduct" => "/2026/coc",
         ]
     ),
 )
