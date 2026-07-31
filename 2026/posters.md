@@ -152,6 +152,7 @@ The poster session is scheduled on the evening of Thursday, August 13. Here is t
         <tr><td>Pauli Propagation: A computational framework for simulating systems</td><td>Quantum Mini Symposium</td><td>Manuel Rudolph</td></tr>
         <tr><td>Signature Tensors in OSCAR</td><td>Symbolic and Numerical Methods in (Nonlinear) Algebra</td><td>Gabriel Riffo</td></tr>
         <tr><td>Giac.jl: Bringing the Giac Computer Algebra System to Julia, from FFI Bindings to Interactive Pluto Notebooks</td><td>Symbolic and Numerical Methods in (Nonlinear) Algebra</td><td>Sébastien Celles</td></tr>
+        <tr><td>Jlpigraf.jl, a package for data retrieval and table merging with the Epigraf API</td><td>General</td><td>Georg Hertkorn, Jakob Jünger</td></tr>
     </tbody>
 </table>
 
