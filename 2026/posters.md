@@ -85,12 +85,10 @@ The poster session is scheduled on the evening of Thursday, August 13. Here is t
         <tr><td>Finding special entangled quantum states with HomotopyContinuation.jl</td><td>General</td><td>lan Tan</td></tr>
         <tr><td>Plots.jl</td><td>General</td><td>Simon Christ</td></tr>
         <tr><td>Using matrix-product states for time-series machine learning</td><td>General</td><td>Joshua</td></tr>
-        <tr><td>Optimal control with an electrophysiology experiment in the loop</td><td>General</td><td>Melvyn Tyloo</td></tr>
         <tr><td>Bayesian nonparametric density estimation using BayesDensity.jl</td><td>General</td><td>Oskar Høgberg Simensen</td></tr>
         <tr><td>District-scale energy system simulation with ReSiE</td><td>General</td><td>Etienne Ott</td></tr>
         <tr><td>HyperdimensionalComputing.jl</td><td>General</td><td>Carlos Vigil-Vásquez, Michiel Stock</td></tr>
         <tr><td>PhysicsGPT: Bridging the Gap Using LLMs and Neural Surrogates for Zero-Code Computational Physics</td><td>General</td><td>Mahima, Bramha Nimbalkar</td></tr>
-        <tr><td>FewBodyToolkit.jl: Solving 2- and 3-body quantum systems in 1D-3D with general potentials</td><td>General</td><td>Lucas Happ</td></tr>
         <tr><td>What&#x27;s new with Herb.jl: Teaching Programs how to Program with Program Synthesis</td><td>General</td><td>Tilman Hinnerichs, Reuben Gardos Reid</td></tr>
         <tr><td>TrainingPhantoms.jl: Versatile generation of medical image phantoms</td><td>General</td><td>Paul Jürß</td></tr>
         <tr><td>What&#x27;s new with BiochemicalAlgorithms.jl?</td><td>General</td><td>Jenny Leclaire</td></tr>
