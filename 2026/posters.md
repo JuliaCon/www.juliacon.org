@@ -117,7 +117,7 @@ The poster session is scheduled on the evening of Thursday, August 13. Here is t
         <tr><td>ReproducibleJobs.jl - reproducible and practical workflows &amp; SingleCellProjections.jl - single cell expression analysis</td><td>Julia for Biology and Biology for Julia</td><td>Rasmus Henningsson</td></tr>
         <tr><td>Bridging the Gap between Dagger.jl and HPC Interconnects</td><td>Julia for HPC Minisymposium</td><td>Yan Guimarães, Felipe Tomé</td></tr>
         <tr><td>GeothermalWells.jl: GPU-Accelerated 3D Simulation of Deep Borehole Heat Exchanger Arrays</td><td>Julia for Partial Differential Equations and its Applications</td><td>Collin Wittenstein</td></tr>
-        <tr><td>Benchmarking Iterative vs. Direct Linear Solvers for PDES</td><td>Julia for Partial Differential Equations and its Applications</td><td>Jürgen Fuhrmann</td></tr>
+        <tr><td>Benchmarking Iterative vs. Direct Linear Solvers for PDES</td><td>Julia for Partial Differential Equations and its Applications</td><td> Marieke Osewold, Jürgen Fuhrmann</td></tr>
         <tr><td>First-order system least-squares methods for parabolic problems and applications</td><td>Julia for Partial Differential Equations and its Applications</td><td>Simon Boisserée</td></tr>
         <tr><td>Efficient Parameter Estimation of CO2 Reduction Multiscale Models via Surrogate Modeling</td><td>Julia for Partial Differential Equations and its Applications</td><td>Byungmin Chun</td></tr>
         <tr><td>FerriteDiffEq.jl - Utilizing Finite Element Structure for Efficient Time Integration</td><td>Julia for Partial Differential Equations and its Applications</td><td>Dennis Ogiermann</td></tr>
