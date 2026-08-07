@@ -1,0 +1,48 @@
+
+
+p, blockquote, pre, ul, ol {
+    line-height: 1.75;
+    margin-bottom: 24px;
+}
+blockquote {
+    padding-right: 2em;
+    padding-left: 2em;
+}
+
+strong, .u-bold {
+    font-weight: bold;
+}
+
+ul {
+    padding-left: 2em;
+    margin-bottom: 16px;
+}
+
+
+html,body {
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.u-body-extra-small { font-size: 14px; line-height:24px }
+.u-body-small { font-size: 16px; line-height:24px }
+.u-body-regular { font-size: 16px; line-height:32px }
+.u-body-medium { font-size: 18px; line-height:30px }
+.u-body-large { font-size: 20px; line-height:34px }
+
+.u-highlight-extra-large { font-size: 26px; line-height:38px }
+.u-highlight-large { font-size: 24px; line-height:36px }
+.u-highlight-medium { font-size: 22px; line-height:34px }
+.u-highlight-small { font-size: 18px; line-height:28px }
+
+.u-title-extra-large { font-size: 100px; line-height: 128px }
+.u-title-large { font-size: 52px; line-height: 64px }
+.u-title-medium { font-size: 36px; line-height:44px }
+.u-title-regular { font-size: 34px; line-height:42px }
+.u-title-small { font-size: 28px; line-height:34px }
+.u-title-extra-small { font-size: 18px; line-height:24px }
+
+.u-subline { font-size: 12px; line-height:24px }
+
