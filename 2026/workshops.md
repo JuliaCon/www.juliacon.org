@@ -30,7 +30,7 @@ What if engineers could go from concept to validated simulation model through co
 
 ### [Hands-on with Julia for HPC on GPUs](https://pretalx.com/juliacon-2026/talk/MRFYNN/)
 
-*Ludovic Räss, Collin Wittenstein, Boris Kaus — 14:30, Muschel N2*
+*Ludovic Räss, Collin Wittenstein, Ivan Utkin, Boris Kaus — 14:30, Muschel N2*
 
 Julia offers the best of both worlds: high-level expressiveness combined with low-level performance, allowing developers to leverage modern hardware accelerators without needing expertise in hardware-specific languages. This workshop demonstrates how Julia makes high-performance computing (HPC) accessible by covering topics such as distributed GPU computing, GPU code optimization, and scalable workflows.
 
