@@ -19,7 +19,7 @@ end
             <h2>$title</h2>
         """) * md * html("""
           </div>
-          <div class="u-vskip-2"></div>
+          <div class="u-vskip-half"></div>
         </div>
         """)
 end

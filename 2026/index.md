@@ -17,6 +17,12 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 Purchase your ticket now on the [ticketing page](/2026/tickets/).
 \end{box}
 
+\begin{box}{title="Schedule & Livestream", color="red"}
+Check out the [full conference schedule](https://pretalx.com/juliacon-2026/schedule/).
+
+Talks will be live-streamed on [the Julia Language's YouTube channel](https://www.youtube.com/@TheJuliaLanguage/streams).
+\end{box}
+
 \begin{box}{title="Travel & Hotels", color="dark-blue"}
   JuliaCon 2026 conference tickets include a **KombiTicket** for free public transport within the [RMV network](https://www.rmv.de/c/en/homepage) (August 9–15), covering travel from Frankfurt Airport to Mainz and around the city. We will distribute them before the conference digitally. (No longer available for registrations after July 7.)
 
