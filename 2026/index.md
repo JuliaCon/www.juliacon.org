@@ -89,7 +89,13 @@ Talks and workshops will take place across three buildings on campus:
 
 ~~~
 <br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3524.248145917799!2d8.241299730799065!3d49.991835413453636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd96ea3de810af%3A0xe9344ff3bb0044ab!2sJohannes%20Gutenberg%20University%20of%20Mainz!5e0!3m2!1sen!2sde!4v1757324969376!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a href="/assets/2026/img/venue/jgu_campus_map.pdf" target="_blank">
+<img src="/assets/2026/img/venue/jgu_campus_map.png" alt="JGU campus map with JuliaCon 2026 venues highlighted" style="max-width: 100%; height: auto;">
+</a>
+<br><br>
+<h3>Conference check-in: Alte Mensa</h3>
+<p>Conference check-in and registration are located in the <strong>Alte Mensa</strong> building:</p>
+<iframe src="https://maps.google.com/maps?q=Alte+Mensa,+Johannes+Gutenberg-Universit%C3%A4t+Mainz&amp;output=embed" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ~~~
 
 \begin{rowheader}{title="JuliaCon at a Glance", color=""}\end{rowheader}
