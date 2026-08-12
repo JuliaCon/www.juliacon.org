@@ -1,5 +1,7 @@
 # Schedule
 
+**You can view the full schedule [here](https://pretalx.com/juliacon-2026/schedule/).**
+
 ### Monday (10th of August)
 - [Workshops](/2026/workshops)
 
