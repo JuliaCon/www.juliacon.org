@@ -26,7 +26,7 @@ To make your presentation accessible to everyone, review the [JuliaCon accessibi
 \end{box}
 
 \begin{box}{title="Community Prize 2025", color="dark-green"}
-The winners of the [Community Prize 2025](prize/) have been accounced. 
+The winners of the [Community Prize 2025](prize/) have been announced. 
 \end{box}
 
 ~~~
