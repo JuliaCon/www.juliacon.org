@@ -1,6 +1,6 @@
 # Julia Community Prize
 
-The Julia Community Prize 2025 winners have been announced! Winners recieve a certificate of accomplishment and a cash award of USD 1000.
+The Julia Community Prize 2025 winners have been announced! Winners receive a certificate of accomplishment and a cash award of USD 1000.
 
 ## 2025 Community Prize Winners: 
 
