@@ -12,4 +12,4 @@ For their work on LinearAlgebra.jl.
 
 ## Awards Committee
 
-The members of the committee for 2026 are Prof Alan Edelman; Prof Tim Holy; and Mr Curtis Vogt.
+The members of the committee for 2026 are Prof Alan Edelman, Prof Tim Holy, and Mr Curtis Vogt.
