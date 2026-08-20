@@ -12,4 +12,4 @@ For their work on LinearAlgebra.jl.
 
 ## Awards Committee
 
-The members of the committee for 2026 are Prof Alan Edelman, MIT; Prof Tim Holy, WU; and Mr Curtis Vogt, Beacon Biosignals.
+The members of the committee for 2026 are Prof Alan Edelman; Prof Tim Holy; and Mr Curtis Vogt.
