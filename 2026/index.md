@@ -31,8 +31,8 @@ Talks will be live-streamed on [the Julia Language's YouTube channel](https://ww
   See our [travel page](/2026/travel) for full details including the Deutsche Bahn event offer and cycling routes.
 \end{box}
 
-\begin{box}{title="Nominations for Community Prize 2026", color="dark-green"}
-As in past years, a few members of the Julia community will receive awards at JuliaCon that recognize contributions they have made to the Julia language, community, and/or ecosystem. Please submit your nominations [here](https://docs.google.com/forms/d/e/1FAIpQLSdtHhbFtJy_d8GOWE0-JUe7AqhDGkItnpJS6TNNpLvotF0weQ/viewform?usp=send_form).
+\begin{box}{title="Community Prize 2026", color="dark-green"}
+The winners of the [Community Prize 2026](prize/) have been announced. 
 \end{box}
 
 
