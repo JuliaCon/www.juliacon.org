@@ -8,7 +8,7 @@ The Julia Community Prize 2026 winners have been announced! Winners receive a ce
 For her contributions to Turing.jl and JuliaFormatter.
 
 ### Andreas Noack, Daniel Karrasch, and Jishnu Bhattacharya
-For their work on LinearAlgebra.jl.
+For their efforts maintaining the Julia Linear Algebra library.
 
 ## Awards Committee
 
