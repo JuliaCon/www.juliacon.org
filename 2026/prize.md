@@ -5,7 +5,7 @@ The Julia Community Prize 2026 winners have been announced! Winners receive a ce
 ## 2026 Community Prize Winners: 
 
 ### Penelope Yong
-For her work on Turing.jl.
+For her contributions to Turing.jl and JuliaFormatter.
 
 ### Andreas Noack, Daniel Karrasch, and Jishnu Bhattacharya
 For their work on LinearAlgebra.jl.
