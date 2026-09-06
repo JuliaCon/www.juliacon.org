@@ -1,0 +1,4 @@
+Sitemap: juliacon.org/sitemap.xml
+
+User-agent: *
+Disallow:
