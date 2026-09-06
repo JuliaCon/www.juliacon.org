@@ -183,7 +183,7 @@ function hfun_julia_editions()
         location = eventconfig["location"]
         year_info = current_year_is_latest ? " ($(eventconfig["year"]))" : ""
         write(io_local, """<a href="$site_url">$location</a>$year_info""")
-        (length(local_events) === 1 || i == length(local_events)) || write(io_local, "/")
+        (length(local_events) === 1 || i == length(local_events)) || write(io_local, "<br>")
     end
 
     post = String(take!(io_post))

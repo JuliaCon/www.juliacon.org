@@ -13,14 +13,16 @@ top_title_heading = "../assets/2021/img/world_768.png 768w, ../assets/2021/img/w
 <div class="container">
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
-\begin{box}{title="Tickets Available", color="purple"}
-Purchase your ticket now on the [ticketing page](/2026/tickets/).
+\begin{box}{title="Community Prize 2026", color="dark-green"}
+The winners of the [Community Prize 2026](prize/) have been announced. 
 \end{box}
 
-\begin{box}{title="Schedule & Livestream", color="red"}
-Check out the [full conference schedule](https://pretalx.com/juliacon-2026/schedule/).
+\begin{box}{title="Rewatch the Livestreams", color="purple"}
+Missed a talk? Rewatch the JuliaCon 2026 livestreams on [the Julia Language's YouTube channel](https://www.youtube.com/@TheJuliaLanguage/streams).
+\end{box}
 
-Talks will be live-streamed on [the Julia Language's YouTube channel](https://www.youtube.com/@TheJuliaLanguage/streams).
+\begin{box}{title="Schedule", color="red"}
+Check out the [full conference schedule](https://pretalx.com/juliacon-2026/schedule/).
 \end{box}
 
 \begin{box}{title="Travel & Hotels", color="dark-blue"}
@@ -29,10 +31,6 @@ Talks will be live-streamed on [the Julia Language's YouTube channel](https://ww
   See [hotel rooms](/2026/venue-hotels) for several options in Mainz.
 
   See our [travel page](/2026/travel) for full details including the Deutsche Bahn event offer and cycling routes.
-\end{box}
-
-\begin{box}{title="Community Prize 2026", color="dark-green"}
-The winners of the [Community Prize 2026](prize/) have been announced. 
 \end{box}
 
 
