@@ -5,7 +5,7 @@ title = "JuliaCon 2026"
 insert_top_title = true
 top_title = "JuliaCon Global 2027\n"
 top_description = "Conference on the Julia programming language.\n"
-top_date = "Tallinn, Estonia. July 19-24, 2026.\n TalTech Campus  \n"
+top_date = "Tallinn, Estonia. July 19-24, 2026.\n"
 top_title_heading = "../assets/2027/tallinn.png 2800w"
 +++
 
