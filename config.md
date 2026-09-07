@@ -262,20 +262,11 @@ configuration = Dict(
         "main_heading_color" => "black",
         "header_color" => "#0072CE",
         "header" => [
-            "Tickets" => "/2027/tickets",
-            "Call for Hosts" => "/2027/callforhosts",
-            "Schedule" => [
-                "Full Schedule" => "https://pretalx.com/juliacon-2026/schedule/",
-                "Overview" => "/2027/schedule",
-                "Keynotes" => "/2027/keynotes",
-                "Workshops" => "/2027/workshops",
-                "Minisymposia" => "/2027/minisymposia",
-                "Posters" => "/2027/posters",
-            ],
             "Code of Conduct" => "/2027/coc",
             "Committee" => "/2027/committee",
             "Sponsor" => "/2027/sponsor",
-            "Venue" => "/2027/travel",
+        ]
+    ),
     "local/tokyo2026" => Dict(
         "global" => false,
         "year" => 2026,
