@@ -228,7 +228,7 @@ configuration = Dict(
         "global" => true,
         "year" => 2026,
         "location" => "Mainz, Germany",
-        "alert" => """Tickets are available! <a href="/2026/tickets">Secure your spot now!</a>""",
+        "alert" => """The <a href="https://www.youtube.com/@TheJuliaLanguage/streams">recorded streams</a> for the conference are on YouTube!""",
         "site_name" => "JuliaCon Global 2026",
         "site_descr" => "JuliaCon Global 2026, Mainz",
         "site_url" => "https://juliacon.org/2026/",
@@ -276,6 +276,21 @@ configuration = Dict(
             "Committee" => "/2027/committee",
             "Sponsor" => "/2027/sponsor",
             "Venue" => "/2027/travel",
+    "local/tokyo2026" => Dict(
+        "global" => false,
+        "year" => 2026,
+        "advertise_in_landing" => true,
+        "location" => "Tokyo",
+        "alert" => """JuliaCon Local Tokyo 2026 is coming! <a href="/local/tokyo2026/">Learn more</a>""",
+        "site_name" => "JuliaCon Local Tokyo 2026",
+        "site_descr" => "JuliaCon Local Tokyo 2026, University of Tokyo Kashiwa Campus",
+        "site_url" => "https://juliacon.org/local/tokyo2026/",
+        "site_thumbnail" => "https://juliacon.org/assets/shared/img/logo_20.svg",
+        "main_heading_color" => "black",
+        "header_color" => "#389826",
+        "header" => [
+            "Venue" => "/local/tokyo2026/venue",
+            "Code of Conduct" => "/2026/coc",
         ]
     ),
 )
