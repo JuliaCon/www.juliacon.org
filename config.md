@@ -251,6 +251,22 @@ configuration = Dict(
             "Venue" => "/2026/travel",
         ]
     ),
+    "2027" => Dict(
+        "global" => true,
+        "year" => 2027,
+        "location" => "Tallinn, Germany",
+        "alert" => """JuliaCon is coming to Tallinn, Estonia!""",
+        "site_name" => "JuliaCon Global 2027",
+        "site_descr" => "JuliaCon Global 2027, Tallinn",
+        "site_url" => "https://juliacon.org/2027/",
+        "main_heading_color" => "black",
+        "header_color" => "#0072CE",
+        "header" => [
+            "Code of Conduct" => "/2027/coc",
+            "Committee" => "/2027/committee",
+            "Sponsor" => "/2027/sponsor",
+        ]
+    ),
     "local/tokyo2026" => Dict(
         "global" => false,
         "year" => 2026,
