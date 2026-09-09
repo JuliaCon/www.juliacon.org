@@ -52,7 +52,7 @@ As in past years, a few members of the Julia community will receive awards at Ju
 
 @@row,row-section
 @@col-12
-Welcome to **JuliaCon 2026**, the premier annual conference for the Julia programming language community! This exciting event brings together developers, researchers, and enthusiasts from around the globe to celebrate and explore the power and versatility of Julia.
+Welcome to **JuliaCon 2027**, the premier annual conference for the Julia programming language community! This exciting event brings together developers, researchers, and enthusiasts from around the globe to celebrate and explore the power and versatility of Julia.
 @@
 @@
 
@@ -110,7 +110,7 @@ Relive the highlights of JuliaCon Local 2023 in Eindhoven! Check out our after m
 <iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/videoseries?si=wnoxH0imtxz8wfLN&amp;list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ~~~
 \\
-JuliaCon 2026 is almost upon us. To get in the mood for what is planned to be an amazing conference you can watch all of the previous JuliaCon conference's talks, workshops and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/@TheJuliaLanguage/playlists).
+Missing JuliaCon already? While we wait for JuliaCon 2027, you can watch all of the previous JuliaCon conference's talks, workshops and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/@TheJuliaLanguage/playlists).
 @@
 @@
 
