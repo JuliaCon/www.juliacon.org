@@ -2,13 +2,15 @@
 # Sponsorship Opportunities
 
 JuliaCon is a community-organized non-profit conference, and it would not be possible without the support of its amazing set of sponsors over the years.  
-We invite your organization to be a sponsor of JuliaCon Global 2026. You can find our [sponsors from last year](https://juliacon.org/2025/#:~:text=Thanks%20to%20our%20Sponsors!) at the bottom of our 2025 homepage.
+We invite your organization to be a sponsor of JuliaCon Global 2027. You can find our [sponsors from last year](https://juliacon.org/2026/#:~:text=Thanks%20to%20our%20Sponsors!) at the bottom of our 2026 homepage.
 
-JuliaCon is the largest annual conference organized around Julia, the fastest high-performance open-source computing language for machine learning, artificial intelligence, life sciences, robotics, algorithmic trading, real-time analytics, and more. Next year, the conference is set to take place in Mainz, Germany, August 10-15, 2026.
+JuliaCon is the largest annual conference organized around Julia, the fastest high-performance open-source computing language for machine learning, artificial intelligence, life sciences, robotics, algorithmic trading, real-time analytics, and more.
 
-JuliaCon Global 2025 was held in Pittsburgh, PA, USA. This year, we are thrilled to be returning to Europe with a global audience of developers. JuliaCon Global offers you the unique opportunity to present your company and your product to a huge group of engaged scientific programmers.
+ <!-- Next year, the conference is set to take place in Mainz, Germany, August 10-15, 2026. -->
 
-## Sponsorship Prospectus
+JuliaCon Global 2026 was held in  Mainz, Germany. JuliaCon Global offers you the unique opportunity to present your company and your product to a huge group of engaged scientific programmers.
+
+<!-- ## Sponsorship Prospectus
 
 ~~~
 <div style="text-align: center">
@@ -19,7 +21,7 @@ JuliaCon Global 2025 was held in Pittsburgh, PA, USA. This year, we are thrilled
     </a>
     <a href="https://drive.google.com/file/d/1Z6BV9JeNxQmF8ND5nfyNb-mAABbHagvf/view?usp=sharing" class="btn" style="width: 35%" >Download our Sponsorship Prospectus PDF</a>
 </div>
-~~~
+~~~ -->
 
 ## Sponsorship Opportunities
 
