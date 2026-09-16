@@ -13,12 +13,14 @@ top_title_heading = "../assets/2027/tallinn.png 2800w"
 <div class="container">
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
-\begin{box}{title="JuliaCon Local Tokyo 2026", color="purple"}
+\begin{box}{title="JuliaCon Local Tokyo 2026", color="dark-green"}
 Can't wait for JuliaCon Global 2027? Check out [JuliaCon Local Tokyo 2026](/local/tokyo2026/)!
 \end{box}
 
 
-
+\begin{box}{title="Rewatch the Livestreams", color="purple"}
+Missed a talk? Rewatch the JuliaCon 2026 livestreams on [the Julia Language's YouTube channel](https://www.youtube.com/@TheJuliaLanguage/streams).
+\end{box}
 
 
 
