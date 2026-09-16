@@ -13,27 +13,9 @@ top_title_heading = "../assets/2027/tallinn.png 2800w"
 <div class="container">
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
-<!-- \begin{box}{title="Tickets Available", color="purple"}
-Purchase your ticket now on the [ticketing page](/2026/tickets/).
+\begin{box}{title="JuliaCon Local Tokyo 2026", color="purple"}
+Can't wait for JuliaCon Global 2027? Check out [JuliaCon Local Tokyo 2026](/local/tokyo2026/)!
 \end{box}
-
-\begin{box}{title="Schedule & Livestream", color="red"}
-Check out the [full conference schedule](https://pretalx.com/juliacon-2026/schedule/).
-
-Talks will be live-streamed on [the Julia Language's YouTube channel](https://www.youtube.com/@TheJuliaLanguage/streams).
-\end{box}
-
-\begin{box}{title="Travel & Hotels", color="dark-blue"}
-  JuliaCon 2026 conference tickets include a **KombiTicket** for free public transport within the [RMV network](https://www.rmv.de/c/en/homepage) (August 9–15), covering travel from Frankfurt Airport to Mainz and around the city. We will distribute them before the conference digitally. (No longer available for registrations after July 7.)
-
-  See [hotel rooms](/2026/venue-hotels) for several options in Mainz.
-
-  See our [travel page](/2026/travel) for full details including the Deutsche Bahn event offer and cycling routes.
-\end{box}
-
-\begin{box}{title="Nominations for Community Prize 2026", color="dark-green"}
-As in past years, a few members of the Julia community will receive awards at JuliaCon that recognize contributions they have made to the Julia language, community, and/or ecosystem. Please submit your nominations [here](https://docs.google.com/forms/d/e/1FAIpQLSdtHhbFtJy_d8GOWE0-JUe7AqhDGkItnpJS6TNNpLvotF0weQ/viewform?usp=send_form).
-\end{box} -->
 
 
 
@@ -48,11 +30,13 @@ As in past years, a few members of the Julia community will receive awards at Ju
 ~~~
 
 
+
+
 \begin{rowheader}{title="JuliaCon at a Glance", color=""}\end{rowheader}
 
 @@row,row-section
 @@col-12
-Welcome to **JuliaCon 2027**, the premier annual conference for the Julia programming language community! This exciting event brings together developers, researchers, and enthusiasts from around the globe to celebrate and explore the power and versatility of Julia.
+Welcome to **JuliaCon Global 2027**, the premier annual conference for the Julia programming language community! This exciting event brings together developers, researchers, and enthusiasts from around the globe to celebrate and explore the power and versatility of Julia.
 @@
 @@
 
@@ -93,6 +77,31 @@ Welcome to **JuliaCon 2027**, the premier annual conference for the Julia progra
 @@
 \\ -->
 
+\begin{rowheader}{title="Tere tulemast Eestisse! Welcome to Estonia! 🇪🇪", color=""}\end{rowheader}
+
+This is the first time JuliaCon ventures into the Baltic-Nordic region! Join us in Tallinn to explore this hidden gem that may not yet be on your travel radar! A secret to share with you: Estonian summers are always cool! The average summer temperature is fairly mild, ranging from 16 to 20 degrees Celsius. Summer in Estonia tends to be very bright, with 19 hours of daylight known locally as "white nights". That's a lot of JuliaCon time!
+
+@@row,row-section
+@@col-sm-12,col-md-6
+## About Tallinn
+~~~
+<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/8bzS5p6SwQ0?si=D5KQkdj9U78A1xyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+~~~
+\\
+Tallinn is where the UNESCO medieval old town meets world's most innovative companies and one of the most digitally advanced societies. Check out [**Visit Tallinn**](https://visittallinn.ee/) for more travel inspirations and other local events to make your JuliaCon experience more unforgettable! 
+@@
+@@col-sm-12,col-md-6
+## About Estonia
+~~~
+<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/TjOmOhek0G0?si=M9qPEt6egtKrh3t_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+~~~
+\\
+Want even more fresh air and nature? Go explore the rest of Estonia! Head out to [Lahemaa National Park](https://visitestonia.com/en/where-to-go/lahemaa-national-park-estonia) for a bog walk, or camp on the baltic coast of [Saaremaa Island](https://visitestonia.com/en/where-to-go/saaremaa). The choice is yours and you won't be disappointed. Find more information at [**Visit Estonia**](https://visitestonia.com/en).
+@@
+@@
+
+
+\\
 
 \begin{rowheader}{title="Previous events", color=""}\end{rowheader}
 @@row,row-section
@@ -110,7 +119,7 @@ Relive the highlights of JuliaCon Local 2023 in Eindhoven! Check out our after m
 <iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/videoseries?si=wnoxH0imtxz8wfLN&amp;list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ~~~
 \\
-Missing JuliaCon already? While we wait for JuliaCon 2027, you can watch all of the previous JuliaCon conference's talks, workshops and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/@TheJuliaLanguage/playlists).
+Missing JuliaCon already? While we wait for JuliaCon Global 2027, you can watch all of the previous JuliaCon conference's talks, workshops and keynotes at [the Julia Language's YouTube channel](https://www.youtube.com/@TheJuliaLanguage/playlists).
 @@
 @@
 
