@@ -1,4 +1,4 @@
-# JuliaCon 2026 Organizing Committee
+# JuliaCon 2027 Organizing Committee
 
 The JuliaCon committee is composed entirely of volunteer organizers and can be reached at \email with any questions or comments.
 
