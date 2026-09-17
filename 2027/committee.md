@@ -4,10 +4,28 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
 
 @@row
 \committeemember{
-  name="Valentin Churavy", 
-  info="""Co-Chair""",
-  link="https://vchuravy.dev",
-  img="/assets/2026/img/committee/churavy.jpg"
+  name="Ray Yang", 
+  info="""Executive Chair, Finance Co-Chair""",
+  link="https://www.linkedin.com/in/ray-yang-a03a63169/", 
+  img="/assets/2025/img/committee/ray_yang.jpg"
+}
+\committeemember{
+  name="Morten Piibeleht", 
+  info="""Local Chair""",
+  link="https://github.com/mortenpi", 
+  img="/assets/2027/img/committee/morten.png"
+}
+\committeemember{
+  name="Tuule Mall Parts", 
+  info="""Local""",
+  link="", 
+  img="/assets/2026/img/committee/placeholder.png"
+}
+\committeemember{
+  name="Alex Kmoch", 
+  info="""Local""",
+  link="https://github.com/allixender", 
+  img="/assets/2027/img/committee/alexK.png"
 }
 \committeemember{
   name="Katharine Hyatt", 
@@ -16,22 +34,28 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
   img="/assets/2024/img/committee/kshyatt.jpeg"
 }
 \committeemember{
+  name="Luca Ferranti", 
+  info="""Program""",
+  link="https://github.com/lucaferranti", 
+  img="/assets/2024/img/committee/luca.jpg"
+}
+\committeemember{
+  name="Alexander Demin", 
+  info="""Program""",
+  link="https://sumiya11.github.io/", 
+  img="/assets/2027/img/committee/alexD.jpeg"
+}
+\committeemember{
+  name="Aurora Rossi", 
+  info="""Outreach Chair""",
+  link="https://aurorarossi.github.io/", 
+  img="/assets/2027/img/committee/aurora.png"
+}
+\committeemember{
   name="Mark Kittisopikul", 
   info="""Finance Co-Chair""",
   link="https://twitter.com/markkitti", 
   img="/assets/2024/img/committee/mark.jpeg"
-}
-\committeemember{
-  name="Raye Kimmerer", 
-  info="""Chair Emeritus""",
-  link="https://github.com/rayegun", 
-  img="/assets/2026/img/committee/placeholder.png"
-}
-\committeemember{
-  name="Ray Yang", 
-  info="""Finance Co-Chair""",
-  link="https://github.com/yangmr04", 
-  img="/assets/2025/img/committee/ray_yang.jpg"
 }
 \committeemember{
   name="Avik Sengupta", 
@@ -39,7 +63,18 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
   link="https://www.linkedin.com/in/aviks/?originalSubdomain=uk", 
   img="/assets/2025/img/committee/avik.jpg"
 }
-
+\committeemember{
+  name="Valentin Churavy", 
+  info="""Chair Emeritus""",
+  link="https://vchuravy.dev",
+  img="/assets/2026/img/committee/churavy.jpg"
+}
+\committeemember{
+  name="Raye Kimmerer", 
+  info="""Chair Emeritus""",
+  link="https://github.com/rayegun", 
+  img="/assets/2026/img/committee/placeholder.png"
+}
 
 @@
 
