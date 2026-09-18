@@ -18,8 +18,8 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
 \committeemember{
   name="Tuule Mall Parts", 
   info="""Local""",
-  link="", 
-  img="/assets/2026/img/committee/placeholder.png"
+  link="https://www.linkedin.com/in/tuule-mall-parts-8b689757/", 
+  img="/assets/2027/img/committee/tuule.jpeg"
 }
 \committeemember{
   name="Alex Kmoch", 
