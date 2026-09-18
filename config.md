@@ -5,7 +5,7 @@ prepath = get(ENV, "PREVIEW_FRANKLIN_PREPATH", "")
 website_url = get(ENV, "PREVIEW_FRANKLIN_WEBSITE_URL", "juliacon.org")
 
 # Current year
-year = "2026"
+year = "2027"
 
 generate_rss = false
 mintoclevel = 2
@@ -251,12 +251,28 @@ configuration = Dict(
             "Venue" => "/2026/travel",
         ]
     ),
+    "2027" => Dict(
+        "global" => true,
+        "year" => 2027,
+        "location" => "Tallinn, Germany",
+        "alert" => """Check out <a href="/local/tokyo2026/">JuliaCon Local Tokyo 2026</a>!""",
+        "site_name" => "JuliaCon Global 2027",
+        "site_descr" => "JuliaCon Global 2027, Tallinn",
+        "site_url" => "https://juliacon.org/2027/",
+        "main_heading_color" => "black",
+        "header_color" => "#0072CE",
+        "header" => [
+            "Code of Conduct" => "/2027/coc",
+            "Committee" => "/2027/committee",
+            "Sponsor" => "/2027/sponsor",
+        ]
+    ),
     "local/tokyo2026" => Dict(
         "global" => false,
         "year" => 2026,
         "advertise_in_landing" => true,
         "location" => "Tokyo",
-        "alert" => """JuliaCon Local Tokyo 2026 is coming! <a href="/local/tokyo2026/">Learn more</a>""",
+        "alert" => """JuliaCon Global 2027 is coming to Tallinn, Estonia! <a href="/2027">Learn more</a>""",
         "site_name" => "JuliaCon Local Tokyo 2026",
         "site_descr" => "JuliaCon Local Tokyo 2026, University of Tokyo Kashiwa Campus",
         "site_url" => "https://juliacon.org/local/tokyo2026/",
