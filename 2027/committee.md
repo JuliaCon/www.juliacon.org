@@ -46,6 +46,12 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
   img="/assets/2027/img/committee/alexD.jpeg"
 }
 \committeemember{
+  name="Graeme A Stewart", 
+  info="""Program""",
+  link="https://graeme-a-stewart.github.io/", 
+  img="/assets/2027/img/committee/graeme.jpeg"
+}
+\committeemember{
   name="Aurora Rossi", 
   info="""Outreach Chair""",
   link="https://aurorarossi.github.io/", 
