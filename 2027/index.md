@@ -5,7 +5,7 @@ title = "JuliaCon 2026"
 insert_top_title = true
 top_title = "JuliaCon Global 2027\n"
 top_description = "Conference on the Julia programming language.\n"
-top_date = "Tallinn, Estonia. July 19-24, 2027.\n"
+top_date = "Tallinn University of Technology (TalTech), Tallinn, Estonia, <br /> August 9-14, 2027"
 top_title_heading = "../assets/2027/tallinn.png 2800w"
 +++
 
@@ -128,7 +128,7 @@ Missing JuliaCon already? While we wait for JuliaCon Global 2027, you can watch 
 @@row,row-section
 @@col
 ## Memories of JuliaCon past
-We also have some photographic memories from previous JuliaCons. Explore our collection of photos to revisit the lively workshops, insightful presentations, and memorable networking moments that have made each JuliaCon unique. Find more photos [here](/2025/memories).
+We also have some photographic memories from previous JuliaCons. Explore our collection of photos to revisit the lively workshops, insightful presentations, and memorable networking moments that have made each JuliaCon unique. Find more photos [here](/2027/memories).
 @@
 @@
 @@row,row-section

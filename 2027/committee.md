@@ -58,6 +58,12 @@ The JuliaCon committee is composed entirely of volunteer organizers and can be r
   img="/assets/2027/img/committee/aurora.png"
 }
 \committeemember{
+  name="Uwe Hernandez Acosta", 
+  info="""Outreach, Program""",
+  link="https://github.com/szabo137", 
+  img="/assets/2026/img/committee/acosta.jpeg"
+}
+\committeemember{
   name="Mark Kittisopikul", 
   info="""Finance Co-Chair""",
   link="https://twitter.com/markkitti", 
