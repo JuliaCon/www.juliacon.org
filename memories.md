@@ -3,6 +3,10 @@
 
 ### 2026
 
+JuliaCon Global 2026 took place in Mainz, Germany. It was one of the largest JuliaCons, with 461 attendees from 30 countries, 19 minisymposia, 280 sessions, and 90 posters.
+
+![JuliaCon 2026 group photo](/assets/shared/img/juliacon-2026.jpg)
+
 ### 2025
 
 JuliaCon was held in Pittsburgh in 2025. Julia enthusiasts gathered for an evening at PNC Park to cheer on the Pittsburgh Pirates vs. Tigers. And Pirates won! JuliaCon miracle!
