@@ -6,22 +6,20 @@ We invite your organization to be a sponsor of JuliaCon Global 2027. You can fin
 
 JuliaCon is the largest annual conference organized around Julia, the fastest high-performance open-source computing language for machine learning, artificial intelligence, life sciences, robotics, algorithmic trading, real-time analytics, and more.
 
- <!-- Next year, the conference is set to take place in Mainz, Germany, August 10-15, 2026. -->
+In 2027, the conference is set to take place in Tallinn, Estonia, August 9-14, 2027. JuliaCon Global offers you the unique opportunity to present your company and your product to a huge group of engaged scientific programmers.
 
-JuliaCon Global 2026 was held in  Mainz, Germany. JuliaCon Global offers you the unique opportunity to present your company and your product to a huge group of engaged scientific programmers.
-
-<!-- ## Sponsorship Prospectus
+## Sponsorship Prospectus
 
 ~~~
 <div style="text-align: center">
-    <a href="https://drive.google.com/file/d/1Z6BV9JeNxQmF8ND5nfyNb-mAABbHagvf/view?usp=sharing">
-        <img src="/assets/2026/img/prospectus_preview.png" style="width: 35%"/>
+    <a href="https://drive.google.com/file/d/1TUt726Uzw5ibsPuYrl0u5XGrYhi8a_-J/view?usp=sharing">
+        <img src="/assets/2027/img/prospectus_preview.png" style="width: 35%"/>
         <br>
         <br>
     </a>
-    <a href="https://drive.google.com/file/d/1Z6BV9JeNxQmF8ND5nfyNb-mAABbHagvf/view?usp=sharing" class="btn" style="width: 35%" >Download our Sponsorship Prospectus PDF</a>
+    <a href="https://drive.google.com/file/d/1TUt726Uzw5ibsPuYrl0u5XGrYhi8a_-J/view?usp=sharing" class="btn" style="width: 35%" >Download our Sponsorship Prospectus PDF</a>
 </div>
-~~~ -->
+~~~
 
 ## Sponsorship Opportunities
 
