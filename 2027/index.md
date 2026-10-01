@@ -31,8 +31,30 @@ Missed a talk? Rewatch the JuliaCon 2026 livestreams on [the Julia Language's Yo
 </div>
 ~~~
 
+\begin{rowheader}{title="Venue", color=""}\end{rowheader}
+@@row,row-section
+@@col-12 
+JuliaCon Global 2027 will take place at [Tallinn University of Technology](https://taltech.ee/en/) (TalTech) from August 9-14, 2027. You can find more information about the campus on [TalTech's campus guide](https://taltech.ee/en/campuses/mustamae). The main JuliaCon events will be held at Educational Buildings U01–U06. We will publish a more detailed guide on the accommodation and local transportation on this page soon. Stay tuned!
+@@
+@@
+\\
+@@row,row-section
+@@col-sm-12,col-md-6
+~~~
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2030.6284700745814!2d24.669432000000008!3d59.39434380000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x469295a9df77d59b%3A0xf00b36df26c7020!2sTallinn%20University%20of%20Technology!5e0!3m2!1sen!2see!4v1790843210949!5m2!1sen!2see" width="533" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+~~~
+\\
 
+@@
+@@col-sm-12,col-md-6
+~~~
+<img src="https://haldus.taltech.ee/sites/default/files/styles/manual_crop/public/news-image/Aktus%20ettevalmistus_0_0.jpg?itok=wCaxvInF" alt="TalTech Main Hall" style="height:400px;">
 
+~~~
+\\
+\\
+@@
+@@
 
 \begin{rowheader}{title="JuliaCon at a Glance", color=""}\end{rowheader}
 
