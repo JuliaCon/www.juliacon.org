@@ -1,0 +1,72 @@
+
+# Memories of JuliaCon past
+
+### 2026
+
+JuliaCon Global 2026 took place in Mainz, Germany. It was one of the largest JuliaCons, with 461 attendees from 30 countries, 19 minisymposia, 280 sessions, and 90 posters.
+
+![JuliaCon 2026 group photo](/assets/shared/img/juliacon-2026.jpg)
+
+### 2025
+
+JuliaCon was held in Pittsburgh in 2025. Julia enthusiasts gathered for an evening at PNC Park to cheer on the Pittsburgh Pirates vs. Tigers. And Pirates won! JuliaCon miracle!
+
+~~~
+<img src="/assets/2025/img/photos/baseball.jpg" alt="Baseball" width="525" />
+<img src="/assets/2025/img/photos/opening.jpg" alt="Opening Ceremony" width="525" />
+<img src="/assets/2025/img/photos/poster.jpg" alt="Poster Session" width="525" />
+<img src="/assets/2025/img/photos/hallway.jpg" alt="Conference Floor" width="525" />
+~~~
+
+### 2023
+
+JuliaCon was back at MIT for 2023, and we took a photo in the same amphitheatre as before.
+
+![JuliaCon 2023 group photo at MIT](/assets/shared/img/juliacon-2023.jpg)
+
+### 2021
+
+JuliaCon continued online in 2021, and so we again asked our attendees to upload a photo of their hometown. Here once again is a collage representing the world wide nature of the Julia community.
+
+![places of JuliaCon](/assets/shared/img/juliacon-2021.jpg)
+
+
+### 2020
+
+JuliaCon moved online in 2020, and so we could not arrange the traditional group photo. We did however ask our attendees to upload a photo of the place they were joining from. Here is a collage, representing our global audience.
+
+![places of JuliaCon](/assets/shared/img/juliacon-2020.jpg)
+
+### 2019
+
+The number of our attendees grew enough that we had to hire a drone to take the photo. Here we are in sunny Baltimore.
+
+![JuliaCon 2019 group photo in Baltimore](/assets/shared/img/juliacon-2019.jpg)
+
+### 2018
+
+JuliaCon moved to Europe for the first time. Here we are at the [front quad](https://en.wikipedia.org/wiki/UCL_Main_Building) of the University College, London.
+
+![JuliaCon 2018 group photo in London](/assets/shared/img/juliacon-2018.jpg)
+
+### 2017
+
+JuliaCon moved west, to the University of California, Berkeley.
+
+![JuliaCon 2017 group photo in Berkeley, California](/assets/shared/img/juliacon-2017.jpg)
+
+### 2016
+
+We continued at MIT for another year, with a growing audience.
+
+![juliacon 2016 group photo at MIT](/assets/shared/img/juliacon-2016.jpg)
+
+### 2015
+
+With increasing interest, JuliaCon was held at MIT, the home of Julia. Here we are, with the angles of the [Ghery's Stata Center](https://en.wikipedia.org/wiki/Stata_Center) behind us.
+
+![JuliaCon 2015 group photo at MIT](/assets/shared/img/juliacon-2015.jpg)
+
+### 2014
+
+The first JuliaCon was held in Chicago, where nearly 80 early adopters came together to talk about this then new programming language. The rest is history!
