@@ -262,9 +262,10 @@ configuration = Dict(
         "main_heading_color" => "black",
         "header_color" => "#0072CE",
         "header" => [
-            "Code of Conduct" => "/2027/coc",
+            "Program" => "/2027/program",
             "Committee" => "/2027/committee",
             "Sponsor" => "/2027/sponsor",
+            "Code of Conduct" => "/2027/coc",
         ]
     ),
     "local/tokyo2026" => Dict(
