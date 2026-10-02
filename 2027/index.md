@@ -1,5 +1,5 @@
 +++
-title = "JuliaCon 2026"
+title = "JuliaCon 2027"
 
 # top title + subtitle
 insert_top_title = true
