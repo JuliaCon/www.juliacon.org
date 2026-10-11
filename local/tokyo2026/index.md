@@ -129,3 +129,15 @@ For questions about JuliaCon Local Tokyo 2026, please contact [juliacon-tokyo@go
   </div>
 </div>
 ~~~
+
+~~~
+<div style="height:30px;display:block;"></div>
+<div class="container-fluid">
+  <div class="container sponsors">
+    <h1 id="acknowledgements" class="text-center">Acknowledgements</h1>
+    <p style="margin-bottom:3ex;">
+    This conference is supported by JSPS KAKENHI Grant Numbers JP22H05111 and JP22H05112.</p>
+  </div>
+</div>
+<div style="height:20px;display:block;"></div>
+~~~
