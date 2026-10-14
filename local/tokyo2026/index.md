@@ -23,7 +23,7 @@ Join developers, researchers, students and enthusiasts to celebrate and explore 
 
 The conference will take place on **Friday, December 4 and Saturday, December 5, 2026** at the **Kashiwa Campus of the University of Tokyo**. The languages of the conference are **Japanese and English**.
 
-The event is still in preparation: this page will be updated as the program, the call for proposals and the ticket information become available.
+The event is still in preparation: this page will be updated as the program and the ticket information become available.
 @@
 @@
 \\
@@ -51,7 +51,7 @@ The event is still in preparation: this page will be updated as the program, the
 - a poster session
 - plenty of time to meet the Japanese and international Julia communities
 
-The call for proposals and the detailed schedule will be announced here.
+The detailed schedule will be announced here.
 \\
 
 \begin{rowheader}{title="Venue", color=""}\end{rowheader}
@@ -116,8 +116,10 @@ To get in the mood for the content we are preparing, you can watch talks, worksh
 All attendees, speakers and organizers are asked to follow the [JuliaCon Code of Conduct](/2026/coc), which is based on the [Julia Community Standards](https://julialang.org/community/standards/).
 \end{box}
 
-\begin{box}{title="Stay tuned", color="green"}
-Tickets, the call for proposals and the list of speakers will be announced on this page and on the [Julia Discourse](https://discourse.julialang.org/).
+\begin{box}{title="Call for Proposals", color="green"}
+Submit your proposal [here](https://pretalx.com/juliacon-local-tokyo-2026/cfp)!
+
+Tickets and the list of speakers will be announced on this page and on the [Julia Discourse](https://discourse.julialang.org/c/juliacon/30).
 \end{box}
 
 \begin{box}{title="Contact", color="purple"}
