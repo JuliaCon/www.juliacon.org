@@ -190,6 +190,26 @@ We also have some photographic memories from previous JuliaCons. Explore our col
 </div>
 ~~~
 
+~~~
+<div style="height:30px;display:block;"></div>
+<div class="container-fluid">
+  <div class="container sponsors">
+    <h1 id="sponsors" align="center">Thanks to our Sponsors!</h1>
+    <p style="margin-bottom:3ex;">
+    The conference wouldn’t be possible without our cool sponsors! Their generous support and dedication have played a crucial role in bringing together JuliaCon Global 2027, allowing us to create an exceptional experience for all attendees. We extend our heartfelt gratitude to each sponsor for their commitment to advancing technology, fostering innovation, and supporting our community. Thank you for making this event a success!</p>
+~~~
+
+\begin{centered}{title="Local Partners", margin_bottom="3ex"}
+  \sponsor{name="TalTech", link="https://taltech.ee/en/", img="/assets/2027/img/sponsors/TalTech-Logo.png", level=1}
+\end{centered}
+
+\begin{centered}{title="JuliaCon Global 2026 Event Ticketing Partner:"}
+  \sponsor{link="https://hi.events", img="/assets/2026/img/sponsors/hi-events-horizontal-light.svg", name="Hi.Events", level=2}
+\end{centered}
+
+\begin{centered}{title="With the help of the Julia project’s fiscal host:"}
+  \sponsor{link="https://numfocus.org", img="/assets/2021/img/sponsors/numfocus.png", name="NumFOCUS", level=2}
+\end{centered}
 
 ~~~
 </div>  <!-- container-fluid -->
