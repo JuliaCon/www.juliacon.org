@@ -379,6 +379,22 @@ ul, ol {
   }
 
 
+.heading-hero[srcset^="/assets/local/tokyo2026/"] {
+    width: 100%;
+    max-width: 1600px;
+    height: auto;
+    object-fit: contain;
+    margin: -3.25rem auto 0;
+    padding: 0 clamp(0.5rem, 2vw, 2rem);
+}
+
+@media (max-width: 767px) {
+    .heading-hero[srcset^="/assets/local/tokyo2026/"] {
+        margin-top: -1.5rem;
+        padding: 0;
+    }
+}
+
 .main-menu {
     background-color: #9558b2;
 }

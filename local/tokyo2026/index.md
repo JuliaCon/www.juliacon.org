@@ -6,6 +6,7 @@ insert_top_title = true
 top_title = "JuliaCon Local Tokyo 2026"
 top_description = "A conference on the Julia programming language, in Japan."
 top_date = "Kashiwa Campus, The University of Tokyo (Japan). December 4-5, 2026."
+top_title_heading = "/assets/local/tokyo2026/img/tokyo.svg"
 
 top_logo_custom = "/assets/shared/img/logo_20.svg"
 top_logo_link = "/local/tokyo2026"
@@ -13,6 +14,23 @@ top_logo_link = "/local/tokyo2026"
 footer_hide_signup_form = true
 footer_hide_social_media = true
 +++
+
+@@row,row-section
+\begin{box}{title="Call for Proposals", color="green"}
+Submit your proposal [here](https://pretalx.com/juliacon-local-tokyo-2026/cfp)!
+
+**Deadline: November 1, 2026, 23:59 JST (UTC+9).**
+
+The call for proposals is for presentations, not attendee registration.
+\end{box}
+
+\begin{box}{title="Attendee registration", color="dark-blue"}
+Attendee registration is not open yet.
+
+Registration details will be announced here and on [Julia Discourse](https://discourse.julialang.org/c/juliacon/30). Speakers will also need to register once registration opens.
+\end{box}
+@@
+\\
 
 \begin{rowheader}{title="JuliaCon, but in Japan!", color=""}\end{rowheader}
 
@@ -114,12 +132,6 @@ To get in the mood for the content we are preparing, you can watch talks, worksh
 
 \begin{box}{title="Code of Conduct", color="dark-blue"}
 All attendees, speakers and organizers are asked to follow the [JuliaCon Code of Conduct](/2026/coc), which is based on the [Julia Community Standards](https://julialang.org/community/standards/).
-\end{box}
-
-\begin{box}{title="Call for Proposals", color="green"}
-Submit your proposal [here](https://pretalx.com/juliacon-local-tokyo-2026/cfp)!
-
-Tickets and the list of speakers will be announced on this page and on the [Julia Discourse](https://discourse.julialang.org/c/juliacon/30).
 \end{box}
 
 \begin{box}{title="Contact", color="purple"}
