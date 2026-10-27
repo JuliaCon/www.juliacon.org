@@ -281,6 +281,7 @@ configuration = Dict(
         "main_heading_color" => "black",
         "header_color" => "#389826",
         "header" => [
+            "Call for Proposals" => "https://pretalx.com/juliacon-local-tokyo-2026/cfp",
             "Venue" => "/local/tokyo2026/venue",
             "Code of Conduct" => "/2026/coc",
         ]
