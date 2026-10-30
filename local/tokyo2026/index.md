@@ -19,7 +19,7 @@ footer_hide_social_media = true
 \begin{box}{title="Call for Proposals", color="green"}
 Submit your proposal [here](https://pretalx.com/juliacon-local-tokyo-2026/cfp)!
 
-**Deadline: November 1, 2026, 23:59 JST (UTC+9).**
+**Deadline: November 15, 2026, 23:59 JST (UTC+9).**
 
 The call for proposals is for presentations, not attendee registration.
 \end{box}
