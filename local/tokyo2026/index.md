@@ -25,9 +25,9 @@ The call for proposals is for presentations, not attendee registration.
 \end{box}
 
 \begin{box}{title="Attendee registration", color="dark-blue"}
-Attendee registration is not open yet.
+Attendee registration is now open! Please complete the [registration form](https://forms.gle/q4Lwpg3frZCNgNxM8).
 
-Registration details will be announced here and on [Julia Discourse](https://discourse.julialang.org/c/juliacon/30). Speakers will also need to register once registration opens.
+Speakers must also register using this form in addition to submitting a proposal.
 \end{box}
 @@
 \\
