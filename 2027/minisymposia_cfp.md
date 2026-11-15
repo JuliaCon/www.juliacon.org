@@ -1,5 +1,11 @@
 **This Call for Minisymposia Proposals will close on 15 January 2027.** [convert to your timezone](https://arewemeetingyet.com/Tallinn/2027-01-15/23:59/JuliaCon%20minisymposium%20submissions%20deadline)
 
+\begin{box}{title="Submit", color="purple"}
+  Submit your proposal [here](https://pretalx.com/juliacon-2027/cfp)!
+
+  Deadline: **15 January 2027, 23:59 (Tallinn time)**, no extension.
+\end{box}
+
 JuliaCon has traditionally had minisymposia on topics related to various fields, including high-performance computing, quantum computing, life sciences, and many others. If you have worked with Julia, JuliaCon is the best venue to share your work with the Julia community. If you have not worked with Julia, a minisymposium related to your field is an opportunity to introduce your professional community to the language.
 
 To get a feel for previous years’ presentations, take a look at our past programs and recordings: ([2014](https://juliacon.org/2014/), [2015](https://juliacon.org/2015/), [2016](https://juliacon.org/2016/), [2017](https://juliacon.org/2017/), [2018](https://juliacon.org/2018/), [2019](https://juliacon.org/2019/), [2020](https://juliacon.org/2020/), [2021](https://juliacon.org/2021/), [2022](https://juliacon.org/2022/), [2023](https://juliacon.org/2023/), [2024](https://juliacon.org/2024/), [2025](https://juliacon.org/2025/), and [2026](https://juliacon.org/2026/)).
