@@ -262,6 +262,7 @@ configuration = Dict(
         "main_heading_color" => "black",
         "header_color" => "#0072CE",
         "header" => [
+            "Call for Minisymposia" => "/2027/minisymposia_cfp",
             "Program" => "/2027/program",
             "Committee" => "/2027/committee",
             "Sponsor" => "/2027/sponsor",
