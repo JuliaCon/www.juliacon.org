@@ -14,7 +14,7 @@ top_title_heading = "../assets/2027/tallinn.png 2800w"
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
 \begin{box}{title="Call for Minisymposia", color="dark-blue"}
-The [call for minisymposia](minisymposia_cfp) is live! Deadline **15 January 2027, 23:59 (Tallinn time)**. Submit your proposal [here](https://pretalx.com/juliacon-2027/cfp)!
+The [call for minisymposia](minisymposia_cfp) is live! Deadline: **15 January 2027, 23:59 (Tallinn time), no extension**. Submit your proposal [here](https://pretalx.com/juliacon-2027/cfp)!
 \end{box}
 
 \begin{box}{title="JuliaCon Local Tokyo 2026", color="dark-green"}
