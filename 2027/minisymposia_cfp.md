@@ -87,17 +87,17 @@ We will use the following criteria to assign scores when reviewing.
 1. The abstract should be easy to read and understandable for someone not working on the same topic. The title should make it easy to identify the topic of the content.
 2. The abstract presented should be technically sound to the best of the reviewer's knowledge.
 3. The subject should be of interest for JuliaCon, including but not limited to the topics listed below:
-	- Biology, bioinformatics, health, medicine, and health disparities
-	- Data analytics and visualization
-	- Finance and economics
-	- General computing
-	- Industrial applications
-	- Julia’s compiler, tooling, and internals
-	- Numerical and mathematical optimization
-	- Scientific computing
-	- Software engineering best practices
-	- Statistics, machine learning, and AI
-	- Computational humanities and social science
+    - Biology, bioinformatics, health, medicine, and health disparities
+    - Data analytics and visualization
+    - Finance and economics
+    - General computing
+    - Industrial applications
+    - Julia’s compiler, tooling, and internals
+    - Numerical and mathematical optimization
+    - Scientific computing
+    - Software engineering best practices
+    - Statistics, machine learning, and AI
+    - Computational humanities and social science
 4. Use cases of Julia in an enterprise environment are in general of interest to the conference. In particular, feedback on product development using or interacting with Julia and its ecosystem are welcome. **However, talks and posters are not a suitable venue for product placement.**
 
 ### Scoring Criteria
