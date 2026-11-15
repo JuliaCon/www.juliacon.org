@@ -14,7 +14,7 @@ top_title_heading = "../assets/2027/tallinn.png 2800w"
   <div class="row masonry" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true }'>
 ~~~
 \begin{box}{title="Call for Minisymposia", color="dark-blue"}
-The [call for minisymposia](minisymposia_cfp) is live! Deadline **15 January 2027, 23:59 (Tallinn time)**.
+The [call for minisymposia](minisymposia_cfp) is live! Deadline **15 January 2027, 23:59 (Tallinn time)**. Submit your proposal [here](https://pretalx.com/juliacon-2027/cfp)!
 \end{box}
 
 \begin{box}{title="JuliaCon Local Tokyo 2026", color="dark-green"}
@@ -207,7 +207,7 @@ We also have some photographic memories from previous JuliaCons. Explore our col
   \sponsor{name="TalTech", link="https://taltech.ee/en/", img="/assets/2027/img/sponsors/TalTech-Logo.png", level=1}
 \end{centered}
 
-\begin{centered}{title="JuliaCon Global 2026 Event Ticketing Partner:"}
+\begin{centered}{title="JuliaCon Global 2027 Event Ticketing Partner:"}
   \sponsor{link="https://hi.events", img="/assets/2026/img/sponsors/hi-events-horizontal-light.svg", name="Hi.Events", level=2}
 \end{centered}
 
