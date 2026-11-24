@@ -16,18 +16,18 @@ footer_hide_social_media = true
 +++
 
 @@row,row-section
-\begin{box}{title="Call for Proposals", color="green"}
-Submit your proposal [here](https://pretalx.com/juliacon-local-tokyo-2026/cfp)!
+\begin{box}{title="Program", color="green"}
+The program is out! See the [timetable](https://pretalx.com/juliacon-local-tokyo-2026/schedule/) for 21 talks, 5 posters, and an invited talk by Jeff Bezanson.
 
-**Deadline: November 15, 2026, 23:59 JST (UTC+9).**
-
-The call for proposals is for presentations, not attendee registration.
+Talks are added to the timetable as speakers confirm.
 \end{box}
 
 \begin{box}{title="Attendee registration", color="dark-blue"}
-Attendee registration is now open! Please complete the [registration form](https://forms.gle/q4Lwpg3frZCNgNxM8).
+Attendance is free (capacity 120). Please complete the [registration form](https://forms.gle/q4Lwpg3frZCNgNxM8) by **December 2**.
 
-Speakers must also register using this form in addition to submitting a proposal.
+Speakers must also register using this form.
+
+**Dinner reception:** December 4, 17:45-19:45, at Plaza Ikoi on campus (about 4,000-5,000 JPY, food and drinks included; first 40 people). Sign up in the registration form. If you have already registered, please use the [dinner form](https://docs.google.com/forms/d/e/1FAIpQLSf6MtHVAab6oVUydVLFWnj_aPPx1_C91o5VR6nCmT4ixtoTxg/viewform).
 \end{box}
 @@
 \\
@@ -41,7 +41,7 @@ Join developers, researchers, students and enthusiasts to celebrate and explore 
 
 The conference will take place on **Friday, December 4 and Saturday, December 5, 2026** at the **Kashiwa Campus of the University of Tokyo**. The languages of the conference are **Japanese and English**.
 
-The event is still in preparation: this page will be updated as the program and the ticket information become available.
+Attendance is free. The [timetable](https://pretalx.com/juliacon-local-tokyo-2026/schedule/) is now available.
 @@
 @@
 \\
@@ -61,15 +61,30 @@ The event is still in preparation: this page will be updated as the program and 
 
 \begin{rowheader}{title="Program", color=""}\end{rowheader}
 
-**The program is not finalized yet.** Nothing below is confirmed, but we are currently planning:
+The full timetable is on [Pretalx](https://pretalx.com/juliacon-local-tokyo-2026/schedule/). All sessions are in the Media Hall of the Kashiwa Library, except the posters (Foyer).
 
-- keynotes by inspiring scientists and developers
-- talks in Japanese and English
-- tutorials
-- a poster session
-- plenty of time to meet the Japanese and international Julia communities
+**Friday, December 4**
 
-The detailed schedule will be announced here.
+- 10:30 Registration
+- 11:00 Opening
+- 11:10 Large-scale computing and GPUs
+- 12:10 Lunch (on-campus cafeterias are open)
+- 13:10 GPUs and verified numerics
+- 14:20 Coffee break and poster session (Foyer)
+- 15:50 Applications and development
+- 17:05 End of day 1
+- 17:45 Dinner reception at Plaza Ikoi (registration required)
+
+**Saturday, December 5**
+
+- 10:15 Registration
+- 10:45 Panel discussion: Julia in Japan
+- 11:15 Developer tools
+- 12:00 Packages and mathematics
+- 12:50 Lunch (on-campus cafeterias are closed on Saturdays; please use shops nearby)
+- 14:50 Invited talk by **Jeff Bezanson**, one of the creators of Julia: "How AI is Revolutionizing Julia Compiler Development"
+- 15:50 Julia in education
+- 16:20 Closing
 \\
 
 \begin{rowheader}{title="Venue", color=""}\end{rowheader}
@@ -77,6 +92,8 @@ The detailed schedule will be announced here.
 @@row,row-section
   @@col
   Join us at the [Kashiwa Campus of the University of Tokyo](https://www.u-tokyo.ac.jp/en/about/campus-kashiwa.html), the research-focused campus of the university, about 40 minutes from central Tokyo.
+
+  On Saturday, December 5, the campus shuttle bus from Kashiwanoha-campus Station does not run. Please take the Tobu bus bound for the National Cancer Center (国立がんセンター行き), or walk from the station (about 25 minutes). Guest Wi-Fi (UTokyo-guest) and eduroam are available on campus.
   @@
 @@
 \\
