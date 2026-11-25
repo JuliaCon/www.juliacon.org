@@ -27,7 +27,7 @@ Attendance is free (capacity 120). Please complete the [registration form](https
 
 Speakers must also register using this form.
 
-**Dinner reception:** December 4, 17:45-19:45, at Plaza Ikoi on campus (about 4,000-5,000 JPY, food and drinks included; first 40 people). Sign up in the registration form. If you have already registered, please use the [dinner form](https://docs.google.com/forms/d/e/1FAIpQLSf6MtHVAab6oVUydVLFWnj_aPPx1_C91o5VR6nCmT4ixtoTxg/viewform).
+**Dinner reception:** December 4, 17:45-19:45, at Plaza Ikoi on campus (4,500 JPY, food and drinks included; it doubles as dinner, and the fee may be reduced on the day if enough people join; first 40 people). Sign up in the registration form. If seats remain, you can also sign up at the registration desk on the day. If you have already registered, please use the [dinner form](https://docs.google.com/forms/d/e/1FAIpQLSf6MtHVAab6oVUydVLFWnj_aPPx1_C91o5VR6nCmT4ixtoTxg/viewform).
 \end{box}
 @@
 \\
